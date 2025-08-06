@@ -1,7 +1,6 @@
 import fitz
 import os
 from PIL import Image
-from docx2pdf import convert
 from IPython.display import Image, display
 from pathlib import Path
 

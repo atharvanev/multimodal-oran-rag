@@ -1,2 +1,4 @@
 Images/*
 !Images/.gitkeep
+.env
+__pycache__/
