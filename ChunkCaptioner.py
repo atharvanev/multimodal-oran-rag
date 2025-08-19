@@ -9,9 +9,9 @@ from io import BytesIO
 
 # %%
 class ImageCaptioner:
-    def __init__(self, model_path='LiAutoAD/Ristretto-3B',system_prompt="please describe the image."):
-        self.IMAGENET_MEAN = (0.5, 0.5, 0.5)
-        self.IMAGENET_STD = (0.5, 0.5, 0.5)
+    def __init__(self, model_path='BytedanceDouyinContent/SAIL-VL-1d6-8B',system_prompt="please describe the image."):
+        self.IMAGENET_MEAN = (0.485, 0.456, 0.406)
+        self.IMAGENET_STD = (0.229, 0.224, 0.225)
         print(f'Loading model from {model_path}...')
 
         self.model = AutoModel.from_pretrained(
@@ -24,13 +24,12 @@ class ImageCaptioner:
             trust_remote_code=True, 
             use_fast=False)
         
-        self.system_prompt = None
+        self.system_prompt = system_prompt
     
         
         print('Model loaded successfully.')
 
     def set_system_prompt(self, system_prompt):
-        """Set or update the system prompt."""
         self.system_prompt = system_prompt
 
     def build_transform(self, input_size):
@@ -113,18 +112,17 @@ class ImageCaptioner:
         pixel_values = torch.stack(pixel_values)
         return pixel_values
     
-    def make_Pil_image(self,image_b64):
-        from PIL import Image
-        from io import BytesIO
-        decoded_image = base64.b64decode(image_b64)
-        image = Image.open(BytesIO(decoded_image))
-        return image
-    def show_image(self,image_b64):
-        from IPython.display import display, Image
-        display(self.make_Pil_image(image_b64))
+    # def make_Pil_image(self,image_b64):
+    #     from PIL import Image
+    #     from io import BytesIO
+    #     decoded_image = base64.b64decode(image_b64)
+    #     image = Image.open(BytesIO(decoded_image))
+    #     return image
+    # def show_image(self,image_b64):
+    #     from IPython.display import display, Image
+    #     display(self.make_Pil_image(image_b64))
         
     def generate_caption(self, base64_string, question='Please describe the image.'):
-        """Generate caption for base64 encoded image."""
         #self.show_image(base64_string)  # Display the image in the notebook
         pixel_values = self.load_image(base64_string, max_num=10).to(torch.bfloat16).cuda()
         generation_config = dict(max_new_tokens=1024, do_sample=True)
