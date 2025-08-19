@@ -32,7 +32,7 @@ class ImageCaptioner:
     def set_system_prompt(self, system_prompt):
         self.system_prompt = system_prompt
 
-    def build_transform(self, input_size):
+    def build_transform(self,input_size):
         MEAN, STD = self.IMAGENET_MEAN, self.IMAGENET_STD
         transform = T.Compose([
             T.Lambda(lambda img: img.convert('RGB') if img.mode != 'RGB' else img),
@@ -96,7 +96,7 @@ class ImageCaptioner:
         return processed_images
     
 
-    def load_image(self, base64_string, input_size=384, max_num=10):
+    def load_image(self, base64_string, input_size=448, max_num=10):
         # Remove data URL prefix if present
         if ',' in base64_string:
             base64_string = base64_string.split(',')[1]
@@ -127,7 +127,7 @@ class ImageCaptioner:
         pixel_values = self.load_image(base64_string, max_num=10).to(torch.bfloat16).cuda()
         generation_config = dict(max_new_tokens=1024, do_sample=True)
         
-        formatted_question = f'<image> {self.system_prompt} {question}'
+        formatted_question = f'<image> {self.system_prompt}'
         response, _ = self.model.chat(
             self.tokenizer, 
             pixel_values, 
