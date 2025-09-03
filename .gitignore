@@ -1,4 +1,5 @@
 Images/*
 .env
 __pycache__/
+FineTuningTests/output/
 Output
