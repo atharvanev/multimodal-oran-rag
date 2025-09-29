@@ -105,10 +105,10 @@ if prompt := st.chat_input("Ask about O-RAN specifications..."):
                 
                 # Construct grouped task with history
                 grouped_task = f"""Provided detailed answer to best of your ability, and cite source using trace. 
-                
-{history_context if history_context else ''}
+                                
+                                Chat History: {history_context if history_context else ''}
 
-If the answer cannot be found in the provided context, say so clearly."""
+                                If the answer cannot be found in the provided context, say so clearly."""
                 
                 # First, retrieve source chunks
                 retrieval_response = collection.query.near_text(

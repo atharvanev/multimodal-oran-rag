@@ -39,6 +39,7 @@ def cleanJSON(path):
 
 
     for block in data:
+        block['Description'] = ""
         for key in usless_keys:
             if key in block:
                 del block[key]
