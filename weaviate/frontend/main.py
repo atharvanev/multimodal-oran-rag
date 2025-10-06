@@ -1,7 +1,11 @@
 import streamlit as st
 import weaviate
+from weaviate.classes.config  import Configure, Reconfigure
 from weaviate.classes.query import MetadataQuery
-
+import atexit
+import base64
+from PIL import Image
+import io
 # Page config
 st.set_page_config(
     page_title="O-RAN RAG Assistant",
@@ -15,7 +19,7 @@ def init_weaviate():
     """Initialize Weaviate client"""
     try:
         client = weaviate.connect_to_local(
-            host="172.17.0.5",
+            host="172.17.0.4",
             port=8080,
             grpc_port=50051,
         )
@@ -67,6 +71,9 @@ if client is None:
     st.error("Cannot connect to Weaviate. Please check your connection settings.")
     st.stop()
 
+
+atexit.register(lambda: client.close())
+
 # Display chat messages
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
@@ -114,7 +121,8 @@ if prompt := st.chat_input("Ask about O-RAN specifications..."):
                 retrieval_response = collection.query.near_text(
                     query=prompt,
                     limit=num_results,
-                    return_metadata=MetadataQuery(distance=True)
+                    return_metadata=MetadataQuery(distance=True),
+                    return_properties=["type", "page", "text", "description", "trace", "image"]
                 )
                 # Then generate answer with those chunks
                 response = collection.generate.near_text(
@@ -130,20 +138,43 @@ if prompt := st.chat_input("Ask about O-RAN specifications..."):
                 # Collect sources
                 sources = []
                 for obj in retrieval_response.objects:
+                    print( obj.properties)
                     sources.append({
+                        "type": obj.properties.get("type", "Unkown"),
                         "page": obj.properties.get("page", "Unknown"),
-                        "text": obj.properties.get("text", ""),
-                        "description": obj.properties.get("description", ""),
-                        "distance": obj.metadata.distance if obj.metadata else None
+                        "text": obj.properties.get("text", "Unknown"),
+                        "description": obj.properties.get("description", "Unknown"),
+                        "trace": obj.properties.get("trace", "Unknown"),
+                        #"distance": obj.metadata.distance if obj.metadata else None,
+                        "image": obj.properties.get("image")
                     })
-                print(sources)
                 # Show sources in expander
                 with st.expander("📚 View Sources"):
                     for i, source in enumerate(sources, 1):
-                        st.markdown(f"**Source {i} (Page {source['page']}, Distance: {source['distance']:.3f}):**")
+                        st.markdown(f"**Source {i} (Page {source['page']}**")
+                        st.text(f"Type: {source['type']}")
+                        st.text(f"Trace: {source['trace']}")
                         st.text(source['text'][:300] + "..." if len(source['text']) > 300 else source['text'])
                         if source['description']:
                             st.caption(f"Description: {source['description']}")
+                        image_b64 = source["image"]
+                        print(f"Image data length: {len(image_b64) if image_b64 else 0}")
+                        if image_b64:
+                            try:
+                                st.write("**Image:**")
+                                # Decode base64 string to bytes
+                                image_bytes = base64.b64decode(image_b64)
+                                # Convert bytes to PIL Image
+                                image = Image.open(io.BytesIO(image_bytes))
+                                # Display image
+                                st.image(image, width='content')
+                            except Exception as e:
+                                st.error(f"Error displaying image: {str(e)}")
+                                st.write(f"Image data length: {len(image_b64) if image_b64 else 0}")
+                        else:
+                            st.info("📷 No image for this chunk")
+
+
                         st.divider()
                 
                 # Add to chat history
