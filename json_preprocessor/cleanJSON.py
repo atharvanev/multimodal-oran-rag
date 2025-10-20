@@ -1,13 +1,13 @@
 # %%
 import json
-from ChunkCaptioner import ImageCaptioner
+#from ChunkCaptioner import ImageCaptioner
 from pathlib import Path
 import html2text
 import re
 
 # %%
-json_path = Path("Output/38473-h20/38473-h20.json")
-new_path = json_path.with_name(json_path.stem + "_cleaned" + json_path.suffix)
+# json_path = Path("Output/38473-h20/38473-h20.json")
+# new_path = json_path.with_name(json_path.stem + "_cleaned" + json_path.suffix)
 
 # %%
 def cleanJSON(path):
@@ -40,7 +40,9 @@ def cleanJSON(path):
 
     for block in data:
         block['Description'] = ""
-        block["images"] = list(block["images"].values())[0] if block["images"] else ""
+
+        block["images"] = list(block["images"].values())[0] if block["images"] else "" #ASSUMES THAT ONLY 1 IMAGE PER BLOCK IF ERRROR LATER THIS COULD BE THE REASON
+        
         for key in usless_keys:
             if key in block:
                 del block[key]
@@ -74,4 +76,4 @@ def cleanJSON(path):
     return new_path
 
 
-cleanJSON("Output/38473-h20/38473-h20.json")
+#cleanJSON("Output/38473-h20/38473-h20.json")
