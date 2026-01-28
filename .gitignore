@@ -3,6 +3,5 @@ Images/*
 __pycache__/
 FineTuningTests/output/
 Output
-chunks/
-clean_chunks/
+
 test

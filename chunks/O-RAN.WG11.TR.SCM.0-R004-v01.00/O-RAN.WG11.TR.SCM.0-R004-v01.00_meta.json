@@ -1,0 +1,1296 @@
+{
+  "table_of_contents": [
+    {
+      "title": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          232.8125,
+          78.13629150390625
+        ],
+        [
+          547.4973754882812,
+          78.13629150390625
+        ],
+        [
+          547.4973754882812,
+          96.13629150390625
+        ],
+        [
+          232.8125,
+          96.13629150390625
+        ]
+      ]
+    },
+    {
+      "title": "O-RAN Work Group 11 (Security work group)\nStudy on Security Configuration Management",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          185.34814453125,
+          390.9873046875
+        ],
+        [
+          554.6630249023438,
+          390.9873046875
+        ],
+        [
+          554.6630249023438,
+          449.4740905761719
+        ],
+        [
+          185.34814453125,
+          449.4740905761719
+        ]
+      ]
+    },
+    {
+      "title": "Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.0,
+          673.0244140625
+        ],
+        [
+          254.34765625,
+          673.0244140625
+        ],
+        [
+          254.34765625,
+          683.1668395996094
+        ],
+        [
+          48.0,
+          683.1668395996094
+        ]
+      ]
+    },
+    {
+      "title": "Contents",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.53400503778337,
+          74.97773820124665
+        ],
+        [
+          116.34760705289672,
+          74.97773820124665
+        ],
+        [
+          116.34760705289672,
+          94.47195013357079
+        ],
+        [
+          40.53400503778337,
+          94.47195013357079
+        ]
+      ]
+    },
+    {
+      "title": "List of figures",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          42.479976654052734,
+          77.65631103515625
+        ],
+        [
+          149.53317260742188,
+          77.65631103515625
+        ],
+        [
+          149.53317260742188,
+          95.65631103515625
+        ],
+        [
+          42.479976654052734,
+          95.65631103515625
+        ]
+      ]
+    },
+    {
+      "title": "List of tables",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.615234375,
+          144.13629150390625
+        ],
+        [
+          143.53916931152344,
+          144.13629150390625
+        ],
+        [
+          143.53916931152344,
+          162.13629150390625
+        ],
+        [
+          41.615234375,
+          162.13629150390625
+        ]
+      ]
+    },
+    {
+      "title": "Foreword",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.197265625,
+          77.65631103515625
+        ],
+        [
+          118.5047836303711,
+          77.65631103515625
+        ],
+        [
+          118.5047836303711,
+          95.65631103515625
+        ],
+        [
+          42.197265625,
+          95.65631103515625
+        ]
+      ]
+    },
+    {
+      "title": "where:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          40.451171875,
+          191.6468505859375
+        ],
+        [
+          69.71613311767578,
+          191.6468505859375
+        ],
+        [
+          69.71613311767578,
+          201.72686767578125
+        ],
+        [
+          40.451171875,
+          201.72686767578125
+        ]
+      ]
+    },
+    {
+      "title": "Modal verbs terminology",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.479976654052734,
+          327.01629638671875
+        ],
+        [
+          238.57199096679688,
+          327.01629638671875
+        ],
+        [
+          238.57199096679688,
+          345.7626953125
+        ],
+        [
+          42.479976654052734,
+          345.7626953125
+        ]
+      ]
+    },
+    {
+      "title": "1 Scope",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          42.197265625,
+          77.65631103515625
+        ],
+        [
+          115.1172866821289,
+          77.65631103515625
+        ],
+        [
+          115.1172866821289,
+          95.65631103515625
+        ],
+        [
+          42.197265625,
+          95.65631103515625
+        ]
+      ]
+    },
+    {
+      "title": "2 References",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.615234375,
+          274.2255859375
+        ],
+        [
+          156.132080078125,
+          274.2255859375
+        ],
+        [
+          156.132080078125,
+          292.456298828125
+        ],
+        [
+          41.615234375,
+          292.456298828125
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Normative references",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.32421875,
+          312.8720703125
+        ],
+        [
+          224.31983947753906,
+          312.8720703125
+        ],
+        [
+          224.31983947753906,
+          329.0518798828125
+        ],
+        [
+          41.32421875,
+          329.0518798828125
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Informative references",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          40.16015625,
+          368.7861328125
+        ],
+        [
+          230.51060485839844,
+          368.7861328125
+        ],
+        [
+          230.51060485839844,
+          385.6918640136719
+        ],
+        [
+          40.16015625,
+          385.6918640136719
+        ]
+      ]
+    },
+    {
+      "title": "3 Definition of terms, symbols and abbreviations",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.90625,
+          77.65631103515625
+        ],
+        [
+          432.2664794921875,
+          77.65631103515625
+        ],
+        [
+          432.2664794921875,
+          95.65631103515625
+        ],
+        [
+          41.90625,
+          95.65631103515625
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Terms",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.479976654052734,
+          116.17181396484375
+        ],
+        [
+          116.66100311279297,
+          116.17181396484375
+        ],
+        [
+          116.66100311279297,
+          132.2518310546875
+        ],
+        [
+          42.479976654052734,
+          132.2518310546875
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Symbols",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.32421875,
+          324.3837890625
+        ],
+        [
+          132.6766815185547,
+          324.3837890625
+        ],
+        [
+          132.6766815185547,
+          341.2918701171875
+        ],
+        [
+          41.32421875,
+          341.2918701171875
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Abbreviations",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.479976654052734,
+          394.0918884277344
+        ],
+        [
+          168.2970733642578,
+          394.0918884277344
+        ],
+        [
+          168.2970733642578,
+          410.171875
+        ],
+        [
+          42.479976654052734,
+          410.171875
+        ]
+      ]
+    },
+    {
+      "title": "4 SCM Background",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.32421875,
+          661.3363037109375
+        ],
+        [
+          205.1459197998047,
+          661.3363037109375
+        ],
+        [
+          205.1459197998047,
+          679.6025390625
+        ],
+        [
+          41.32421875,
+          679.6025390625
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Introduction",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.615234375,
+          699.3369140625
+        ],
+        [
+          154.9346160888672,
+          699.3369140625
+        ],
+        [
+          154.9346160888672,
+          715.9318923950195
+        ],
+        [
+          41.615234375,
+          715.9318923950195
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Considerations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          40.7421875,
+          171.4423828125
+        ],
+        [
+          178.0962371826172,
+          171.4423828125
+        ],
+        [
+          178.0962371826172,
+          187.69183349609375
+        ],
+        [
+          40.7421875,
+          187.69183349609375
+        ]
+      ]
+    },
+    {
+      "title": "5 Study and identify the security gaps related to SCM",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.90625,
+          411.9762878417969
+        ],
+        [
+          473.3100280761719,
+          411.9762878417969
+        ],
+        [
+          473.3100280761719,
+          429.9762878417969
+        ],
+        [
+          41.90625,
+          429.9762878417969
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Assets",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.90625,
+          484.314453125
+        ],
+        [
+          119.35118865966797,
+          484.314453125
+        ],
+        [
+          119.35118865966797,
+          500.6518859863281
+        ],
+        [
+          41.90625,
+          500.6518859863281
+        ]
+      ]
+    },
+    {
+      "title": "5.1.1 O-RAN Architecture Elements",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.90625,
+          541.3975219726562
+        ],
+        [
+          251.13429260253906,
+          541.3975219726562
+        ],
+        [
+          251.13429260253906,
+          553.3975219726562
+        ],
+        [
+          41.90625,
+          553.3975219726562
+        ]
+      ]
+    },
+    {
+      "title": "5.1.2 O-RAN interfaces",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.32421875,
+          728.9384765625
+        ],
+        [
+          182.44149780273438,
+          728.9384765625
+        ],
+        [
+          182.44149780273438,
+          741.0775146484375
+        ],
+        [
+          41.32421875,
+          741.0775146484375
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Security Controls",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.32421875,
+          72.97186279296875
+        ],
+        [
+          193.18568420410156,
+          72.97186279296875
+        ],
+        [
+          193.18568420410156,
+          89.0518798828125
+        ],
+        [
+          41.32421875,
+          89.0518798828125
+        ]
+      ]
+    },
+    {
+      "title": "5.3 Input recommendations",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.90625,
+          226.5341796875
+        ],
+        [
+          238.6328125,
+          226.5341796875
+        ],
+        [
+          238.6328125,
+          243.37188720703125
+        ],
+        [
+          41.90625,
+          243.37188720703125
+        ]
+      ]
+    },
+    {
+      "title": "5.4 Threat template",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.615234375,
+          341.0518798828125
+        ],
+        [
+          183.44122314453125,
+          341.0518798828125
+        ],
+        [
+          183.44122314453125,
+          357.1318664550781
+        ],
+        [
+          41.615234375,
+          357.1318664550781
+        ]
+      ]
+    },
+    {
+      "title": "5.5 SCM Threats analysis",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.32421875,
+          600.6650390625
+        ],
+        [
+          232.2890625,
+          600.6650390625
+        ],
+        [
+          232.2890625,
+          616.8119049072266
+        ],
+        [
+          41.32421875,
+          616.8119049072266
+        ]
+      ]
+    },
+    {
+      "title": "5.5.1 Certificate related threats",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          42.479976654052734,
+          647.95751953125
+        ],
+        [
+          222.48019409179688,
+          647.95751953125
+        ],
+        [
+          222.48019409179688,
+          659.95751953125
+        ],
+        [
+          42.479976654052734,
+          659.95751953125
+        ]
+      ]
+    },
+    {
+      "title": "5.5.2 NACM related threats",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.90625,
+          400.0322265625
+        ],
+        [
+          207.12744140625,
+          400.0322265625
+        ],
+        [
+          207.12744140625,
+          412.27752685546875
+        ],
+        [
+          41.90625,
+          412.27752685546875
+        ]
+      ]
+    },
+    {
+      "title": "5.5.3 LDAP related threats",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.90625,
+          452.3575134277344
+        ],
+        [
+          203.7109375,
+          452.3575134277344
+        ],
+        [
+          203.7109375,
+          464.3575134277344
+        ],
+        [
+          41.90625,
+          464.3575134277344
+        ]
+      ]
+    },
+    {
+      "title": "6 Study and recommendation related to SCM",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          42.479976654052734,
+          511.0380859375
+        ],
+        [
+          414.26568603515625,
+          511.0380859375
+        ],
+        [
+          414.26568603515625,
+          530.7762756347656
+        ],
+        [
+          42.479976654052734,
+          530.7762756347656
+        ]
+      ]
+    },
+    {
+      "title": "7 Conclusion",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          42.197265625,
+          610.12109375
+        ],
+        [
+          153.13327026367188,
+          610.12109375
+        ],
+        [
+          153.13327026367188,
+          631.3363037109375
+        ],
+        [
+          42.197265625,
+          631.3363037109375
+        ]
+      ]
+    },
+    {
+      "title": "Annex:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          41.90625,
+          77.65631103515625
+        ],
+        [
+          98.5247802734375,
+          77.65631103515625
+        ],
+        [
+          98.5247802734375,
+          95.65631103515625
+        ],
+        [
+          41.90625,
+          95.65631103515625
+        ]
+      ]
+    },
+    {
+      "title": "Change history/Change request (history)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          40.7421875,
+          98.29632568359375
+        ],
+        [
+          366.6796875,
+          98.29632568359375
+        ],
+        [
+          366.6796875,
+          116.29632568359375
+        ],
+        [
+          40.7421875,
+          116.29632568359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          87
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          170
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/O-RAN.WG11.TR.SCM.0-R004-v01.00"
+}

@@ -1,0 +1,1161 @@
+{
+  "table_of_contents": [
+    {
+      "title": "O-RAN.WG6.AAL-MIMO BF Calc Profile\nR004-v01.01",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          187.4140625,
+          66.79437255859375
+        ],
+        [
+          548.2734375,
+          66.79437255859375
+        ],
+        [
+          548.2734375,
+          109.87432861328125
+        ],
+        [
+          187.4140625,
+          109.87432861328125
+        ]
+      ]
+    },
+    {
+      "title": "O-RAN Work Group 6 \n(Cloudification and Orchestration Workgroup)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          174.3800048828125,
+          365.51953125
+        ],
+        [
+          550.3916625976562,
+          365.51953125
+        ],
+        [
+          550.3916625976562,
+          404.1793212890625
+        ],
+        [
+          174.3800048828125,
+          404.1793212890625
+        ]
+      ]
+    },
+    {
+      "title": "Contents",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.78337531486146,
+          126.86286731967942
+        ],
+        [
+          116.34760705289672,
+          126.86286731967942
+        ],
+        [
+          116.34760705289672,
+          146.38023152270702
+        ],
+        [
+          39.78337531486146,
+          146.38023152270702
+        ]
+      ]
+    },
+    {
+      "title": "List of tables",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          42.599998474121094,
+          98.7890625
+        ],
+        [
+          144.34375,
+          98.7890625
+        ],
+        [
+          144.34375,
+          116.81011962890625
+        ],
+        [
+          42.599998474121094,
+          116.81011962890625
+        ]
+      ]
+    },
+    {
+      "title": "Foreword",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.599998474121094,
+          97.9658203125
+        ],
+        [
+          118.5780029296875,
+          97.9658203125
+        ],
+        [
+          118.5780029296875,
+          116.81011962890625
+        ],
+        [
+          42.599998474121094,
+          116.81011962890625
+        ]
+      ]
+    },
+    {
+      "title": "where:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.197265625,
+          211.98486328125
+        ],
+        [
+          69.81072235107422,
+          211.98486328125
+        ],
+        [
+          69.81072235107422,
+          222.763427734375
+        ],
+        [
+          42.197265625,
+          222.763427734375
+        ]
+      ]
+    },
+    {
+      "title": "Modal verbs terminology",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.599998474121094,
+          348.20013427734375
+        ],
+        [
+          238.51199340820312,
+          348.20013427734375
+        ],
+        [
+          238.51199340820312,
+          366.3427734375
+        ],
+        [
+          42.599998474121094,
+          366.3427734375
+        ]
+      ]
+    },
+    {
+      "title": "Executive summary",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.48828125,
+          458.95751953125
+        ],
+        [
+          199.63671875,
+          458.95751953125
+        ],
+        [
+          199.63671875,
+          477.46014404296875
+        ],
+        [
+          42.48828125,
+          477.46014404296875
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.599998474121094,
+          549.1025390625
+        ],
+        [
+          136.5780029296875,
+          549.1025390625
+        ],
+        [
+          136.5780029296875,
+          568.5401611328125
+        ],
+        [
+          42.599998474121094,
+          568.5401611328125
+        ]
+      ]
+    },
+    {
+      "title": "1 Scope",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          42.599998474121094,
+          98.7890625
+        ],
+        [
+          150.239990234375,
+          98.7890625
+        ],
+        [
+          150.239990234375,
+          116.81011962890625
+        ],
+        [
+          42.599998474121094,
+          116.81011962890625
+        ]
+      ]
+    },
+    {
+      "title": "2 References",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          42.197265625,
+          174.93896484375
+        ],
+        [
+          191.1719970703125,
+          174.93896484375
+        ],
+        [
+          191.1719970703125,
+          193.4901123046875
+        ],
+        [
+          42.197265625,
+          193.4901123046875
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Normative references",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          40.7421875,
+          212.80810546875
+        ],
+        [
+          252.12887573242188,
+          212.80810546875
+        ],
+        [
+          252.12887573242188,
+          229.825927734375
+        ],
+        [
+          40.7421875,
+          229.825927734375
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Informative references",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.32421875,
+          507.52880859375
+        ],
+        [
+          258.3692321777344,
+          507.52880859375
+        ],
+        [
+          258.3692321777344,
+          524.2359008789062
+        ],
+        [
+          41.32421875,
+          524.2359008789062
+        ]
+      ]
+    },
+    {
+      "title": "3 Definition of terms, symbols and abbreviations",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          40.7421875,
+          702.8501281738281
+        ],
+        [
+          467.3099365234375,
+          702.8501281738281
+        ],
+        [
+          467.3099365234375,
+          720.8501358032227
+        ],
+        [
+          40.7421875,
+          720.8501358032227
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Terms",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.90625,
+          741.2459182739258
+        ],
+        [
+          144.41482543945312,
+          741.2459182739258
+        ],
+        [
+          144.41482543945312,
+          757.2059173583984
+        ],
+        [
+          41.90625,
+          757.2059173583984
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Symbols",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.90625,
+          93.849609375
+        ],
+        [
+          160.61422729492188,
+          93.849609375
+        ],
+        [
+          160.61422729492188,
+          109.9459228515625
+        ],
+        [
+          41.90625,
+          109.9459228515625
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Abbreviations",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.90625,
+          150.24169921875
+        ],
+        [
+          196.10926818847656,
+          150.24169921875
+        ],
+        [
+          196.10926818847656,
+          166.58587646484375
+        ],
+        [
+          41.90625,
+          166.58587646484375
+        ]
+      ]
+    },
+    {
+      "title": "4 Overview",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.615234375,
+          430.4201354980469
+        ],
+        [
+          174.17999267578125,
+          430.4201354980469
+        ],
+        [
+          174.17999267578125,
+          448.4201354980469
+        ],
+        [
+          41.615234375,
+          448.4201354980469
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Purpose",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.90625,
+          465.955078125
+        ],
+        [
+          163.1997528076172,
+          465.955078125
+        ],
+        [
+          163.1997528076172,
+          484.75592041015625
+        ],
+        [
+          41.90625,
+          484.75592041015625
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Document Structure",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.48828125,
+          590.67626953125
+        ],
+        [
+          241.54296875,
+          590.67626953125
+        ],
+        [
+          241.54296875,
+          606.9459228515625
+        ],
+        [
+          42.48828125,
+          606.9459228515625
+        ]
+      ]
+    },
+    {
+      "title": "5 AAL Configuration and Management",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          40.7421875,
+          701.5301361083984
+        ],
+        [
+          395.3279724121094,
+          701.5301361083984
+        ],
+        [
+          395.3279724121094,
+          719.92529296875
+        ],
+        [
+          40.7421875,
+          719.92529296875
+        ]
+      ]
+    },
+    {
+      "title": "6 AAL Profile Specifications",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.90625,
+          98.37744140625
+        ],
+        [
+          305.2560119628906,
+          98.37744140625
+        ],
+        [
+          305.2560119628906,
+          116.81011962890625
+        ],
+        [
+          41.90625,
+          116.81011962890625
+        ]
+      ]
+    },
+    {
+      "title": "6.1 Introduction",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          42.197265625,
+          137.06982421875
+        ],
+        [
+          182.75076293945312,
+          137.06982421875
+        ],
+        [
+          182.75076293945312,
+          153.14593505859375
+        ],
+        [
+          42.197265625,
+          153.14593505859375
+        ]
+      ]
+    },
+    {
+      "title": "6.2 Naming Coventions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          40.16015625,
+          191.8154296875
+        ],
+        [
+          238.83535766601562,
+          191.8154296875
+        ],
+        [
+          238.83535766601562,
+          209.785888671875
+        ],
+        [
+          40.16015625,
+          209.785888671875
+        ]
+      ]
+    },
+    {
+      "title": "6.3 MUMIMO Precoder/BeamFormer Calculation Profile \nSpecification",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          40.7421875,
+          249.03076171875
+        ],
+        [
+          472.8332824707031,
+          249.03076171875
+        ],
+        [
+          472.8332824707031,
+          284.9359130859375
+        ],
+        [
+          40.7421875,
+          284.9359130859375
+        ]
+      ]
+    },
+    {
+      "title": "6.3.1 Introduction",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.615234375,
+          300.89501953125
+        ],
+        [
+          172.55279541015625,
+          300.89501953125
+        ],
+        [
+          172.55279541015625,
+          316.0142822265625
+        ],
+        [
+          41.615234375,
+          316.0142822265625
+        ]
+      ]
+    },
+    {
+      "title": "6.3.2 Profile Operation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.90625,
+          365.51953125
+        ],
+        [
+          204.47976684570312,
+          365.51953125
+        ],
+        [
+          204.47976684570312,
+          379.61431884765625
+        ],
+        [
+          41.90625,
+          379.61431884765625
+        ]
+      ]
+    },
+    {
+      "title": "6.3.3 MUMIMO Precoder/BeamFormer Calculation Profile Capabilities and \nConfigurations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.90625,
+          673.00048828125
+        ],
+        [
+          529.7355346679688,
+          673.00048828125
+        ],
+        [
+          529.7355346679688,
+          703.664306640625
+        ],
+        [
+          41.90625,
+          703.664306640625
+        ]
+      ]
+    },
+    {
+      "title": "6.3.3.1 Summary of Capabilities",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.32421875,
+          720.5600891113281
+        ],
+        [
+          246.83599853515625,
+          720.5600891113281
+        ],
+        [
+          246.83599853515625,
+          732.685546875
+        ],
+        [
+          41.32421875,
+          732.685546875
+        ]
+      ]
+    },
+    {
+      "title": "6.3.3.2 Summary of Configurations",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.90625,
+          93.0263671875
+        ],
+        [
+          262.1839904785156,
+          93.0263671875
+        ],
+        [
+          262.1839904785156,
+          105.48004150390625
+        ],
+        [
+          41.90625,
+          105.48004150390625
+        ]
+      ]
+    },
+    {
+      "title": "6.3.4 AAL Profile Specific Interface",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          42.48828125,
+          142.00927734375
+        ],
+        [
+          284.3938293457031,
+          142.00927734375
+        ],
+        [
+          284.3938293457031,
+          156.7442626953125
+        ],
+        [
+          42.48828125,
+          156.7442626953125
+        ]
+      ]
+    },
+    {
+      "title": "Annex (informative): \nChange History",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.32421875,
+          97.55419921875
+        ],
+        [
+          223.28399658203125,
+          97.55419921875
+        ],
+        [
+          223.28399658203125,
+          137.45013427734375
+        ],
+        [
+          41.32421875,
+          137.45013427734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          78
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01"
+}

@@ -1,0 +1,4871 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 51,
+      "polygon": [
+        [
+          44.176171875,
+          78.07412109375
+        ],
+        [
+          135.089453125,
+          78.07412109375
+        ],
+        [
+          135.089453125,
+          106.11337890625
+        ],
+        [
+          44.176171875,
+          106.11337890625
+        ]
+      ],
+      "bbox": [
+        44.176171875,
+        78.07412109375,
+        135.089453125,
+        106.11337890625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABLAPIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAoopKAFoqrNeRx5GdxHYVk3uvPbqSAie7GvPrZphqMuWUtfI1p0Jz+FHQUVxJ8bmE4eNZB6rkVs6X4p07U2WJZfLnP/ACzc4z9PWro4+hWdov7zWpgq9Nc0o6G7RSA5ortOUWikPSsLXvFuk+HGjS/mYSSDKxxrubHr9KqMZSdoq5Mpxgrydjeorh/+Fq+G/wC9df8Afn/69H/C1vDf966/78//AF61+q1v5WY/W6H8yO4orjLf4neGriXYbiaEf3pYiB+ldZa3dve26z20ySxOMq6NkGonSnD4lY0hWp1PhdyeikpazNAorL13XrHw9YG8vpCqZ2qqjJY+gFcvpXxS0fUr5bWWGa13kKjyEFST9Olawo1Jx5orQxnXpwlyyep3lFIpyoPrS1kbBRUU80dvBJNK4SONSzsTwAOprhh8V9FbUvs/k3Ag3Y+0EDb9cdcVpTpTqX5FexlUrU6dud2ud9RUUUqTxJLGwZHUMrA8EGpKzNbi0Vi+I/Edn4a04Xd3ubc21EQcs3pVTwt4ysPFKSi2SSGeLBeKTrg9xjrVqlNw57aGbrQU/Z31OlopBS1BoFFFFABRRRQAHpWPd35ku2tYWwI/9aw9eyitG7nFtaTTn/lmhb64FcxozGW0eZ8F5JGZj6142c4uVCjyw3ZpSV5WLF7cra2zSHk9APU1x95M88heRiTXSalbzXt5FbQruOM/T3Namn+GbO3UPcIJ5SOd4+UfhXg5fgKmI95bdz16delh480tWzzC5nhiYrJKin0ZgDWe9xE7fu5VJ7bW5r0HxL8NtP1NXuNNVbO6xnao/dufcdvwrx+/0+60u9e0vIminjPIP8x6ivWll8qO7PocurYfGRtGXvdUz17wR4se7caVfybpgP3MjHlwOx9TXe181WOpTW1zFKshE0TB0b3HNfRem3a6hpttdoMLNGrgZ6ZGcV6uDqOUeWW6Pn87wCw1VTjtL8y0eleDfE0k+N7oHoI48f8AfIr3o14L8Tf+R3uv+ucf/oIr3Ms/j/I+QzX+B8yt4U8FXPiuG5lgu4oBAyqQ6k5zn0+ldEfg7qP/AEFLX/vhq0vg5/x4ar/11T+Rr07NaYrG1oVpRi9DPCYGjUoxnJas+efEvgvU/DAWS42S2znaJo+gPofSrfgDxHPo3iCC2LsbS7kETx54BJwG/OvRvibqNnbeFJrWZkNxcECJOp4OScf1968a0W3e613T4Iwd73EYGO3zDmuyjUeIw8nVRxV6aw2JSpM+mhQaQdBVHWtSj0nRru+kPywxlvqew/OvASbdkfRNpK7PHfihrJ1HxKLNGzDZLsx23nlj/IfhXEsrLjcpXIyMjGR61ZRZ9W1ULy891N25yWNegfEvw0mn6XpN3boQtvELSTGTwOVP57vzFfSQlGhyUe58xOM8Rz1ux3HgLWv7a8KWssjlp4f3MuTk7l7/AIjB/GunrxT4Vaz9i12TTpGxHdr8uf746fpmvah0rw8ZS9lVa6HvYKt7Win1Rzvjp2TwVqpUkHyccehIB/SvnjtX0N48/wCRJ1T/AK5D/wBCFeA2Nq19f29ojBXmkWME9AScV6eVtKlJvueXm13Vil2PU/hb4p86L+wbt/3kYLWxPde6/UdfpXp2a+Yv9M0TV+8N3ay/kwNfQXhbX4fEWixXqECQfJKg/hcdR/WuXMMOoS9rDZnXl2J54+ynujifjGT5GlDPG6Q/oKzfhB/yHb//AK9h/wChCtH4x/6nSv8Aek/pWd8IP+Q7f/8AXsP/AEIVvD/cH/XU56n/ACMF/XQ9jpaKK8Y9wKKKKACiiigDL8Qf8gS5+g/mK5zw7cK9tLB/FG2fwNdZqdv9p024iAyWQ4+vavK01CTTrxLqHnHUdmHpXz+cYd1WrdgVTkkmen6ci4dsDcTgmr9c74f1u01HmCQZYfMhPzKff9a6IGu3KZXwsYvdaMuo7yugxXnHxbt7YaTaTtGPtPm7FfvjGSK9GJrxv4q60l7rMOmQvuS0GZMdN57fgP5160KSqvlex15a5RxMZR6HnMkhRgR1Fe0ab4rt/C3gDSLieGSdptyoiHHRjnmvEJ2+cj34r6V0fQLaLwxYabfW0UwiiUskqhwH6nr7k1x4SChVfMrpHtcS1XUoxjF2k3+hycHxfsZZ4420u4QMwUt5gOM+1cb8SmD+Nblh0MUZH/fIr2ZfDOho4ddJsgynIIgXg/lXjfxN/wCR3uv+ucf/AKCK+gwUqUq69mraM/PcdGtGh+9d9TmbTUr+wDLZXtzbhsFhDKy5+uDVk+Itc76xqH/gS/8AjXpHwcANhqmf+eqfyNdT4s8IWXiOwk/dRpeqv7qfGDnsCe4rarjKcazhOPzMaWCqToKcJfI8O07TNT8Sag0dvm5uW5ZpJRnHqcnJr1vwV8P08Pyi/v3Sa+xhQo+WPPXHqfevG/8AS9I1MgM9vd20hGQeVYHFe6+B/FaeJdK/e7VvoMLMg7+jAehpZg6qh7nwjy5UnUtP4jqccV5n8XNZ8qxtdIjfBmbzZQP7o6D8+fwr0t2CoWJwAMk185+LdXOt+Jby8Uho9+yMj+6OBXFl1Lnq3eyO7Mq3JR5Vuzc+F2kf2h4oN265isk8zkcbzwv9T+Fes+KNKXWfDt5ZEZd4yY/94cj9a8C0vxBq2ipImnXb24kIL7VByR9RWgfHfijvq03/AHyv+Fd2JwlWrW9omtNjz8Ni6VKj7NxepiWlzNp1/FcRHbNBIGH1B6V9K6XfxanpdrewnMc8Yce2R0r5mmlknmeaU7pHYsxxjJP0r1z4S6z5+m3GkytlrdvMiB/uN1H5/wA6Mypc1NVOqHldblqun0Z03jz/AJEnVP8ArkP/AEIV4Z4d/wCRl0v/AK+ov/QhXufjz/kSdU/65D/0IV4b4d/5GXS/+vqL/wBCFRl38Cf9dC8z/wB4h/XU9G+KXhczQDXbSP54wFuVUdV7N+Hf2rjPA3iZvDmuK0rH7HcYSceno34f1r36WGOeF4pFDI6lWU9xXz54z8NyeG9ceBVb7LLl4H7bfTPqP8KnBVVWg8PU+RWOoyozWIp/M7P4vusltpDoQVYuQR3GBVD4Qf8AIdv/APr2H/oQrj73XJ9Q0Kw064yxsmby39UIGAfpiuw+EH/Idv8A/r2H/oQradJ0sHKD6f5mEKqq42M11/yPZKKKK8E+iCiiigAooooAD0ryXxvp0ug373jKTpty+7zB0gc9m9iehr1qoLq2gvLaS3uIklhkXa6OMhhUTpwmrTRMo3R8+tdyW8q3FrOyOOVkjb+tXh8UvEtjGE86GYD+KSPJP4itrxB8H54nefw5ebUJybWZyAP91vy6/nXD3PgvxTazbJ9FvXbrmKMyj81yK0oYGKd4z0/EyjhpyekrGpN8TvFl8u03cVsmesMQDfrmudeZ5HeaZ2d2JZmY5JJ61qWfgzxJdSbI9FvFP/TWMxj82wK7jQfhLK8iTa5cKEBz9nhOc/Vv8K7ZSp0IWhqz3sH7HCxvKX+Zznw38KT67rseqTxMLC0kD7iOHkHIA9ccE176BUFnZ29hax21rCsUMa7VRRgAVPXnwjyo48ZipYmpzPboB6V4N8Tf+R4uv+ucf/oIr3k1xHjD4fR+Jb5L6C6Ftc4CyFl3K4HT8a7sDWjSq809jxsfRnWpcsNzJ+Dn/Hhqn/XVP5GvTcZ61g+E/DMPhfSjaRSGWR38yWQjGW6ce2BW9WWJqKpVlJbM2wtN06MYS3PKPir4ZIddetYyQcJcgD8A39PyriPCmuP4f8QW14GIhLBJgO6Hr+XX8K+h7u1hvrWW2uIxJDKpV1PcGvNh8IIhqYk/tJvsW/Pl7Pnx6Zz/AEruw2Mh7F0qx5+KwVT2yq0TqPHusnSfB91NExEs4EETKehbvn6ZNeFaTYPqmrWtjEMtPIE+g7n8q+hPEHh611/RTpsxMaggxsv8DDoa57wh8PE8N6k1/cXQupwpWLam0JnqevXtUYXFU6NGX8xeLwtSvXi/snU2+h6XDBHELC2IRQoJiUk4/Cpf7H03/oH2v/flf8KuClrz+eXc9JQjbY81+KPh2A6LFqFnaxxtbPiTy0Ayp9ce+K8+8F6q2keK7GcH5JJBDIM/wtx/gfwr6Cv7OHULKa0uF3QzIUYexrz3S/hRDZa1HdT6gZraKTzEiCYJwcgMa9HDYuCoSp1TzMVg5uvGpSOm8d8+CNU/65D/ANCFeG+Hf+Rl0v8A6+ov/QhX0ZqFjFqWnXFlOCYp4zG2OuCMVwWh/CyPS9chvp7/AM+KB98UYTaSR0yc0sHiadKlKMt2VjcLUq1YSjsj0YdKwPGHhyPxHocltgC4T54H9G9PoeldAOlB6V58JuElKO6PRnBTi4y2PlqeCS2uJIJkZJY2KsrDBBFehfCD/kO3/wD17D/0IV1fiz4dWviG8+3W0/2S6YYkO3Kv7ketXfBvgqDwqk0jT/aLuYbWkxgBc5wBXr18dTq4dx+0zxqGAqUsQpdEdX2paSlrxj3AooooAKKKKACkpajmJWJyDyFJFAmU7PV7S+vrqzhZjNbEBwVIBznkHvyCPwq/Xl3g++uJPFFijyZDw3Ab5QC3zBuT35r1EVpUhyOxlRqOpG7Cqtvfw3V3d20e7zLV1STI4yVDDH4EVaNYWj/8jB4h/wCvmL/0SlQlo2W200jeHSkPSlHSikWVVvImv5LMbvNSNZDxxgkgfyNWayIv+Rru/wDrzi/9DetcU2rExbe4tVJ9Qhgv7azfd5twGKYHHyjJzVusDUv+Rt0X/dm/9BoirhN2WhvCigdKKRRnz6va2+q2+nOzC4nBKfKccZ4J7E4OPoa0BXlfiTULmLxTeBJAPLubYodoyuGGMHHufzNepr0FaThypMxpVHNtdhazrzWbSx1OzsLhykt5u8okfKSuOCfXkYrRrj/GKK95EWGSmn3LqfRgYyCPcGlTipSsyqsnGN0dRa3kV1Lcxx7s28vlPkd9qtx+DCrNc34PlkuLe/mlbdI9wjMx7kwRV0lKceV2CnLmimRTTR28TzSuqRopZmY4AA5JNZdn4htry5hiFvdwrP8A6iWaEqsvGeO4455AzR4p/wCRV1X/AK9ZP/QTWmFG1OBx046UJK12Db5rImpD0pR0pG6VJoZEuuql7cWsVhe3DW7BZGhRSoJUNjlh2IrWQ7kBIIz2Ned6nLLH4o1YRzTRgyx5CSMo/wBUnoa9Cg5hTJ7CrnFK1jGlNybuSUUUVBsFFFFAH//Z"
+      }
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1>O-RAN.WG11.TR.SCM.0-R004-v01.00</h1>",
+      "page": 51,
+      "polygon": [
+        [
+          232.8125,
+          78.13629150390625
+        ],
+        [
+          547.4973754882812,
+          78.13629150390625
+        ],
+        [
+          547.4973754882812,
+          96.13629150390625
+        ],
+        [
+          232.8125,
+          96.13629150390625
+        ]
+      ],
+      "bbox": [
+        232.8125,
+        78.13629150390625,
+        547.4973754882812,
+        96.13629150390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Technical Report</i></p>",
+      "page": 51,
+      "polygon": [
+        [
+          470.5092468261719,
+          113.8837890625
+        ],
+        [
+          548.2734375,
+          113.8837890625
+        ],
+        [
+          548.2734375,
+          124.63311767578125
+        ],
+        [
+          470.5092468261719,
+          124.63311767578125
+        ]
+      ],
+      "bbox": [
+        470.5092468261719,
+        113.8837890625,
+        548.2734375,
+        124.63311767578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>O-RAN Work Group 11</b> <b>(Security work group)</b> <b>Study on Security Configuration Management</b></h1>",
+      "page": 51,
+      "polygon": [
+        [
+          185.34814453125,
+          390.9873046875
+        ],
+        [
+          554.6630249023438,
+          390.9873046875
+        ],
+        [
+          554.6630249023438,
+          449.4740905761719
+        ],
+        [
+          185.34814453125,
+          449.4740905761719
+        ]
+      ],
+      "bbox": [
+        185.34814453125,
+        390.9873046875,
+        554.6630249023438,
+        449.4740905761719
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h4>Copyright © 2025 by the O-RAN ALLIANCE e.V.</h4>",
+      "page": 51,
+      "polygon": [
+        [
+          48.0,
+          673.0244140625
+        ],
+        [
+          254.34765625,
+          673.0244140625
+        ],
+        [
+          254.34765625,
+          683.1668395996094
+        ],
+        [
+          48.0,
+          683.1668395996094
+        ]
+      ],
+      "bbox": [
+        48.0,
+        673.0244140625,
+        254.34765625,
+        683.1668395996094
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "4": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The copying or incorporation into any other work of part or all of the material available in this document in any form without  the prior written permission of O-RAN ALLIANCE e.V. is prohibited, save that you may print or download extracts of the  material of this document for your personal use, or copy the material of this document for the purpose of sending to individual  third parties for their information provided that you acknowledge O-RAN ALLIANCE as the source of the material and that  you inform the third party that these conditions apply to them and that they must comply with them.</p>",
+      "page": 51,
+      "polygon": [
+        [
+          46.5625,
+          683.7138671875
+        ],
+        [
+          557.16943359375,
+          683.7138671875
+        ],
+        [
+          557.16943359375,
+          744.6068420410156
+        ],
+        [
+          46.5625,
+          744.6068420410156
+        ]
+      ],
+      "bbox": [
+        46.5625,
+        683.7138671875,
+        557.16943359375,
+        744.6068420410156
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "4": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 51,
+      "polygon": [
+        [
+          47.14453125,
+          759.0068206787109
+        ],
+        [
+          338.7787780761719,
+          759.0068206787109
+        ],
+        [
+          338.7787780761719,
+          781.3268127441406
+        ],
+        [
+          47.14453125,
+          781.3268127441406
+        ]
+      ],
+      "bbox": [
+        47.14453125,
+        759.0068206787109,
+        338.7787780761719,
+        781.3268127441406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "4": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 103,
+      "polygon": [
+        [
+          376.0654911838791,
+          32.990204808548526
+        ],
+        [
+          536.7002518891687,
+          32.990204808548526
+        ],
+        [
+          536.7002518891687,
+          43.48708815672306
+        ],
+        [
+          376.0654911838791,
+          43.48708815672306
+        ]
+      ],
+      "bbox": [
+        376.0654911838791,
+        32.990204808548526,
+        536.7002518891687,
+        43.48708815672306
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "4": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/1/Picture/1'></p>",
+      "page": 103,
+      "polygon": [
+        [
+          41.440625,
+          36.50859375
+        ],
+        [
+          128.5125,
+          36.50859375
+        ],
+        [
+          128.5125,
+          65.45234375
+        ],
+        [
+          41.440625,
+          65.45234375
+        ]
+      ],
+      "bbox": [
+        41.440625,
+        36.50859375,
+        128.5125,
+        65.45234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "4": "/page/0/SectionHeader/4"
+      },
+      "images": {
+        "/page/1/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/1/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1>Contents</h1>",
+      "page": 103,
+      "polygon": [
+        [
+          40.53400503778337,
+          74.97773820124665
+        ],
+        [
+          116.34760705289672,
+          74.97773820124665
+        ],
+        [
+          116.34760705289672,
+          94.47195013357079
+        ],
+        [
+          40.53400503778337,
+          94.47195013357079
+        ]
+      ],
+      "bbox": [
+        40.53400503778337,
+        74.97773820124665,
+        116.34760705289672,
+        94.47195013357079
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/TableOfContents/3",
+      "block_type": "TableOfContents",
+      "html": "<table><tbody><tr><th>List o</th><th>f figures</th><th> 3</th></tr><tr><td>List o</td><td>f tables</td><td> 3</td></tr><tr><td>Forev</td><td>vord</td><td> 4</td></tr><tr><td>Moda</td><td>ıl verbs terminology</td><td> 4</td></tr><tr><td>1</td><td>Scope</td><td> 5</td></tr><tr><td>2</td><td>References</td><td> 5</td></tr><tr><td>2.1</td><td>Normative references</td><td> 5</td></tr><tr><td>2.2</td><td>Informative references</td><td> 5</td></tr><tr><td>3</td><td>Definition of terms, symbols and abbreviations</td><td> 6</td></tr><tr><td>3.1</td><td>Terms</td><td></td></tr><tr><td>3.2</td><td>Symbols</td><td></td></tr><tr><td>3.3</td><td>Abbreviations</td><td></td></tr><tr><td>4</td><td>SCM Background</td><td> 6</td></tr><tr><td>4.1</td><td>Introduction</td><td> 6</td></tr><tr><td>4.2</td><td>Considerations</td><td> 7</td></tr><tr><td>5</td><td>Study and identify the security gaps related to SCM</td><td> 7</td></tr><tr><td>5.1</td><td>Assets</td><td></td></tr><tr><td>5.1.1</td><td>O-RAN Architecture Elements</td><td> 7</td></tr><tr><td>5.1.2</td><td>O-RAN interfaces</td><td> 7</td></tr><tr><td>5.2</td><td>Security Controls</td><td> 8</td></tr><tr><td>5.3</td><td>Input recommendations</td><td> 8</td></tr><tr><td>5.4</td><td>Threat template</td><td> 8</td></tr><tr><td>5.5</td><td>SCM Threats analysis</td><td></td></tr><tr><td>5.5.1</td><td>Certificate related threats</td><td></td></tr><tr><td>5.5.2</td><td>NACM related threats</td><td></td></tr><tr><td>5.5.3</td><td>LDAP related threats</td><td> 9</td></tr><tr><td>6</td><td>Study and recommendation related to SCM</td><td> 9</td></tr><tr><td>7</td><td>Conclusion.</td><td> 9</td></tr><tr><td>Anne</td><td>x: Change history/Change request (history)</td><td> 10</td></tr></tbody></table>",
+      "page": 103,
+      "polygon": [
+        [
+          43.0703125,
+          115.1171875
+        ],
+        [
+          524.9921875,
+          115.1171875
+        ],
+        [
+          524.9921875,
+          522.9609375
+        ],
+        [
+          43.0703125,
+          522.9609375
+        ]
+      ],
+      "bbox": [
+        43.0703125,
+        115.1171875,
+        524.9921875,
+        522.9609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/4",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 103,
+      "polygon": [
+        [
+          480.7578125,
+          807.8759765625
+        ],
+        [
+          497.0546875,
+          807.8759765625
+        ],
+        [
+          497.0546875,
+          816.9208984375
+        ],
+        [
+          480.7578125,
+          816.9208984375
+        ]
+      ],
+      "bbox": [
+        480.7578125,
+        807.8759765625,
+        497.0546875,
+        816.9208984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2</p>",
+      "page": 103,
+      "polygon": [
+        [
+          517.1838790931989,
+          803.0115761353517
+        ],
+        [
+          526.9420654911838,
+          803.0115761353517
+        ],
+        [
+          526.9420654911838,
+          815.0080142475512
+        ],
+        [
+          517.1838790931989,
+          815.0080142475512
+        ]
+      ],
+      "bbox": [
+        517.1838790931989,
+        803.0115761353517,
+        526.9420654911838,
+        815.0080142475512
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 103,
+      "polygon": [
+        [
+          39.032745591939545,
+          803.0115761353517
+        ],
+        [
+          473.6473551637279,
+          803.0115761353517
+        ],
+        [
+          473.6473551637279,
+          815.0080142475512
+        ],
+        [
+          39.032745591939545,
+          815.0080142475512
+        ]
+      ],
+      "bbox": [
+        39.032745591939545,
+        803.0115761353517,
+        473.6473551637279,
+        815.0080142475512
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 28,
+      "polygon": [
+        [
+          377.87713623046875,
+          34.9462890625
+        ],
+        [
+          534.98095703125,
+          34.9462890625
+        ],
+        [
+          534.98095703125,
+          44.5308837890625
+        ],
+        [
+          377.87713623046875,
+          44.5308837890625
+        ]
+      ],
+      "bbox": [
+        377.87713623046875,
+        34.9462890625,
+        534.98095703125,
+        44.5308837890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/2/Picture/1'></p>",
+      "page": 28,
+      "polygon": [
+        [
+          42.3427734375,
+          37.330859375
+        ],
+        [
+          128.7744140625,
+          37.330859375
+        ],
+        [
+          128.7744140625,
+          66.274609375
+        ],
+        [
+          42.3427734375,
+          66.274609375
+        ]
+      ],
+      "bbox": [
+        42.3427734375,
+        37.330859375,
+        128.7744140625,
+        66.274609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {
+        "/page/2/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/2/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1>List of figures</h1>",
+      "page": 28,
+      "polygon": [
+        [
+          42.479976654052734,
+          77.65631103515625
+        ],
+        [
+          149.53317260742188,
+          77.65631103515625
+        ],
+        [
+          149.53317260742188,
+          95.65631103515625
+        ],
+        [
+          42.479976654052734,
+          95.65631103515625
+        ]
+      ],
+      "bbox": [
+        42.479976654052734,
+        77.65631103515625,
+        149.53317260742188,
+        95.65631103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>No table of figures entries found.</b></p>",
+      "page": 28,
+      "polygon": [
+        [
+          42.479976654052734,
+          105.25
+        ],
+        [
+          183.33984375,
+          105.25
+        ],
+        [
+          183.33984375,
+          116.28680419921875
+        ],
+        [
+          42.479976654052734,
+          116.28680419921875
+        ]
+      ],
+      "bbox": [
+        42.479976654052734,
+        105.25,
+        183.33984375,
+        116.28680419921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h1>List of tables</h1>",
+      "page": 28,
+      "polygon": [
+        [
+          41.615234375,
+          144.13629150390625
+        ],
+        [
+          143.53916931152344,
+          144.13629150390625
+        ],
+        [
+          143.53916931152344,
+          162.13629150390625
+        ],
+        [
+          41.615234375,
+          162.13629150390625
+        ]
+      ],
+      "bbox": [
+        41.615234375,
+        144.13629150390625,
+        143.53916931152344,
+        162.13629150390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>No table of figures entries found.</b></p>",
+      "page": 28,
+      "polygon": [
+        [
+          41.32421875,
+          172.67578125
+        ],
+        [
+          183.33984375,
+          172.67578125
+        ],
+        [
+          183.33984375,
+          182.766845703125
+        ],
+        [
+          41.32421875,
+          182.766845703125
+        ]
+      ],
+      "bbox": [
+        41.32421875,
+        172.67578125,
+        183.33984375,
+        182.766845703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 28,
+      "polygon": [
+        [
+          41.90625,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          814.4509544372559
+        ],
+        [
+          41.90625,
+          814.4509544372559
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        804.5869140625,
+        524.4953002929688,
+        814.4509544372559
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 28,
+      "polygon": [
+        [
+          518.58984375,
+          804.5869140625
+        ],
+        [
+          524.41015625,
+          804.5869140625
+        ],
+        [
+          524.41015625,
+          813.6318359375
+        ],
+        [
+          518.58984375,
+          813.6318359375
+        ]
+      ],
+      "bbox": [
+        518.58984375,
+        804.5869140625,
+        524.41015625,
+        813.6318359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 139,
+      "polygon": [
+        [
+          377.87713623046875,
+          34.9462890625
+        ],
+        [
+          534.98095703125,
+          34.9462890625
+        ],
+        [
+          534.98095703125,
+          44.5308837890625
+        ],
+        [
+          377.87713623046875,
+          44.5308837890625
+        ]
+      ],
+      "bbox": [
+        377.87713623046875,
+        34.9462890625,
+        534.98095703125,
+        44.5308837890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/3/Picture/1'></p>",
+      "page": 139,
+      "polygon": [
+        [
+          42.080859375,
+          36.87861328125
+        ],
+        [
+          127.872265625,
+          36.87861328125
+        ],
+        [
+          127.872265625,
+          66.72685546875
+        ],
+        [
+          42.080859375,
+          66.72685546875
+        ]
+      ],
+      "bbox": [
+        42.080859375,
+        36.87861328125,
+        127.872265625,
+        66.72685546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/4"
+      },
+      "images": {
+        "/page/3/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/3/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1>Foreword</h1>",
+      "page": 139,
+      "polygon": [
+        [
+          42.197265625,
+          77.65631103515625
+        ],
+        [
+          118.5047836303711,
+          77.65631103515625
+        ],
+        [
+          118.5047836303711,
+          95.65631103515625
+        ],
+        [
+          42.197265625,
+          95.65631103515625
+        ]
+      ],
+      "bbox": [
+        42.197265625,
+        77.65631103515625,
+        118.5047836303711,
+        95.65631103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">This Technical Report (TR) has been produced by WG11 of the O-RAN ALLIANCE.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          41.90625,
+          105.6611328125
+        ],
+        [
+          387.1288757324219,
+          105.6611328125
+        ],
+        [
+          387.1288757324219,
+          116.28680419921875
+        ],
+        [
+          41.90625,
+          116.28680419921875
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        105.6611328125,
+        387.1288757324219,
+        116.28680419921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN  approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an  identifying change of version date and an increase in version number as follows:</p>",
+      "page": 139,
+      "polygon": [
+        [
+          40.7421875,
+          126.6068115234375
+        ],
+        [
+          545.1514892578125,
+          126.6068115234375
+        ],
+        [
+          545.1514892578125,
+          161.16680908203125
+        ],
+        [
+          40.7421875,
+          161.16680908203125
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        126.6068115234375,
+        545.1514892578125,
+        161.16680908203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">version xx.yy.zz</p>",
+      "page": 139,
+      "polygon": [
+        [
+          41.90625,
+          171.246826171875
+        ],
+        [
+          108.33245086669922,
+          171.246826171875
+        ],
+        [
+          108.33245086669922,
+          181.32684326171875
+        ],
+        [
+          41.90625,
+          181.32684326171875
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        171.246826171875,
+        108.33245086669922,
+        181.32684326171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h4>where:</h4>",
+      "page": 139,
+      "polygon": [
+        [
+          40.451171875,
+          191.6468505859375
+        ],
+        [
+          69.71613311767578,
+          191.6468505859375
+        ],
+        [
+          69.71613311767578,
+          201.72686767578125
+        ],
+        [
+          40.451171875,
+          201.72686767578125
+        ]
+      ],
+      "bbox": [
+        40.451171875,
+        191.6468505859375,
+        69.71613311767578,
+        201.72686767578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "4": "/page/3/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/139",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">xx: the first digit-group is incremented for all changes of substance, i.e. technical enhancements, corrections, updates, etc.  (the initial approved document will have xx=01). Always 2 digits with leading zero if needed.</li><li block-type=\"ListItem\">yy: the second digit-group is incremented when editorial only changes have been incorporated in the document. Always 2  digits with leading zero if needed.</li><li block-type=\"ListItem\">zz: the third digit-group included only in working versions of the document indicating incremental changes during the  editing process. External versions never include the third digit-group. Always 2 digits with leading zero if needed.</li></ul></p>",
+      "page": 139,
+      "polygon": [
+        [
+          54.7109375,
+          210.9111328125
+        ],
+        [
+          553.9044189453125,
+          210.9111328125
+        ],
+        [
+          553.9044189453125,
+          299.1668701171875
+        ],
+        [
+          54.7109375,
+          299.1668701171875
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        210.9111328125,
+        553.9044189453125,
+        299.1668701171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "4": "/page/3/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h1>Modal verbs terminology</h1>",
+      "page": 139,
+      "polygon": [
+        [
+          42.479976654052734,
+          327.01629638671875
+        ],
+        [
+          238.57199096679688,
+          327.01629638671875
+        ],
+        [
+          238.57199096679688,
+          345.7626953125
+        ],
+        [
+          42.479976654052734,
+          345.7626953125
+        ]
+      ],
+      "bbox": [
+        42.479976654052734,
+        327.01629638671875,
+        238.57199096679688,
+        345.7626953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In the present document \"<b>shall</b>\", \"<b>shall not</b>\", \"<b>should</b>\", \"<b>should not</b>\", \"<b>may</b>\", \"<b>need not</b>\", \"<b>will</b>\", \"<b>will not</b>\", \"<b>can</b>\" and  \"<b>cannot</b>\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules (Verbal forms for the expression of  provisions).</p>",
+      "page": 139,
+      "polygon": [
+        [
+          41.90625,
+          354.8076171875
+        ],
+        [
+          534.46875,
+          354.8076171875
+        ],
+        [
+          534.46875,
+          390.1268005371094
+        ],
+        [
+          41.90625,
+          390.1268005371094
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        354.8076171875,
+        534.46875,
+        390.1268005371094
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">\"<b>must</b>\" and \"<b>must not</b>\" are <b>NOT</b> allowed in O-RAN deliverables except when used in direct citation.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          41.90625,
+          400.0322265625
+        ],
+        [
+          449.328125,
+          400.0322265625
+        ],
+        [
+          449.328125,
+          410.5268249511719
+        ],
+        [
+          41.90625,
+          410.5268249511719
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        400.0322265625,
+        449.328125,
+        410.5268249511719
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/13",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 139,
+      "polygon": [
+        [
+          518.298828125,
+          804.5869140625
+        ],
+        [
+          524.701171875,
+          804.5869140625
+        ],
+        [
+          524.701171875,
+          813.6318359375
+        ],
+        [
+          518.298828125,
+          813.6318359375
+        ]
+      ],
+      "bbox": [
+        518.298828125,
+        804.5869140625,
+        524.701171875,
+        813.6318359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/14",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 139,
+      "polygon": [
+        [
+          40.7421875,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          814.4509544372559
+        ],
+        [
+          40.7421875,
+          814.4509544372559
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        804.5869140625,
+        524.4953002929688,
+        814.4509544372559
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 257,
+      "polygon": [
+        [
+          377.87713623046875,
+          34.9462890625
+        ],
+        [
+          534.98095703125,
+          34.9462890625
+        ],
+        [
+          534.98095703125,
+          44.5308837890625
+        ],
+        [
+          377.87713623046875,
+          44.5308837890625
+        ]
+      ],
+      "bbox": [
+        377.87713623046875,
+        34.9462890625,
+        534.98095703125,
+        44.5308837890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/4/Picture/1'></p>",
+      "page": 257,
+      "polygon": [
+        [
+          41.1205078125,
+          38.153125
+        ],
+        [
+          128.8326171875,
+          38.153125
+        ],
+        [
+          128.8326171875,
+          67.096875
+        ],
+        [
+          41.1205078125,
+          67.096875
+        ]
+      ],
+      "bbox": [
+        41.1205078125,
+        38.153125,
+        128.8326171875,
+        67.096875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/10"
+      },
+      "images": {
+        "/page/4/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/4/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1>1 Scope</h1>",
+      "page": 257,
+      "polygon": [
+        [
+          42.197265625,
+          77.65631103515625
+        ],
+        [
+          115.1172866821289,
+          77.65631103515625
+        ],
+        [
+          115.1172866821289,
+          95.65631103515625
+        ],
+        [
+          42.197265625,
+          95.65631103515625
+        ]
+      ],
+      "bbox": [
+        42.197265625,
+        77.65631103515625,
+        115.1172866821289,
+        95.65631103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The main objective for this work item is to identify and develop the security management YANG models for O-RAN  framework fulfilling the security requirements specified in [i.2]. The specification will be based on the YANG data modeling  language (see RFC 7950). Security YANG models in O-RAN will apply to relevant O-RAN interfaces (O1, Open Fronthaul  M-plane). This work item will perform the following steps,</p>",
+      "page": 257,
+      "polygon": [
+        [
+          40.7421875,
+          106.206787109375
+        ],
+        [
+          546.2385864257812,
+          106.206787109375
+        ],
+        [
+          546.2385864257812,
+          153.0068359375
+        ],
+        [
+          40.7421875,
+          153.0068359375
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        106.206787109375,
+        546.2385864257812,
+        153.0068359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/229",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Identify if there is any existing security management YANG model available in O-RAN specifications</li><li block-type=\"ListItem\"> Study and recommend the security requirement for YANG model aligning with [i.2]</li><li block-type=\"ListItem\"> Study and identify the gaps related to security configuration</li><li block-type=\"ListItem\"> Study the YANG models for certificate configuration</li><li block-type=\"ListItem\"> Study the YANG models for NETCONF access control such as NACM configuration</li><li block-type=\"ListItem\"> Study the YANG models for LDAP configuration</li></ul></p>",
+      "page": 257,
+      "polygon": [
+        [
+          58.203125,
+          163.8902587890625
+        ],
+        [
+          488.90625,
+          163.8902587890625
+        ],
+        [
+          488.90625,
+          235.16796875
+        ],
+        [
+          58.203125,
+          235.16796875
+        ]
+      ],
+      "bbox": [
+        58.203125,
+        163.8902587890625,
+        488.90625,
+        235.16796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h1>2 References</h1>",
+      "page": 257,
+      "polygon": [
+        [
+          41.615234375,
+          274.2255859375
+        ],
+        [
+          156.132080078125,
+          274.2255859375
+        ],
+        [
+          156.132080078125,
+          292.456298828125
+        ],
+        [
+          41.615234375,
+          292.456298828125
+        ]
+      ],
+      "bbox": [
+        41.615234375,
+        274.2255859375,
+        156.132080078125,
+        292.456298828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/11",
+      "block_type": "SectionHeader",
+      "html": "<h3>2.1 Normative references</h3>",
+      "page": 257,
+      "polygon": [
+        [
+          41.32421875,
+          312.8720703125
+        ],
+        [
+          224.31983947753906,
+          312.8720703125
+        ],
+        [
+          224.31983947753906,
+          329.0518798828125
+        ],
+        [
+          41.32421875,
+          329.0518798828125
+        ]
+      ],
+      "bbox": [
+        41.32421875,
+        312.8720703125,
+        224.31983947753906,
+        329.0518798828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/10",
+        "3": "/page/4/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Not applicable.</p>",
+      "page": 257,
+      "polygon": [
+        [
+          41.615234375,
+          339.48681640625
+        ],
+        [
+          106.10492706298828,
+          339.48681640625
+        ],
+        [
+          106.10492706298828,
+          350.28515625
+        ],
+        [
+          41.615234375,
+          350.28515625
+        ]
+      ],
+      "bbox": [
+        41.615234375,
+        339.48681640625,
+        106.10492706298828,
+        350.28515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/10",
+        "3": "/page/4/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/13",
+      "block_type": "SectionHeader",
+      "html": "<h3>2.2 Informative references</h3>",
+      "page": 257,
+      "polygon": [
+        [
+          40.16015625,
+          368.7861328125
+        ],
+        [
+          230.51060485839844,
+          368.7861328125
+        ],
+        [
+          230.51060485839844,
+          385.6918640136719
+        ],
+        [
+          40.16015625,
+          385.6918640136719
+        ]
+      ],
+      "bbox": [
+        40.16015625,
+        368.7861328125,
+        230.51060485839844,
+        385.6918640136719
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/10",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">References are either specific (identified by date of publication and/or edition number or version number) or non-specific. For  specific references, only the cited version applies. For non-specific references, the latest version of the referenced document  (including any amendments) applies. In the case of a reference to a 3GPP document, a non-specific reference implicitly refers  to the latest version of that document in Release 18, or the latest 3GPP release prior to Release 18 that includes that document.</p>",
+      "page": 257,
+      "polygon": [
+        [
+          41.90625,
+          396.1268310546875
+        ],
+        [
+          549.4375,
+          396.1268310546875
+        ],
+        [
+          549.4375,
+          442.92681884765625
+        ],
+        [
+          41.90625,
+          442.92681884765625
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        396.1268310546875,
+        549.4375,
+        442.92681884765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/10",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their  long-term validity.</p>",
+      "page": 257,
+      "polygon": [
+        [
+          53.546875,
+          452.6572265625
+        ],
+        [
+          554.9518432617188,
+          452.6572265625
+        ],
+        [
+          554.9518432617188,
+          475.56683349609375
+        ],
+        [
+          53.546875,
+          475.56683349609375
+        ]
+      ],
+      "bbox": [
+        53.546875,
+        452.6572265625,
+        554.9518432617188,
+        475.56683349609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/10",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The following referenced documents are not necessary for the application of the present document, but they assist the user with  regard to a particular subject area.</p>",
+      "page": 257,
+      "polygon": [
+        [
+          40.7421875,
+          485.5478515625
+        ],
+        [
+          554.2766723632812,
+          485.5478515625
+        ],
+        [
+          554.2766723632812,
+          507.9668273925781
+        ],
+        [
+          40.7421875,
+          507.9668273925781
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        485.5478515625,
+        554.2766723632812,
+        507.9668273925781
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/10",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Table/17",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>[i.1]</th><th>O-RAN WG11: \"O-RAN Security Protocols Specification\".</th></tr><tr><td>[i.2]</td><td>O-RAN WG11: \"O-RAN Security Requirements and Controls Specification\".</td></tr><tr><td>[i.3]</td><td>O-RAN WG11: \"O-RAN Threat Modelling and Risk Assessment\".</td></tr><tr><td>[i.4]</td><td>O-RAN WG11: \"O-RAN Security Test Specifications\".</td></tr><tr><td>[i.5]</td><td>O-RAN WG4: \"O-RAN Management Plane Specification\".</td></tr><tr><td>[i.6]</td><td>IETF RFC 7950: \"The YANG 1.1 Data Modeling Language\".</td></tr><tr><td>[i.7]</td><td>O-RAN WG10: \" O-RAN Information Model and Data Models Specification\".</td></tr><tr><td>[i.8]</td><td>O-RAN WG10: \" O1 Network Resource Model Specification\".</td></tr><tr><td>[i.9]</td><td>O-RAN WG4: \" Cooperative Transport Interface Transport Management Procedures Specification\".</td></tr><tr><td>[i.10]</td><td>O-RAN WG5: \"O1 Interface specification for O-DU\".</td></tr><tr><td>[i.11]</td><td>O-RAN WG5: \"O1 Interface specification for O-CU-UP and O-CU-CP\".</td></tr><tr><td>[i.12]</td><td>An extensible YANG validator and converter in python, https://github.com/mbj4668/pyang.</td></tr><tr><td>[i.13]</td><td>O-RAN WG1: \"O-RAN Architecture Description\".</td></tr><tr><td>[i.14]</td><td>O-RAN WG10: \"O-RAN Operations and Maintenance Interface Specification\".</td></tr></tbody></table>",
+      "page": 257,
+      "polygon": [
+        [
+          45.23546875,
+          513.9877725219726
+        ],
+        [
+          536.79578125,
+          513.9877725219726
+        ],
+        [
+          536.79578125,
+          758.2818502807618
+        ],
+        [
+          45.23546875,
+          758.2818502807618
+        ]
+      ],
+      "bbox": [
+        45.23546875,
+        513.9877725219726,
+        536.79578125,
+        758.2818502807618
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/10",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/18",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 257,
+      "polygon": [
+        [
+          518.58984375,
+          804.5869140625
+        ],
+        [
+          524.41015625,
+          804.5869140625
+        ],
+        [
+          524.41015625,
+          813.6318359375
+        ],
+        [
+          518.58984375,
+          813.6318359375
+        ]
+      ],
+      "bbox": [
+        518.58984375,
+        804.5869140625,
+        524.41015625,
+        813.6318359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/10",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/19",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 257,
+      "polygon": [
+        [
+          39.578125,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          814.4509544372559
+        ],
+        [
+          39.578125,
+          814.4509544372559
+        ]
+      ],
+      "bbox": [
+        39.578125,
+        804.5869140625,
+        524.4953002929688,
+        814.4509544372559
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/10",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 179,
+      "polygon": [
+        [
+          377.87713623046875,
+          34.9462890625
+        ],
+        [
+          534.98095703125,
+          34.9462890625
+        ],
+        [
+          534.98095703125,
+          44.5308837890625
+        ],
+        [
+          377.87713623046875,
+          44.5308837890625
+        ]
+      ],
+      "bbox": [
+        377.87713623046875,
+        34.9462890625,
+        534.98095703125,
+        44.5308837890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/10",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/5/Picture/1'></p>",
+      "page": 179,
+      "polygon": [
+        [
+          41.7607421875,
+          37.78310546875
+        ],
+        [
+          128.1923828125,
+          37.78310546875
+        ],
+        [
+          128.1923828125,
+          65.82236328125
+        ],
+        [
+          41.7607421875,
+          65.82236328125
+        ]
+      ],
+      "bbox": [
+        41.7607421875,
+        37.78310546875,
+        128.1923828125,
+        65.82236328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/10",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {
+        "/page/5/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/5/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1>3 Definition of terms, symbols and abbreviations</h1>",
+      "page": 179,
+      "polygon": [
+        [
+          41.90625,
+          77.65631103515625
+        ],
+        [
+          432.2664794921875,
+          77.65631103515625
+        ],
+        [
+          432.2664794921875,
+          95.65631103515625
+        ],
+        [
+          41.90625,
+          95.65631103515625
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        77.65631103515625,
+        432.2664794921875,
+        95.65631103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h3>3.1 Terms</h3>",
+      "page": 179,
+      "polygon": [
+        [
+          42.479976654052734,
+          116.17181396484375
+        ],
+        [
+          116.66100311279297,
+          116.17181396484375
+        ],
+        [
+          116.66100311279297,
+          132.2518310546875
+        ],
+        [
+          42.479976654052734,
+          132.2518310546875
+        ]
+      ],
+      "bbox": [
+        42.479976654052734,
+        116.17181396484375,
+        116.66100311279297,
+        132.2518310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">For the purposes of the present document, the terms [given in [i.1] and the following] apply:</p>",
+      "page": 179,
+      "polygon": [
+        [
+          41.90625,
+          142.68682861328125
+        ],
+        [
+          412.078125,
+          142.68682861328125
+        ],
+        [
+          412.078125,
+          152.94140625
+        ],
+        [
+          41.90625,
+          152.94140625
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        142.68682861328125,
+        412.078125,
+        152.94140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Open Fronthaul</b> <b>M-Plane</b>: Management interface controlling the O-RU, generally driven from the O-DU but in the case of  the hybrid topology also driven from the SMO as specified in [i.13].</p>",
+      "page": 179,
+      "polygon": [
+        [
+          54.7109375,
+          162.8468017578125
+        ],
+        [
+          555.2793579101562,
+          162.8468017578125
+        ],
+        [
+          555.2793579101562,
+          185.4208984375
+        ],
+        [
+          54.7109375,
+          185.4208984375
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        162.8468017578125,
+        555.2793579101562,
+        185.4208984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">NOTE 1: Please refer to <b>Error! Reference source not found.</b> for more details.</p>",
+      "page": 179,
+      "polygon": [
+        [
+          55.875,
+          193.32684326171875
+        ],
+        [
+          374.3757629394531,
+          193.32684326171875
+        ],
+        [
+          374.3757629394531,
+          203.4068603515625
+        ],
+        [
+          55.875,
+          203.4068603515625
+        ]
+      ],
+      "bbox": [
+        55.875,
+        193.32684326171875,
+        374.3757629394531,
+        203.4068603515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>O1</b>: Interface used by the SMO framework, as specified in Clause 5.3.1, for operation and management of O-RAN NFs as  specified in [i.13] [i.14].</p>",
+      "page": 179,
+      "polygon": [
+        [
+          54.7109375,
+          210.9111328125
+        ],
+        [
+          548.2356567382812,
+          210.9111328125
+        ],
+        [
+          548.2356567382812,
+          234.1268310546875
+        ],
+        [
+          54.7109375,
+          234.1268310546875
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        210.9111328125,
+        548.2356567382812,
+        234.1268310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>O-Cloud</b>: Cloud platform that provides O-RAN standardized interfaces, hosting O-RAN defined software components.</p>",
+      "page": 179,
+      "polygon": [
+        [
+          54.7109375,
+          243.8017578125
+        ],
+        [
+          537.430419921875,
+          243.8017578125
+        ],
+        [
+          537.430419921875,
+          254.286865234375
+        ],
+        [
+          54.7109375,
+          254.286865234375
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        243.8017578125,
+        537.430419921875,
+        254.286865234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>SMO</b>: A Service Management and Orchestration framework.</p>",
+      "page": 179,
+      "polygon": [
+        [
+          55.29296875,
+          264.3668212890625
+        ],
+        [
+          301.86334228515625,
+          264.3668212890625
+        ],
+        [
+          301.86334228515625,
+          274.44683837890625
+        ],
+        [
+          55.29296875,
+          274.44683837890625
+        ]
+      ],
+      "bbox": [
+        55.29296875,
+        264.3668212890625,
+        301.86334228515625,
+        274.44683837890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">NOTE 2: Please refer to Clause <b>Error! Reference source not found.</b> for more details as specified in [i.13].</p>",
+      "page": 179,
+      "polygon": [
+        [
+          55.875,
+          284.766845703125
+        ],
+        [
+          488.23321533203125,
+          284.766845703125
+        ],
+        [
+          488.23321533203125,
+          294.84686279296875
+        ],
+        [
+          55.875,
+          294.84686279296875
+        ]
+      ],
+      "bbox": [
+        55.875,
+        284.766845703125,
+        488.23321533203125,
+        294.84686279296875
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/11",
+      "block_type": "SectionHeader",
+      "html": "<h3>3.2 Symbols</h3>",
+      "page": 179,
+      "polygon": [
+        [
+          41.32421875,
+          324.3837890625
+        ],
+        [
+          132.6766815185547,
+          324.3837890625
+        ],
+        [
+          132.6766815185547,
+          341.2918701171875
+        ],
+        [
+          41.32421875,
+          341.2918701171875
+        ]
+      ],
+      "bbox": [
+        41.32421875,
+        324.3837890625,
+        132.6766815185547,
+        341.2918701171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Void</p>",
+      "page": 179,
+      "polygon": [
+        [
+          40.7421875,
+          351.7268371582031
+        ],
+        [
+          62.5234375,
+          351.7268371582031
+        ],
+        [
+          62.5234375,
+          361.80682373046875
+        ],
+        [
+          40.7421875,
+          361.80682373046875
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        351.7268371582031,
+        62.5234375,
+        361.80682373046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/13",
+      "block_type": "SectionHeader",
+      "html": "<h3>3.3 Abbreviations</h3>",
+      "page": 179,
+      "polygon": [
+        [
+          42.479976654052734,
+          394.0918884277344
+        ],
+        [
+          168.2970733642578,
+          394.0918884277344
+        ],
+        [
+          168.2970733642578,
+          410.171875
+        ],
+        [
+          42.479976654052734,
+          410.171875
+        ]
+      ],
+      "bbox": [
+        42.479976654052734,
+        394.0918884277344,
+        168.2970733642578,
+        410.171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">For the purposes of the present document, the abbreviations [given in [i.1]and the following] apply:</p>",
+      "page": 179,
+      "polygon": [
+        [
+          41.90625,
+          419.7666015625
+        ],
+        [
+          440.75701904296875,
+          419.7666015625
+        ],
+        [
+          440.75701904296875,
+          430.6867980957031
+        ],
+        [
+          41.90625,
+          430.6867980957031
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        419.7666015625,
+        440.75701904296875,
+        430.6867980957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">LDAP Lightweight directory access protocol NACM NETCONF Access Control Model  NETCONF Network Configuration Protocol</p>",
+      "page": 179,
+      "polygon": [
+        [
+          55.875,
+          438.267578125
+        ],
+        [
+          278.92120361328125,
+          438.267578125
+        ],
+        [
+          278.92120361328125,
+          487.56683349609375
+        ],
+        [
+          55.875,
+          487.56683349609375
+        ]
+      ],
+      "bbox": [
+        55.875,
+        438.267578125,
+        278.92120361328125,
+        487.56683349609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">NF Network Function</p>",
+      "page": 179,
+      "polygon": [
+        [
+          55.583984375,
+          495.4150390625
+        ],
+        [
+          200.7798309326172,
+          495.4150390625
+        ],
+        [
+          200.7798309326172,
+          505.80682373046875
+        ],
+        [
+          55.583984375,
+          505.80682373046875
+        ]
+      ],
+      "bbox": [
+        55.583984375,
+        495.4150390625,
+        200.7798309326172,
+        505.80682373046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/17",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">O-RAN Open Radio Access Network</p>",
+      "page": 179,
+      "polygon": [
+        [
+          56.45703125,
+          513.9668273925781
+        ],
+        [
+          244.01014709472656,
+          513.9668273925781
+        ],
+        [
+          244.01014709472656,
+          524.1943359375
+        ],
+        [
+          56.45703125,
+          524.1943359375
+        ]
+      ],
+      "bbox": [
+        56.45703125,
+        513.9668273925781,
+        244.01014709472656,
+        524.1943359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/18",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">O-Cloud O-RAN Cloud</p>",
+      "page": 179,
+      "polygon": [
+        [
+          55.583984375,
+          532.2068481445312
+        ],
+        [
+          186.2295379638672,
+          532.2068481445312
+        ],
+        [
+          186.2295379638672,
+          543.9287109375
+        ],
+        [
+          55.583984375,
+          543.9287109375
+        ]
+      ],
+      "bbox": [
+        55.583984375,
+        532.2068481445312,
+        186.2295379638672,
+        543.9287109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/19",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">PNF Physical Network Function</p>",
+      "page": 179,
+      "polygon": [
+        [
+          56.680179595947266,
+          550.4468383789062
+        ],
+        [
+          237.1464385986328,
+          550.4468383789062
+        ],
+        [
+          237.1464385986328,
+          560.5268249511719
+        ],
+        [
+          56.680179595947266,
+          560.5268249511719
+        ]
+      ],
+      "bbox": [
+        56.680179595947266,
+        550.4468383789062,
+        237.1464385986328,
+        560.5268249511719
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/20",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">SMO Service Management and Orchestration</p>",
+      "page": 179,
+      "polygon": [
+        [
+          55.875,
+          567.7744140625
+        ],
+        [
+          286.359375,
+          567.7744140625
+        ],
+        [
+          286.359375,
+          578.7668151855469
+        ],
+        [
+          55.875,
+          578.7668151855469
+        ]
+      ],
+      "bbox": [
+        55.875,
+        567.7744140625,
+        286.359375,
+        578.7668151855469
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/21",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">VNF Virtualised Network Function YANG Yet Another Next Generation</p>",
+      "page": 179,
+      "polygon": [
+        [
+          56.680179595947266,
+          586.9268341064453
+        ],
+        [
+          247.9453125,
+          586.9268341064453
+        ],
+        [
+          247.9453125,
+          615.246826171875
+        ],
+        [
+          56.680179595947266,
+          615.246826171875
+        ]
+      ],
+      "bbox": [
+        56.680179595947266,
+        586.9268341064453,
+        247.9453125,
+        615.246826171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2",
+        "3": "/page/5/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/22",
+      "block_type": "SectionHeader",
+      "html": "<h1>4 SCM Background</h1>",
+      "page": 179,
+      "polygon": [
+        [
+          41.32421875,
+          661.3363037109375
+        ],
+        [
+          205.1459197998047,
+          661.3363037109375
+        ],
+        [
+          205.1459197998047,
+          679.6025390625
+        ],
+        [
+          41.32421875,
+          679.6025390625
+        ]
+      ],
+      "bbox": [
+        41.32421875,
+        661.3363037109375,
+        205.1459197998047,
+        679.6025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/22"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/23",
+      "block_type": "SectionHeader",
+      "html": "<h3>4.1 Introduction</h3>",
+      "page": 179,
+      "polygon": [
+        [
+          41.615234375,
+          699.3369140625
+        ],
+        [
+          154.9346160888672,
+          699.3369140625
+        ],
+        [
+          154.9346160888672,
+          715.9318923950195
+        ],
+        [
+          41.615234375,
+          715.9318923950195
+        ]
+      ],
+      "bbox": [
+        41.615234375,
+        699.3369140625,
+        154.9346160888672,
+        715.9318923950195
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/22",
+        "3": "/page/5/SectionHeader/23"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/24",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Management of security configuration is currently not handled in a consistent way in O-RAN. Different work groups see the  topic in different ways. In some cases, this is expected to be a topic only for the security work group while in other cases it is  defined within a work group.</p>",
+      "page": 179,
+      "polygon": [
+        [
+          40.7421875,
+          726.3668060302734
+        ],
+        [
+          545.1367797851562,
+          726.3668060302734
+        ],
+        [
+          545.1367797851562,
+          760.9268493652344
+        ],
+        [
+          40.7421875,
+          760.9268493652344
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        726.3668060302734,
+        545.1367797851562,
+        760.9268493652344
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/22",
+        "3": "/page/5/SectionHeader/23"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/25",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 179,
+      "polygon": [
+        [
+          518.298828125,
+          804.5869140625
+        ],
+        [
+          524.701171875,
+          804.5869140625
+        ],
+        [
+          524.701171875,
+          813.6318359375
+        ],
+        [
+          518.298828125,
+          813.6318359375
+        ]
+      ],
+      "bbox": [
+        518.298828125,
+        804.5869140625,
+        524.701171875,
+        813.6318359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/22",
+        "3": "/page/5/SectionHeader/23"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/26",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 179,
+      "polygon": [
+        [
+          39.578125,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          814.4509544372559
+        ],
+        [
+          39.578125,
+          814.4509544372559
+        ]
+      ],
+      "bbox": [
+        39.578125,
+        804.5869140625,
+        524.4953002929688,
+        814.4509544372559
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/22",
+        "3": "/page/5/SectionHeader/23"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 211,
+      "polygon": [
+        [
+          377.15625,
+          34.9462890625
+        ],
+        [
+          535.46875,
+          34.9462890625
+        ],
+        [
+          535.46875,
+          44.5308837890625
+        ],
+        [
+          377.15625,
+          44.5308837890625
+        ]
+      ],
+      "bbox": [
+        377.15625,
+        34.9462890625,
+        535.46875,
+        44.5308837890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/22",
+        "3": "/page/5/SectionHeader/23"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/6/Picture/1'></p>",
+      "page": 211,
+      "polygon": [
+        [
+          42.02265625,
+          36.87861328125
+        ],
+        [
+          129.09453125,
+          36.87861328125
+        ],
+        [
+          129.09453125,
+          66.72685546875
+        ],
+        [
+          42.02265625,
+          66.72685546875
+        ]
+      ],
+      "bbox": [
+        42.02265625,
+        36.87861328125,
+        129.09453125,
+        66.72685546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/22",
+        "3": "/page/5/SectionHeader/23"
+      },
+      "images": {
+        "/page/6/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">For example, there are YANG models related to NACM included in WG4 definitions for Open Fronthaul M-plane. For O1,  there are security requirements on NACM stated in [i.2]. There may be other areas where security configuration such as LDAP  configuration, NACM configuration, Certificate Management configuration is required. Some of the security requirements  related to NACM, LDAP are defined in [i.2].</p>",
+      "page": 211,
+      "polygon": [
+        [
+          41.90625,
+          72.1268310546875
+        ],
+        [
+          552.80810546875,
+          72.1268310546875
+        ],
+        [
+          552.80810546875,
+          119.6396484375
+        ],
+        [
+          41.90625,
+          119.6396484375
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        72.1268310546875,
+        552.80810546875,
+        119.6396484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/22",
+        "3": "/page/5/SectionHeader/23"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">There are several discussions on O1 security configuration aspects such as NACM, etc happening across O-RAN WGs  (WG11, W10, etc) showing a need to have Security Configuration Management specifications in O-RAN.</p>",
+      "page": 211,
+      "polygon": [
+        [
+          40.7421875,
+          129.0068359375
+        ],
+        [
+          520.7125854492188,
+          129.0068359375
+        ],
+        [
+          520.7125854492188,
+          151.32684326171875
+        ],
+        [
+          40.7421875,
+          151.32684326171875
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        129.0068359375,
+        520.7125854492188,
+        151.32684326171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/22",
+        "3": "/page/5/SectionHeader/23"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h3>4.2 Considerations</h3>",
+      "page": 211,
+      "polygon": [
+        [
+          40.7421875,
+          171.4423828125
+        ],
+        [
+          178.0962371826172,
+          171.4423828125
+        ],
+        [
+          178.0962371826172,
+          187.69183349609375
+        ],
+        [
+          40.7421875,
+          187.69183349609375
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        171.4423828125,
+        178.0962371826172,
+        187.69183349609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/22",
+        "3": "/page/6/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">This document makes the following considerations:</p>",
+      "page": 211,
+      "polygon": [
+        [
+          40.7421875,
+          198.1268310546875
+        ],
+        [
+          249.40234375,
+          198.1268310546875
+        ],
+        [
+          249.40234375,
+          208.20684814453125
+        ],
+        [
+          40.7421875,
+          208.20684814453125
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        198.1268310546875,
+        249.40234375,
+        208.20684814453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/22",
+        "3": "/page/6/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/ListGroup/209",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> This TR performs a detailed study of the Security Configuration Management for O1 interface and Open Fronthaul Mplane.</li><li block-type=\"ListItem\"> The existing O-RAN specifications such as O-RAN.WG10.Information Model and Data Models [i.7], O-RAN.WG10.O1NRM.1 [i.8], O-RAN.WG4.MP-YANGs [i5], O-RAN.WG4.CTI-TMP-YANG [i.9], O-RAN.WG5.O-DU-O1.1 [i.10], O-RAN.WG5.O-CU-O1.0 [i.11] discuss the YANG models which are considered as the baseline  specifications for the Security Configuration Management TR to identify and develop the security YANG models for  O-RAN framework fulfilling the security requirements specified in [i.2].</li><li block-type=\"ListItem\"> The Security YANG model considers the rules and guideline as specified in O-RAN specifications [i.5] [i.7] [i.8] [i.9]  [i.10] [i.11].</li><li block-type=\"ListItem\"> The pyang YANG validator tool is considered for evaluating the security YANG model as recommended in [i.12].</li><li block-type=\"ListItem\"> The recommended security YANG models for O1 interface provided in this report to be shared with the impacted O-RAN Alliance working group, such as WG4 and WG10.</li></ul></p>",
+      "page": 211,
+      "polygon": [
+        [
+          54.7109375,
+          218.85028076171875
+        ],
+        [
+          550.126953125,
+          218.85028076171875
+        ],
+        [
+          550.126953125,
+          366.8468322753906
+        ],
+        [
+          54.7109375,
+          366.8468322753906
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        218.85028076171875,
+        550.126953125,
+        366.8468322753906
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/22",
+        "3": "/page/6/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/11",
+      "block_type": "SectionHeader",
+      "html": "<h1>5 Study and identify the security gaps related to SCM</h1>",
+      "page": 211,
+      "polygon": [
+        [
+          41.90625,
+          411.9762878417969
+        ],
+        [
+          473.3100280761719,
+          411.9762878417969
+        ],
+        [
+          473.3100280761719,
+          429.9762878417969
+        ],
+        [
+          41.90625,
+          429.9762878417969
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        411.9762878417969,
+        473.3100280761719,
+        429.9762878417969
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Editor's note: This clause will study and identify the security gaps related to security configuration management like NACM,  certificate and LDAP aligning with SRCS and SPS.</p>",
+      "page": 211,
+      "polygon": [
+        [
+          41.90625,
+          439.5009765625
+        ],
+        [
+          555.062255859375,
+          439.5009765625
+        ],
+        [
+          555.062255859375,
+          464.30072021484375
+        ],
+        [
+          41.90625,
+          464.30072021484375
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        439.5009765625,
+        555.062255859375,
+        464.30072021484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/13",
+      "block_type": "SectionHeader",
+      "html": "<h3>5.1 Assets</h3>",
+      "page": 211,
+      "polygon": [
+        [
+          41.90625,
+          484.314453125
+        ],
+        [
+          119.35118865966797,
+          484.314453125
+        ],
+        [
+          119.35118865966797,
+          500.6518859863281
+        ],
+        [
+          41.90625,
+          500.6518859863281
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        484.314453125,
+        119.35118865966797,
+        500.6518859863281
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/6/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">This document makes the following considerations:</p>",
+      "page": 211,
+      "polygon": [
+        [
+          41.90625,
+          511.58074951171875
+        ],
+        [
+          251.38409423828125,
+          511.58074951171875
+        ],
+        [
+          251.38409423828125,
+          521.6607360839844
+        ],
+        [
+          41.90625,
+          521.6607360839844
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        511.58074951171875,
+        251.38409423828125,
+        521.6607360839844
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/6/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/15",
+      "block_type": "SectionHeader",
+      "html": "<h4>5.1.1 O-RAN Architecture Elements</h4>",
+      "page": 211,
+      "polygon": [
+        [
+          41.90625,
+          541.3975219726562
+        ],
+        [
+          251.13429260253906,
+          541.3975219726562
+        ],
+        [
+          251.13429260253906,
+          553.3975219726562
+        ],
+        [
+          41.90625,
+          553.3975219726562
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        541.3975219726562,
+        251.13429260253906,
+        553.3975219726562
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/6/SectionHeader/13",
+        "4": "/page/6/SectionHeader/15"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/ListGroup/210",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> ASSET-C-01: Logical module: Service Management and Orchestration (SMO)</li><li block-type=\"ListItem\"> ASSET-C-02: Near-RT RIC software</li><li block-type=\"ListItem\"> ASSET-C-03: O-CU-CP software</li><li block-type=\"ListItem\"> ASSET-C-04: O-CU-UP software</li><li block-type=\"ListItem\"> ASSET-C-05: O-DU software</li><li block-type=\"ListItem\"> ASSET-C-06: O-RU software</li><li block-type=\"ListItem\"> ASSET-C-07: O-eNB</li><li block-type=\"ListItem\"> ASSET-C-31: Shared O-RU</li></ul></p>",
+      "page": 211,
+      "polygon": [
+        [
+          59.076171875,
+          564.4502868652344
+        ],
+        [
+          399.57501220703125,
+          564.4502868652344
+        ],
+        [
+          399.57501220703125,
+          700.4468383789062
+        ],
+        [
+          59.076171875,
+          700.4468383789062
+        ]
+      ],
+      "bbox": [
+        59.076171875,
+        564.4502868652344,
+        399.57501220703125,
+        700.4468383789062
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/6/SectionHeader/13",
+        "4": "/page/6/SectionHeader/15"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/24",
+      "block_type": "SectionHeader",
+      "html": "<h4>5.1.2 O-RAN interfaces</h4>",
+      "page": 211,
+      "polygon": [
+        [
+          41.32421875,
+          728.9384765625
+        ],
+        [
+          182.44149780273438,
+          728.9384765625
+        ],
+        [
+          182.44149780273438,
+          741.0775146484375
+        ],
+        [
+          41.32421875,
+          741.0775146484375
+        ]
+      ],
+      "bbox": [
+        41.32421875,
+        728.9384765625,
+        182.44149780273438,
+        741.0775146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/6/SectionHeader/13",
+        "4": "/page/6/SectionHeader/24"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/ListGroup/211",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> ASSET-C-22: O1 interface, including protocol stack</li><li block-type=\"ListItem\"> ASSET-C-24: Open FH M-plane, including protocol stack</li></ul></p>",
+      "page": 211,
+      "polygon": [
+        [
+          58.78515625,
+          751.9619140625
+        ],
+        [
+          313.71484375,
+          751.9619140625
+        ],
+        [
+          313.71484375,
+          784.0302734375
+        ],
+        [
+          58.78515625,
+          784.0302734375
+        ]
+      ],
+      "bbox": [
+        58.78515625,
+        751.9619140625,
+        313.71484375,
+        784.0302734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/6/SectionHeader/13",
+        "4": "/page/6/SectionHeader/24"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageFooter/27",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 211,
+      "polygon": [
+        [
+          518.298828125,
+          804.5869140625
+        ],
+        [
+          524.701171875,
+          804.5869140625
+        ],
+        [
+          524.701171875,
+          813.6318359375
+        ],
+        [
+          518.298828125,
+          813.6318359375
+        ]
+      ],
+      "bbox": [
+        518.298828125,
+        804.5869140625,
+        524.701171875,
+        813.6318359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/6/SectionHeader/13",
+        "4": "/page/6/SectionHeader/24"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageFooter/28",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 211,
+      "polygon": [
+        [
+          39.578125,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          814.4509544372559
+        ],
+        [
+          39.578125,
+          814.4509544372559
+        ]
+      ],
+      "bbox": [
+        39.578125,
+        804.5869140625,
+        524.4953002929688,
+        814.4509544372559
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/6/SectionHeader/13",
+        "4": "/page/6/SectionHeader/24"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 271,
+      "polygon": [
+        [
+          377.15625,
+          34.9462890625
+        ],
+        [
+          535.46875,
+          34.9462890625
+        ],
+        [
+          535.46875,
+          44.5308837890625
+        ],
+        [
+          377.15625,
+          44.5308837890625
+        ]
+      ],
+      "bbox": [
+        377.15625,
+        34.9462890625,
+        535.46875,
+        44.5308837890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/6/SectionHeader/13",
+        "4": "/page/6/SectionHeader/24"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/7/Picture/1'></p>",
+      "page": 271,
+      "polygon": [
+        [
+          41.382421875,
+          37.2486328125
+        ],
+        [
+          129.734765625,
+          37.2486328125
+        ],
+        [
+          129.734765625,
+          68.0013671875
+        ],
+        [
+          41.382421875,
+          68.0013671875
+        ]
+      ],
+      "bbox": [
+        41.382421875,
+        37.2486328125,
+        129.734765625,
+        68.0013671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/6/SectionHeader/13",
+        "4": "/page/6/SectionHeader/24"
+      },
+      "images": {
+        "/page/7/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/7/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h3>5.2 Security Controls</h3>",
+      "page": 271,
+      "polygon": [
+        [
+          41.32421875,
+          72.97186279296875
+        ],
+        [
+          193.18568420410156,
+          72.97186279296875
+        ],
+        [
+          193.18568420410156,
+          89.0518798828125
+        ],
+        [
+          41.32421875,
+          89.0518798828125
+        ]
+      ],
+      "bbox": [
+        41.32421875,
+        72.97186279296875,
+        193.18568420410156,
+        89.0518798828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The following security controls should be considered for the security gap analysis:</p>",
+      "page": 271,
+      "polygon": [
+        [
+          41.90625,
+          99.0830078125
+        ],
+        [
+          372.6607360839844,
+          99.0830078125
+        ],
+        [
+          372.6607360839844,
+          109.56683349609375
+        ],
+        [
+          41.90625,
+          109.56683349609375
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        99.0830078125,
+        372.6607360839844,
+        109.56683349609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/226",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Control-1: Certificate Management</li><li block-type=\"ListItem\"> Control-2: TLS</li><li block-type=\"ListItem\"> Control-3: mTLS</li><li block-type=\"ListItem\"> Control-4: SSH</li><li block-type=\"ListItem\"> Control-5: NACM with NETCONF</li><li block-type=\"ListItem\"> Control-6: MACsec</li><li block-type=\"ListItem\"> Control-7: IPsec</li><li block-type=\"ListItem\"> Control-8: 802.1X</li></ul></p>",
+      "page": 271,
+      "polygon": [
+        [
+          59.076171875,
+          120.21026611328125
+        ],
+        [
+          221.57337951660156,
+          120.21026611328125
+        ],
+        [
+          221.57337951660156,
+          215.8868408203125
+        ],
+        [
+          59.076171875,
+          215.8868408203125
+        ]
+      ],
+      "bbox": [
+        59.076171875,
+        120.21026611328125,
+        221.57337951660156,
+        215.8868408203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/12",
+      "block_type": "SectionHeader",
+      "html": "<h3>5.3 Input recommendations</h3>",
+      "page": 271,
+      "polygon": [
+        [
+          41.90625,
+          226.5341796875
+        ],
+        [
+          238.6328125,
+          226.5341796875
+        ],
+        [
+          238.6328125,
+          243.37188720703125
+        ],
+        [
+          41.90625,
+          243.37188720703125
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        226.5341796875,
+        238.6328125,
+        243.37188720703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The following are considered for security configuration management gap analysis:</p>",
+      "page": 271,
+      "polygon": [
+        [
+          41.90625,
+          253.6689453125
+        ],
+        [
+          372.620361328125,
+          253.6689453125
+        ],
+        [
+          372.620361328125,
+          263.8868408203125
+        ],
+        [
+          41.90625,
+          263.8868408203125
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        253.6689453125,
+        372.620361328125,
+        263.8868408203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/227",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Certificate configuration</li><li block-type=\"ListItem\"> NETCONF access control, NACM configuration</li><li block-type=\"ListItem\"> LDAP configuration</li></ul></p>",
+      "page": 271,
+      "polygon": [
+        [
+          58.203125,
+          274.5302734375
+        ],
+        [
+          274.5895080566406,
+          274.5302734375
+        ],
+        [
+          274.5895080566406,
+          309.246826171875
+        ],
+        [
+          58.203125,
+          309.246826171875
+        ]
+      ],
+      "bbox": [
+        58.203125,
+        274.5302734375,
+        274.5895080566406,
+        309.246826171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/17",
+      "block_type": "SectionHeader",
+      "html": "<h3>5.4 Threat template</h3>",
+      "page": 271,
+      "polygon": [
+        [
+          41.615234375,
+          341.0518798828125
+        ],
+        [
+          183.44122314453125,
+          341.0518798828125
+        ],
+        [
+          183.44122314453125,
+          357.1318664550781
+        ],
+        [
+          41.615234375,
+          357.1318664550781
+        ]
+      ],
+      "bbox": [
+        41.615234375,
+        341.0518798828125,
+        183.44122314453125,
+        357.1318664550781
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/17"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Table/18",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>Threat ID</th><th>O-RAN threat ID</th></tr><tr><th>Threat title</th><th>[Threat Title will include suitable reference of 3GPP/IETF/ETSI]</th></tr><tr><th>Threat description</th><th>Introduction about the threat</th></tr><tr><th>Threat type</th><th>Spoofing</th></tr><tr><th></th><th>Tampering</th></tr><tr><th></th><th>Repudiation</th></tr><tr><th></th><th>Information disclosure</th></tr><tr><th></th><th>Denial of Service</th></tr><tr><th></th><th>Elevation of Privilege</th></tr><tr><th>Vulnerability</th><th>TBD</th></tr><tr><th>Impact type</th><th>Authenticity</th></tr><tr><th></th><th>Integrity</th></tr><tr><th></th><th>Non-repudiation</th></tr><tr><th></th><th>Confidentiality</th></tr><tr><th></th><th>Availability</th></tr><tr><th></th><th>Authorization</th></tr><tr><th>Affected Assets</th><th>Asset identification</th></tr></tbody></table>",
+      "page": 271,
+      "polygon": [
+        [
+          97.24578125,
+          385.3630078125
+        ],
+        [
+          508.06671875,
+          385.3630078125
+        ],
+        [
+          508.06671875,
+          581.6213671875
+        ],
+        [
+          97.24578125,
+          581.6213671875
+        ]
+      ],
+      "bbox": [
+        97.24578125,
+        385.3630078125,
+        508.06671875,
+        581.6213671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/17"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/19",
+      "block_type": "SectionHeader",
+      "html": "<h3>5.5 SCM Threats analysis</h3>",
+      "page": 271,
+      "polygon": [
+        [
+          41.32421875,
+          600.6650390625
+        ],
+        [
+          232.2890625,
+          600.6650390625
+        ],
+        [
+          232.2890625,
+          616.8119049072266
+        ],
+        [
+          41.32421875,
+          616.8119049072266
+        ]
+      ],
+      "bbox": [
+        41.32421875,
+        600.6650390625,
+        232.2890625,
+        616.8119049072266
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/20",
+      "block_type": "SectionHeader",
+      "html": "<h4>5.5.1 Certificate related threats</h4>",
+      "page": 271,
+      "polygon": [
+        [
+          42.479976654052734,
+          647.95751953125
+        ],
+        [
+          222.48019409179688,
+          647.95751953125
+        ],
+        [
+          222.48019409179688,
+          659.95751953125
+        ],
+        [
+          42.479976654052734,
+          659.95751953125
+        ]
+      ],
+      "bbox": [
+        42.479976654052734,
+        647.95751953125,
+        222.48019409179688,
+        659.95751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19",
+        "4": "/page/7/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Table/21",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>Threat ID</th><th>T-SCM-Cert-01</th></tr><tr><th>Threat title</th><th>Configuration of incorrect Certificate parameter</th></tr><tr><th>Threat<br/>description</th><th>Certificate parameters may be misconfigured intentionally or unintentionally which may lead to<br/>the CA issuing a rogue certificate or the wrong certificate</th></tr><tr><th>Threat type</th><th>Denial of Service, Tampering</th></tr><tr><th>Vulnerability</th><th>It may lead to incorrect certificate issued by the CA issuer</th></tr></tbody></table>",
+      "page": 271,
+      "polygon": [
+        [
+          51.0325,
+          666.98076171875
+        ],
+        [
+          544.9675,
+          666.98076171875
+        ],
+        [
+          544.9675,
+          780.20673828125
+        ],
+        [
+          51.0325,
+          780.20673828125
+        ]
+      ],
+      "bbox": [
+        51.0325,
+        666.98076171875,
+        544.9675,
+        780.20673828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19",
+        "4": "/page/7/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageFooter/22",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 271,
+      "polygon": [
+        [
+          518.0078125,
+          804.5869140625
+        ],
+        [
+          524.9921875,
+          804.5869140625
+        ],
+        [
+          524.9921875,
+          813.6318359375
+        ],
+        [
+          518.0078125,
+          813.6318359375
+        ]
+      ],
+      "bbox": [
+        518.0078125,
+        804.5869140625,
+        524.9921875,
+        813.6318359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19",
+        "4": "/page/7/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageFooter/23",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 271,
+      "polygon": [
+        [
+          40.7421875,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          814.4509544372559
+        ],
+        [
+          40.7421875,
+          814.4509544372559
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        804.5869140625,
+        524.4953002929688,
+        814.4509544372559
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19",
+        "4": "/page/7/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 162,
+      "polygon": [
+        [
+          377.73828125,
+          34.9462890625
+        ],
+        [
+          534.98095703125,
+          34.9462890625
+        ],
+        [
+          534.98095703125,
+          44.5308837890625
+        ],
+        [
+          377.73828125,
+          44.5308837890625
+        ]
+      ],
+      "bbox": [
+        377.73828125,
+        34.9462890625,
+        534.98095703125,
+        44.5308837890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19",
+        "4": "/page/7/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/8/Picture/1'></p>",
+      "page": 162,
+      "polygon": [
+        [
+          42.931640625,
+          37.330859375
+        ],
+        [
+          129.349609375,
+          37.330859375
+        ],
+        [
+          129.349609375,
+          66.274609375
+        ],
+        [
+          42.931640625,
+          66.274609375
+        ]
+      ],
+      "bbox": [
+        42.931640625,
+        37.330859375,
+        129.349609375,
+        66.274609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19",
+        "4": "/page/7/SectionHeader/20"
+      },
+      "images": {
+        "/page/8/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/8/Table/2",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>Impact type</th><th>Availability</th></tr><tr><th>Affected Asset</th><th>ASSET-C-01, ASSET-C-02, ASSET-C-03, ASSET-C-04, ASSET-C-05,ASSET-C-06, ASSET-C<br/>07, ASSET-C-31</th></tr></tbody></table>",
+      "page": 162,
+      "polygon": [
+        [
+          51.0325,
+          66.89953125
+        ],
+        [
+          544.9675,
+          66.89953125
+        ],
+        [
+          544.9675,
+          120.57703125
+        ],
+        [
+          51.0325,
+          120.57703125
+        ]
+      ],
+      "bbox": [
+        51.0325,
+        66.89953125,
+        544.9675,
+        120.57703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19",
+        "4": "/page/7/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Table/3",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>Threat ID</th><th>T-SCM-Cert-02</th></tr><tr><th>Threat title</th><th>Tampering of Certificate parameter</th></tr><tr><th>Threat<br/>description</th><th>If the certificate parameters are tampered or comprised by the malicious actor, which may lead<br/>to initiation of valid certificate request to CA by the attacker</th></tr><tr><th></th><th></th></tr><tr><th>Threat type</th><th>Denial of Service, Tampering</th></tr><tr><th>Vulnerability</th><th>Attacker may claim as trusted entity</th></tr><tr><th></th><th>Confidentiality</th></tr><tr><th>Impact type</th><th>Authenticity</th></tr><tr><th></th><th>Availability</th></tr><tr><th>Affected Asset</th><th>ASSET-C-01, ASSET-C-02, ASSET-C-03, ASSET-C-04, ASSET-C-05,ASSET-C-06, ASSET-C<br/>07, ASSET-C-31</th></tr></tbody></table>",
+      "page": 162,
+      "polygon": [
+        [
+          51.05578125,
+          146.001484375
+        ],
+        [
+          542.61609375,
+          146.001484375
+        ],
+        [
+          542.61609375,
+          350.646953125
+        ],
+        [
+          51.05578125,
+          350.646953125
+        ]
+      ],
+      "bbox": [
+        51.05578125,
+        146.001484375,
+        542.61609375,
+        350.646953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19",
+        "4": "/page/7/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h4>5.5.2 NACM related threats</h4>",
+      "page": 162,
+      "polygon": [
+        [
+          41.90625,
+          400.0322265625
+        ],
+        [
+          207.12744140625,
+          400.0322265625
+        ],
+        [
+          207.12744140625,
+          412.27752685546875
+        ],
+        [
+          41.90625,
+          412.27752685546875
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        400.0322265625,
+        207.12744140625,
+        412.27752685546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19",
+        "4": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Void</p>",
+      "page": 162,
+      "polygon": [
+        [
+          42.479976654052734,
+          423.0068359375
+        ],
+        [
+          63.44140625,
+          423.0068359375
+        ],
+        [
+          63.44140625,
+          433.0868225097656
+        ],
+        [
+          42.479976654052734,
+          433.0868225097656
+        ]
+      ],
+      "bbox": [
+        42.479976654052734,
+        423.0068359375,
+        63.44140625,
+        433.0868225097656
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19",
+        "4": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h4>5.5.3 LDAP related threats</h4>",
+      "page": 162,
+      "polygon": [
+        [
+          41.90625,
+          452.3575134277344
+        ],
+        [
+          203.7109375,
+          452.3575134277344
+        ],
+        [
+          203.7109375,
+          464.3575134277344
+        ],
+        [
+          41.90625,
+          464.3575134277344
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        452.3575134277344,
+        203.7109375,
+        464.3575134277344
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19",
+        "4": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Void</p>",
+      "page": 162,
+      "polygon": [
+        [
+          41.615234375,
+          472.3916015625
+        ],
+        [
+          62.521034240722656,
+          472.3916015625
+        ],
+        [
+          62.521034240722656,
+          485.16680908203125
+        ],
+        [
+          41.615234375,
+          485.16680908203125
+        ]
+      ],
+      "bbox": [
+        41.615234375,
+        472.3916015625,
+        62.521034240722656,
+        485.16680908203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/11",
+        "3": "/page/7/SectionHeader/19",
+        "4": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h1>6 Study and recommendation related to SCM</h1>",
+      "page": 162,
+      "polygon": [
+        [
+          42.479976654052734,
+          511.0380859375
+        ],
+        [
+          414.26568603515625,
+          511.0380859375
+        ],
+        [
+          414.26568603515625,
+          530.7762756347656
+        ],
+        [
+          42.479976654052734,
+          530.7762756347656
+        ]
+      ],
+      "bbox": [
+        42.479976654052734,
+        511.0380859375,
+        414.26568603515625,
+        530.7762756347656
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Editor's note: This clause will study and recommend the security requirements and security usecases related to security  configuration management like NACM, Certificate and LDAP aligning with SRCS and SPS.</p>",
+      "page": 162,
+      "polygon": [
+        [
+          40.7421875,
+          541.4619140625
+        ],
+        [
+          555.004150390625,
+          541.4619140625
+        ],
+        [
+          555.004150390625,
+          565.1007385253906
+        ],
+        [
+          40.7421875,
+          565.1007385253906
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        541.4619140625,
+        555.004150390625,
+        565.1007385253906
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Void</p>",
+      "page": 162,
+      "polygon": [
+        [
+          41.32421875,
+          574.3525390625
+        ],
+        [
+          62.521034240722656,
+          574.3525390625
+        ],
+        [
+          62.521034240722656,
+          585.7268371582031
+        ],
+        [
+          41.32421875,
+          585.7268371582031
+        ]
+      ],
+      "bbox": [
+        41.32421875,
+        574.3525390625,
+        62.521034240722656,
+        585.7268371582031
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/11",
+      "block_type": "SectionHeader",
+      "html": "<h1>7 Conclusion</h1>",
+      "page": 162,
+      "polygon": [
+        [
+          42.197265625,
+          610.12109375
+        ],
+        [
+          153.13327026367188,
+          610.12109375
+        ],
+        [
+          153.13327026367188,
+          631.3363037109375
+        ],
+        [
+          42.197265625,
+          631.3363037109375
+        ]
+      ],
+      "bbox": [
+        42.197265625,
+        610.12109375,
+        153.13327026367188,
+        631.3363037109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Editor's note : This clause will provide the summary for the SCM TR.</p>",
+      "page": 162,
+      "polygon": [
+        [
+          42.479976654052734,
+          642.6207427978516
+        ],
+        [
+          317.19293212890625,
+          642.6207427978516
+        ],
+        [
+          317.19293212890625,
+          652.7007446289062
+        ],
+        [
+          42.479976654052734,
+          652.7007446289062
+        ]
+      ],
+      "bbox": [
+        42.479976654052734,
+        642.6207427978516,
+        317.19293212890625,
+        652.7007446289062
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Void</p>",
+      "page": 162,
+      "polygon": [
+        [
+          41.32421875,
+          663.0068206787109
+        ],
+        [
+          62.521034240722656,
+          663.0068206787109
+        ],
+        [
+          62.521034240722656,
+          673.0868225097656
+        ],
+        [
+          41.32421875,
+          673.0868225097656
+        ]
+      ],
+      "bbox": [
+        41.32421875,
+        663.0068206787109,
+        62.521034240722656,
+        673.0868225097656
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageFooter/14",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 162,
+      "polygon": [
+        [
+          518.58984375,
+          804.5869140625
+        ],
+        [
+          524.41015625,
+          804.5869140625
+        ],
+        [
+          524.41015625,
+          813.6318359375
+        ],
+        [
+          518.58984375,
+          813.6318359375
+        ]
+      ],
+      "bbox": [
+        518.58984375,
+        804.5869140625,
+        524.41015625,
+        813.6318359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageFooter/15",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 162,
+      "polygon": [
+        [
+          41.90625,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          804.5869140625
+        ],
+        [
+          524.4953002929688,
+          814.4509544372559
+        ],
+        [
+          41.90625,
+          814.4509544372559
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        804.5869140625,
+        524.4953002929688,
+        814.4509544372559
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 173,
+      "polygon": [
+        [
+          377.87713623046875,
+          34.9462890625
+        ],
+        [
+          534.98095703125,
+          34.9462890625
+        ],
+        [
+          534.98095703125,
+          44.5308837890625
+        ],
+        [
+          377.87713623046875,
+          44.5308837890625
+        ]
+      ],
+      "bbox": [
+        377.87713623046875,
+        34.9462890625,
+        534.98095703125,
+        44.5308837890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/9/Picture/1'></p>",
+      "page": 173,
+      "polygon": [
+        [
+          40.5384765625,
+          36.87861328125
+        ],
+        [
+          128.2505859375,
+          36.87861328125
+        ],
+        [
+          128.2505859375,
+          66.72685546875
+        ],
+        [
+          40.5384765625,
+          66.72685546875
+        ]
+      ],
+      "bbox": [
+        40.5384765625,
+        36.87861328125,
+        128.2505859375,
+        66.72685546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/11"
+      },
+      "images": {
+        "/page/9/Picture/1": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABQAOoDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAozSE1Xnu0h46t6CsqtaFKLnN2Q0m3ZFjIoyKwr3U5Ioy5cRqO9ctd+IJg5aKSUnsdxA/KvIee0W7Qi2dlHA1Kux6NkUteZ2/jXULWTMoWZO6t1/Ouw0TxNY62u2J9lwBloX4P1HqK9DD46nX0WjCvgK1Bc0loblFJRXYcQuaM1R1XUYdJ0y4v7gnyoE3HHU+3515bJ8Yb/AM1vK0u38vPyhnbOPfFb0cNVrXcEc9bFUqLSmz2CivHf+Fw6l/0DLX/vpqP+Fw6n/wBAy1/76atv7OxHYw/tLD9z2LNFedaJ8V7C9nSDUrc2bNx5obcmffuK9CR1kRXRgysMgg5BFc9WjOk7TVjqpV6dVXg7j6KSkd1RSzEAAZJPasjUdkUZrx3W/ivqLahImkJClqjEK8ibjIPX2rsvBHjRfFEMkU6LDewgFlU8OPUV0zwlWEOeS0OSnjaVSfJF6nYUUUhrmOsXNGRXn/jzx5P4du007T40a5ZBI8jjIQEnAx68Ungbx++vXJ07UljS82lo3QYWT29jXR9Vq+z9rbQ5frdL2vsr6noOaM0g6UhOAT6VznULkUua8d1H4q6nFrkotYYDYxSFQjDJcA4zntXrVpcLd2cFyoIWWNXAPbIzW1XDzpJOfU56OJp1m1DoWKKSlrE6AoopKAKGrX32G13IN00hCRr6k1nxqUT5mLN1Zj1J9ap65cmXxHZwZ+WPBx/tH/62Kt3G77PIFBLFSBj1r47O8RKpWVJbL8zpw6TuzmdVu2uZ2wf3a8KP61iagJLO0+1TQTiD++ImI/PGK9B0vw9FEBPeKJJTyEPIX/Gt1okeMoygqRggjgiu3B5O3BOo7eR6P9pQotRgrpHz/Jrlq/RZfyH+NFtqnl3CXFpMUmjO5T0Irt/GXw4imje/0SMRyqMvbDo/+76H2ryg74nIIKup5B4INbTwnsXofU4KphcbSbp/NM+ifDGux69o6XIwJlOyVR2Yf5zW0K8f+FerFdbms2bCXMeduP41/wDrZr2AHivYoTc6ab3Pisywv1bEyprboc14/wD+RI1T/rmP/QhXgFtGJrqGN/uu6qcehNe/+P8A/kSNT/65j/0IV4DZsFvbdmICiRSSewzX0OWfwZWPk80/jxPbR8K/DWPuXX/f41Dc/CfQJIGW3e5ikI+VzJux+FdIPFXh/H/IasP/AAIX/GoLvxr4ctIGlfV7VwP4YXEjH8Fya85VcTfRs9F0cLbVI8E1jSrjRdVn0+5x5kLY3AcMOxFewfCvVZdQ8NPbzPue0l8tc9dhAI/qPwryfxPrI1/xBdagqFEkICKeu0DAz716r8KdMlsvDctzMhQ3c29M9SgAAP55r08drhk5/FoeZgNMU/Z/Dqd7XI/EXWf7J8KzojYmuv3KfQ/e/T+ddbmvEfilrP8AaHiQWMbZhs12nHTeeT+mB+deZgqPtayXRHqY6t7Ki31Zx9lp9zqBnFugYwQtO+TjCLyTWp4N1j+w/FFndM22Fm8qb/cbg/kcH8K7/wCE+ihdJvdQmQEXJ8pQR1Udf1Nea6/pjaLr15YYIEUh2c/w9R+mK9pVo1pzoPoeG6MqMIVz6VVsgEdDSmuY8B6yNZ8L2zswM0I8mQZ5yOn6Yrp6+dnBwk4vofS05qpBSXU8I+J//I73H/XKP/0GuTtbqayu4rm3cpNEwZGHYius+J//ACO9x/1yj/8AQazLfw5Je+D5tZtwWe2uCkq/7G0c/gTX0lCUY4eHNs7I+YxEZSxE+XdXZ7f4V8Qw+I9DhvI8CUDbMg/gcdfw7itmT/VN/umvn7wT4nPhvWleVj9imIScdgP72PavfvMWS3LowZWXII6EYrxMXh3RqWWz2PdweJVenruj5guf+Pub/fb+dfSuif8AIC0//r2j/wDQRXzVc/8AH1N/vt/OvpbRP+QFYf8AXtH/AOgiu7NPggcGVfxJl+iiivGPcCkNLRQBwHiWZrbX2mXqhVv0Fb9rcRzxxTxsCjYINZHjmDy5re5xhZAYyf8AaHI/TP5Vy+m+IpNHlMcqmS1bkoOqn1FfKZhhJutzR3TuOnVUJNS2Z66OgpaydF1yx1a0Vra6jdhwVzhvxHWtYnivp6U+eCl3Fp0EbAUk9AK+aNenWfWr+ZQArTvjH1r27xt4nt9D0Gfy50a8mBjhQMCQT1J9gOfyr5/uGxFk+ta1KKlQlJn0GQuVOo59Hodb8Ln3eNYB/sOf/HTXS6l4o8fRalcRwabIkSyEIq2pcY7fN3+tVPgxpTyXeoatIuI0UQRk45Y8t+Qx/wB9V7EAKnBTVKN5RTv3PO4gviMT7kmrdjy2fVfEOp+ANeOu2rQsip5TNF5Zb5hnivK0RpHWNBlmIUD3NfQXj8f8UPqn/XMf+hCvA7L/AJCFt/11X+Yr38BO8JySt5fI+OzCm41IRbv5m9N8PfFMELSvpTbVGTslRj+ADZNc26NFIUkUqynDAjBFfU3UV5d8UPCimH+3bOP5kwLlVHUdn/of/rVnhsxc58lTqa4rLVThz03sVvA/gjQtVt01GW/N6UPzW+zYEb0YZyf5GvWI40ijWONQqKMAAcAV84+G/EFz4c1eO8gYmMnE0fZ09K+iLC9g1GxhvLd98MyB1Psa5sxp1IzvJ3T2OrLalOULRVmtyLWNRj0nSLq+l+7DGWx6nsPzr5rmlmv76SVsvNcSFj6szH/E16t8W9ZENjbaTG3zznzZAD/COn5n+Rry/TtJv9WleKwtZLh0GWWMZwK68upqFJ1JaXOPMqrqVVTjrY+hNCistI0SzsEuYP3MQViHHLdz+Jya82+LFhC17aapbyI4kXypNrA4I5B/LP5Vyv8AwhXiT/oD3X/fFI3gzxGqlm0i6AAyTspUcPTp1fae0TCtiKlWl7P2djovhTrX2LX5NOkfEV4vyZ6CReR+Yz+Qr2nOa+XrS5ksb2C6iJEkMgdfqDmvpXSdQj1TSra+iIKTRhxjt7Vz5nS5Zqoup05VW5oOm+h4r8T/APkd7j/rlH/6DXZfCeNJvC17HIoZGuWDKehBRa434n/8jvcf9co//Qa7X4Rf8i3d/wDX0f8A0Fa3r/7jH5GFD/f5fM878aeGn8N65JEg/wBDmJe3bPb+6fcf4V3Pwz8U/arJtDu5P30KEwE/xJ/d/D+Vdd4t8Ox+JNDltflW4Ub4HPZ+2fY18/xvd6PqYdd0F3bSd+qsDyDTpNYyhyS+JE1oywVfnj8LIrn/AI+pv99v519LaJ/yArD/AK9o/wD0EV8zO5kkZz1YknFfTGif8gKw/wCvaP8A9BFTmitGCKyl3qTZoUUUV4x7oUUUUAZ+s6VBrOmzWVxkI44ZeqsOhHuDXh2vR3nh6+NhrEZRj/qrlV/dzD1HofUV9AVQ1XR7DWrRrXULWOeE9nHQ+oPY1Lp056TRE4KR84S3oRvMt7jaw6Mj4P5iqkmravMdh1S7Ce0zf416jqvwVt5JHl0jUmhByRDcLuGfQMOQPwNZC/BvxAp/4/dNx/10f/4iuqjQw8Nea4UsJScrzkcGmSSzMWY8lmOST7mtDSdCv/EupR2Onxbuf3kh+7GO5Jr0rS/g9DG6vqmotKBgmKBdo+m48kfgK9D0vR7HRrUW1hbJDEOyjk+5PejE1VUXJHY9xY+nh4Wpav8ABEHh7Q7bw9o0GnW3KRj5mIwXbuTWrRRXNaysePKTk3J7nN+PlZvBOqBQSfKHA/3hXgmmxtNqlpGgy7zIqj1JYV9OSxJNE8UihkcFWUjgg9q57T/A2gaZqQv7ayxMGLLuYkIfYHpXoYXFxo05Ra3PMxeDlXqRmnsdGOgqO4gjubaSCVA0cilWU9walxQa4D0baWPnLxX4fl8Oa7NaMCYT88L/AN5D0/LpXoXwi1SafTr3TZMsluyyRn0DZyPzGfxNdvrXh7TfEFusOo24lVTlSDhl+hFGjaBp3h+2aDTrcRI5yxzlmPuT1r0a2NjVockl7x5tHAypYj2kX7p4b48vpr/xlqLTAgRSeSg9FXj9eT+NekfCvRjZeHmv5FxJeNlc/wBwcD8zn9K3dW8F6Hrd6Ly9s9046srFd31x1rdhhjt4EhiQJGihVUDgAdBU18ZGdCNKKt3HQwUoV5VZu/YlpGAIIpaQ9K4D0j548b6M2i+KLqELiGVvNi+h/wDr5r0f4S3ks/hq4t5NxS3nKoccYIBx+efzFdRrnhnS/EKRrqNt5hjOUdWKsPbI7Va0vSbLRrFbSxgWGFecDufUnua9CtjFVoKm1qebRwUqWIdRPQ8Y+KMbJ41mLAgPDGy+4xj+YNdp8IlI8M3TEcG6bH/fK10+t+FtJ8QmNtRtvMePhXVirAemR2q/pmm2mk2UdnZQrFBH0UfzpVMXGeHVK2qHSwcoYl1m9C3ivKvil4VJ/wCJ9Zx5xgXKgfk39DXq1RyxpLG0cihkYEMpGQR6VzUK0qM1NHViKEa0HBny1X01ooK6HYAjBFvHkf8AARWJF8PvDcOoLeJYDerbghclAf8Ad6V1AGBgdq6cbi44hRUVscmBwcsO5OT3FpaBRXAekFFFFACVka/q02lWsZtYBcXMjEJESRuABLdPYfqK1zWTe6HDqOqpdXmyWGOIpHCVPDE8tnPoAOlVG19SKnNy+7uaFpdRXlnDcwtujlQOp9QRkVNWfo+mHSbRrRZQ8Cyu0K7ceWhOQnvjJH0rQpO19BxvbUztb1CTTNNNzGiuwlijw3T55FU/zrRFZ2t6c+q6Y9rHMsLmSN1dk3AFHVuRkZ+7jrU9il8it9unt5Wz8phhMYA98s2adlYSb5vIt1T1S6ay0y6ukUM8MTOA3QkDNXKq6jaG+065td+zzo2j3YzjIxnFJWvqVK9nYlhfzIUc8FlBqWs/T4NRg+W8ubaaMKFUQ27RkfUl2zWgOlDFF3Q2RtqM3oM1n6JfvqmkQXkiqjyZyq9Bgkf0rQkXcjL6jFUtH046XpcNmZPM8rPz7cZySen40aWB35i9VXUbxNP0+e6cZESFtvqew/E1brN1fSxq0MNvJIBAJVeVCufMA/h68c4oja+oSvbQZoWpyalYs9xGsV1FI0U0akkKw9M9iCD+NatZFhocem6nPcWjLFbzxqrwBeN4Jw+c+hx+ArWxRK19BQ5uX3txrnajH0Ga5bS/Fct9osFxLbpFeNPBHJEem2R1AZfbDfmK6p13IR6jFcy3hFfI0gJdbJrExCSQR/69EYNtIzxyowe3NXDkt7xFTnv7p04oNHagjIrM2Ma81C/k1RtO02ODfFEsss0+SqhiQqgDkk7T3GMd60NPluZrRWvIBBPkh0Vtw4OMg+h6/jVG90y9GpHUNOuoYpniEUqTxF0cAkqeGBBG5vzq5ptrPaWYjubprmYszPKwxkk54HYDOAPQVbtbQyjzc2pcrL17UJNM0mS6i8verxoDL90bnVcnHpnNalZ2tac2qaZJapIkbM6OGdN65Vw3IyMg4x1pRtzK+xc78r5dyHSb2e7eQS3lhcBQMC1zkfXJNa9Zem2F3aSOZ2sCrDgW1qYjn3Jds1qUpb6Che2oUUUUiz//2Q=="
+      }
+    },
+    {
+      "id": "/page/9/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1>Annex:</h1>",
+      "page": 173,
+      "polygon": [
+        [
+          41.90625,
+          77.65631103515625
+        ],
+        [
+          98.5247802734375,
+          77.65631103515625
+        ],
+        [
+          98.5247802734375,
+          95.65631103515625
+        ],
+        [
+          41.90625,
+          95.65631103515625
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        77.65631103515625,
+        98.5247802734375,
+        95.65631103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h1>Change history/Change request (history)</h1>",
+      "page": 173,
+      "polygon": [
+        [
+          40.7421875,
+          98.29632568359375
+        ],
+        [
+          366.6796875,
+          98.29632568359375
+        ],
+        [
+          366.6796875,
+          116.29632568359375
+        ],
+        [
+          40.7421875,
+          116.29632568359375
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        98.29632568359375,
+        366.6796875,
+        116.29632568359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Table/4",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>Date</th><th>Revision</th><th>Description</th></tr><tr><td>2025.01.28</td><td>00.00.01</td><td>Skeleton proposal</td></tr><tr><td>2025.03.11</td><td>00.02</td><td>Approved CR in the month of feb and March 2025- Internal O-RAN release</td></tr><tr><td>2025.03.12</td><td>00.03</td><td>Feedback received during the SCM WI TR meeting [4] on 11/03/2025</td></tr><tr><td>2025.04.16</td><td>00.04</td><td>Approved CR in the month of April 2025 during the SCM WI TR meeting</td></tr><tr><td>2025.06.03</td><td>00.05</td><td>Approved CR in the month of June 2025 during the SCM WI TR meeting</td></tr><tr><td>2025.06.18</td><td>00.06</td><td>Updated the TR based on comments received and CR approved till June 2025</td></tr><tr><td></td><td></td><td>ERI-2025.02.11-WG11-CR0207-SCM-Clause1_Scope-v02.docx</td></tr><tr><td></td><td></td><td>ERI-2025.02.11-WG11-CR0208-SCM-Clause2_Reference-v02.docx</td></tr><tr><td></td><td></td><td>ERI-2025.02.24-WG11-CR0213-SCM-Clause3.1_Terms-v03.docx</td></tr><tr><td></td><td></td><td>ERI-2025.02.24-WG11-CR0214-SCM-Clause3.3_Abbreviations-v01.docx</td></tr><tr><td></td><td></td><td>ERI-2025.02.25-WG11-CR0211-SCM-Clause4_Background-v03.docx</td></tr><tr><td></td><td></td><td>ERI-2025.02.25-WG11-CR0212-SCM-Clause4.1_Consideration-v03.docx</td></tr><tr><td></td><td></td><td>ERI-2025.04.09-WG11-CR0226-SCM-Clause5.1_assets-v03.docx</td></tr><tr><td></td><td></td><td>ERI-2025.04.09-WG11-CR0227-SCM-Clause5.2_SecurityControls-v04.docx</td></tr><tr><td></td><td></td><td>ERI-2025.04.09-WG11-CR0228-SCM-Clause5.3_ Recommendation for Security</td></tr><tr><td></td><td></td><td>Configuration Management-v03.docx</td></tr><tr><td></td><td></td><td>ERI-2025.05.07-WG11-CR0238-SCM-Clause5.4_ Threats Template-v01.docx</td></tr><tr><td></td><td></td><td>ERI-2025.05.07-WG11-CR0239-SCM-Clause5.5_ SCMThreatAnalysis-v01.docx</td></tr><tr><td></td><td></td><td>ERI-2025.05.21-WG11-CR0244-SCM-Clause5.5.1-CertificateRelatedThreats-v02.docx</td></tr></tbody></table>",
+      "page": 173,
+      "polygon": [
+        [
+          37.08703125,
+          142.47342834472656
+        ],
+        [
+          528.64734375,
+          142.47342834472656
+        ],
+        [
+          528.64734375,
+          371.49623718261716
+        ],
+        [
+          37.08703125,
+          371.49623718261716
+        ]
+      ],
+      "bbox": [
+        37.08703125,
+        142.47342834472656,
+        528.64734375,
+        371.49623718261716
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 173,
+      "polygon": [
+        [
+          511.896484375,
+          804.5869140625
+        ],
+        [
+          521.791015625,
+          804.5869140625
+        ],
+        [
+          521.791015625,
+          813.6318359375
+        ],
+        [
+          511.896484375,
+          813.6318359375
+        ]
+      ],
+      "bbox": [
+        511.896484375,
+        804.5869140625,
+        521.791015625,
+        813.6318359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 173,
+      "polygon": [
+        [
+          41.90625,
+          804.5869140625
+        ],
+        [
+          524.4949340820312,
+          804.5869140625
+        ],
+        [
+          524.4949340820312,
+          814.4509544372559
+        ],
+        [
+          41.90625,
+          814.4509544372559
+        ]
+      ],
+      "bbox": [
+        41.90625,
+        804.5869140625,
+        524.4949340820312,
+        814.4509544372559
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

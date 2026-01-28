@@ -1,0 +1,928 @@
+{
+  "table_of_contents": [
+    {
+      "title": "O-RAN.WG5.U.0-R003-v07.00",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          274.0819396972656,
+          78.50067138671875
+        ],
+        [
+          547.4528198242188,
+          78.50067138671875
+        ],
+        [
+          547.4528198242188,
+          98.420654296875
+        ],
+        [
+          274.0819396972656,
+          98.420654296875
+        ]
+      ]
+    },
+    {
+      "title": "O-RAN Work Group 5\n(Open F1/W1/E1/X2/Xn Interfaces Working Group)\nNR U-plane profile",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          150.1640625,
+          374.8340759277344
+        ],
+        [
+          552.9296875,
+          374.8340759277344
+        ],
+        [
+          552.9296875,
+          450.6741027832031
+        ],
+        [
+          150.1640625,
+          450.6741027832031
+        ]
+      ]
+    },
+    {
+      "title": "Contents",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.78337531486146,
+          92.97239536954585
+        ],
+        [
+          117.09823677581863,
+          92.97239536954585
+        ],
+        [
+          117.09823677581863,
+          115.46571682991986
+        ],
+        [
+          39.78337531486146,
+          115.46571682991986
+        ]
+      ]
+    },
+    {
+      "title": "Foreword",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          42.479976654052734,
+          97.8162841796875
+        ],
+        [
+          118.5047836303711,
+          97.8162841796875
+        ],
+        [
+          118.5047836303711,
+          115.8162841796875
+        ],
+        [
+          42.479976654052734,
+          115.8162841796875
+        ]
+      ]
+    },
+    {
+      "title": "where:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.7421875,
+          211.322265625
+        ],
+        [
+          69.71613311767578,
+          211.322265625
+        ],
+        [
+          69.71613311767578,
+          221.8868408203125
+        ],
+        [
+          40.7421875,
+          221.8868408203125
+        ]
+      ]
+    },
+    {
+      "title": "Modal verbs terminology",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.32421875,
+          346.5849609375
+        ],
+        [
+          238.57199096679688,
+          346.5849609375
+        ],
+        [
+          238.57199096679688,
+          365.1763000488281
+        ],
+        [
+          41.32421875,
+          365.1763000488281
+        ]
+      ]
+    },
+    {
+      "title": "1 Scope",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.479976654052734,
+          97.4384765625
+        ],
+        [
+          150.21713256835938,
+          97.4384765625
+        ],
+        [
+          150.21713256835938,
+          115.8162841796875
+        ],
+        [
+          42.479976654052734,
+          115.8162841796875
+        ]
+      ]
+    },
+    {
+      "title": "2 References",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          41.615234375,
+          659.45703125
+        ],
+        [
+          191.23193359375,
+          659.45703125
+        ],
+        [
+          191.23193359375,
+          679.3363037109375
+        ],
+        [
+          41.615234375,
+          679.3363037109375
+        ]
+      ]
+    },
+    {
+      "title": "3 Definitions of terms, symbols and abbreviations",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.90625,
+          238.21630859375
+        ],
+        [
+          477.265625,
+          238.21630859375
+        ],
+        [
+          477.265625,
+          256.9580078125
+        ],
+        [
+          41.90625,
+          256.9580078125
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Terms",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.32421875,
+          276.6923828125
+        ],
+        [
+          144.5609130859375,
+          276.6923828125
+        ],
+        [
+          144.5609130859375,
+          292.8118896484375
+        ],
+        [
+          41.32421875,
+          292.8118896484375
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Symbols",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          40.451171875,
+          333.37188720703125
+        ],
+        [
+          160.931640625,
+          333.37188720703125
+        ],
+        [
+          160.931640625,
+          349.4518737792969
+        ],
+        [
+          40.451171875,
+          349.4518737792969
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Abbreviations",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.32421875,
+          390.0118713378906
+        ],
+        [
+          196.1969757080078,
+          390.0118713378906
+        ],
+        [
+          196.1969757080078,
+          406.09185791015625
+        ],
+        [
+          41.32421875,
+          406.09185791015625
+        ]
+      ]
+    },
+    {
+      "title": "4 User plane function",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          40.16015625,
+          514.73828125
+        ],
+        [
+          259.2827453613281,
+          514.73828125
+        ],
+        [
+          259.2827453613281,
+          533.1763000488281
+        ],
+        [
+          40.16015625,
+          533.1763000488281
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Flow control",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.615234375,
+          606.4208984375
+        ],
+        [
+          185.49417114257812,
+          606.4208984375
+        ],
+        [
+          185.49417114257812,
+          622.8119049072266
+        ],
+        [
+          41.615234375,
+          622.8119049072266
+        ]
+      ]
+    },
+    {
+      "title": "4.1.1 Elementary procedures",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          40.7421875,
+          639.9219512939453
+        ],
+        [
+          243.80873107910156,
+          639.9219512939453
+        ],
+        [
+          243.80873107910156,
+          655.345703125
+        ],
+        [
+          40.7421875,
+          655.345703125
+        ]
+      ]
+    },
+    {
+      "title": "4.1.1.1 Node behaviour of the corresponding node",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.90625,
+          669.7353515625
+        ],
+        [
+          340.885498046875,
+          669.7353515625
+        ],
+        [
+          340.885498046875,
+          682.5175170898438
+        ],
+        [
+          41.90625,
+          682.5175170898438
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2 Elements for the NR user plane protocols",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          40.7421875,
+          160.341796875
+        ],
+        [
+          355.1018981933594,
+          160.341796875
+        ],
+        [
+          355.1018981933594,
+          174.3218994140625
+        ],
+        [
+          40.7421875,
+          174.3218994140625
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2.1 General",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.033203125,
+          191.23748779296875
+        ],
+        [
+          156.07110595703125,
+          191.23748779296875
+        ],
+        [
+          156.07110595703125,
+          203.23748779296875
+        ],
+        [
+          41.033203125,
+          203.23748779296875
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2.2 Report polling",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.615234375,
+          331.39752197265625
+        ],
+        [
+          187.705078125,
+          331.39752197265625
+        ],
+        [
+          187.705078125,
+          343.39752197265625
+        ],
+        [
+          41.615234375,
+          343.39752197265625
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2.3 Buffer discard Indication",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.90625,
+          442.7900390625
+        ],
+        [
+          242.125,
+          442.7900390625
+        ],
+        [
+          242.125,
+          456.4375
+        ],
+        [
+          41.90625,
+          456.4375
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2.4 User data existence flag",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          40.7421875,
+          493.63751220703125
+        ],
+        [
+          242.1182861328125,
+          493.63751220703125
+        ],
+        [
+          242.1182861328125,
+          505.63751220703125
+        ],
+        [
+          40.7421875,
+          505.63751220703125
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2.5 Assistance Information Report Polling Flag",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          40.7421875,
+          565.8775329589844
+        ],
+        [
+          340.14434814453125,
+          565.8775329589844
+        ],
+        [
+          340.14434814453125,
+          577.8775329589844
+        ],
+        [
+          40.7421875,
+          577.8775329589844
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2.6 Radio quality assistance information",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.90625,
+          646.9975280761719
+        ],
+        [
+          305.4854736328125,
+          646.9975280761719
+        ],
+        [
+          305.4854736328125,
+          659.0458984375
+        ],
+        [
+          41.90625,
+          659.0458984375
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2.7 DL report NR PDCP PDU SN",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.32421875,
+          194.5975341796875
+        ],
+        [
+          269.4158935546875,
+          194.5975341796875
+        ],
+        [
+          269.4158935546875,
+          206.5975341796875
+        ],
+        [
+          41.32421875,
+          206.5975341796875
+        ]
+      ]
+    },
+    {
+      "title": "Annex (informative): \nChange History",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          40.7421875,
+          341.8962707519531
+        ],
+        [
+          208.54296875,
+          341.8962707519531
+        ],
+        [
+          208.54296875,
+          381.53125
+        ],
+        [
+          40.7421875,
+          381.53125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/O-RAN.WG5.U.0-R003-v07.00"
+}
