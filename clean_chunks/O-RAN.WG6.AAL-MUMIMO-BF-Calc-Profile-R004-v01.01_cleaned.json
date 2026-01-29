@@ -1,0 +1,1182 @@
+[
+    {
+        "id": "/page/0/Picture/0",
+        "block_type": "Picture",
+        "page": 1,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "O-RAN.WG6.AAL-MIMO BF Calc Profile R004-v01.01",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "O-RAN.WG6.AAL-MIMO BF Calc Profile R004-v01.01"
+    },
+    {
+        "id": "/page/0/Text/2",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Technical Specification",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "O-RAN.WG6.AAL-MIMO BF Calc Profile R004-v01.01"
+    },
+    {
+        "id": "/page/0/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+    },
+    {
+        "id": "/page/0/Text/4",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Acceleration Abstraction Layer MUMIMO  Precoder/BeamFormer Calculation Profile",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+    },
+    {
+        "id": "/page/0/Text/5",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Copyright \u00a9 2024 by the O-RAN ALLIANCE e.V.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+    },
+    {
+        "id": "/page/0/Text/6",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "The copying or incorporation into any other work of part or all of the material available in this specification in any form without the prior written permission of O-RAN ALLIANCE e.V. is prohibited, save that you may print or download extracts of the material of this specification for your personal use, or copy the material of this specification for the purpose of sending to individual third parties for their information provided that you acknowledge O-RAN ALLIANCE as the source of the material and that you inform the third party that these conditions apply to them and that they must comply with them.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+    },
+    {
+        "id": "/page/0/Text/7",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "O-RAN ALLIANCE e.V., Buschkauler Weg 27, 53347 Alfter, Germany",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+    },
+    {
+        "id": "/page/0/PageFooter/8",
+        "block_type": "PageFooter",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+    },
+    {
+        "id": "/page/1/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+    },
+    {
+        "id": "/page/1/Picture/1",
+        "block_type": "Picture",
+        "page": 2,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+    },
+    {
+        "id": "/page/1/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "Contents",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/TableOfContents/3",
+        "block_type": "TableOfContents",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "List ofof tables3  \nForevword4  \nModaal verbs terminology4  \nExecutive summary4  \nIntroduction4  \n1Scope5  \n2References5  \n2.1Normative references  \n2.2Informative references  \n3Definition of terms, symbols and abbreviations5  \n3.1Terms  \n3.2Symbols  \n3.3Abbreviations  \n4Overview6  \n4.1Purpose  \n4.2Document Structure6  \n5 AAL Configuration and Management6  \n6AAL Profile Specifications7  \n6.1Introduction  \n6.2Naming Coventions7  \n6.3MUMIMO Precoder/BeamFormer Calculation Profile Specification7  \n6.3.1Introduction7  \n6.3.2Profile Operation  \n6.3.3MUMIMO Precoder/BeamFormer Calculation Profile Capabilities and Configurations7  \n6.3.4AAL Profile Specific Interface8  \nAnneex \\(informative\\): Change History9",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/Picture/1",
+        "block_type": "Picture",
+        "page": 3,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "List of tables",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> List of tables"
+    },
+    {
+        "id": "/page/2/Text/3",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "Table 6.3.4-1: AAL Profile Parameters for Weight Calculation ........................................................................................7",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> List of tables"
+    },
+    {
+        "id": "/page/2/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> List of tables"
+    },
+    {
+        "id": "/page/2/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> List of tables"
+    },
+    {
+        "id": "/page/3/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> List of tables"
+    },
+    {
+        "id": "/page/3/Picture/1",
+        "block_type": "Picture",
+        "page": 4,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> List of tables"
+    },
+    {
+        "id": "/page/3/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Foreword",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/3/Text/3",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "This Technical Specification \\(TS\\) has been produced by WG6 of the O-RAN Alliance.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/3/Text/4",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/3/Text/5",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "version xx.yy.zz",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/3/SectionHeader/6",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "where:",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> Foreword --> where:"
+    },
+    {
+        "id": "/page/3/ListGroup/181",
+        "block_type": "ListGroup",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "* xx: the first digit-group is incremented for all changes of substance, i.e. technical enhancements, corrections, updates, etc. \\(the initial approved document will have xx=01\\). Always 2 digits with leading zero if needed.  \n  * yy: the second digit-group is incremented when editorial only changes have been incorporated in the document. Always 2 digits with leading zero if needed.\n  * zz: the third digit-group included only in working versions of the document indicating incremental changes during the editing process. External versions never include the third digit-group. Always 2 digits with leading zero if needed.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> Foreword --> where:"
+    },
+    {
+        "id": "/page/3/SectionHeader/10",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Modal verbs terminology",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/Text/11",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\).",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/Text/12",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/SectionHeader/13",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Executive summary",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> Executive summary"
+    },
+    {
+        "id": "/page/3/Text/14",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "This document provides the description of the requirements and stage-2 information models to implement an Acceleration Abstraction Layer \\(AAL\\) for the MUMIMO Precoder/BeamFormer Calculation functionality hosted by an AAL-LPU that is associated with an O-RAN Network Function.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Contents --> Executive summary"
+    },
+    {
+        "id": "/page/3/SectionHeader/15",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Introduction",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/3/Text/16",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "This document specifies how to accelerate the functionality of an O-RAN network function where the MUMIMO Precoder/BeamFormer Calculation Acceleration Function \\(AF\\) is hosted on an AAL-LPU that is assigned to the AAL Application that is part of the O-RAN network function. This document also specifies a set of AAL Profiles and procedures for utilizing the AALI Common Management \\(AALI-C-Mgmt\\) and Application \\(AALI-C-App\\) interfaces to convey the information elements specified by the AAL Profiles.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/3/PageFooter/17",
+        "block_type": "PageFooter",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/3/PageFooter/18",
+        "block_type": "PageFooter",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/4/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/4/Picture/1",
+        "block_type": "Picture",
+        "page": 5,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/4/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "1 Scope",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 1 Scope"
+    },
+    {
+        "id": "/page/4/Text/3",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "The present document specifies the requirements and stage-2 information models for the MUMIMO Precoder/BeamFormer Calculation Profiles.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 1 Scope"
+    },
+    {
+        "id": "/page/4/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "2 References",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 2 References"
+    },
+    {
+        "id": "/page/4/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "2.1 Normative references",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/Text/6",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/Text/7",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/Text/8",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "The following referenced documents are necessary for the application of the present document.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/ListGroup/173",
+        "block_type": "ListGroup",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "* \\[1\\] Void\n  * \\[2\\] Void\n  * \\[3\\] Void\n  * \\[4\\] Void\n  * \\[5\\] Void\n  * \\[6\\] Void\n  * \\[7\\] O-RAN WG6 Acceleration Abstraction Layer General Aspects and Principles\n  * \\[8\\] O-RAN Acceleration Abstraction Layer High-PHY Profiles",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/SectionHeader/17",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "2.2 Informative references",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/18",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/19",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/20",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "The following referenced documents are not necessary for the application of the present document, but they assist the user with regard to a particular subject area.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/21",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "\\[i.1\\] 3GPP TR 21.905: \"Vocabulary for 3GPP Specifications\".",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/SectionHeader/22",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "3 Definition of terms, symbols and abbreviations",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations"
+    },
+    {
+        "id": "/page/4/SectionHeader/23",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "3.1 Terms",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/Text/24",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "Void",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/PageFooter/25",
+        "block_type": "PageFooter",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/PageFooter/26",
+        "block_type": "PageFooter",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/5/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/5/Picture/1",
+        "block_type": "Picture",
+        "page": 6,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/5/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "3.2 Symbols",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+    },
+    {
+        "id": "/page/5/Text/3",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "Void",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+    },
+    {
+        "id": "/page/5/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "3.3 Abbreviations",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/Text/5",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "For the purposes of the present document, the abbreviations \\[given in \\[1\\] and the following\\] apply:",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/Text/6",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "AAL Acceleration Abstraction Layer",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/Text/7",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "AALI Acceleration Abstraction Layer interface",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/Text/8",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "AAL-LPU Acceleration Abstraction Layer Logical Processing Unit",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/Text/9",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "BF Beam Forming",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/Text/10",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "CNF Containerized Network Function",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/Text/11",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "HWA Hardware Accelator NF Network Function",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/Text/12",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "O-CU O-RAN Centralized Unit O-DU O-RAN Distributed Unit",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/Text/13",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "O-RU O-RAN Radio Unit OS Operating System",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/SectionHeader/14",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "4 Overview",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 4 Overview"
+    },
+    {
+        "id": "/page/5/SectionHeader/15",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "4.1 Purpose",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 4.1 Purpose"
+    },
+    {
+        "id": "/page/5/Text/16",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "The AAL General Aspects and Principles is described in \\[7\\] including a high-level architecture of the AAL and definition of the AAL profiles. This document details the AAL specification consisting of the description of the interface, information models, and requirements to implement an AALI for AAL\\_MUMIMO\\_PRECODER\\_WEIGHTS\\_CAL profile \\[7\\]",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 4.1 Purpose"
+    },
+    {
+        "id": "/page/5/Text/17",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "The purpose of the AAL\\_MUMIMO\\_PRECODER\\_WEIGHTS\\_CAL profile is to support look-aside acceleration of beamforming \\(precoding\\) weight calculation by the Application. This profile compliments the High-PHY profiles specified in \\[8\\].",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 4.1 Purpose"
+    },
+    {
+        "id": "/page/5/SectionHeader/18",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "4.2 Document Structure",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 4.1 Purpose --> 4.2 Document Structure"
+    },
+    {
+        "id": "/page/5/Text/19",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "This present document is structured as follows: Chapter 4 presents the overview and main purpose of this specification. Chapter 5 presents the high level AALI configuration and management principles for the AAL\\_MU MIMO\\_PRECODER\\_WEIGHTS\\_CAL profile. Chapter 6 presents the Profile Overview for the profile, sample capabilities, inputs, and outputs as well as HWA parameters for the profile.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 4.1 Purpose --> 4.2 Document Structure"
+    },
+    {
+        "id": "/page/5/SectionHeader/20",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "5 AAL Configuration and Management",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 5 AAL Configuration and Management"
+    },
+    {
+        "id": "/page/5/Text/21",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "The AALI configuration and management APIs are the APIs that an Application \\(O-DU\\) executes to configure and manage the AAL-LPU\\(s\\) that have been allocated to the Application by the O-Cloud. The high-level Configuration and Management Principles are presented in \\[7\\].",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 5 AAL Configuration and Management"
+    },
+    {
+        "id": "/page/5/PageFooter/22",
+        "block_type": "PageFooter",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 5 AAL Configuration and Management"
+    },
+    {
+        "id": "/page/5/PageFooter/23",
+        "block_type": "PageFooter",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 5 AAL Configuration and Management"
+    },
+    {
+        "id": "/page/6/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 5 AAL Configuration and Management"
+    },
+    {
+        "id": "/page/6/Picture/1",
+        "block_type": "Picture",
+        "page": 7,
+        "images": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABQAOkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigBMijIppYZqpNfKvEfze/aufEYmnh481R2GouT0Lu4DvRuHrXMalq7QKd0xT/ZFc1N4huo2JhkkGf7z5ry1nlKT92Lsd1LL6lVXR6ZketGRXnNl46uLaQC8j82Puy8EV2+mataaraie1lDr3HcH0Ir06GLp11eLMa+DrUPjWhfyKXNMz3pe1dBzC5HrRkVzfi7xVH4X01JzH5s8rFYoycZPcn2FcD/wt/U/+gba/99NXTSwtWquaC0OWrjKVJ8s3qex5FJkV47/wuDU/+gZa/wDfbUqfF/UN436ZbFe+HbNa/wBn4jsZLMaD6nsOQaXNcd4a+IOma/KLVgbW7b7sUhGG+h/pXXg1yzhKm7SVjrp1YVFeDHUmQKM8Vma5rMGh6RcahcfciXhc8s3QAfU8VCTk7IuUlFcz2NPcKAQa8Sb4ra4b3zFithb5z5W3t9a9W8N65b+IdIiv4ON3DpnlGHUV0VsLVopOaOeji6dZuMTYpCQKWmOcVznSLvX1pcivIvEfxO1CDWJ7XS44VhgkMZaRdxcg4P0Fdv4Q8Vw+J9OaXAjuYjtliB6HsR7Gt6mFq04KbWhy08XSnNwT1OnzSEgUVma/qiaNol1fuoYQoW2nuewrFJydkdEpKKbZphlPQ0bhXk3hj4kapqPiOCzvoojBcvsXYuChPT616v2rStRnSdpGdCvGsrxHg5opB0payNgozRTScZpN2Ax9UvGa6jsYiQzAtIR2X/69VriVbe3eQ8bR0rPsrk3WuX0xbIPT/dB4q3fW813GkEQ+Z25PYD3r4nMa08TiuRd9DswyVrs5a6kkuJiTlnJ4FYmr3P8AZbKLuGdGboGjIz9CeK9W07RbaxUNt3y93PJ/CrF/ptpqVq1tdwJLE3VWHFexh8o9y9R6noQzWFOaSj7p4O+tW7cbZB/wGtDQ/EMmkX6XdtJuiJxKgP3l+nrU/jTwJLoTNfWG6WxJyVP3o/8AEVxSSmI7h06EU3QdCXun1FKGHx2HvDZn01Z3Ud3Zw3ELBo5FDKR3Bqx2rhvhjqRvNAktmfJtpCFHorcj9c13Oa9unLmimfA4mk6NWVN9Dy/4w/8AHppX/XST+QriPBej2uu+JYbG8DmFkZjsbB4B713Hxi/49NL/AOuj/wAhXIfD28trDxdBcXdxHBCI3BkkYKo49TXv4ZyWCfL5nzOJUXjFzbHpH/Cq/DePuXX/AH+NZOvfCyxXT5JdJkmS4jUsEdtwfHau0/4Svw+P+Y1Yf+BC/wCNY+vfEDQ9OspDb3sV1cspEccDBufcjgV51OriXJcrZ6NWlheV3seGJJLbTq6Fo5Y2yCOoIr6Q8O6gdU8PWN62N80Ks2P72Of1zXzefMuZiEUtJK3CqM5JPQV9HeGrBtL8N6fZSACSKFVcD+9jn9c125rbljfc4sq5uaVtjVryb4taxultdIjbhf30oz35C/pmvVJplhieRyFRQSSTgAV8369qj61rl3fnJ82Q7B/s9FH5VzZdS56nM9kdWZVeSlyLdlYWFz/Zv9o7B9mEwg3Z/jIyB+QrvfhNrX2fU7nSpG+S4XzYv98dR+I/lXSweFA3wxOlsg894fP+kn3h/QV4/pl9LperW95HkSQSBiPoeRXoe0WLpzh1TPO9m8JUhPufTobPamvyKr2F3HfWUN1CwaOVAykehFWGrwGmnZn0N04+p8wX3GoXP/XVv51p+F9fl8O61DeJloSQs6A/eTP8x2rNv/8AkIXP/XVv5mtXXvDsmlWOm36Bmtb23R8n+F9oyP6ivqZcjgqc+p8pHnU3OPQ+g7S7hvrWK5t3DwyqGRh0INc98Qv+RI1H/dX/ANCFcZ8MPFXkzDQrt/lfm3Zj37r/AFH0rsviCc+CNR/3V/8AQhXgujKliFF9z6BV1Ww7kux454Q/5G/SR/08rX0YBxXzn4P/AORw0r/r4WvowdK6M01qR9Dmyj+HL1FFLQKK8w9YKY/Q0+k61MldNAebWF4LLVx5jYjkJQk9q7OzbFwM9xXCeJ4RbazcxYAyfMXPof8A6+aNG8YCzKQagW2oRsmxnA9Gr5WeGnTxSqrdPUdOqknCR6hijFVbK+t76FZbedJVYZyrA1YkdUXcWAA6kmvqou6uiboxfF8yW3hTUZWwcQkDPqa+cpm2jFerfFHxNDJbxaLazK7ORJOVYEKB0H1J5/CvJbpwCPpTxNH9zzvc+qyFulGTezPTfhtdXtv4Y1yewh866QL5Sf3jzTf+Es+If/PhN/4Bf/Wrq/hfpL6b4OglmTbLdEzEHHAP3efpz+NdsFGOlaYWoqUEpRTPms2jLEYmU4yaPG/H11f3vhjQZ9UhMN27SeYhXGDgdu1cTpul3msXqWVhD5twwJCbgvAHPJwK9M+MQ/0TSuP+Wkn8hXLfDH/kd7f/AK5Sf+gmvbw1RxwjnHzPmcRSUsWoN9jN1Lwb4g0m1+0XmmukQ6srq+PrtJrGt0hkuESaYwxE4aQJu2j1xmvqCWNJEKOoZW4IPevCPHvhkaBrImgU/YbrLR8fcbun9R/9apwmOdV8k9GVi8D7Fc8dUeg+D/A+jadFDqUcwv5mG6OY42j3UV3I4HFeIfDvxY+j6kmm3Mh+w3DYXcciN+x9ge9e3KRtz2rzcZTqQqWm7np4GpTnSvBWOL+Jesf2Z4Ye3RsTXh8oeu3q36cfjXk3hPTo9U8TWNvMVEAk3yljxtXkj8en41s/ErWP7T8USW0bZhsh5fByC3Vv8PwrAsfDusapb/aLKwnnizgOi5GR1r1MLSVPD+87cx5WKqupiPdV+U+iftlmFwLiLpj74rwLxnpyab4ou0hKtDK3mxlTxhu3503/AIQrxJ1/se6/75qve+Gta021a4vNOnhhXALsvAzSwtGnRqXU73Hiq9StCzhax6l8Kta+26FJp0j/AL6zb5c9TGc4/I5H5V3x6V8++BtYOjeKLaRmIhmPkyZ6YOP64r6BBygrz8fR9nWbWzPRy+t7SjZ7o+Y7/wD5CFz/ANdW/ma9ztdFt9e+HljY3A4ezj2t3Rgowfzrwu//AOQhc/8AXVv5mvojwqP+KU0r/r1j/wDQRXbmEnGnBo4cuipVJpnz3d2t3ouqvBL+6uraTqD3HII9u9eoX/iVPEfwvvZSQLmJVSdfRtw5/GpviZ4YN/Y/2vaJ/pFuP3qjq0fr9R/LNeTW17PaxTwxP+7uE2Sr2IBBH6itIKOLhGa+JGc3LCTlB7M0/B//ACN+lf8AXwv86+jB0r5z8H/8jfpP/XwtfRg6VyZr/EXodmUfw5eo4UUCivMPWCiiigDlvF/hyTW7QS2bLHqEGTCzfdYd0b2P6V4veX4juZLS9iezu4zh4pRjB+vevo+uf8Q+ENI8TR7b+1BlAws6Ha68etQ6VKfxr5oznTUj5/l1Ge3ybW7kiz/zykIz+VVm1HU7kkXGo3Tp3XzmOfrzXouofBS5Ry2marE654S5QqQP95c5P4Cq8Pwc1zzFEt9YBO5R3JH4bR/OuyjSw9NX5rmmHwtFS5pyOCXCDsAK6XwZ4LuvE+pLczxtHpkTAu5H+s/2V9ff0r0HR/hTpli6y6hO984P3NuxPy5z+Jrvba3jtoVhhjWONeFVRgAVniKiquy2PXnmChT5KW76joIkhgSKNQqIoUAdgKlpMUZrH0PI33PMfjCrfYtLYfdEjgn04Fcx8MI2fxrEyjISF2Y+gIxXsuq6RaaxZPaXsIlhbseoPqPequh+FtK8PFzp9tsd/vOxLMR6ZNd9PFqGHdI82pg5TxCqm2OtYvinQovEGiTWTgByN0bf3XHQ1snikPPvXFFuLTXQ9CcVJOL6ny9c201ldSW06mOaFirA8YIr3bw7rk914Aj1ORC88Nu+4f3ymRn8cVb1jwXout3gur203S4wWRipb6461sWtlb2VlHaW8SxwRrtVFHAFd+JxkK0IprVHn4XBToylZ6M+Znea6uiz7pJ5nycclmJ/xr6L8NaUNG0GzscDdGg3kd2PX9apW/gfQrbVhqcNkFnDb1+Y7QfUL0FdKKjF4tV4xjHZFYPBujJynuxaz9b06PVdGurGQDE0ZX6Hsa0M0x+RxzXGnZ3R3SipJpny/cwSWV3LBKNskLFW9iDX0T4au5L7wxp9xNnzZIFLZGMnHWqeo+CND1XUft91Yhp+NxDEB8eoHBrfihSGFYY0CIgwqr0ArtxeLjXjGy1Rw4TByoSk29GfM2pI0WqXcbjDrM4Ye+TmvofwupXwtpQYYP2SP/0EVRvvBGg6hqZ1C4sg05O5sMQrH1I6GukiUJGqqMKBgAUYrFqtCMUtgwmElRnKT6iOivGVYAgjBFeB+OvDLeHtZZ4U/wBCuSWiYDhT3Wvfz0qhqWl2erWjWl7As0LdVYdD/jWOFxLw8+ZbGuLwyrwt1PAfBwLeMNKwCf8ASFr6MXpXPaN4M0XQro3Nla4mIwHZi5H0z0roMH0q8biFXnzLoicDhpUINS6jhS0i0tch2oKKKKAGmsC+19rTXbezEQa3JVZ5cn92z5CDp3Ix+Irfwa5y48JW15HftdMj3V0zMs4TBi4wuOf4cA/Wqja+pnU5re6dGGB6UE1FBHIkMayuHkCgMwGAx7nHapsVLL6Gbdag8OuWNiEUpcRTSMxPI2bMY/76rSXpWRqmlXl1qdnfWd1DDJbJImJoDIGD7fRlxjb+tadssywKLh0eUfeZFKg/QEnH503YmLd3clrO1C8e1uLJFUETz+UxPYbWOR+VaNZmq6fPe/Zntp44ZYJvNUyRl1PBGCAR6+tC31HO9tDQDA0+qtpHdJEBdzQyy5+9FGUGPoWb+dWqQ0Zmvag+l6VJdRorsjKMN05YD+tX05FU9a006tpsloJfL3lTuxnGCD/Srygim9ha3CsbxBq02mW6fZYBcXMjHbESRkAZbp7DH1Irawc1kXugw6jqgurvbNEkWyOIr90k8tnP0FEbX1FU5re6aFpdRXlpDcQsGilQOrDuCMip6ztH0s6VZtaiUPCsjtCoXHloTkJ7gZx9K0cUnvoVG9tTJ8RalPpWkPdW0KzTCSNFjY43bnC/nzUdhra397aRwgeVPbSTHPDKyMi7T/30c/Srmq6cdSsxAJPLxLHJu25+64bH44xVGz8PLZ+IpNThnxFJCyG328B2KksD77Bx+NWuXl8zJqXNpsbgpjnBqSmspNQa620OcGqaxeGe5sLS2a1imeJY5HIkm2NtYg9F5BxnOcdq6OM5jUkYOOlc82h6pCLi3stTjgtJ5HkyYSZYt5y21t2OpJGRxmuhRdkYXJOBjJOTVSt0IhfqKehrB1rVp7HULK2hltIROkjNJc5wNu3gYI5O717VvHoaxdV0aa/vbW6hmtkaBJE23FuZVYNt7bhgjb+tEbX1HUvb3S7pc8lxZrJJPbzMSfnt87D9Mk1eqnp1tNa2/lztbFgT/wAe8JjX8ixq5Se5UdtQooopDP/Z",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 5 AAL Configuration and Management"
+    },
+    {
+        "id": "/page/6/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "6 AAL Profile Specifications",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6 AAL Profile Specifications"
+    },
+    {
+        "id": "/page/6/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "6.1 Introduction",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6 AAL Profile Specifications --> 6.1 Introduction"
+    },
+    {
+        "id": "/page/6/Text/4",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "Void",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6 AAL Profile Specifications --> 6.1 Introduction"
+    },
+    {
+        "id": "/page/6/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "6.2 Naming Coventions",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.2 Naming Coventions"
+    },
+    {
+        "id": "/page/6/Text/6",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "Void",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.2 Naming Coventions"
+    },
+    {
+        "id": "/page/6/SectionHeader/7",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification"
+    },
+    {
+        "id": "/page/6/SectionHeader/8",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "6.3.1 Introduction",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.1 Introduction"
+    },
+    {
+        "id": "/page/6/Text/9",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "The AAL\\_MU MIMO\\_PRECODER\\_WEIGHTS\\_CALC is used to support look-aside acceleration of beamforming \\(precoding\\) weight calculation by the Application",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.1 Introduction"
+    },
+    {
+        "id": "/page/6/SectionHeader/10",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "6.3.2 Profile Operation",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+    },
+    {
+        "id": "/page/6/Text/11",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "The Application provides HWA \\(aka AF in \\[8\\]\\) with all the information required to calculate precoding weights, as shown in Table 6.3.4-1. HWA computes MU-MIMO precoding weights according to an implementation-specific method, one exemplary method being block diagonalization.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+    },
+    {
+        "id": "/page/6/Text/12",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "HWA returns to the Application a handle\\* \\(optional\\) to the precoding weights for the layers of the selected UEs together with precoding weights themselves. The precoding weights can be used by the Application to compute SINR per UE and per layer to assist with MCS selection.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+    },
+    {
+        "id": "/page/6/Text/13",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "Application sends the precoding weights \\(optional\\) or handle \\(optional\\) to AF \\[8\\] via AAL\\_DOWNLINK\\_High-PHY Profile \\[8\\].",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+    },
+    {
+        "id": "/page/6/Text/14",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "\\*Handle represents an index to \"Beamforming \\(precoding\\) weights per PRG for the layers of the selected UEs\" uniquely. This is an optional parameter. It is introduced to enable following example implementation option:",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+    },
+    {
+        "id": "/page/6/Text/15",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "After precoding weights calculation, HWA stores the precoding weights locally together with the associated handle. HWA returns to Application the handle to the precoding weights as well as the precoding weights for the layers of the selected UEs. This provides option to Application to send just the handle to AF \\[8\\] in AAL\\_DOWNLINK\\_High-PHY Profile \\[8\\]. In this case, AF can use the handle to retrieve precoding weights stored locally.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+    },
+    {
+        "id": "/page/6/Text/16",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "NOTE: This is applicable only for the sencario in which same HWA is used for \"high Phy function\" and \"precoding weights calculation function\".",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+    },
+    {
+        "id": "/page/6/SectionHeader/17",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "6.3.3 MUMIMO Precoder/BeamFormer Calculation Profile Capabilities and Configurations",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3 MUMIMO Precoder/BeamFormer Calculation Profile Capabilities and Configurations"
+    },
+    {
+        "id": "/page/6/SectionHeader/18",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "6.3.3.1 Summary of Capabilities",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities"
+    },
+    {
+        "id": "/page/6/Text/19",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "Void",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities"
+    },
+    {
+        "id": "/page/6/PageFooter/20",
+        "block_type": "PageFooter",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities"
+    },
+    {
+        "id": "/page/6/PageFooter/21",
+        "block_type": "PageFooter",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities"
+    },
+    {
+        "id": "/page/7/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities"
+    },
+    {
+        "id": "/page/7/Picture/1",
+        "block_type": "Picture",
+        "page": 8,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities"
+    },
+    {
+        "id": "/page/7/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "6.3.3.2 Summary of Configurations",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.2 Summary of Configurations"
+    },
+    {
+        "id": "/page/7/Text/3",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Void",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.2 Summary of Configurations"
+    },
+    {
+        "id": "/page/7/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "6.3.4 AAL Profile Specific Interface",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface"
+    },
+    {
+        "id": "/page/7/TableGroup/140",
+        "block_type": "TableGroup",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Table 6.3.4-2 AAL Profile Parameters for Weight Calculation\nParametersSummaryHWA Role  \nApplication \u2192 HWA  \nUEsOrdered list of UEs selected for  \nscheduling  \nNumber of layers, per UENumber of layers scheduled per UE  \nChannel Estimation AbstractionA representation of SRS-based  \nchannel observations, as documented  \nin \\[7\\] \\(e.g. SVD, raw channel\\). Sent  \nfor each PRG and for each UE  \nscheduled in the PRG.Compute beamforming weights for the  \nselected UEs and layers, e.g. based on  \nblock diagonalization based precoding.  \nHWA \u2192 Application  \nBeamforming \\(precoding\\) weightsBeamforming \\(precoding\\) weights  \nper PRG for the layers of the selected  \nUEs.Compute precoding weights for the  \nselected UEs and layers, e.g. based on  \nthe representation of SRS-based  \nchannel observations  \nHandle  \n\\(OPTIONAL\\)Index to Beamforming \\(precoding\\)  \nweights per PRG for the layers of the  \nselected UEs.",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface"
+    },
+    {
+        "id": "/page/7/PageFooter/7",
+        "block_type": "PageFooter",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface"
+    },
+    {
+        "id": "/page/7/PageFooter/8",
+        "block_type": "PageFooter",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface"
+    },
+    {
+        "id": "/page/8/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface"
+    },
+    {
+        "id": "/page/8/Picture/1",
+        "block_type": "Picture",
+        "page": 9,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface"
+    },
+    {
+        "id": "/page/8/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "Annex \\(informative\\): Change History",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Annex \\(informative\\): Change History"
+    },
+    {
+        "id": "/page/8/Table/3",
+        "block_type": "Table",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "Date| Revision| Description  \n---|---|---  \n2022.02.28| 01.00.00| AAL Profile specification to offload \"MU-MIMO\nprecoder/beamformer weights calculation\"  \n| | compute to Hardware Accelerator (HWA) in a look-aside manner.  \n2024.07.15| 01.00.01| Delete unused citation from References section as per CR\nTEJA-2024.03.10-  \n| | ORAN.WG6-D-CR-0001  \n2024.07.18| 01.00.02| Migrate the document to new O-RAN AAL-Profile template  \n2024.07.31| 01.01.00| Final version for July '24 train, upgraded document\nrevision to R004\n\n",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Annex \\(informative\\): Change History"
+    },
+    {
+        "id": "/page/8/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Annex \\(informative\\): Change History"
+    },
+    {
+        "id": "/page/8/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
+        "trace": "Annex \\(informative\\): Change History"
+    }
+]

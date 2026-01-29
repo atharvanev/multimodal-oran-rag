@@ -1,0 +1,1652 @@
+[
+    {
+        "id": "/page/0/Picture/0",
+        "block_type": "Picture",
+        "page": 1,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "O-RAN.WG2.TR.DECSMO-Impact-R004 v01.00",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "O-RAN.WG2.TR.DECSMO-Impact-R004 v01.00"
+    },
+    {
+        "id": "/page/0/Text/2",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Technical Report",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "O-RAN.WG2.TR.DECSMO-Impact-R004 v01.00"
+    },
+    {
+        "id": "/page/0/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "O-RAN Work Group 2",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "O-RAN.WG2.TR.DECSMO-Impact-R004 v01.00 --> O-RAN Work Group 2"
+    },
+    {
+        "id": "/page/0/Text/4",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Study on Impact of Decoupled SMO on Non-RT RIC Architecture and Interfaces",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "O-RAN.WG2.TR.DECSMO-Impact-R004 v01.00 --> O-RAN Work Group 2"
+    },
+    {
+        "id": "/page/0/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "O-RAN.WG2.TR.DECSMO-Impact-R004 v01.00 --> O-RAN Work Group 2 --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/0/Text/6",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "The copying or incorporation into any other work of part or all of the material available in this document in any form without the prior written permission of O-RAN ALLIANCE e.V. is prohibited, save that you may print or download extracts of the material of this document for your personal use, or copy the material of this document for the purpose of sending to individual third parties for their information provided that you acknowledge O-RAN ALLIANCE as the source of the material and that you inform the third party that these conditions apply to them and that they must comply with them.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "O-RAN.WG2.TR.DECSMO-Impact-R004 v01.00 --> O-RAN Work Group 2 --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/0/PageFooter/7",
+        "block_type": "PageFooter",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "O-RAN.WG2.TR.DECSMO-Impact-R004 v01.00 --> O-RAN Work Group 2 --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/1/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "O-RAN.WG2.TR.DECSMO-Impact-R004 v01.00 --> O-RAN Work Group 2 --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/1/Picture/1",
+        "block_type": "Picture",
+        "page": 2,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "O-RAN.WG2.TR.DECSMO-Impact-R004 v01.00 --> O-RAN Work Group 2 --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/1/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "Contents",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/TableOfContents/3",
+        "block_type": "TableOfContents",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "Forevword 3  \nModaal verbs terminology 3  \n1Scope  \n2References  \n2.1Normative references 4  \n2.2Informative references 4  \n3Definition of terms, symbols and abbreviations 4  \n3.1Terms  \n3.2Symbols  \n3.3Abbreviations 5  \n4Impact analysis of Decoupled SMO 5  \n4.1WG2 specifications impact analysis  \n4.1.1Non-RT RIC architecture related aspects  \n4.1.2A1 related aspects  \n4.1.3R1 related aspects 7  \n4.1.4Use cases and requirement related aspects9  \n4.2Recommendations  \nAnneex: Change history/Change request \\(history\\) 11",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/Picture/1",
+        "block_type": "Picture",
+        "page": 3,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "Foreword",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/2/Text/3",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "This Technical Report \\(TR\\) has been produced by WG2 of the O-RAN ALLIANCE.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/2/Text/4",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN ALLIANCE modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/2/Text/5",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "version xx.yy.zz",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/2/SectionHeader/6",
+        "block_type": "SectionHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "where:",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Foreword --> where:"
+    },
+    {
+        "id": "/page/2/ListGroup/113",
+        "block_type": "ListGroup",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "* xx: the first digit-group is incremented for all changes of substance, i.e. technical enhancements, corrections, updates, etc. \\(the initial approved document will have xx=01\\). Always 2 digits with leading zero if needed.  \n  * yy: the second digit-group is incremented when editorial only changes have been incorporated in the document. Always 2 digits with leading zero if needed.\n  * zz: the third digit-group included only in working versions of the document indicating incremental changes during the editing process. External versions never include the third digit-group. Always 2 digits with leading zero if needed.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Foreword --> where:"
+    },
+    {
+        "id": "/page/2/SectionHeader/10",
+        "block_type": "SectionHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "Modal verbs terminology",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/2/Text/11",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\).",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/2/Text/12",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/2/PageFooter/13",
+        "block_type": "PageFooter",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/2/PageFooter/14",
+        "block_type": "PageFooter",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/Picture/1",
+        "block_type": "Picture",
+        "page": 4,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "1 Scope",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 1 Scope"
+    },
+    {
+        "id": "/page/3/Text/3",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "The present document specifies study aimed at exploring the integration of the principles and recommendations of the Decoupled SMO Architecture TR \\[i.1\\], into the WG2 specifications.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 1 Scope"
+    },
+    {
+        "id": "/page/3/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "2 References",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 2 References"
+    },
+    {
+        "id": "/page/3/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "2.1 Normative references",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/Text/6",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Not applicable.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/SectionHeader/7",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "2.2 Informative references",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/3/Text/8",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies. In the case of a reference to a 3GPP document, a non-specific reference implicitly refers to the latest version of that document in Release 18, or the latest 3GPP release prior to Release 18 that includes that document.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/3/Text/9",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/3/Text/10",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "The following referenced documents are not necessary for the application of the present document, but they assist the user with regard to a particular subject area.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/3/ListGroup/176",
+        "block_type": "ListGroup",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "* \\[i.1\\] O-RAN.WG1.TR.Decoupled-SMO-Architecture.\n  * \\[i.2\\] O-RAN TS: \"O-RAN Architecture Description\" \\(\"OAD\"\\).\n  * \\[i.3\\] O-RAN.WG2.TS.Non-RT-RIC-ARCH: \" Non-RT RIC: Architecture\".\n  * \\[i.4\\] O-RAN.WG2.TS.A1GAP: \"A1 interface: General Aspects and Principles\" \\(\"A1GAP\"\\).\n  * \\[i.5\\] O-RAN.WG2.TS.R1GAP: \"R1 General Aspects and Principles\" \\(\"R1GAP\"\\).\n  * \\[i.6\\] O-RAN.WG2.TS.R1AP: \"Application Protocols for R1 services\"\\(\"R1AP\"\\).\n  * \\[i.7\\] Void\n  * \\[i.8\\] O-RAN.WG2.TS.Use-Case-Requirements: \"Non-RT RIC & A1/R1 Interface: Use Cases and",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/3/Text/19",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Requirements\" \\(\"UCR\"\\).",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/3/Text/20",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "NOTE: Available at: https://trustedcomputinggroup.org/resource/tpm-library-specification/",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/3/SectionHeader/21",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "3 Definition of terms, symbols and abbreviations",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3 Definition of terms, symbols and abbreviations"
+    },
+    {
+        "id": "/page/3/SectionHeader/22",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "3.1 Terms",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/3/Text/23",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "For the purposes of the present document, the terms apply:",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/3/Text/24",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "A1-EI: A1 Enrichment Information",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/3/Text/25",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "A1-P: A1 Policy",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/3/Text/26",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "A1-ML: A1 Model management",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/3/Text/27",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "CM: Configuration management",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/3/Text/28",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "FM: Fault management",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/3/PageFooter/29",
+        "block_type": "PageFooter",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/3/PageFooter/30",
+        "block_type": "PageFooter",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/Picture/1",
+        "block_type": "Picture",
+        "page": 5,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/Text/2",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "FOCOM: Federated O-Cloud Orchestration and Management",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/Text/3",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "NFO: Network Functions Orchestration",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/Text/4",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "Non-RT RIC: Non-Real Time RIC",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/Text/5",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "PM: Performance management",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/Text/6",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "SMO: Service Management and Orchestration",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/Text/7",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "SMOS: SMO service",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/SectionHeader/8",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "3.2 Symbols",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.2 Symbols"
+    },
+    {
+        "id": "/page/4/Text/9",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "Void.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.2 Symbols"
+    },
+    {
+        "id": "/page/4/SectionHeader/10",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "3.3 Abbreviations",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/Text/11",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "Void.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "Contents --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/SectionHeader/12",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "4 Impact analysis of Decoupled SMO",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO"
+    },
+    {
+        "id": "/page/4/SectionHeader/13",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "4.1 WG2 specifications impact analysis",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1 WG2 specifications impact analysis"
+    },
+    {
+        "id": "/page/4/SectionHeader/14",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "4.1.1 Non-RT RIC architecture related aspects",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects"
+    },
+    {
+        "id": "/page/4/SectionHeader/15",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "4.1.1.1 Overview and highlights",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.1 Overview and highlights"
+    },
+    {
+        "id": "/page/4/Text/16",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "The architecture defined in Non-RT RIC Architecture specification \\[i.3\\] provide a functional description of Non-RT RIC and SMO, where reference to SMO functions is given in support of the services exposed over the two open interfaces, i.e. R1 and A1.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.1 Overview and highlights"
+    },
+    {
+        "id": "/page/4/SectionHeader/17",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "4.1.1.2 Impact analysis",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.2 Impact analysis"
+    },
+    {
+        "id": "/page/4/SectionHeader/18",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "4.1.1.2.1 Introduction",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.2.1 Introduction"
+    },
+    {
+        "id": "/page/4/Text/19",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "In the Decoupled SMO FWID, the standardization of a Service Based Architecture for SMO, as defined in OAD \\[i.2\\] aims at ensuring the interoperability between components based on the definition of services instead of functions and interfaces. The new approach, however, does neither change the role of the Non-RT RIC nor introduce non-backward compatibility issues over R1 and A1, being the functions defined in the current Non-RT RIC Architecture specification \\[i.3\\] are one-to-one related to the corresponding services, which can now be referred to a SMOS in OAD \\[i.2\\].",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.2.1 Introduction"
+    },
+    {
+        "id": "/page/4/Text/20",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "Both Decoupled SMO Architecture TR \\[i.1\\] and OAD \\[i.2\\] state that grouping of SMOS producers in one SMOF is not subject to specification.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.2.1 Introduction"
+    },
+    {
+        "id": "/page/4/Text/21",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "Moreover, current Non-RT RIC architecture, shows O1, O2 and Open FH M-Plane interface terminations as distinct functions from the functions providing services to Non-RT RIC. With the introduction Decoupled SMO architecture, as described in OAD \\[i.2\\] the O1/Open FH M-Plane and O2 interface terminate to RAN NF OAM and NFO/FOCOM SMOS producers, respectively. Hence, Figure 6.1-1 and the definitions of interface terminations should be revised accordingly.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.2.1 Introduction"
+    },
+    {
+        "id": "/page/4/SectionHeader/22",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "4.1.1.2.2 Conclusions",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.2.2 Conclusions"
+    },
+    {
+        "id": "/page/4/Text/23",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "Based on the above analysis, the following can be concluded:",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.2.2 Conclusions"
+    },
+    {
+        "id": "/page/4/PageFooter/24",
+        "block_type": "PageFooter",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.2.2 Conclusions"
+    },
+    {
+        "id": "/page/4/PageFooter/25",
+        "block_type": "PageFooter",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.2.2 Conclusions"
+    },
+    {
+        "id": "/page/5/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.2.2 Conclusions"
+    },
+    {
+        "id": "/page/5/Picture/1",
+        "block_type": "Picture",
+        "page": 6,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.2.2 Conclusions"
+    },
+    {
+        "id": "/page/5/ListGroup/188",
+        "block_type": "ListGroup",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "* Non-RT RIC architecture remains consistent with the overarching Decoupled SMO architecture, improving interoperability and enabling a modular approach to service management.\n  * SMOS \\(SMO Services\\) concept should be integrated into the Non-RT RIC Architecture specification \\[i.3\\] to ensure it aligns with the Service-Based Architecture \\(SBA\\) principles of the Decoupled SMO framework.\n  * Description of O1/Open FH M-Plane and O2 interfaces and the related services should be adapted to the align with the Decoupled SMO architecture and principles, e.g. by removing the interface termination boxes and refer to the corresponding SMOS producers \\(RAN NF OAM and NFO/FOCOM\\).",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.1 Non-RT RIC architecture related aspects --> 4.1.1.2.2 Conclusions"
+    },
+    {
+        "id": "/page/5/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "4.1.2 A1 related aspects",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects"
+    },
+    {
+        "id": "/page/5/SectionHeader/6",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "4.1.2.1 Overview and highlights",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.1 Overview and highlights"
+    },
+    {
+        "id": "/page/5/Text/7",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "In the Non-RT RIC Architecture specification \\[i.3\\], A1 termination function which is anchored function in the Non-RT RIC reference architecture is defined as,",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.1 Overview and highlights"
+    },
+    {
+        "id": "/page/5/Text/8",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "A1 termination: It enables the Non-RT RIC framework and the Near-RT RIC to exchange messages over the A1 interface.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.1 Overview and highlights"
+    },
+    {
+        "id": "/page/5/Text/9",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "However, In the Decoupled SMO Architecture TR \\[i.1\\] A1 termination function is neither mentioned nor shown in Fig 6.2.1-1. It's not clear then whether it is consistent with the Non-RT RIC Architecture.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.1 Overview and highlights"
+    },
+    {
+        "id": "/page/5/SectionHeader/10",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "4.1.2.2 Impact analysis",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2 Impact analysis"
+    },
+    {
+        "id": "/page/5/SectionHeader/11",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "4.1.2.2.1 Introduction",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.1 Introduction"
+    },
+    {
+        "id": "/page/5/Text/12",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "A1 Policy, A1 Enrichment Information and A1-ML Model management \\(A1-P, A1-EI, A1-ML\\) services are critical for facilitating interaction between the SMO/Non-RT RIC framework and Near-RT RIC through the A1 interface. The management of policies, enrichment information and ML model ensures that near real-time decisions made at the Near-RT RIC are guided or assisted by the management and orchestration services in the SMO/Non-RT RIC.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.1 Introduction"
+    },
+    {
+        "id": "/page/5/Text/13",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "However, there is currently ambiguity about whether producers of these services should be anchored within the Non-RT RIC or be non-anchored \\(i.e. flexibly deployable as part of the SMO framework or the NonRT RIC framework\\).",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.1 Introduction"
+    },
+    {
+        "id": "/page/5/Text/14",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "The introduction of A1 related SMOSs with the exposure of services offered by a function consuming A1 interface services, i.e. A1-P, A1-EI and A1-ML in A1GAP \\[i.4\\], does not conflict with the A1 interface specifications and with the role of Non-RT RIC, There is however an inconsistency related to the concept of \"A1 termination\" anchoring, introduced in Non-RT RIC Architecture specification \\[i.3\\].",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.1 Introduction"
+    },
+    {
+        "id": "/page/5/Text/15",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "As for SMOS related to other external SMO interfaces, i.e. O1 and O2, it would be straightforward to assume that the A1 related SMOS producer and the termination of A1 interface are tightly coupled.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.1 Introduction"
+    },
+    {
+        "id": "/page/5/Text/16",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "The alternative, i.e. introducing a functional separation between the A1 related SMOS producer and the A1 interface termination, would require the definition of an additional interface or reference point between these to ensure interoperability between the two functions.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.1 Introduction"
+    },
+    {
+        "id": "/page/5/Text/17",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "Before the introduction of SMOS concept, the only consumers of A1 related services were the rApps. With the introduction of other SMOS, e.g. Service Assurance SMOS, also other SMOS producer may consume A1 related services SMOS to e.g. provide policies to Near RT RIC. For this reason, it seems appropriate to expose A1 related services as individual SMOS, as defined in OAD \\[i.2\\]",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.1 Introduction"
+    },
+    {
+        "id": "/page/5/Text/18",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "Following the analysis given above, in order to confirm the assumption that A1 related functions are not anchored to the Non-RT RIC, it is necessary to revise the concept of A1 termination, possibly aligning to other SMO interfaces like O1 and O2, for example avoiding the term \"A1 termination function\" and use \"A1 interface\" or \"A1 services consumer/producer\" instead.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.1 Introduction"
+    },
+    {
+        "id": "/page/5/SectionHeader/19",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "4.1.2.2.2 Conclusions",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.2 Conclusions"
+    },
+    {
+        "id": "/page/5/Text/20",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "Based on the above analysis, the following can be concluded:",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.2 Conclusions"
+    },
+    {
+        "id": "/page/5/Text/21",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "\u2022 Update the descriptions of \"A1 termination\" in Non-RT RIC Architecture specification \\[i.3\\], remove the box \"A1",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.2 Conclusions"
+    },
+    {
+        "id": "/page/5/PageFooter/22",
+        "block_type": "PageFooter",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.2 Conclusions"
+    },
+    {
+        "id": "/page/5/PageFooter/23",
+        "block_type": "PageFooter",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.2 Conclusions"
+    },
+    {
+        "id": "/page/6/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.2 Conclusions"
+    },
+    {
+        "id": "/page/6/Picture/1",
+        "block_type": "Picture",
+        "page": 7,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.2 Conclusions"
+    },
+    {
+        "id": "/page/6/Text/2",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "termination\" from the Non-RT RIC architecture and terminate the A1 interface into the \"A1 related functions\". Remove the reference to \"A1 termination\" from clause 8.1 and replace the remaining two occurrences of \"A1 termination\" with \"A1 interface. This will ensure consistency between the concepts \"A1 related SMOS\" given in OAD and the \"A1 related functions\" described in Non-RT RIC Architecture TS.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.2 A1 related aspects --> 4.1.2.2.2 Conclusions"
+    },
+    {
+        "id": "/page/6/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "4.1.3 R1 related aspects",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects"
+    },
+    {
+        "id": "/page/6/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "4.1.3.1 Overview and highlights",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.1 Overview and highlights"
+    },
+    {
+        "id": "/page/6/Text/5",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "The standardization of a Service Based Architecture for SMO, as defined in OAD \\[i.2\\] aims at ensuring the interoperability between components based on the definition of services.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.1 Overview and highlights"
+    },
+    {
+        "id": "/page/6/Text/6",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "Several SMOS were introduced in OAD \\[i.2\\] clause 5.3.1.2.1 to support a service-based architecture in SMO.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.1 Overview and highlights"
+    },
+    {
+        "id": "/page/6/Text/7",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "In particular, the scope of SME and DME SMOS have been defined to support service and data exposure to both internal and external SMOS consumers:",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.1 Overview and highlights"
+    },
+    {
+        "id": "/page/6/Text/8",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "SME SMOS supports the exposure of other SMOSs, to both internal and external SMOS consumers.  DME SMOS supports the exposure of data produced by SMOS Producers, to both internal and external SMOS consumers.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.1 Overview and highlights"
+    },
+    {
+        "id": "/page/6/Text/9",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "The R1 interface related specifications refer to the services exposed as \"R1 services\", since the scope is the service exposure over R1 interface.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.1 Overview and highlights"
+    },
+    {
+        "id": "/page/6/Text/10",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "The relationship between R1 services, SMOS and R1 interface has been provided in OAD \\[i.2\\]:",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.1 Overview and highlights"
+    },
+    {
+        "id": "/page/6/Text/11",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "R1 Services: The SMOS capabilities available for consumption by rApps, and the capabilities produced by rApps,  that are accessible via the R1 interface",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.1 Overview and highlights"
+    },
+    {
+        "id": "/page/6/PageFooter/12",
+        "block_type": "PageFooter",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.1 Overview and highlights"
+    },
+    {
+        "id": "/page/6/PageFooter/13",
+        "block_type": "PageFooter",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.1 Overview and highlights"
+    },
+    {
+        "id": "/page/7/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.1 Overview and highlights"
+    },
+    {
+        "id": "/page/7/Picture/1",
+        "block_type": "Picture",
+        "page": 8,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.1 Overview and highlights"
+    },
+    {
+        "id": "/page/7/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "4.1.3.2 Impact Analysis",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2 Impact Analysis"
+    },
+    {
+        "id": "/page/7/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "4.1.3.2.1 R1 Interface",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.1 R1 Interface"
+    },
+    {
+        "id": "/page/7/Text/4",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The following paragraphs describe the R1 interface \\(Non-RT RIC Architecture specification \\[i.3\\] clause 6.2\\):",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.1 R1 Interface"
+    },
+    {
+        "id": "/page/7/Text/5",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The R1 interface is a service-based interface via which the R1 services can be consumed and produced.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.1 R1 Interface"
+    },
+    {
+        "id": "/page/7/Text/6",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The R1 termination enables the R1 Service Producers and R1 Service Consumers to exchange messages via the R1 interface.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.1 R1 Interface"
+    },
+    {
+        "id": "/page/7/Text/7",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The R1 termination enables the SMO/Non-RT RIC framework and the rApps to exchange messages via the R1 interface, assuming that the R1 service APIs and the rApps are registered with the R1 service management and exposure functions.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.1 R1 Interface"
+    },
+    {
+        "id": "/page/7/Text/8",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The R1 interface is clearly identified between SMO/Non-RT RIC Framework and the rApps. This is not changed by the Decoupled SMO Architecture.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.1 R1 Interface"
+    },
+    {
+        "id": "/page/7/SectionHeader/9",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "4.1.3.2.2 R1 services",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/7/Text/10",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The following paragraphs describe \"R1 services\" concepts.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/7/Text/11",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "From Non-RT RIC Architecture specification \\[i.3\\] clause 6.2:",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/7/Text/12",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The R1 services are a collection of services produced and consumed by logical functions in the SMO/Non-RT RIC framework or by rApps.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/7/Text/13",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The invoker of an R1 service is referred to as R1 Service Consumer and the provider of an R1 service is referred to as R1 Service Producer. R1 Service Consumers can be rApps and/or SMO/Non-RT RIC framework functions. Further, R1 Service Producers can be rApps and/or SMO/Non-RT RIC framework functions.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/7/Text/14",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "An rApp as well as a SMO/Non-RT RIC framework function can produce zero or more R1 Services, likewise an rApp as well as a SMO/Non-RT RIC framework function can consume zero or more R1 Services.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/7/Text/15",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "From Non-RT RIC Architecture specification \\[i.3\\] clause 7.1:",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/7/Text/16",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The set of R1 services which can be accessed via the R1 interface includes \\(but is not limited to\\):",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/7/ListGroup/163",
+        "block_type": "ListGroup",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "* Service management and exposure services, which include service registration and service discovery services, authentication services, authorization services and communication support services. The service management and exposure services support extensibility of the set of R1 services.\n  * Data management and exposure services, which deliver data created or collected by Data Producers to Data Consumers according to their needs.\n  * A1-related services, which provide access to functionality related to A1.\n  * AI/ML workflow services, which provide access to AI and ML workflow.\n  * RAN OAM-related services, which provide access to RAN OAM functionality related to the O1 and open fronthaul M-plane interfaces, and to the OAM functionality related to RAN-specific network slicing in the SMO framework.\n  * O2-related services, which provide access to functionality related to O2.\n  * rApp management services, which provide functionality for managing rApps.\n  * TE&IV-related services, which provide access to topology and inventory data.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/7/PageFooter/25",
+        "block_type": "PageFooter",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/7/PageFooter/26",
+        "block_type": "PageFooter",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/8/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/8/Picture/1",
+        "block_type": "Picture",
+        "page": 9,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/8/Text/2",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "From the above, the following considerations can be derived:",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/8/ListGroup/180",
+        "block_type": "ListGroup",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "* R1 services and SMOSs listed in OAD \\[i.2\\] clause 5.3.1.2.1 and in Non-RT RIC Architecture specification \\[i.3\\] clause 7.1 are based on the same SMO capabilities\n  * SMOSs capabilities can be consumed/produced by rApps via R1 interface\n  * the introduction of Decoupled SMO architecture does not conflict with the R1 interface principles listed in R1GAP \\[i.5\\] clause 4.2\n  * The R1AP \\[i.6\\] defines a service-based interface. The procedures can be extended to align with the Decoupled SMO principles without major changes to the APIs.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.3 R1 related aspects --> 4.1.3.2.2 R1 services"
+    },
+    {
+        "id": "/page/8/SectionHeader/7",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "4.1.4 Use cases and requirement related aspects",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.4 Use cases and requirement related aspects"
+    },
+    {
+        "id": "/page/8/SectionHeader/8",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "4.1.4.1 Overview and highlights",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.4 Use cases and requirement related aspects --> 4.1.4.1 Overview and highlights"
+    },
+    {
+        "id": "/page/8/Text/9",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "WG2 Use cases and requirements so far assume a functional architecture for SMO.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.4 Use cases and requirement related aspects --> 4.1.4.1 Overview and highlights"
+    },
+    {
+        "id": "/page/8/Text/10",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "The Decoupled SMO feature relies on a Service Based Architecture for SMO and introduces the concepts of SMOS producers/consumers.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.4 Use cases and requirement related aspects --> 4.1.4.1 Overview and highlights"
+    },
+    {
+        "id": "/page/8/SectionHeader/11",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "4.1.4.2 Impact analysis",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.4 Use cases and requirement related aspects --> 4.1.4.2 Impact analysis"
+    },
+    {
+        "id": "/page/8/SectionHeader/12",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "4.1.4.2.1 Use cases",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.4 Use cases and requirement related aspects --> 4.1.4.2.1 Use cases"
+    },
+    {
+        "id": "/page/8/Text/13",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "Some of the use cases in UCR \\[i.8\\] describe the procedures involving SMO components as considering the functional architecture of SMO. The introduction of a service-based architecture for SMO, implies that the SMO functional entities, and the related blocks in the diagrams, should be analysed and aligned to the corresponding SMO service producers/consumers \\(as an example, 'RAN NF OAM SMOS producer' instead of 'Collection & Control' in Fig. 4.1.3.1-1\\).",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.4 Use cases and requirement related aspects --> 4.1.4.2.1 Use cases"
+    },
+    {
+        "id": "/page/8/SectionHeader/14",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "4.1.4.2.2 Requirements",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.4 Use cases and requirement related aspects --> 4.1.4.2.2 Requirements"
+    },
+    {
+        "id": "/page/8/Text/15",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "Clause 5 of UCR \\[i.8\\] specify Non-RT RIC, A1 and R1 functional and non-functional requirements. Terminology may need a revision to align to Decoupled SMO architectural principles and definitions.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.4 Use cases and requirement related aspects --> 4.1.4.2.2 Requirements"
+    },
+    {
+        "id": "/page/8/SectionHeader/16",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "4.1.4.2.3 Conclusions",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.4 Use cases and requirement related aspects --> 4.1.4.2.3 Conclusions"
+    },
+    {
+        "id": "/page/8/Text/17",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "UCR \\[i.8\\] should be analysed and aligned to comply with Decoupled SMO Architectural principles.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.1.4 Use cases and requirement related aspects --> 4.1.4.2.3 Conclusions"
+    },
+    {
+        "id": "/page/8/SectionHeader/18",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "4.2 Recommendations",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.2 Recommendations"
+    },
+    {
+        "id": "/page/8/Text/19",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "The following actions are recommended to ensure alignment of WG2 specifications for the introduction of the Decoupled SMO Architecture:",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.2 Recommendations"
+    },
+    {
+        "id": "/page/8/ListGroup/181",
+        "block_type": "ListGroup",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "* Introduce SMOS \\(SMO Services\\) concept into the Non-RT RIC Architecture specification \\[i.3\\] to ensure it aligns with the Service-Based Architecture \\(SBA\\) principles of the Decoupled SMO framework and the definition of R1 services.\n  * Analyze and align description of O1/Open FH M-Plane and O2 interfaces and the related services in Non-RT RIC Architecture specification \\[i.3\\] to comply with Decoupled SMO Architectural principles, e.g. by removing the interface termination boxes and refer to the corresponding SMOS producers \\(RAN NF OAM and NFO/FOCOM\\).\n  * Remove the box \"A1 termination\" from the Non-RT RIC architecture and terminate the A1 interface into the \"A1 related functions\".\n  * Remove the reference to \"A1 termination\" from clause 8.1 of Non-RT RIC Architecture specification \\[i.3\\] and replace the remaining two occurrences of \"A1 termination\" with \"A1 interface.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.2 Recommendations"
+    },
+    {
+        "id": "/page/8/PageFooter/24",
+        "block_type": "PageFooter",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.2 Recommendations"
+    },
+    {
+        "id": "/page/8/PageFooter/25",
+        "block_type": "PageFooter",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.2 Recommendations"
+    },
+    {
+        "id": "/page/9/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.2 Recommendations"
+    },
+    {
+        "id": "/page/9/Picture/1",
+        "block_type": "Picture",
+        "page": 10,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.2 Recommendations"
+    },
+    {
+        "id": "/page/9/Text/2",
+        "block_type": "Text",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "\\- Analyse and align UCR \\[i.8\\] to comply with Decoupled SMO Architectural principles.",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.2 Recommendations"
+    },
+    {
+        "id": "/page/9/PageFooter/3",
+        "block_type": "PageFooter",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.2 Recommendations"
+    },
+    {
+        "id": "/page/9/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.2 Recommendations"
+    },
+    {
+        "id": "/page/10/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.2 Recommendations"
+    },
+    {
+        "id": "/page/10/Picture/1",
+        "block_type": "Picture",
+        "page": 11,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> 4.2 Recommendations"
+    },
+    {
+        "id": "/page/10/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "Annex:",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> Annex:"
+    },
+    {
+        "id": "/page/10/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "Change history/Change request \\(history\\)",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> Change history/Change request \\(history\\)"
+    },
+    {
+        "id": "/page/10/Table/4",
+        "block_type": "Table",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "Date| Revision| Description  \n---|---|---  \n2024.07.04| 00.00.01| Baseline version with basic structure.  \n2025.02.19| 00.00.02| RMI.AO CR-0027 A1 related Impact analyisis v04\ninccorperated.  \n2025.06.24| 00.00.03| TIM.AO CR-0001 R1 related aspects Impact analysis v07  \n| | TIM.AO CR-0002 UCR related aspects Impact analyisis v01  \n| | TIM.AO CR-0003 Restructuring and editorials v02  \n| | TIM.AO CR-0004 Recommendation for Impact analyisis v01  \n| | TIM.AO CR-0005.O1_OFH_M-Plane_and_O2 related aspects Impact analysis v02  \n| | Above CRs inccoperated.  \n2025.07.13| 01.00| Published with WG2 specifications impact analysis of\nDecoupled SMO, includingA1 related  \nImpact analyisis, R1 related aspects Impact analysis, UCR related aspects\nImpact  \nanalyisis, O1 OFH M-Plane and O2 related aspects Impact analysis, and\nRecommendation  \nfor Impact analyisis.  \n| | \n\n",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> Change history/Change request \\(history\\)"
+    },
+    {
+        "id": "/page/10/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> Change history/Change request \\(history\\)"
+    },
+    {
+        "id": "/page/10/PageFooter/6",
+        "block_type": "PageFooter",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TR.DECSMO-Impact-R004-v01.00",
+        "trace": "4 Impact analysis of Decoupled SMO --> Change history/Change request \\(history\\)"
+    }
+]

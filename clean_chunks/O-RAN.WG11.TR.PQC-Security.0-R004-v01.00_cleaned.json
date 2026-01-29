@@ -1,0 +1,1212 @@
+[
+    {
+        "id": "/page/0/Picture/0",
+        "block_type": "Picture",
+        "page": 1,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00"
+    },
+    {
+        "id": "/page/0/Text/2",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Technical Report",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00"
+    },
+    {
+        "id": "/page/0/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography"
+    },
+    {
+        "id": "/page/0/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/0/Text/5",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "The copying or incorporation into any other work of part or all of the material available in this document in any form without the prior written permission of O-RAN ALLIANCE e.V. is prohibited, save that you may print or download extracts of the material of this document for your personal use, or copy the material of this document for the purpose of sending to individual third parties for their information provided that you acknowledge O-RAN ALLIANCE as the source of the material and that you inform the third party that these conditions apply to them and that they must comply with them.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/0/PageFooter/6",
+        "block_type": "PageFooter",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/1/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/1/Picture/1",
+        "block_type": "Picture",
+        "page": 2,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/1/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "Contents",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/TableOfContents/3",
+        "block_type": "TableOfContents",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "Listof tables 3  \nForeeword4  \ndal verbs terminology  \noduction  \n1Scope  \n2\u2022  \n2.1Normative references5  \n2.2Informative references 5  \n3Definition of terms, symbols and abbreviations8  \n3.1Terms8  \n3.2Symbols8  \n3.3Abbreviations8  \n4Post-Quantum Cryptography background8  \n5Cryptographic inventory9  \n\u0394nnney: Change history/Change request \\(history\\)13",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/Picture/1",
+        "block_type": "Picture",
+        "page": 3,
+        "images": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABNAOgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigBKRmCjJIFQXd2lpFvfkk4VR1Y+lZsk0kvzSN+A6CvMzDMoYRW3k+hpTpubL02pwQ5yxJ9hVE+J7NGxKroPUgVzGq6mzO0cBwo6t61ztwzMTuJP1NePHN8VN30SPXoZZCavI9Ws9Ws74fuLhGP8Adzz+VXQa8OaWSFw8UjIw5BU4IrtfCfjRrmddO1Nx5p4imPG72PvXsYTH+192orMzxeUzpR9pTd0jvKKO1FemeQNeRY0LuwVQMkk4Aqp/bGm/9BC1/wC/y/41wnxcvbiDSbC2ilZIp5G8wDjdgDAP515PY2F3qd2trZQPPOwJCJ1IHWvRw2BVWn7SUrI8zE5g6VT2cY3Z9Kf2xpv/AEELX/v8v+NA1bTmYKt/aknoBMv+NeAf8IT4l/6A11/3z/8AXqnf6Dq+kost7YXFupPDsvGfrWiy+k9FUMnmNZaumfSwYHkHNLXgHhXxtqPh+8jSSd5rBm/eROScD1X0Ne9288dzbxzxMGjkUMrDuD0rjxOFlQlZ7M7sLi4YiN1uiWkJwMmiuL+JWvPpHhswQSbLm8by1I6hf4iP5fjWNKm6k1BdTarUVODm+hut4p0Nb37GdUtRcZ27N461rKwYZBBHqK+WO+c817X8Ldfk1PRJbC4k3z2bAAnqUPT+RH5V3YrAexhzp3PPwmYe2nySVjvqQmlprV5x6hnah4g0rS5VivtQggduiu3NX45kmjWSJ1dGGQynINfNOt3c1/rd7czMWd5nPJzgZOB9BXefC/xUYLj+w7yUmOQ5tmY/dbuv49q9Ktl7hS9pF3fU8ujmSnV9nJWR67SMwRSzEADkk0tc548nkt/BWpPG21jGFz7EgH+defCPNJR7no1JckHLsaNj4g0rUbl7az1CCaZPvIjZNaWa+c/BbsnjHSirEE3Cg4PY9a+jBXRi8MqE1FO9zmweKeIi5NWsLRRRXKdgUUU09DSbtqBzVxdC98QSJkmO1Xao7bj1P9Kbqcpisn2nBb5ay9Hn3atchz88gLfU55roY7SK7nRZRlUO7ae5r4bEKeJxvL3Z14ecYx5mc9YeHrnUcSOfJgP8RHJ+gqHxF4AuprcyaRqEokUZMMmAG+jAAj8a9BCheAMClNfVUMtoUo2au+5qszrxqKcXa3Q+ab3+0tPu5La7aaKZDhlcmlg1CQsu5sSKcq44Oa9o8d+HbLVdCuLqVAlzbIXjlA547H1FeCu20VhWw3s3psfZ5djqWPoNtWktz6K8Jawdb8PW9y7AzKPLmx/fHX8+D+Nb3avMPhRqATRdSe4lCW8TK5LHAXg5P6Cus/4Tvwx/0GIP1/wr1aCnUpppXPhcxjTw+JnTvZX0OS+Mf/HppX/XST+Qrlvhh/yPFt/1zk/9BNdF8WLuC+0rR7m1lWWGR5Cjr0IwK8+0PWrnw/qiahaLE0yKygSAleRjsRX0GGhKWDcFvqfK4mpGOMU3tofS9VNTtra7024hu1VoHjIfcOMY6149/wALb8Qf8+9h/wB+2/8Aiqy9Z+IOv61atayzxwQOMOlum3ePckk/rXFDLa/Mr6HdPM6HK7anMzKqzSKhyoYgH2r6I8FGQ+DNJMv3vs64/wB3t+mK8a8L+C9R8Q3cZMMkNjnLzuMZH+znqa99tbaO0tYraFQsUSBEUdgBgVtmdWLUYJ3aMcrozTdRqyZNXg/xI1n+1PFMkMbbobQeUuP738X617H4i1VdF0G81BsExRkoD3Y8KPzxXzrbQz6pqcUAJee5mC5J5LMf8TUZZTV3Vl0KzSq7KlHdnUx+Ed/w2fWljzdCbzQcc+SPlI/9m/A1S8Baz/Y3iq3dm2wz/uZfoen5HFe5RaVbx6EulbAYBB5JBHUYxXznqNlJpeq3Nm+Q9vKVz34PBrpw1b6yp05dTlxVH6q6dSJ9OA55obpWD4N1ga34YtLokGUL5co9GXg/4/jW8eleJOLjJxfQ96E1OKkup8wX3/IQuf8Arq38zTCtxZTxuQ8UoCyIeh55BFPvv+Qhc/8AXVv5mvSPEXhb+0/AWlaraR5u7Wzj3hRy6bRn8R1r6adaNNQUtnofLU6Mqjm47rU7LwV4mTxJoqSOQLuLCTr7+uPQ0nxC/wCRH1H/AHV/9CFeM+FPEU3hvXIrtSTA3yTxj+JD/Uda9f8AHFzFefD69uIHDxSRoysOhBYV5FbDexxEbbNo9ihifbYaSe6R5B4O/wCRx0n/AK+Vr6NHSvnLwd/yOOk/9fK19GjpV5r/ABI+hGUfw5eotFFFeWeuFIRwaWik0B5XfSS6Zqrsh+eGQjnvzXYaPqlvfCO4hcYJ2uvdT6Gud8fWrWF2uo4/0SbCyv2jfoCfQHgfh71xI1C606fz7SZo39uh+o7187XwEoVVNbp3XmQq3s209me9g0GvK7P4uC2hCajpzOyjG+Fuv4Gln+Nmn8rbaTdSSdtzKBn3r6GnLntYlV4N2TOm+I2ppYeELlCR5lziFB656/pmvALhsce1dD4m8WXniu8imuY1hiiXEcKHIXPU57k/0rnxbzX99FaWyGSaRgiqO5NbYqko4dJ73Prsoi6EG38z1X4XaLHqXg/U47sN9nvJPKwpwfl7g/U/pWr/AMKi0P8A5+r3/vtf/ia6rwzo6aD4dstNTH7mMbz6ueWP4kmtepoValGPLB2PmcwjTxdeVSaueQ/ErSbfRPD+iafa7jFE8gBc5J4B5rmfAmlWWteKoLK/h863ZHJTcVyQOOQQa7X4x/8AHnpX/XST+Qrlvhh/yO9t/wBcpP8A0Gvboyl9SlK+up85WhH66o200O/1X4XaDc2bJYQvZzjlXWRnBPoQxPH0rx64gvtA1h4WLQ3ds/X37H6V9NV5z8UfDP22wXWbZM3FsNswH8Ufr+H9a5cFjJc/s6jumdWOwUeT2lNWaNXwL4xi8R2X2ecJFfwr86KMBx/eH+Fdj2r5l0bVbjRdVgv7ZiHibJAP3h3B+tfR1jqMF/pUOoROPIliEgYnoMZ5rPHYb2M7x2ZrgMV7aHLLdHm3xc1ni00eNv8AptKB+S/1rz7w/q40LWYNS+zLcNDnYjNtGSMZ6e9L4j1Ztb8QXl+SSkkhEYPZBwo/L9a9D8JfDjTNS8PW17qaz+fOC4CPtAXtxivRi6eGwyjU6nmSVTFYlyp9Cr/wuK6x/wAgeH/v+f8ACuJ8R62PEGrvqH2VbZ5FAdVfcCRxnpXrn/CqvDf926/7+/8A1qyvEnwz0qz0C7udNW4+1RJvUM+4EDkjGPSsKGIwkJ3gmmb18NjJwfO7pGR8JtaNvqdxpMjfu7geZH7OOv5j+Qr2E/dr5i0y/k0zU7a9iPzwSBx74r6VsruO+sILqE5jmjDqfYjNYZnS5aimup0ZXW5qbg+h80X3/IQuf+urfzNfQ/hZQ3hLSgQCDaR5H/ARXzvff8hC5/66t/M19E+Ff+RT0r/r1j/9BFdGZfwoHPlf8aZ454/8L/8ACPawZrdMWNyS0eBgIe60zTfFDf8ACF6loF25IKB7Zif9oEr/AFH417P4j0ODxBos9hOBlhujfGSjjoR/noTXztf2U+nX81ncptmiYqwrTB1I4mmoT3iZ4ylLDVHOG0jT8Hf8jjpP/XytfRo6V85eDv8AkcdJ/wCvla+jR0rlzX+JH0OrKP4cvUWiiivLPXCiiigCC6tIL21ktrmJZYZFKujDIYV414n+HWtaNJJPoTNe6f1Fux3SRew9RXtdRmSMSLGXUOw4Unk461UZW0auiWk9z5UuZbgStDcQtFIpwyOpUg+4PSmRKB0HJr6ou9MsNQULe2VvcqDkCaJXAP4iqsfhvQoXDxaNp6OOjLbICP0rphXpQXuwsb0HSpO6jqfP2j+HNX1xwmn2Ujqf+WrDCD/gVew+C/AFp4ZX7XORcak4wZSOIx3C/wCNdfuhjdYtyK7AlUzgkDrgfjUornqzdSV5HRWx06kPZx0QUUuKjeREKhnVSx2qCcZPoKg4jjviL4Zu/EOkwNYgPcWzMwjPG8EcgH14FYPw68GappetPqepweQscZSNGILEnvx2xn869SxRiuiOKqRpOktmcssJTlWVV7oKZLGksbRyKGRgQysMgg0ssscKF5HVFHVmOBS9a5zp8jxHxF8NtWtdWk/sq2NzZyMWj2sAUHoc16R4f8PXNj4GGi3coEzwyIxXkJvzwPXGa6eo5JEiXdIyqucZJxyeldVTF1KsVCXQ5KWDp0pucep4dafDXXX1pLW4t9loJPnuAwKle+O+a9xghjt4Y4YlCxooVVHQAcAU8YNLU18TOvbm6F4fCwoX5eotMkVXQqwBVhgg9xSTTxwR+ZLIkaAgbnOBzwKPNTzBGXXeQWC55IGMn9R+dc50XR4jrnw41qLXZY9PtfOtJH3RyBgAoJ6H6V69oOnPpOg2VhI/mPBCqM3YnHb2rT2ikPFdFbFVKsVGXQ5qOEp0ZOUep4frPw610a/cJZ2vm20spaOXeAFUnjOeeK9l0my/s7SLOy3bjBCkZb1IAGakkvbSG4S3kuYUnf7kbOAzfQdTVgdKK2JqVYqMugUMLToylKO7A9K4Lx/4HfXgmoacEF8g2up481fr6iu+qtc3tpZ7ftVzDBu+75rhc/TNZ0qkqc1KG5rWpQqwcZ7HkXgzwHrUPiO2vb+2NpDauJPnIJc9gMGvZRUVvcQXUYkgmjljPRo2DD8xUuKvEV515c0yMNh4UI2gLRRRWB0BRRRQAhrg9VkvLrVbnWrW3WWLTJAqOJBnamTKAMc5BI+orvDSBQBjFVCXK7mdSHOrXGQTJcQxzRMGjkUMrDuCMg1JQAB0paks5rWby2sfFejTXdxFBH9nuRvlcKM5j7mugt54rmBZoJUlicZV0YMrD2IpzIrHkA49acAAMCqbTSJjFpsWsPxBcQ2s2lTXEqQxJeZaSRgqj5H6k1uUjKGHIzSTsxzjzKxBaXltfQ+daXEU8Wcb4nDDP1FWKaFC9BinUhq/UwfGH/IuT/7yf+hitxelKQD1pRTvpYVveuIa5TxRFLq95DpEMInVY2mmXeFxkFVOSDzkk/hXWU3aMk4pxlyu4pw51YyvD1/JfaRGbjH2qEmC4A6eYnDfgeo9jWtQAB0FLSeruOKaVmYHjCBLnw+0EgJSS4gVsHHBlSs7SJ7lPFkGnXm5p7SxmAkP/LWMvFtbPrwQfcV15UHqKTaM5xzVqdo8pEqV581xaRqdRWZqcPHPoMFnqkWseS1811KZYnwZpPnPl7B94/Lt24rtYv8AVrwRwOD1pGiRnDlFLDoSORUg4FXKVzOEOUD0rkvE8ywa5pTtPYwjybgbr04TrHx9f/r11tNKqeoBpQlyu46kOaNjP0WdJ7BWSezm5ILWZBj61pU1VA6DFOpPcqKsrBRRRSGf/9k=",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/TableOfContents/2",
+        "block_type": "TableOfContents",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/Text/3",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "Table 5-1: Cryptographic inventory................................................................................................................................................ 9",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/3/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/3/Picture/1",
+        "block_type": "Picture",
+        "page": 4,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/3/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Foreword",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/3/Text/3",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "This Technical Report \\(TR\\) has been produced by WG11 of the O-RAN ALLIANCE.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/3/Text/4",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN ALLIANCE modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/3/Text/5",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "version xx.yy.zz",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/3/SectionHeader/6",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "where:",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents --> Foreword --> where:"
+    },
+    {
+        "id": "/page/3/ListGroup/182",
+        "block_type": "ListGroup",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "* xx: the first digit-group is incremented for all changes of substance, i.e. technical enhancements, corrections, updates, etc. \\(the initial approved document will have xx=01\\). Always 2 digits with leading zero if needed.  \n  * yy: the second digit-group is incremented when editorial only changes have been incorporated in the document. Always 2 digits with leading zero if needed.\n  * zz: the third digit-group included only in working versions of the document indicating incremental changes during the editing process. External versions never include the third digit-group. Always 2 digits with leading zero if needed.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Contents --> Foreword --> where:"
+    },
+    {
+        "id": "/page/3/SectionHeader/10",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Modal verbs terminology",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/Text/11",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\).",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/Text/12",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/SectionHeader/13",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Introduction",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/3/Text/14",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "The increasing sophistication of quantum computing poses a significant threat to the security of classical asymmetric cryptographic algorithms currently used in O-RAN networks. As quantum computers become more powerful, they will be capable of breaking asymmetric classical encryption algorithms, potentially compromising the confidentiality, integrity, and authenticity of sensitive information exchanged between network entities. This vulnerability has far-reaching implications for the security and trustworthiness of O-RAN networks, which are designed to provide secure and reliable communication services for critical infrastructure and applications.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/3/Text/15",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "The migration to Quantum Safe Cryptography \\(QSC\\) is essential to ensure the long-term security and resilience of O-RAN networks against potential quantum computer-based attacks. QSC refers to cryptographic techniques and algorithms that are resistant to attacks by both classical and quantum computers. By migrating to QSC, O-RAN networks can maintain their security posture and prevent potential disruptions to services and operations.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/3/Text/16",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "This technical report contains a cryptographic inventory, covering all cryptographic algorithms employed in O-RAN specification at this time.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/3/PageFooter/17",
+        "block_type": "PageFooter",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/3/PageFooter/18",
+        "block_type": "PageFooter",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/4/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/4/Picture/1",
+        "block_type": "Picture",
+        "page": 5,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction"
+    },
+    {
+        "id": "/page/4/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "1 Scope",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 1 Scope"
+    },
+    {
+        "id": "/page/4/Text/3",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "The present document presents the Post-Quantum Cryptography study as it applies to O-RAN architectural elements.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 1 Scope"
+    },
+    {
+        "id": "/page/4/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "2 References",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References"
+    },
+    {
+        "id": "/page/4/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "2.1 Normative references",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/Text/6",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "Not applicable.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/SectionHeader/7",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "2.2 Informative references",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/8",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies. In the case of a reference to a 3GPP document, a non-specific reference implicitly refers to the latest version of that document in Release 18, or the latest 3GPP release prior to Release 18 that includes that document.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/9",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/10",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "The following referenced documents are not necessary for the application of the present document, but they assist the user with regard to a particular subject area.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Table/11",
+        "block_type": "Table",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "|  \n---|---  \n[i.1]| 3GPP TR 21.905: \"Vocabulary for 3GPP Specifications\".  \n[i.2]| NIST Post-Quantum Cryptography, call for papers;\nhttps://csrc.nist.gov/Projects/post-quantum  \ncryptography/post-quantum-cryptography-standardization/Call-for-Proposals  \n[i.3]| FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard;  \nhttps://csrc.nist.gov/pubs/fips/203/final  \n[i.4]| FIPS 204: Module-Lattice-Based Digital Signature Standard;\nhttps://csrc.nist.gov/pubs/fips/204/final  \n[i.5]| FIPS 205: Stateless Hash-Based Digital Signature Standard;\nhttps://csrc.nist.gov/pubs/fips/205/final  \n[i.6]| NCSC whitepaper: Next steps in preparing for post-quantum cryptography;  \nhttps://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-\ncryptography  \n[i.7]| ETSI TR 103 619 V1.1.1 (2020-07), \"Migration strategies and\nrecommendations to Quantum Safe  \nschemes\"  \n[i.8]| ETSI TC CYBER, ETSI QSC, \"Quantum Safe Cryptographic Protocol\nInventory\",  \nCYBERQSC(23)032007r2_QSC_Protocol_Inventory_LSOut.pdf  \n[i.9]| GSMA, \"LS regarding the publication of the Post Quantum Cryptography \u2013\nGuidelines for Telecom Use  \nCases document in Feb 24\"  \n[i.10]| GSMA, \"Post Quantum Cryptography \u2013 Guidelines for Telecom Use Cases\";  \nhttps://www.gsma.com/newsroom/wp-content/uploads/PQ.03-Post-Quantum-\nCryptography-Guidelines  \nfor-Telecom-Use-v1.0.pdf  \n[i.11]| NIST, Post-Quantum Cryptography; https://www.nist.gov/programs-\nprojects/post-quantum-cryptography  \n[i.12]| O-RAN ALLIANCE TS \"O-RAN WG4 Management Plane Specification\"  \n[i.13]| O-RAN ALLIANCE TS \"O-RAN WG10 O-RAN O1 Interface Specification\"  \n|\n\n",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/PageFooter/12",
+        "block_type": "PageFooter",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/PageFooter/13",
+        "block_type": "PageFooter",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/5/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/5/Picture/1",
+        "block_type": "Picture",
+        "page": 6,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/5/TableOfContents/2",
+        "block_type": "TableOfContents",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "\\[i.14\\]O-RAN ALLIANCE TS \"O-RAN WG11 Security Protocols Specifications\"  \n\\[i.15\\]IETF RFC 5656: \"Elliptic Curve Algorithm Integration in the Secure Shell Transport Layer\"  \n\\[i.16\\]IETF RFC 8709: \"Ed25519 and Ed448 Public Key Algorithms for the Secure Shell \\(SSH\\) Protocol\"  \n\\[i.17\\]IETF RFC 5647: \"AES Galois Counter Mode for the Secure Shell Transport Layer Protocol\"  \n\\[i.18\\]IETF RFC 4344: \"The Secure Shell \\(SSH\\) Transport Layer Encryption Modes\"  \n\\[i.19\\]IETF RFC 4419: \"Diffie-Hellman Group Exchange for the Secure Shell \\(SSH\\) Transport Layer Protocol\"  \n\\[i.20\\]IETF RFC 8270. \"Increase the Secure Shell Minimum Recommended Diffie-Hellman Modulus Size to  \n2048 Bits\"  \n\\[i.21\\]IETF RFC 8731: \"Secure Shell \\(SSH\\) Key Exchange Method Using Curve25519 and Curve448\"  \n\\[i.22\\]IETF RFC 6668: \"SHA-2 Data Integrity Verification for the Secure Shell \\(SSH\\) Transport Layer  \nProtocol\"  \n\\[i.23\\]IETF RFC 4418: \"UMAC: Message Authentication Code using Universal Hashing\"  \n\\[i.24\\]O-RAN ALLIANCE TS \"A1 interface: Transport Protocol\"  \n\\[i.25\\]O-RAN ALLIANCE TS \"Transport Protocols for R1 Services\"  \n\\[i.26\\]O-RAN ALLIANCE TS \"Y1 interface: General Aspects and Principles\"  \n\\[i.27\\]IETF RFC 5116: \"An Interface and Algorithms for Authenticated Encryption\"  \n\\[i.28\\]IETF RFC 8422: \"Elliptic Curve Cryptography \\(ECC\\) Cipher Suites for Transport Layer Security \\(TLS\\)  \nVersions 1.2 and Earlier\"  \n\\[i.29\\]IETF RFC 7919: \"Negotiated Finite Field Diffie-Hellman Ephemeral Parameters for Transport Layer  \nSecurity \\(TLS\\) \"  \n\\[i.30\\]IETF RFC 6234: \"US Secure Hash Algorithms \\(SHA and SHA-based HMAC and HKDF\\) \"  \n\\[i.31\\]IETF RFC 8446: \"The Transport Layer Security \\(TLS\\) Protocol Version 1.3\"  \n\\[i.32\\]IETF RFC 8439: \"ChaCha20 and Poly1305 for IETF Protocols\"  \n\\[i.33\\]BSI TR-02102-2: \"Cryptographic Mechanisms: Recommendations and Key Lengths: Use of Transport  \nLayer Security \\(TLS\\) \"  \n\\[i.34\\]NIST SP 800-38D: \"Recommendation for Block Cipher Modes of Operation: Galois/Counter Mode  \n\\(GCM\\) and GMAC\"  \n\\[i.35\\]IETF RFC 8032: \"Edwards-Curve Digital Signature Algorithm \\(EdDSA\\)\"  \n\\[i.36\\]IETF RFC 7518: \"JSON Web Algorithms \\(JWA\\)\"  \n\\[i.37\\]O-RAN ALLIANCE TS \"O-RAN Near-RT RIC Architecture\"  \n\\[i.38\\]O-RAN ALLIANCE TS \"O-RAN Acceleration Abstraction Layer General Aspects and Principles\"  \n\\[i.39\\]O-RAN ALLIANCE TS \"O-RAN WG6 O2 Interface General Aspects and Principles\"  \n\\[i.40\\]IETF RFC 7516: \"JSON Web Encryption \\(JWE\\)\"  \n\\[i.41\\]IEEE Std 802.1AE-2018, IEEE Standard for Local and metropolitan area networks \u2014 Media Access  \nControl \\(MAC\\) Security, IEEE, 2018  \n\\[i.42\\]IEEE 802.1X-2020, \"IEEE Standard for Local and Metropolitan Area NetworksPort-Based Network  \nAccess Control\", IEEE, 2020-02-28",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/5/PageFooter/3",
+        "block_type": "PageFooter",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/5/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/6/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/6/Picture/1",
+        "block_type": "Picture",
+        "page": 7,
+        "images": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABQANsDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iikNAC5pMioZrlIRycsegrMutRkVCwYIo715+LzOhhnyyd32RpClKexs5HrRkV57feIJN5McsrH1DECqkXjHUraQMWEiDqrVzU85pzesWkd6yutJXR6dmiub0PxdY6u4gY+RdHpG54b6HvXRivWp1I1I80Xc4KtKdKXLNWYtGaSo55kt4JJpG2xxqWY+gHJqzK9iXNFeR3fxguhdSC002EwA4QysdxHviof+Fw6l/0DLX/vpq7Vl+IavY4nmOHTtc9iozXjv/C4dT/6Blr/AN9NWppPxct5pki1SyMAbrLEdwH1HWlLAV4q/KOOYYeTtc9OzRUFtdQ3lvHcW0qywyDcrqcgipq43odid9RaM0hNeV+K/idd2eqzWOjpFsgco8zru3MOoA9M8fhWtGhOtLlgjKviIUY802eq5orgPA3j5/ENwdP1BI47wLuR04Enrx2Nd/Sq0pUpcs9x0q0aseaGwUZpD0rjvHfjF/C9vBFbRLJd3GSu7ogGOT+dKnTlUkox3HVqRpRc5bHZZFGa8w8HfEq41HU00/WBErTHEUyLtGewI/rXpwqq1GdGXLMmjXhWjzQFzSZFFeU+KviVqWneIZrLTo4BDbPscuu4ue/09KKNGdaXLAK9eFGPNM9XzRmszQNU/trQ7PUfL8szx7ivoeh/WtKs5JxdmaxkpK6FqrqF4ljZyXDjO0cAdSewqzXL+LLk+bZ2wOAX3sPxwP61zYqt7GlKYyeHzGTzJjmV+W/w+grB1m7aWYwqfkTg+5romOFJ9BVbTPD6yN9pvVzk5WM/1r4rCUKuMrN7vqz1aM6dH3pdDiLmKaO1e5MEzQr1dI2YD8hXNS67asSAsv5D/Gvf1jRIwiqAoGAAOBXC+Lvh5a6rE93piJb3oyxUcJJ9fQ+9fR/2SoRundno4HNqLqctdWT6/wCZ5smoxSSBoZGSRTlexBr17wX4j/tzTWSds3lvhZP9odmrwi4gmtLh4J42jljYqyt1BFdX8PNXNr4qtlZ8LODC/HXP3f1AqsNelUstmernGAhVwzqQ3WqPdBzWfrv/ACAdR/69pP8A0E1oA1n67/yANQ/69pP/AEE17MfiR8DU+BnzN2r2nTfhl4dutLtLiRLnfLCjtibuQCa8Wr6F0jxPoUWjWMcmsWKuluispnUEEKPevdzGdSKjyN/I8HLYUpSl7RL5mVJ8KfDrRsEF0jEcN5ucV5T4n8PT+GtYexlbzEI3RSYxuU/1r3Obxj4dgiaR9ZsiFGSElDn8AMk14x448Rw+JNe+0WysLaJPLjLDBYZznFY5fUxEqlp3t5muYU8PGneFr+R2nwh1WWaC+0yV8pDtliB7A5DD88fnXp9eW/CDTJY0v9TkQrHJtiiJ74yW/DpXqOa4sdy+3lynoYDm+rx5jG8VauNE8O3d7uAkVNsf++eBXz3YWN1q2ox2lsokuJidoJxk4z1r0T4uazvubTR4m4QedKB6nhR/M/lUXwk0kzahd6o6/JCnlJ/vHr+ld2F/2fDOq92edi/9pxSpLZHB6RqMmkaxaX8X3oJQxHqO4/EZFfS1rcx3VrFcQtuilUOjeoIyK8A8eaR/ZHiy7RF2wznz48ejckfnmvSPhbrX2/w8bGRszWbbQM87DyP60sfFVaUa0Ssum6VWVCR3leO/GD/kOaf/ANe5/wDQjXsVeO/GD/kOaf8A9ex/9CNcmXf7wjszL/d2edKzIwdSVZTkEHkGve/AXihfEWiKszD7db/JMvr6N+P868h0Tw7Jrmj6rPbgm5swkioP4lO7cPrxVfw3rs/h3Wor2PJQHbLHn7y9xXrYulHERcY/FE8fB1pYeSlL4ZH0lXzd4r/5GzVf+vl/519EWN7BqFlDd20geGZA6MO4NfO/iv8A5GzVf+vl/wCdcOV6VJLyPQzZp0otHtvgH/kSdL/65H/0I10lc34B/wCRJ0v/AK5H/wBCNdLXnV/4svVno4f+FH0QhrivGRK30LDgiMEH8TXbVyvjeD/QIbrHEbbWPoD0/XH515+OpupRaRrLYfp94l7ZRzockjDD0PcV0cZDRqR3FeQWWtzaNdFlG+Bj88eevuPevQ/D/iPT9VtwkNwokXrG5ww/D/CvIymm8PXlF7S2LdVTiu6N+jFGeKxfEXiGz0HSbi6mlQyIpEcW4bnfsK+kSbdkKKcnZHi3jy4WfxhqLJjCuEyO+BVDwW+fGWmL6zp/Os28uHuHnuJmzJIxdj6knJrqvhLpT6h4ta9Zf3FnGWLHGN7cKP8A0I/hWGLoKNdJdbH2nt/ZZe4y6Kx1viTxH42s9duYNO0+T7IhxGy23mBh65p+i634p1Kw1iLXLN44FspGSRoDH82Dx716SAKoa4B/YOof9e0n/oJr0FXi4qHIr9z89lh5pufO7dj5m7V0sXw/8TzWyXEemFonQOpE0fIIyON2a5r0r6b0X/kBaf8A9e0f/oIr2MbiZ0FHl6nj4HCwxDkpPY+aLi3mtJnhuInilXhkdcEfga7nwN4O0bxCDPcak0jxnL2irsI+pzyPcV1/xI8KLqumNqdpH/ptqu5go/1iDqPqOteQaVql1o2oxX1nIUljOeOjDuD7URqyxVG9N2kE6SwtdKorxPpW0tYLK2jt7aJYooxhVUYAFOuJo7eCSaRtqRqWY+gHNUdA1mDXtHgv7c/LIvzL3Vu4rm/idrI03wybVGxPet5a4PO3qx/p+NeFCnKdVQe9z3p1YwpOotrHjuu6m+sa5eag/WaQkD0XoB+AAr27wNa2ujeE7OB5oVmkXzpQXAO5ucH6DA/CvCrHT7vUroW1lA88xBIRBk4rV/4QrxJ/0B7r/vivdxVGE4Km5ctjwMLWnCbqKPNc774rWUF7pltqMEsbyW77HCsCdrf/AF/51xvw91r+x/FdvvfEFz+4kz0Gfun88fgTVP8A4QrxJ/0B7r/visWSOW2naORSksbEMpHKkGnRow9i6KlcVatP2yrONj6kBzXj3xg/5Dmn/wDXsf8A0I16N4S1ga54btLzOZNmyT/eHBrzn4wf8hzT/wDr3P8A6Ea8vAxccSovpc9bHyU8LzLrYt/B3mXVh7Rf+zVh/EfwsdF1f7dbJiyuznA/gfuPoeo/Gtz4Of63VvpF/wCzV6NrekW+uaTPYXA+SReG7qexratiHRxjl00uYUcOq+DUevQ8w+F/in7Jc/2HdyfupSTbk/wt3X8a47xV/wAjXqv/AF8v/Oqmo6fd6Jq0tpPmO5t34ZT6chgfyIqG8upb68lupyDLK29yB1J6mvSp0Yqq6sdmjzKteTpKlPdM9+8A/wDIk6X/ANcj/wChGulrmvAP/Ik6X/1yP/oRrpa+cr/xJerPpcP/AAo+iCq97aQ31pLa3CB4ZVKup7g1YpDWZseFeKLC88K3Zhv0eSxc/wCj3gXII7K/ow/WuYmvIyfMhnGRyGVuRX0pe2VtqFs9tdwRzwP95JFyDXm+sfBjTrmVpdJvpLPPPlSL5idO3II/WlHD0JO791mMqCk97Hk8usas+UTU7sJ/12b/ABpil3bfLI8rnq8jFifxNd2Pg1r6ni900j/ro/8A8RWxpvwcYMranqYx/FHbJ/7Mf8K74OhRV4u7PQwdPD4d8zep5paade6xeR2GnwNNO56DoPcnsK+gPBvhaHwroq2isslw53zyAfeb29hV7RfDumaBB5Wn2qxZ+83Vm+p71q4rhk3Obm9zfGY51kqcNIr8QqhraltC1BVGSbaQAevymr9IRnimnZ3PNkrqx8r+3evp3SY2i0eyjcbXSBFYehCisUeAvDw1T+0BYDzd+/buOzP+70rpgMDFduMxca6iorY8/A4OWHcnJ7iMAVII4NeCeP8AwydA1xpYUxZXRLxEDhT3WvfKo6rpFlrVk1pfQLLCecHqD6g9jWWFxLoT5unU2xeGWIhbr0PLfhFqkqand6WcmGSPzl/2WBAP5g/oKzvipfTXPi37M4IhtYlVB2JYbif6fhXq+ieFtJ8OmRtOtvLeThnZizEemT2put+FNI8QvG+oWu904V1Yq2PTI7V0LF01ifa20OZ4Oq8N7G+pxHwi0ciO71iRPvHyIifblj/IfnXqY6VWsLC302yitLSIRwRjCqO1Wa5MRWdWo5s7cNRVGmoARXhnxO0U6d4lN4i4hvF3gj+8ODXueazdZ0LT9es/suoW4ljB3Kc4Kn2I6VeFr+wqc3QjF4f29PlW5558HryUnUrI5MK7JV44BOQefwH5GqfxgjYaxp0hB2NAyg+pDc/zH516bovh/TtAtmg062WJXOWOcs31Jo1rQNN1+2WDUbcSqh3KQcMp9iOlarFRWJ9sloYPCTeF9i3qee/BxTv1ZscYiGf++q9WxWdo2h6foNobXT4BFGTubnJY+pPetKsMTVVWq5o6cLRdGkoM8++JfhQ6pp/9qWkebu2X51A5ePv+I614tX1QRmuYuPh94bub77Y9gBJu3FVchSc55UcV2YTH+xjyTV10OLGZf7afPDTuS+AgR4J0sEEfuj1/3jXR0yKJIYkijQKiAKqgcAU+vOqS5pOXc9KnDkgo9haQ0tFSWZ2s6g2m6e00SK8zMI4kY4DOTgCnaRqA1PS4bopsdgRImfuODhl/AgiodT0dNVurQ3DK1tAzO0JX77YwDnPGOaXStIXSZrtbdwLWaQSRwhceUcANg98kZ+uav3eXzMvf5/I06pavePp+j3t6iqz28DyqrdCVUnH6VdqpqtkdR0m8shJ5ZuIHi34zt3AjOO/WpW+pcr20JraQzW8UpABdAxA7ZFTVnabb6hbKI7y5tpo1QKgigaMjHqS7Z/StGhrUIttajXOFJ9BVPSbx7/SrW7kVVeaMOQvQE1cddykZ6jFZOk6fqWnRQ20t5bS2sKbFC2zK5HbLbyP0p6WE21JdjYFB6Ug6UHpUlmbpGoyail20iKvk3Lwjb3C45rSqhpWmnTkuVMvmefcPP93G3djj9K0KcrX0Jje2pFNKkMTyOcIgLE+gFZHh/W5NWFwtxAIJoyrKgJOY2GUbkfUfVTV7VrF9R06W0WbyhLhWbbn5c8jr3HFU7fw9b2OqwXlgEt0WJopY1XPmg4K854wR+pqly8rvuRLn5lbY2s0hoAoxUGpycXiyVrPWWlt0juLLz2gB+7KiMyg/XK811inIrl7/AMILe6TLai68q4aaaRLgR52rIxLKRnkYbHX3rqAMCtJ8n2TGn7S/vgelZOpahdxXttp9hFG9zOryF5idkaLjJIHJOWAA4+ta2OKy9T025nure9srlIbqBXQeZGXR0bGQQCD1VTnPapja+pc720J9NlvpIpF1CCOOZH2homysgwPmGeR9D6Veqhplrd26TPe3n2maV952psRBgAKq5OBx3JySav0nuOO2pS1W7aw0m8vEUM8EDyhW6EqpPP5VnaRqdzezqst9psqlN2y3zvH5seK09Ts/7Q0y7sw+z7RC8W7Gdu4EZx+NUNN0u8s5kMkmnGMLtPkWZjc/8C3n+VUrcvmRLm51bY2qKBRUGp//2Q==",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/6/Table/2",
+        "block_type": "Table",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "|  \n---|---  \n[i.43]| O-RAN ALLIANCE TS \"O-RAN WG11 Study on Security for Fronthaul CUS-\nPlane\"  \n[i.44]| IETF RFC 4493: \"The AES-CMAC Algorithm\"  \n[i.45]| IETF RFC 5216: \"The EAP-TLS Authentication Protocol\"  \n[i.46]| IETF RFC 9190: \"EAP-TLS 1.3: Using the Extensible Authentication\nProtocol with TLS 1.3\"  \n[i.47]| IEEE Std 1588 \u2013 2019, IEEE Standard for a Precision Clock\nSynchronization Protocol for Networked  \nMeasurement and Control Systems, IEEE, 2019  \n[i.48]| IETF RFC 2410: The NULL Encryption Algorithm and Its Use with IPsec\"  \n[i.49]| IETF RFC 2404: The Use of HMAC-SHA-1-96 within ESP and AH\"  \n[i.50]| IETF RFC 3526: More Modular Exponential (MODP) Diffie-Hellman groups\nfor Internet Key Exchange  \n(IKE)\"  \n[i.51]| IETF RFC 3566: The AES-XCBC-MAC-96 Algorithm and Its Use with IPsec\"  \n[i.52]| IETF RFC 3602: The AES-CBC Cipher Algorithm and Its Use with IPsec\"  \n[i.53]| IETF RFC 4106: The Use of Galois/Counter Mode (GCM) in IPsec\nEncapsulating Security Payload  \n(ESP)\"  \n[i.54]| IETF RFC 4309: Using Advanced Encryption Standard (AES) CCM Mode with\nIPsec Encapsulating  \nSecurity Payload (ESP)\"  \n[i.55]| IETF RFC 4543: The Use of Galois Message Authentication Code (GMAC) in\nIPsec ESP and AH\"  \n[i.56]| IETF RFC 4868: Using HMAC-SHA-256, HMAC-SHA-384, and HMAC-SHA-512 with\nIPsec\"  \n[i.57]| IETF RFC 5114: Additional Diffie-Hellman Groups for Use with IETF\nStandards\"  \n[i.58]| IETF RFC 5282: Using Authenticated Encryption Algorithms with the\nEncrypted Payload of the Internet  \nKey Exchange version 2 (IKEv2) Protocol\"  \n[i.59]| IETF RFC 7296: Internet Key Exchange Protocol Version 2 (IKEv2)\"  \n[i.60]| IETF RFC 7634: ChaCha20, Poly1305, and Their Use in the Internet Key\nExchange Protocol (IKE) and  \nIPsec\"  \n[i.61]| IETF RFC 8221: Cryptographic Algorithm Implementation Requirements and\nUsage Guidance for  \nEncapsulating Security Payload (ESP) and Authentication Header (AH)\"  \n[i.62]| IETF RFC 8247: Algorithm Implementation Requirements and Usage\nGuidance for the Internet Key  \nExchange Protocol Version 2 (IKEv2)  \n[i.63]| O-RAN ALLIANCE TS \"O-RAN WG3 E2 General Aspects and Principles\n(E2GAP)\"  \n[i.64]| O-RAN ALLIANCE TS: \"O-RAN Architecture Description\"  \n[i.65]| IETF RFC 7519: \"JSON Web Token (JWT)\"  \n[i.66]| IETF RFC 6749: \"The OAuth 2.0 Authorization Framework\"  \n|\n\n",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/6/PageFooter/3",
+        "block_type": "PageFooter",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/6/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/7/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/7/Picture/1",
+        "block_type": "Picture",
+        "page": 8,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/7/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "3 Definition of terms, symbols and abbreviations",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations"
+    },
+    {
+        "id": "/page/7/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "3.1 Terms",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/7/Text/4",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "For the purposes of the present document, the terms given in \\[i.1\\] and the following apply:",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/7/Text/5",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Post-Quantum Cryptography: An area of cryptography that researches and advances the use of quantum-resistant primitives, with the goal of keeping existing public key infrastructure intact in a future era of quantum computing. Intended to be secure against both quantum and classical computers and deployable without drastic changes to existing communication protocols and networks. \\[i.11\\]",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/7/Text/6",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Quantum Safe Cryptography: see Post-Quantum Cryptography",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/7/SectionHeader/7",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "3.2 Symbols",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+    },
+    {
+        "id": "/page/7/Text/8",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Void.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+    },
+    {
+        "id": "/page/7/SectionHeader/9",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "3.3 Abbreviations",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/7/Text/10",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "For the purposes of the present document, the abbreviations \\[given in \\[i.1\\] and the following\\] apply:",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/7/Text/11",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "CUS-Plane Control, User and Synchronization Plane DTLS Datagram Transport Layer Security",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/7/Text/12",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "ETM Encrypt-then-MAC",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/7/Text/13",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "FH Fronthaul",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/7/Text/14",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "HMAC Hash-based message authentication code",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/7/Text/15",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "JSON JavaScript Object Notation JWA JSON Web Algorithms JWE JSON Web Encryption JWS JSON Web Signature JWT JSON Web Token",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/7/Text/16",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "MACsec Media Access Control security MGF Mask generation function MKA MACsec Key Agreement PQC Post-Quantum Cryptography PTP Precision Time Protocol QSC Quantum Safe Cryptography",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/7/Text/17",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "SSH Secure Shell",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/7/Text/18",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "TLS Transport Layer Security",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/7/SectionHeader/19",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "4 Post-Quantum Cryptography background",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background"
+    },
+    {
+        "id": "/page/7/Text/20",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "NIST has initiated the process of the Post Quantum Cryptography \\(PQC\\) standardization in 2017 \\[i.2\\]. On 5th Jul 2022, they announced the standard candidates for public-key encryption:",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background"
+    },
+    {
+        "id": "/page/7/ListGroup/203",
+        "block_type": "ListGroup",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "* CRYSTALS-Kyber,  \n  * for digital signature: CRYSTALS-Dilithium, FALCON and SPHINCS+.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background"
+    },
+    {
+        "id": "/page/7/PageFooter/23",
+        "block_type": "PageFooter",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background"
+    },
+    {
+        "id": "/page/7/PageFooter/24",
+        "block_type": "PageFooter",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background"
+    },
+    {
+        "id": "/page/8/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background"
+    },
+    {
+        "id": "/page/8/Picture/1",
+        "block_type": "Picture",
+        "page": 9,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background"
+    },
+    {
+        "id": "/page/8/Text/2",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "On 13th Aug 2024, NIST published FIPS 203 \\[i.3\\], FIPS 204 \\[i.4\\] and FIPS 205 \\[i.5\\], specifying algorithms derived from CRYSTALS-Dilithium, CRYSTALS-KYBER and SPHINCS+: ML-KEM, ML-DSA and SLH-DSA. A future FIPS 206 is planned to specify FN-DSA, based on FALCON.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background"
+    },
+    {
+        "id": "/page/8/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "Further input from NIST:",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NIST:"
+    },
+    {
+        "id": "/page/8/Text/4",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "\"Quantum computers would completely break many public-key cryptosystems, including RSA, DSA, and elliptic curve cryptosystems. These cryptosystems are used to implement digital signatures and key establishment and play a crucial role in ensuring the confidentiality and authenticity of communications on the Internet and other networks.\" \\[i.2\\]",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NIST:"
+    },
+    {
+        "id": "/page/8/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "Further input from NCSC:",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:"
+    },
+    {
+        "id": "/page/8/Text/6",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "\"In contrast with PKC, the security of symmetric cryptography is not significantly impacted by quantum computers, and existing symmetric algorithms with at least 128-bit keys \\(such as AES\\) can continue to be used. The security of hash functions such as SHA-256 is also not significantly affected, and secure hash functions can also continue to be used.\" \\[i.6\\]",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:"
+    },
+    {
+        "id": "/page/8/Text/7",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "The ETSI QSC group has developed a document outlining a Quantum Safe Cryptography migration strategy and recommendations for transitioning to quantum-safe schemes \\[i.7\\]. A key component of this strategy is the creation of a cryptographic inventory or cryptographic bill of material \\(CBOM\\) to support the development of a preparation and PQC migration plan, as well as the execution of the migration.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:"
+    },
+    {
+        "id": "/page/8/Text/8",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "According to the LS \\[i.8\\], the ETSI QSC is seeking additional information, such as a \"detailed list of cryptographic  algorithms and/or protocol implementations.\" This list may include \"guidance on algorithm exposure, effective key  lengths, potential for hybrid deployment, and potential for crypto agility.\"",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:"
+    },
+    {
+        "id": "/page/8/Text/9",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "In a related development, as noted in another LS \\[i.9\\], the GSMA has produced a Guidelines for Telecom Use Cases document \\[i.10\\], which includes the development of a \"\"comprehensive cryptographic inventory\"\" to some extent.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:"
+    },
+    {
+        "id": "/page/8/SectionHeader/10",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "5 Cryptographic inventory",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/8/TableGroup/330",
+        "block_type": "TableGroup",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "Table 5-1: Cryptographic inventory\nSecurity  \nProtocolTraditional AlgorithmAlgorithm  \nDevelopment  \nOrganisation  \nand  \ndocument\\(s\\)Algorithm  \nused forO-RAN  \nAdoption  \n\\(Interfaces,  \nAPIs\\)O-RAN  \nspecification\\(s\\)  \nTLS 1.2,  \nDTLS 1.2AES-128-GCMRFC 5116 \\[i.27\\]  \n\\(NOTE 3\\)Cipher  \nsuitesOFH m  \nplane \\[i.12\\]SPS \\[i.14\\]  \nAES-256-GCM  \nsecp256r1RFC 8422 \\[i.28\\]KeyO1 \\[i.13\\]  \nA1 \\[i.24\\]  \nsecp384r1  \nffdhe2048RFC 7919 \\[i.29\\]exchangeR1 \\[i.25\\]  \nY1 \\[i.26\\]  \nffdhe3072  \nffdhe4096O2 \\[i.39\\]  \nSMO  \nffdhe6144External  \nInterface  \nffdhe8192  \nSHA-256RFC 6234 \\[i.30\\]Hash\\[i.64\\]  \nSHA-384  \necdsaRFC 8422 \\[i.28\\]functions  \nSignature  \nrsa\\_pss\\_rsae\\_\\*RFC 8446 \\[i.31\\]algorithms  \nrsa\\_pkcs1RFC 8032 \\[i.35\\]  \n\\(NOTE 2\\)  \nTLS 1.3,AES-128-GCMRFC 5116 \\[i.27\\]Cipher  \nDTLS 1.3AES-256-GCM  \nChaCha20-Poly1305\\(NOTE 3\\)  \nRFC 8439 \\[i.32\\]suites  \nsecp256r1RFC 8422 \\[i.28\\]",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/8/PageFooter/13",
+        "block_type": "PageFooter",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/8/PageFooter/14",
+        "block_type": "PageFooter",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/9/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/9/Picture/1",
+        "block_type": "Picture",
+        "page": 10,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/9/Table/2",
+        "block_type": "Table",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "| secp384r1  \nsecp521r1  \nSHA-256  \nSHA-384  \nSHA-512  \necdsa_secp256r1_sha256  \necdsa_secp384r1_sha384  \necdsa_secp521r1_sha512  \nrsa_pss_rsae_sha256  \nrsa_pss_rsae_sha384  \nrsa_pss_rsae_sha512| RFC 6234 [i.30]  \nRFC 8446 [i.31]| Key  \nexchange  \nHash  \nfunctions  \nSignature| |   \n---|---|---|---|---|---  \n| | | | |   \n| | | | |   \n| | | | |   \n| | | | |   \n| | | | |   \n| | | | |   \n| | | algorithms| |   \n| | | | |   \n| | | | |   \n| | | | |   \n| | | | |   \n| rsa_pss_pss_sha256| | | |   \n| rsa_pss_pss_sha384| | | |   \n| rsa_pss_pss_sha512| | | |   \n| ed25519| RFC 8032 [i.35]| | |   \nSSH| ecdsa-sha2-nistp256| RFC 5656| Key| OFH m| SPS [i.14]  \n| ecdsa-sha2-nistp384| [i.15][i.15]| agreement| plane [i.12]  \nO1 [i.13]|  \n| ecdsa-sha2-nistp521| | | SMO|   \n| ssh-ed25519  \nssh-ed448| RFC 8709 [i.16]| | External|   \n| aes256-gcm| RFC 5647 [i.17]| Symmetric| Interface|  \n| aes128-gcm| | encryption| [i.64]|   \n| aes256-ctr| RFC 4344 [i.18]| and| |   \n| aes192-ctr| | decryption| |   \n| aes128-ctr| | | |   \n| ecdh-sha2-nistp521| RFC 5656 [i.15]| Key| |   \n| ecdh-sha2-nistp384| | exchange| |   \n| ecdh-sha2-nistp256| | | |   \n| diffie-hellman-group-exchange  \nsha256| RFC 4419 [i.19],  \nupdated by RFC| | |   \n| curve25519-sha256| 8270 [i.20]  \nRFC 8731 [i.21]| | |   \n| hmac-sha2-512-etm| RFC 6668 [i.22]| Message| |   \n| hmac-sha2-512| (NOTE 1)| authenticati| |   \n| hmac-sha2-256-etm| | on codes| |   \n| hmac-sha2-256| | | |   \n| umac-128| RFC 4418 [i.23]| | |   \nIPsec| ENCR_NULL| RFC 2410 [i.48]| ESP| E2 [i.63]| SPS [i.14]  \n| ENCR_AES_CBC| RFC 3602 [i.52]| encryption| |   \n| ENCR_AES_CCM_8| RFC 4309 [i.54]| algorithms| |   \n| ENCR_AES_GCM_16| RFC 4106 [i.53]| (RFC 8221| |   \n| ENCR_CHACHA20_POLY1305| RFC 7634 [i.60]| \u2013 [i.61])| |   \n| AUTH_NONE (NOTE 7)| RFC 7296 [i.59],| ESP and| |   \n| | RFC 5282 [i.58]| AH| |   \n| AUTH_HMAC_SHA1_96| RFC 2404 [i.49],  \nRFC 7296 [i.59]| Authenticati  \non| |   \n| AUTH_AES_XCBC_96 (NOTE 8)| RFC 3566 [i.51],  \nRFC 7296 [i.59]| Algorithms  \n(RFC 8221| |   \n| AUTH_AES_128_GMAC| RFC 4543 [i.55]| \u2013 [i.61])| |   \n| AUTH_AES_256_GMAC| RFC 4543 [i.55]| | |   \n| AUTH_HMAC_SHA2_256_128| RFC 4868 [i.56]| | |   \n| AUTH_HMAC_SHA2_512_256| RFC 4868 [i.56]| | |   \n| ENCR_AES_CBC| RFC 3602 [i.52]| IKEv2| |   \n| | | | |   \n| ENCR_CHACHA20_POLY1305| RFC 7634 [i.60]| Encryption| |   \n| ENCR_ASES_GCM_16| RFC 4106 [i.53]| Algorithm| |   \n| ENCR_AES_CCM_8| RFC 4309 [i.54]| Transforms  \n(RFC 8247| | \n\n",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/9/PageFooter/3",
+        "block_type": "PageFooter",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/9/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/10/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/10/Picture/1",
+        "block_type": "Picture",
+        "page": 11,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/10/Table/2",
+        "block_type": "Table",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "Security  \nProtocol| Traditional Algorithm| Algorithm  \nDevelopment  \nOrganisation  \nand  \ndocument(s)| Algorithm  \nused for| O-RAN  \nAdoption  \n(Interfaces,  \nAPIs)| O-RAN  \nspecification(s)  \n---|---|---|---|---|---  \n| AUTH_HMAC_SHA2_256_128| RFC 4868 [i.56]| IKEv2| |   \n| AUTH_HMAC_SHA2_512_256| RFC 4868 [i.56]| Integrity| |   \n| AUTH_HMAC_SHA1_96| RFC 2404 [i.49],| Algorithm| |   \n| | RFC 7296 [i.59]| Transforms| |   \n| AUTH_AES_XCBC_96| RFC 3566 [i.51],| (RFC 8247| |   \n| | RFC 7296 [i.59]| \u2013 [i.62])| |   \n| PRF_HMAC_SHA2_256| RFC 4868 [i.56]| IKEv2| |   \n| PRF_HMAC_SHA2_512| RFC 4868 [i.56]| Pseudorand| |   \n| PRF_HMAC_SHA1| RFC 2404 [i.49]| om Function| |   \n| PRF_AES128_XCBC| RFC 4344 [i.18]| Transforms  \n(RFC 8247| |   \n| | | \u2013 [i.62])| |   \n| DH 14 \u2013 2048-bit MODP Group| RFC 3526 [i.50]| IKEv2 Diffie| |   \n| DH 19 \u2013 256-bit random ECP group| RFC 5114 [i.57]| Hellman| |   \n| | | Group| |   \n| | | Transforms| |   \n| | | (RFC 8247| |   \n| | | \u2013 [i.62])| |   \nJWS| HS256 (HMAC using SHA-256)| RFC 7518 [i.36]| Message| A1 [i.24]| SPS\n[i.14]  \n(NOTE 5)| HS384 (HMAC using SHA-384)| | authenticati| R1 [i.25]|   \n| HS512 (HMAC using SHA-512)| | on codes| Y1 [i.26]  \nNear-RT|  \n| RS256 (RSASSA-PKCS1-v1_5| RFC 7518 [i.36]| Signature| RIC APIs|  \n| using SHA-256)| | algorithms| [i.37]|   \n| RS384 (RSASSA-PKCS1-v1_5| | | AALI-C|   \n| using SHA-384)| | | Mgmt|   \n| RS512 (RSASSA-PKCS1-v1_5  \nusing SHA-512)| | | interface|   \n| ES256 (ECDSA using P-256 curve| | | [i.38]|   \n| and SHA-256)| | | O2 [i.39]|   \n| ES384 (ECDSA using P-384 curve| | | |   \n| and SHA-384)| | | |   \n| ES512 (ECDSA using P-512 curve| | | |   \n| and SHA-512)| | | |   \n| PS256 (RSASSA-PSS using SHA| | | |   \n| 256 and MGF1 with SHA-256)| | | |   \n| PS384 (RSASSA-PSS using SHA| | | |   \n| 384 and MGF1 with SHA-384)| | | |   \n| PS512 (RSASSA-PSS using SHA| | | |   \n| 512 and MGF1 with SHA-512)| | | |   \nJWE| A128CBC-HS256| RFC 7518 [i.36]| Encryption| N/A| Not yet  \n| (AES_128_CBC_HMAC_SHA_256)| RFC 7516 [i.40],  \nclause 4.1.2.| algorithms| | specified  \n| A192CBC-HS384  \n(AES_192_CBC_HMAC_SHA_384)| | | |   \n| A256CBC-HS512| | | |   \n| (AES_256_CBC_HMAC_SHA_512)| | | |   \n| A128GCM (AES GCM using 128-bit| | | |   \n| key)| | | |   \n| A192GCM (AES GCM using 192-bit| | | |   \n| key)| | | |   \n| A256GCM (AES GCM using 256-bit| | | |   \n| key)| | | |   \nOAuth 2.0| (NOTE 6)| RFC 6749 [i.66]| Authorizatio| A1 [i.24],| SPS [i.14]  \n| | | n framework| O2 [i.39],|   \n| | | | R1 [i.25],|   \n| | | | Y1 [i.26],|   \n| | | | Near RT|   \n| | | | RIC APIs  \n[i.37]|  \n| | | | | \n\n",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/10/PageFooter/3",
+        "block_type": "PageFooter",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/10/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/11/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/11/Picture/1",
+        "block_type": "Picture",
+        "page": 12,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/11/Table/2",
+        "block_type": "Table",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "Security  \nProtocol| Traditional Algorithm| Algorithm Development Organisation and\ndocument(s)| Algorithm  \nused for| O-RAN  \nAdoption  \n(Interfaces,  \nAPIs)| O-RAN  \nspecification(s)  \n---|---|---|---|---|---  \nMACsec| GCM-AES-256| IEEE 802.1AE-| Symmetric| Open FH| Open FH MPS  \n(NOTE 4)| GCM-AES-XPN-128| 2018 [i.41]| encryption| CUS Plane| [i.12]  \n| GCM-AES-XPN-256| IEEE 802.1X-| and| Security|  \n| | 2020 [i.42]| decryption,| [i.43]|   \n| | | Message| Open FH|   \n| | | authenticati| MPS [i.12]|   \n| | | on codes| |   \n| AES-CMAC| RFC 4493 [i.44]| Key| |   \n| | | derivation| |   \nPTP| HS256 (HMAC using SHA-256)| IEEE 1588 [i.47],| Message| Open FH| SPS\n[i.14]  \n| HS384 (HMAC using SHA-384)| clause 16.14| authenticati| CUS Plane|  \n| HS512 (HMAC using SHA-512)| | on codes| Security|   \n| | | | [i.43]|   \n| | | | Open FH|   \n| | | | MPS [i.12]| \n\n",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/11/ListGroup/46",
+        "block_type": "ListGroup",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "* NOTE 1: ETM \\(Encrypt-then-MAC\\) is not specified for SSH yet is a widely used and recommended practice within the SSHv2 protocol, and broadly supported in available implementations, due to its security- related advantages.  \n  * NOTE 2: BSI recommends phasing out by 2025 \\[i.33\\].\n  * NOTE 3: The related authenticated encryption algorithm is defined in \\[i.34\\]\n  * NOTE 4: EAP-TLS is based on TLS 1.2 \\(see IETF RFC 5216 \\[i.45\\]\\) or TLS 1.3 \\(see IETF RFC 9190 \\[i.46\\]\\)\n  * NOTE 5: JWT is based on JWS and JWE \\(see IETF RFC 7519 \\[i.65\\]\\)\n  * NOTE 6: OAuth 2.0 is based on TLS, JWT, and JWE.\n  * NOTE 7: AUTH\\_NONE MUST be supported as per RFCs 7296 and RFC 5282 and MUST NOT be supported when ESP uses Authenticated Encryption with Associated Data \\(AEAD\\) cipher.\n  * NOTE 8: AUTH\\_AES\\_XCBC\\_96 SHOULD be supported as per RFC 3566 and RFC 7296, and MAY be support in case of Interoperability with IoT.",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/11/PageFooter/11",
+        "block_type": "PageFooter",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/11/PageFooter/12",
+        "block_type": "PageFooter",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/12/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/12/Picture/1",
+        "block_type": "Picture",
+        "page": 13,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+    },
+    {
+        "id": "/page/12/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "Annex:",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> Annex:"
+    },
+    {
+        "id": "/page/12/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "Change history/Change request \\(history\\)",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> Change history/Change request \\(history\\)"
+    },
+    {
+        "id": "/page/12/Table/4",
+        "block_type": "Table",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "Date| Revision| Description  \n---|---|---  \n2025.02.04| 00.01| First draft  \n2025.02.25| 00.02| Merged NOK-0244, NOK-0245  \n2025.03.04| 00.03| Merged NOK-0256  \n2025.04.01| 00.04| Merged NOK-0268  \n2025.04.14| 00.05| Merged SYM-0084, NIST.AO-0012, NIST-0013  \n2025.05.27| 00.06| Merged NEC-0056  \n2025.06.10| 00.07| Merged NIST-0018, NIST-0019  \n2025.06.23| 00.08| Adopted changes on NIST-0018 and NIST-0019 due to the\nongoing review  \n2025.07.9| 01.00| Published as Final version 01.00\n\n",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> Change history/Change request \\(history\\)"
+    },
+    {
+        "id": "/page/12/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> Change history/Change request \\(history\\)"
+    },
+    {
+        "id": "/page/12/PageFooter/6",
+        "block_type": "PageFooter",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "trace": "4 Post-Quantum Cryptography background --> Change history/Change request \\(history\\)"
+    }
+]

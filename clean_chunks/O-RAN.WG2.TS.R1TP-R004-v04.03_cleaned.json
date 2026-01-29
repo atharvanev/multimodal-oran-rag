@@ -1,0 +1,1332 @@
+[
+    {
+        "id": "/page/0/Picture/0",
+        "block_type": "Picture",
+        "page": 1,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "O-RAN.WG2.TS.R1TP-R004-v04.03"
+    },
+    {
+        "id": "/page/0/Text/2",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Technical Specification",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "O-RAN.WG2.TS.R1TP-R004-v04.03"
+    },
+    {
+        "id": "/page/0/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Transport Protocols for R1 Services",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "O-RAN.WG2.TS.R1TP-R004-v04.03 --> Transport Protocols for R1 Services"
+    },
+    {
+        "id": "/page/0/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "O-RAN.WG2.TS.R1TP-R004-v04.03 --> Transport Protocols for R1 Services --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/0/Text/5",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "The copying or incorpora?on into any other work of part or all of the material available in this specifica?on in any form without the prior wriIen permission of O-RAN ALLIANCE e.V. is prohibited, save that you may print or download extracts of the material of this specifica?on for your personal use, or copy the material of this specifica?on for the purpose of sending to individual third par?es for their informa?on provided that you acknowledge O-RAN ALLIANCE as the source of the material and that you inform the third party that these condi?ons apply to them and that they must comply with them.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "O-RAN.WG2.TS.R1TP-R004-v04.03 --> Transport Protocols for R1 Services --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/0/Text/6",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "O-RAN ALLIANCE e.V., Buschkauler Weg 27, 53347 AlRer, Germany",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "O-RAN.WG2.TS.R1TP-R004-v04.03 --> Transport Protocols for R1 Services --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/0/Text/7",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Register of Associa?ons, Bonn VR 11238, VAT ID DE321720189",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "O-RAN.WG2.TS.R1TP-R004-v04.03 --> Transport Protocols for R1 Services --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/1/Picture/0",
+        "block_type": "Picture",
+        "page": 2,
+        "images": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAcATgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iivN9W8eeIdR8XXnhzwVpFneTaeB9tu76QrEjH+EBSCT/8AX44zQB6RRXC+DfHN/q2vX3hnxHpiabr1mglKRPuimjOPmU/iO5qX4l+MNR8G6NY3WmWttcXF1eJbBbjdtG4HngjuBQB2tFeWXHj/AMZ+GdX0mHxZoGmR2Oo3ItlmsbgsyMehwSc9a0vih8QrrwRb2EWmWUV7qF0zv5MgYhYkXLNgEH/9RoA9BorjNX8cGD4WP4x02KKZvsqTpHJnbkkAqcHPBJH4Vgp8WTefCS58W2NvbnUbRkjuLVydqOWAPQ5wQcigD1GisLVdXvrbwRcazZQRSXkdl9pSJwdhO3cRwc+tcDr/AMX7vTvh54f16wsbafUNU3brdtxVAgPmEYOeCKAPW6K88ufiLcS33gq10y2t5G19POnMmT5MYALEYPUfN19KoRePvGHiq/v28EaHp02l2UphN3qMrL57jrsAIx+Pt0oA9Sorz638f62fA15q114Q1FNYtpvs/wBgWJysrZxvVscp1yecY696Tw5438QP40j8L+KdItLS8ubU3VvJZyl12jqrA9DwefagD0KiuT8aan4u0uJbnw5p+mXVtFE8lybyRlZdvPygEZ4zXMeEfHvjHWtGHiPUtI0uPw+sM0sj28j+d8gbgKSe4oA9Torx+w+I/j3UdHi8SWfhrTL/AEZ5MG0spXlvFXOOQMjP4fhXrIuC9gLkRuhMXmBJFww4zgjsaAJ6K8c0P4hfEbxDoM2uadoGhy2MLSAhpnRzs64Bauis/ivpknw+s/E93azxzXTNBFZQqZHkmXI2qQOnGcmgD0GivPPDvjDxT4r+HUOuaRpumtqsly8Zt5nZYgisRnOc56Vi+HPHfxE8Q6zf2EGiaEP7MuRb3h81xt5Odvzc9DQB67RXkdt4/wDH2s6nr0WhaFo9zbaTdPA3myujtgnH8WM4Fdr4B8Xp428LRauLY20vmNDNDu3BXXrg9xyDQB09FeZaz438Xv8AES/8LeG9L0q5+y26Tl7t3QkEDPIOOrUui/E+9jl8R2PinSorK/0O3+0yi1l3pImOAM9DyO/f2oA9Mory/wAOfEvXLrXNEtvEGi2tnZa/G0mnSwTFmGOQrg9yMdMdRVPUfi3rEM+qarY6HbT+GdLvRZ3M7TETMc4LKOmASPzH4AHrlFcb488fWvg/womqQqtzdXSj7FAc/vCRnccc7QOTW14U1ebXvCml6tcRpHNd26SukedoJHQZoA2KKo2us6be3F3b2t9bzTWbbbmNJAWhPow7dDXHeJPiN5dxpGneEUstX1HVZHWF2m/coE+8WK9f/rGgDv6K4/wT43/4SPRtRn1S3j0+90qd4L6MPlEK8lgT26/lWb4A+JEnjnxFrlrHaJDp9lsa1kIIkkViRubJxzjIwO9AHoVFcd458Y3nhybSdM0ixivdY1aYxW0czlY1A6sxHOORWTpfxG1a98Oa2zeHnn8RaRcfZpdPtGLq7E4DA4JC8HPXp70Aej0VwPhTxtrl74vufC3iXSrW11CO1F2j2cpdNhx8rZ6Hmu+oAKKKKACvFdO1u3+F3xI8TjxLHPb6brMwurW/WFnQ9SVO0E5+b9Pevaqa6JIpV1VlPZhkUAeLaO2qePfiNrHi3w5vsbOHTjZWN9dQ4WWU/wAW0jkDnt6VR+JemeKIPCGmW/ivWbfUJptahEUlrEIvLQqwPRRznvXvAAAAAwB0ApaAPA9V8OWvw4+I+janrDXWr+Hp3CQXN9O0jWM3qecEd+R0z3FSEeJvHHxN1rXvDUWj3FnpqHTIjqZk8sgghyoTqT834NXvFFAHzbbXN7onwx8ceBdX8tb3TAs0QRiVMbupO0nkjJB/4FVb4heHbzw34TtNY0pcaVrthbRajEB8qTKFZX9s4/PPrX03RQByum+ItKkuNO8KStIb+fS0n2bPlMe3B5/pXjPw18P3GpfEC68P6gu6w8PR3cSKfWViv8iT+FfSFFAHzz8I9Lvb7x7dWeoZ2eG7OaxiPoXkbn8i35VNoGvWXgXw1rHgfxRfajoF2ty8ttf2sTkyoSCCjKDycfTBr6AprxpIAHRWAORuGcUAeE+EfHepeGPB/iXxDq1xq+o2X2lItIbUmbdPndjGeg6E49Kl+Fvifw/qPiG61nVdWlv/ABXeQO7qLd1jtoUG4xpkY6D/AD1PudFAHMr4gsPFHgC91fTGdrSa0nCGRNp4VgePqK5X4VS3EHwPt5bSzW9uEjuGjtmOBKd7fLnB69K9QooA+WdSuvBTaUNS8Of2toPjXeFGl2fm4Eu7kcjp7Aj6V7zY+KY99l4c1QyL4gl0sXUyCP5fu4bnpnOeK6ryo/M8zYvmYxuxz+dPoA+YvDvgG7134T3Ws6Vf3/26G5l3WAnYQXEakZXaMHcR789K9j+H+p6Hrfw4tptIsobSO1heJ7VeTbyAHcMnnnOcnkg13VFAHm/wL/5Jha/9fM//AKGap/Cn/kcviD/2FP6vXqlFAHgfg3wWfFniHxru8Q61psKarJHJDp9z5aSglvvDBz6V6DdeDNa0Lw7p2j+AdUt9Kit2dp2u4hM02ccklTznPpXd0UAeBf8ACJ3PiX4xatpuraxdw6hFpELSXenyeVulCoM4A5XJzjiqmg6b5Hhzxv4HubAJ4s8hn+0b2Z7+NTuBBYn8h1z65r6IooA+f9F1S38Ya98ONO0tZXn0OIvqIMTKLcoFGCSO5X9RWPd3i6P4P8WeBLiGf+3r3V91pbiJiZkZ1IYHGMYX9a+llRFLFVUFjkkDrQUQuHKqWAwGxyKAPA/GHhfxpZRanqk9lp11p1ro4soHlnO63iEYEjIo/jJzya6DwrZfELUvhz4e/sbVdN0gRw7Rvi83zosLsJypw33s/hXr1FAHgnxEi1zwZrovrP8Af3PibThp1y8S7QbobV3gdsg8fjVzWtIt/hx4j8A6ldBk0jTraS0urhULBJGBJY4BPJY/lXt9Iyq6lWUMp6gjINAHz1pugeJvFfh3xHeeHoUFjretGZluHMPn2y5PB64YkA/Sr/gG81zR/iV4pl1HTtPtba2to21BLZiRAiRnYIh34HNe7gAAADAHaigDxrxnrtlda14E8fw+cdBimkWaYxHMQbgMwHI5B/KoPCWvyaUPG/jy20u7vtMvL9fIWJdrPEpbMgBHQZH6+le1soZSrAEHgg96AoVQqgADgAUAeKeBLvTLr4uTXHgo3E2iXVmZdUllRiBMSSoDONwOSOOnWvbKaiJGMIiqM5woxTqACiiigD//2Q==",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "O-RAN.WG2.TS.R1TP-R004-v04.03 --> Transport Protocols for R1 Services --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/1/Picture/1",
+        "block_type": "Picture",
+        "page": 2,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "O-RAN.WG2.TS.R1TP-R004-v04.03 --> Transport Protocols for R1 Services --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+    },
+    {
+        "id": "/page/1/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "Contents",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/TableOfContents/3",
+        "block_type": "TableOfContents",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "Foreword 3Dele  \nModal verbs terminology 3Dele  \n1 Scope 4Dele  \n2 References 4Dele  \n2.1 Normative references 2.2 Informative references4.  \n5Dele  \n3 Definition of terms, symbols and abbreviations 5\\_Dele  \n2.1 T\\_Dele  \n3.7 Symbols\\`Tele  \n4 Transport protocols for R1 Services 6Dele  \n4.1 General6Dele  \n5 REST based protocol stack 6Dele  \n5.1 General 5.2 Network layer 5.3 Transport layer6Dele  \n5.3 Transport layer 5.4 Security 5.5 Application6Dele  \n5.4 Security 7Dele  \n5.6 Data interchange.\u00b7\u00b7\u00b7\u00b7 ~~/~~ 7Dele  \n97Dele  \n6 Kafka based protocol stack\u00b7\u00b7\u00b7\u00b7 4Dele  \n6.2 Network laver4> Den  \n6.3 Transport layer8\\\\  \n6.4 Security8///Dele  \n6.5 ApplicationDele  \n6.6 Data interchange8.\\\\\\\\\\Dele  \nAnnex A \\(informative\\): Change history111,Dele  \n\\- Marie Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the Communication of the C\u00b7\u00b7\u00b7\u00b7 \ud83d\udd9b \ud83d\udcc8Dele",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/TableOfContents/4",
+        "block_type": "TableOfContents",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "Deleted: 4  \nDeleted: 4  \nDeleted: 5  \nDeleted: 5  \nDeleted: 5  \nDeleted: 6  \nDeleted: 6  \nDeleted: 6  \nDeleted: 6  \nDeleted: 6  \nDeleted: 7  \nDeleted: 7  \nDeleted: 7  \nDeleted: 7  \nDeleted: 7  \nDeleted: 7  \nDeleted: 8  \nDeleted: 8  \nDeleted: 8  \nDeleted: 9  \nDeleted: 9  \nDeleted: 9  \nDeleted: 9  \nDeleted: 9  \nDeleted: 10  \nDeleted: 10  \nDeleted: 12",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/PageFooter/6",
+        "block_type": "PageFooter",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/Picture/1",
+        "block_type": "Picture",
+        "page": 3,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "Foreword",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Foreword"
+    },
+    {
+        "id": "/page/2/Text/3",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "This Technical Specifica?on \\(TS\\) has been produced by WG2 of the O-RAN Alliance. It is part of a TS-family covering the O-RAN WG2: R1 interface specifica?ons.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Foreword"
+    },
+    {
+        "id": "/page/2/Text/4",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "The content of the present document is subject to con?nuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an iden?fying change of version date and an increase in version number as follows:",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Foreword"
+    },
+    {
+        "id": "/page/2/Text/5",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "version xx.yy.zz",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Foreword"
+    },
+    {
+        "id": "/page/2/SectionHeader/6",
+        "block_type": "SectionHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "where:",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Foreword --> where:"
+    },
+    {
+        "id": "/page/2/Text/7",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "xx:the first digit-group is incremented for all changes of substance, i.e. technical enhancements, correc?ons, updates, etc. \\(the ini?al approved document will have xx=01\\). Always 2 digits with leading zero if needed.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Foreword --> where:"
+    },
+    {
+        "id": "/page/2/Text/8",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "yy:the second digit-group is incremented when editorial only changes have been incorporated in the document. Always 2 digits with leading zero if needed.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Foreword --> where:"
+    },
+    {
+        "id": "/page/2/Text/9",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "zz:the third digit-group included only in working versions of the document indica?ng incremental changes during the edi?ng process. External versions never include the third digit-group. Always 2 digits with leading zero if needed.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Foreword --> where:"
+    },
+    {
+        "id": "/page/2/SectionHeader/10",
+        "block_type": "SectionHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "Modal verbs terminology",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Modal verbs terminology"
+    },
+    {
+        "id": "/page/2/Text/11",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN DraRing Rules \\(Verbal forms for the expression of provisions\\).",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Modal verbs terminology"
+    },
+    {
+        "id": "/page/2/Text/12",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct cita?on.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Modal verbs terminology"
+    },
+    {
+        "id": "/page/2/PageFooter/13",
+        "block_type": "PageFooter",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Modal verbs terminology"
+    },
+    {
+        "id": "/page/2/PageFooter/14",
+        "block_type": "PageFooter",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/Picture/1",
+        "block_type": "Picture",
+        "page": 4,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "1 Scope",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "1 Scope"
+    },
+    {
+        "id": "/page/3/Text/3",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "The present document specifies the transport protocols for R1 services.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "1 Scope"
+    },
+    {
+        "id": "/page/3/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "2 References",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References"
+    },
+    {
+        "id": "/page/3/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "2.1 Normative references",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/Text/6",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "References are either specific \\(iden?fied by date of publica?on and/or edi?on number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/Text/7",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "NOTE: While any hyperlinks included in this clause were valid at the ?me of publica?on, O-RAN cannot guarantee their long-term validity.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/Text/8",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "The following referenced documents are necessary for the applica?on of the present document.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/Table/9",
+        "block_type": "Table",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "[1]| IETF RFC 791: \"Internet Protocol\" (\"IPV4\").  \n---|---  \n[2]| IETF RFC 793: \"Transmission Control Protocol\"(\"TCP\").  \n[3]| Void.  \n[4]| Void.  \n[5]| Void.  \n[6]| Void.  \n[7]| Void.  \n[8]| IETF RFC 8259: \"The JavaScript Object Nota?on (JSON) Data Interchange\nFormat\"  \n(\"JSON\").  \n[9]| IETF RFC 8200: \"Internet Protocol, Version 6 (IPv6) Specifica?on\"\n(\"IPV6\").  \n[10]| IETF RFC 8446: \"The Transport Layer Security Protocol Version 1.3\"\n(\"TLS\").  \n[11]| O-RAN TS: \"R1 interface: General Aspects and Principles\" (\"R1GAP\").  \n[12]| O-RAN TS: \"Security Requirements and Controls Specifica?ons\" (\"SRS\").  \n[13]| O-RAN TS: \"Security Protocols Specifica?ons\"(\"SPS\").  \n[14]| IETF RFC 6749: \"The OAuth 2.0 Authoriza?on Framework\" (\"OAuth2.0\").  \n[15]| IETF RFC 7519: \"JSON Web Token\" (\"JWT\").  \n[16]| IETF RFC 9110: \"HTTP Seman?cs\" (\"HTTP\").  \n[17]| IETF RFC 9112: \"HTTP/1.1\" (\"HTTP/1.1\").\n\n",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/PageFooter/10",
+        "block_type": "PageFooter",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/PageFooter/11",
+        "block_type": "PageFooter",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/Picture/1",
+        "block_type": "Picture",
+        "page": 5,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/Text/2",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "\\[18\\] IETF RFC 9113: \"HTTP/2\" \\(\"HTTP/2\"\\).",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/Text/3",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "\\[19\\] O-RAN TS: \"Applica?on Protocols for R1 Services\"\\(\"R1AP\"\\).",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/Text/4",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "\\[20\\] Kaja Protocol Guide: hIps://kaja.apache.org/protocol.html.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "2.2 Informative references",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/6",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "References are either specific \\(iden?fied by date of publica?on and/or edi?on number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/7",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "NOTE: While any hyperlinks included in this clause were valid at the ?me of publica?on, O-RAN cannot guarantee their long term validity.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/8",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "The following referenced documents are not necessary for the applica?on of the present document, but they assist the user with regard to a par?cular subject area.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/9",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "\\[i.1\\] Kaja Documenta?on: hIps://kaja.apache.org/documenta?on.html",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "2.2 Informative references"
+    },
+    {
+        "id": "/page/4/SectionHeader/10",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "3 Definition of terms, symbols and abbreviations",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3 Definition of terms, symbols and abbreviations"
+    },
+    {
+        "id": "/page/4/SectionHeader/11",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "3.1 Terms",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms"
+    },
+    {
+        "id": "/page/4/Text/12",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "Void",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms"
+    },
+    {
+        "id": "/page/4/SectionHeader/13",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "3.2 Symbols",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.2 Symbols"
+    },
+    {
+        "id": "/page/4/Text/14",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "Void",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.2 Symbols"
+    },
+    {
+        "id": "/page/4/SectionHeader/15",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "3.3 Abbreviations",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/Text/16",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "For the purposes of the present document, the abbrevia?ons given in \"O-RAN TS R1GAP\"\\[11\\] and the following apply:",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/Text/17",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "HTTP: Hypertext Transfer Protocol",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/Text/18",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "JSON: JavaScript Object Nota?on",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/Text/19",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "TCP: Transmission Control Protocol",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/Text/20",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "TLS: Transport Layer Security",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/Text/21",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "JWT: JSON Web Tokens",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/PageFooter/22",
+        "block_type": "PageFooter",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/PageFooter/23",
+        "block_type": "PageFooter",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/Picture/1",
+        "block_type": "Picture",
+        "page": 6,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "3.1 Terms --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/5/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "4 Transport protocols for R1 Services",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "4 Transport protocols for R1 Services"
+    },
+    {
+        "id": "/page/5/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "4.1 General",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "4 Transport protocols for R1 Services --> 4.1 General"
+    },
+    {
+        "id": "/page/5/Text/4",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "The R1 interface is defined between the rApps and the Non-RT RIC framework, as defined in R1GAP \\[11\\].",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "4 Transport protocols for R1 Services --> 4.1 General"
+    },
+    {
+        "id": "/page/5/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "5 REST based protocol stack",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack"
+    },
+    {
+        "id": "/page/5/SectionHeader/6",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "5.1 General",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.1 General"
+    },
+    {
+        "id": "/page/5/Text/7",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "The layers of the protocol stack for the R1 interface are described in the following chapters:",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.1 General"
+    },
+    {
+        "id": "/page/5/ListGroup/188",
+        "block_type": "ListGroup",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "* TCP \\[2\\] provides the communica?on service at the transport layer,  \n  * TLS \\[10\\] is used as specified in SPS \\[13\\], clause 4.2 to provide secure HTTP \\[17\\] \\[18\\] connec?ons,\n  * HTTP \\[16\\] \\[17\\] \\[18\\] is used as applica?on-level protocol,\n  * The data interchange layer cons?tutes the transport of documents in the JSON format \\[8\\].",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.1 General"
+    },
+    {
+        "id": "/page/5/Text/12",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "Figure 5.1-1illustrates the REST based protocol stack for the R1 interface.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.1 General"
+    },
+    {
+        "id": "/page/5/Text/13",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "Physical layer Data link layer IP TCP TLS HTTP JSON",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.1 General"
+    },
+    {
+        "id": "/page/5/Caption/14",
+        "block_type": "Caption",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "Physical Data Link Network Transport Security Application Data Interchange",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.1 General"
+    },
+    {
+        "id": "/page/5/Caption/15",
+        "block_type": "Caption",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "Figure 5.1-1: REST Based Protocol Stack for the R1 Interface",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.1 General"
+    },
+    {
+        "id": "/page/5/SectionHeader/16",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "5.2 Network layer",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.2 Network layer"
+    },
+    {
+        "id": "/page/5/Text/17",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "As network layer at least one of IPv6 \\[9\\] or IPv4 \\[1\\] shall be supported.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.2 Network layer"
+    },
+    {
+        "id": "/page/5/SectionHeader/18",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "5.3 Transport layer",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.3 Transport layer"
+    },
+    {
+        "id": "/page/5/Text/19",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "TCP \\[2\\] shall be supported as transport protocol.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.3 Transport layer"
+    },
+    {
+        "id": "/page/5/PageFooter/20",
+        "block_type": "PageFooter",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.3 Transport layer"
+    },
+    {
+        "id": "/page/5/PageFooter/21",
+        "block_type": "PageFooter",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.3 Transport layer"
+    },
+    {
+        "id": "/page/5/Text/22",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "Deleted: 5.1-1",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.3 Transport layer"
+    },
+    {
+        "id": "/page/6/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.3 Transport layer"
+    },
+    {
+        "id": "/page/6/Picture/1",
+        "block_type": "Picture",
+        "page": 7,
+        "images": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAA3AK4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigBCaqz30cQOPmI9KqaneMLqOziOCyl5COoXpj8TWJrN00MAijOGfqR6V4OZ5rOjP2NH4ur7HTh6HtWWLzxctrIR5aNjqoJJ/OnWHjbTbqURTk2zk4G/7p/GuRvdJ1RLBryPT55UHO1AN2PXHWuKl1qN2KtC6+ue1ZUMTjY2lO7Xmj36GU0MRFqnuuzPohWDKCDkHuKWvN/h34oM0w0eeXepUtbMeoxyV/Ln8DXpAr3qVVVYcyPAxeFnhqrpzMTxB4r0vw0kR1CV98udkca7mIHU/SsH/AIWx4c9Lz/vyP8a5b4wf8hzT/wDr3P8A6EaueC/AWia74Zgv71bgzuzA7JMDg46V68MPQjQjVqX17HgzxOIliJUqVtO5vL8VvDjOFJu1BPUw8D8jXU6VrOn61a/adOukni6ErwR9QeR+NcPrPwp0oaZM+myTxXKKWTzH3KxHY1xHw81OfT/GFnHGx8q6PkyL2IPT9cUfVqFWnKdFu67h9ar0asYV0rPse/VS1XVbTRtOlvr2TZBGOTjJJ7AD1q7Xk/xd1ndNaaNG3Cjz5QPXkKP5n8RXJhqPtqigduJrexpOZ1GgfEbSde1IWCJPbzP/AKrzQMP7ZHQ12NfNFxZX3h+7sLmQbJXjjuoT7ZyP5V9E6RqMeraTa38WNk8Yf6E9R+B4rfG4aFK0qezOfA4qdW8am6LF1cRWltLcTuEiiQu7HsAMk1ymi/EbR9a1b+z4xNC7nETygASH0HPB+tafjQ/8UdquP+fdq+do5HhlWSNikiEMrKcEEd6vBYSFeEm9+hGOxk8PUio7H1MOlYviXxLZ+GNPW7u1kfe+xI4xyx61V8F+Jk8S6GkzFRdxfJcIOzeuPQ/41y/xj/5B2l/9dX/kK56NC9dUpnRWxFsO6tM7nQdctfEOlR6habxGxKlXGCpHUGtQVw3wp/5E4f8AXxJ/Su5rOvBQqSitkzXD1HUpRm92gpKWisjY5B7jd4rulc8lNq/hitez0+Ga5+1SrvZBtUEcD3rk/Fhk07XvtER2uQJFP6Gtvw14ls9SbyPMWO4YcxMec+3rXzMKDjmPPUV07/f0NIVbRcU7M6fHFecfEzwvYnTJdbhVYbqNlEm0YEoJxz7+9ekZ4rzX4sa5HHp8GjRuDNK4llAP3VHQH6n+VfTKiqr5GdOXValLExlTf/DHm/hq9ktPE+nNGcH7Qg/XH8s17peeNPD2n3clrdapFHPGdrptY7T6cCvC/Btg+qeN9Ot0BKpL5jkdlXn+mPxr3S78GeH7+6kurnTIXmlO525GT68Vlg4QhdVL28ju4mqynWg6Vr26nmnxVvLe/wBR0u6tZVlgltSyOvQjcar+HPiPP4d0aLTU06OZYyx3tKQTk56Yqx8VLO3sNR0u1tYligjtSqIvQDca6r4faHpN/wCC7eS7020mkdnDPJCpY/Me+M177lSjhIucbq/+Z8MoVZYuahKz/wCGOV1T4p6tqtlJZWljFbNMChdCXfB/u+hq38OvBd+urRazqED28MGTCkgwzsRjOOw5rI8d+Fm8LatFeaeXSzmbdEyscxOO2f1H/wBavQfh94vPiKwa1vGH9oWwG4/89E/vfX1/+vSrNQw/Nh17r37lUE54nlxD95bdjsJZVhheV2CoilmJ7AV8/Zl8Z+OxnJW7uf8AvmIf4KK9S+Jms/2X4WkgRsT3h8lf93qx/Lj8a8h0CbW7C6/tDR7eVpFBj8xIPMAz1HQjNTl9JqnKotG9EVmNVOrGn0WrPS/itoqy6Ba38KAGybYcf3GwP0IH51H8JNZ87T7nSJWy8DebFk/wHqPwP865W+8QeONRs5bS6guJIJVKupsgMj/vmsjwrqsnh7xVbXEu6NVk8qdW4IU8HP06/hWiw8nhnTk02tVYyeJisVGrFNJ6O57d4z/5E3Vf+vdq8f8AAei2+v6jqGn3AwJLNtj45Rgy4Ir1/wAZEHwZqpHQ27V5n8JP+RquP+vRv/QlrDCSccLUa3OjGRUsVTT2Zj6Dql74H8VslyrKqP5V1EP4l9R/Mf8A167H4tTxXWjaPPC4eKR2dGB4IKgg1a+KHhb7bZf23aR5uLdcTgfxx+v4fy+leYXGtXF1oNrpUx3pays8TE8hWHK/mP1rqpJYiUK8d1uctVyw0Z4eWz2PX/hT/wAicP8Ar4k/pXcVw/wp/wCROH/XxJ/Su4rycV/Hn6nsYP8AgQ9AooornOkwfFXh7+39PCwyCK8hy0EhGQCeqkdwf8D2rwrWnu9LvHtdTs5rS5XsRlW91buPevpI1n3EGl6x51lcxW135JHmRSKG2EjIyD04pezpyd5oznCMtz5qfW9Xm+QatfCL+6Lhh/Wls7W5vZ1gtYZLieQ4VEBYk174fh14TLl/7HjBJzxI4H5bq17DT9K0mQWtjbW9s7KX2RoAWAIBPv1FdXtYQjy0kd2Fq0cKrwjd+Zy/w98DnwzbPeX21tSuFwwHIiX+6D3Pqa7mjFMllSBQ0jBVLKoJ9ScAfmRXKo2VkY1q0qs3Um9WeT/F6yuW1DT7tYXaDyjGXAyA2c4P512fw9s57LwZZR3EbRyNufYwwQCSRn8K6fAPWlwAK6ZYhyoqlbY4YYVRryrX3MvxDosGv6LcafOAPMGUbH3GHQ/nXi3hi01fQ/HtnbC2lFwk3lyoFOCh4Y59Mc5r3iCeO5iWWFw8bdGHepMCqo4qVKEoWumKvhI1pxqJ2aPHvizHqE+vWS+TI1qItsJVSQXJ+YfXgV6F4L0U6F4YtLWRNs7L5sw/225I/DgfhWzDc29zJKkUqO0LbJApztb0NT0qmIlKlGlayQ6eGjGtKte7YuK8R+J2gS2XiP8AtCCF2t70BiVXIEncfjwfzr2Z762juTbNMgmEfmlCedmcZ+lSoySxrIhDKwBB9RSw9eVCfOkPE0I4iHI2ckbbUL34Xm3nif7a1ht2EfMSBwMeuAK4v4SWVyviG7uGhdYktzGzMuAGLLx9eDXsLssalmIVQMkngAVWstRs75nFrOkhXBIHoeh9wfXpVRxMlTnBL4vwIlhYupCbfw/iWXRZEZGAKsMEHuK8E8b+Ep/D2rySW8Ltp8xLROoyEz/Afp+te/VRn1Kzt7oW0kuJiA20ITwSQOg46GlhcTOhK8dR4vDQrxtJ2Ob+GVpcWfg+IXETRGSV5FDDBKnGD+ldkKQDilrGpN1Jub6m9KmqcFBdAoooqDQRs44rA0zRbux1BL17nzJJlf7UhIxkncNpCgnByOexoopptaEyim030N+su7trwazBe20cMiLA8TLJKUIyynIwpz0oooTsEldGqOlUtVt5rmzCQBDIsscgDsVB2uGxkA46elFFCdtRtXVie2aZogZ40jk5yqOWA/EgfyqU9KKKQdClo9nJYaZDbSlS6ZyVPHJJ/rVyTdsYoAWxwCcDNFFDd2CVlYw9I0W50u7EpufNE0R+0hsf6zO4FcKOMs+c89PSt2iim227sUYqKsjB1fRJ768lu7eSOOdbdUgY9mBbIPH3SGwf/rVsWcTQWUELEFo41UkdMgYoopuTasxKCTbQzUbU32nXNqG2maJowx7ZGKgsFvjMWu4LWFVQKohYsSe5yQMD0FFFK+lhuOtzRrBvNMvX1xryE5iaKNMC6aLlWYnICkH7woooTsE4qRujpS0UUij/2Q==",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.3 Transport layer"
+    },
+    {
+        "id": "/page/6/Text/2",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "NOTE: When using TCP as the transport protocol, an HTTP connec?on is mapped to a TCP  connec?on.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.3 Transport layer"
+    },
+    {
+        "id": "/page/6/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "5.4 Security",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.4 Security"
+    },
+    {
+        "id": "/page/6/Text/4",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "The specifica?on of security controls on the R1 interface in SRS \\[12\\], clause 5.2.6.2 shall be followed.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.4 Security"
+    },
+    {
+        "id": "/page/6/Text/5",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "These security controls refer to the detailed specifica?on of the support and use of TLS v1.2 and TLS v1.3 \\(IETF RFC 8446 \\[10\\]\\), and OAuth2.0 \\[14\\] with JSON Web Tokens \\(JWT\\) \\(IETF RFC 7519 \\[15\\]\\) in the O-RAN TS SPS \\[13\\] .",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.4 Security"
+    },
+    {
+        "id": "/page/6/SectionHeader/6",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "5.5 Application",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.5 Application"
+    },
+    {
+        "id": "/page/6/Text/7",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "As applica?on layer, HTTP/1.1 \\[17\\] shall be supported, and HTTP/2 \\[18\\] should be supported. The HTTP seman?cs as defined in IETF RFC 9110 \\[16\\] shall be supported.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.5 Application"
+    },
+    {
+        "id": "/page/6/Text/8",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "HTTP over TLS \\(as defined in IETF RFC 9112 for HTTP/1.1 \\[17\\] and in IETF RFC 9113 \\[18\\] for HTTP/2\\) shall be supported.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.5 Application"
+    },
+    {
+        "id": "/page/6/Text/9",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "HTTP details such as use of standard headers, custom headers, error codes, methods, URIs etc. will be specified in Applica?on Protocols for R1 Services.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.5 Application"
+    },
+    {
+        "id": "/page/6/Text/10",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "The default TCP port numbers should be used for HTTP opera?on.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.5 Application"
+    },
+    {
+        "id": "/page/6/SectionHeader/11",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "5.6 Data interchange",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.5 Application --> 5.6 Data interchange"
+    },
+    {
+        "id": "/page/6/Text/12",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "As a data interchange format, JSON \\[8\\] shall be supported.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "5 REST based protocol stack --> 5.5 Application --> 5.6 Data interchange"
+    },
+    {
+        "id": "/page/6/SectionHeader/13",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "6 Kafka based protocol stack",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6 Kafka based protocol stack"
+    },
+    {
+        "id": "/page/6/SectionHeader/14",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "6.1 General",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General"
+    },
+    {
+        "id": "/page/6/Text/15",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "The Kaja based protocol stack for the R1 interface includes the following layers:",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General"
+    },
+    {
+        "id": "/page/6/ListGroup/190",
+        "block_type": "ListGroup",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "* TCP \\[2\\] provides the communica?on service at the transport layer,\n  * TLS \\[10\\] is used to provide secure connec?ons at the security layer,\n  * The Kaja Protocol Guide \\[20\\] is used at the applica?on layer,\n  * The data interchange layer cons?tutes the serializa?on format in which data are represented.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General"
+    },
+    {
+        "id": "/page/6/Text/20",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "Figure 5.1-1 illustrates the Kaja based protocol stack for the R1 interface.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General"
+    },
+    {
+        "id": "/page/6/Text/21",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "Deleted: \\[20\\]",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General"
+    },
+    {
+        "id": "/page/6/Text/22",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "Deleted: 6.1-1",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General"
+    },
+    {
+        "id": "/page/6/PageFooter/23",
+        "block_type": "PageFooter",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General"
+    },
+    {
+        "id": "/page/6/PageFooter/24",
+        "block_type": "PageFooter",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General"
+    },
+    {
+        "id": "/page/7/Picture/0",
+        "block_type": "Picture",
+        "page": 8,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General"
+    },
+    {
+        "id": "/page/7/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> O-RAN.WG2.TS.R1TP-R004-v04.03"
+    },
+    {
+        "id": "/page/7/TableGroup/154",
+        "block_type": "TableGroup",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Data InterchangeSerialization format  \nApplicationKafka  \nSecurityTLS  \nTransportTCP  \nNetworkIP  \nData LinkData link layer  \nPhysicalPhysical layer  \nFigure 6.1-1: Kafka Based Protocol Stack for the R1 interface",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> O-RAN.WG2.TS.R1TP-R004-v04.03"
+    },
+    {
+        "id": "/page/7/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "6.2 Network layer",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.2 Network layer"
+    },
+    {
+        "id": "/page/7/Text/5",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "As network layer at least one of IPv6 \\[9\\] or Ipv4 \\[1\\] shall be supported.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.2 Network layer"
+    },
+    {
+        "id": "/page/7/SectionHeader/6",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "6.3Transport layer",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.3Transport layer"
+    },
+    {
+        "id": "/page/7/Text/7",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "TCP \\[2\\] shall be supported as defined in Kaja Protocol Guide \\[20\\].",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.3Transport layer"
+    },
+    {
+        "id": "/page/7/Text/8",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Deleted: \\[20\\]",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.3Transport layer"
+    },
+    {
+        "id": "/page/7/SectionHeader/9",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "6.4 Security",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.4 Security"
+    },
+    {
+        "id": "/page/7/Text/10",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The specifica?on of security controls on the R1 interface in SRS \\[12\\], clause 5.1.2.1 shall be  followed.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.4 Security"
+    },
+    {
+        "id": "/page/7/SectionHeader/11",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "6.5 Application",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.4 Security --> 6.5 Application"
+    },
+    {
+        "id": "/page/7/Text/12",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "As applica?on layer, Kaja Protocol Guide \\[20\\] version 3.0 or higher shall be supported. The Kaja seman?cs are defined in the Kaja Documenta?on \\[i.1\\].",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.4 Security --> 6.5 Application"
+    },
+    {
+        "id": "/page/7/Text/13",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Deleted: \\[20\\]",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.4 Security --> 6.5 Application"
+    },
+    {
+        "id": "/page/7/Text/14",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Deleted: \\[i.1\\]",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.4 Security --> 6.5 Application"
+    },
+    {
+        "id": "/page/7/Text/15",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "R1 service procedures as defined in R1GAP \\[11\\] are mapped to the Kaja protocol in R1AP \\[19\\] .",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.4 Security --> 6.5 Application"
+    },
+    {
+        "id": "/page/7/SectionHeader/16",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "6.6 Data interchange",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.6 Data interchange"
+    },
+    {
+        "id": "/page/7/Text/17",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The Kaja based protocol stack for the R1 interface is agnos?c to the data serializa?on format.",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.6 Data interchange"
+    },
+    {
+        "id": "/page/7/PageFooter/18",
+        "block_type": "PageFooter",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.6 Data interchange"
+    },
+    {
+        "id": "/page/7/PageFooter/19",
+        "block_type": "PageFooter",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.6 Data interchange"
+    },
+    {
+        "id": "/page/8/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.6 Data interchange"
+    },
+    {
+        "id": "/page/8/Picture/1",
+        "block_type": "Picture",
+        "page": 9,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "6.1 General --> 6.6 Data interchange"
+    },
+    {
+        "id": "/page/8/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "Annex A \\(informative\\): Change history",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Annex A \\(informative\\): Change history"
+    },
+    {
+        "id": "/page/8/Table/3",
+        "block_type": "Table",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "Date| Revision| Description  \n---|---|---  \n2024.03.14| 04.03| Migrated the specification to new template and updated the\nKafka Security requirements  \n2024.03.18| 04.02| Update the specification by removing the TLS1.2 reference\nacross the specifications  \n2023.11.20| 04.01| Updated the version of the Kafka in the Application layer\nand published as final version  \n| | 4.01  \n2023.07.29| 04.00| Published as Final version 4.0  \n2023.03.24| 03.00| Published as Final version 3.0  \n2022.07.28| 02.00| Published as Final version 2.0  \n2022.03.31| 01.00| Published as Final version 1.0\n\n",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Annex A \\(informative\\): Change history"
+    },
+    {
+        "id": "/page/8/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Annex A \\(informative\\): Change history"
+    },
+    {
+        "id": "/page/8/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.R1TP-R004-v04.03",
+        "trace": "Annex A \\(informative\\): Change history"
+    }
+]

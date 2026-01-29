@@ -1,0 +1,982 @@
+[
+    {
+        "id": "/page/0/Picture/0",
+        "block_type": "Picture",
+        "page": 1,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+    },
+    {
+        "id": "/page/0/Text/2",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Technical Specification",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+    },
+    {
+        "id": "/page/0/Text/3",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "A1 interface: Transport Protocol",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+    },
+    {
+        "id": "/page/0/Text/4",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+    },
+    {
+        "id": "/page/0/Text/5",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "The copying or incorporation into any other work of part or all of the material available in this specification in any form without the prior written permission of O-RAN ALLIANCE e.V. is prohibited, save that you may print or download extracts of the material of this specification for your personal use, or copy the material of this specification for the purpose of sending to individual third parties for their information provided that you acknowledge O-RAN ALLIANCE as the source of the material and that you inform the third party that these conditions apply to them and that they must comply with them.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+    },
+    {
+        "id": "/page/0/Text/6",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "O-RAN ALLIANCE e.V., Buschkauler Weg 27, 53347 Alfter, Germany",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+    },
+    {
+        "id": "/page/0/Text/7",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Register of Associations, Bonn VR 11238, VAT ID DE321720189",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+    },
+    {
+        "id": "/page/1/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+    },
+    {
+        "id": "/page/1/Picture/1",
+        "block_type": "Picture",
+        "page": 2,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+    },
+    {
+        "id": "/page/1/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "Contents",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/TableOfContents/3",
+        "block_type": "TableOfContents",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "9Data interchange7  \n8Application  \n7Security7  \n6Transport layer  \n5Network layer6  \n4.1  \n4.2  \n4.3General5  \n5  \n4A1 interface protocol stack  \n3  \n3.1  \n3.2  \n3.3Definition of terms, symbols and abbreviations5  \n5  \n2  \n2.1  \n2.2References4  \n1Scope4  \nModlal verbs terminology3  \nForeeword3",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/Picture/1",
+        "block_type": "Picture",
+        "page": 3,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "Foreword",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/2/Text/3",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "This Technical Specification \\(TS\\) has been produced by O-RAN Alliance Working Group 2. It is part of a TS-family covering the A1 interface as identified below:",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/2/ListGroup/160",
+        "block_type": "ListGroup",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "* \"A1 interface: General Aspects and Principles\";  \n  * \"A1 interface: Use Cases and Requirements\";\n  * \"A1 interface: Transport Protocol\";\n  * \"A1 interface: Application Protocol\";\n  * \"A1 interface: Type Definitions\"; and\n  * \"A1 interface: Test Specification\".",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/2/Text/10",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/2/Text/11",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "version xx.yy.zz",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/2/SectionHeader/12",
+        "block_type": "SectionHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "where:",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Foreword --> where:"
+    },
+    {
+        "id": "/page/2/ListGroup/161",
+        "block_type": "ListGroup",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "* xx: the first digit-group is incremented for all changes of substance, i.e. technical enhancements, corrections, updates, etc. \\(the initial approved document will have xx=01\\). Always 2 digits with leading zero if needed.\n  * yy: the second digit-group is incremented when editorial only changes have been incorporated in the document. Always 2 digits with leading zero if needed.\n  * zz: the third digit-group included only in working versions of the document indicating incremental changes during the editing process. External versions never include the third digit-group. Always 2 digits with leading zero if needed.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Foreword --> where:"
+    },
+    {
+        "id": "/page/2/SectionHeader/16",
+        "block_type": "SectionHeader",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "Modal verbs terminology",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/2/Text/17",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\).",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/2/Text/18",
+        "block_type": "Text",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/2/PageFooter/19",
+        "block_type": "PageFooter",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/2/PageFooter/20",
+        "block_type": "PageFooter",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/Picture/1",
+        "block_type": "Picture",
+        "page": 4,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "1 Scope",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 1 Scope"
+    },
+    {
+        "id": "/page/3/Text/3",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "The present document specifies the transport protocol stack for the A1 interface.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 1 Scope"
+    },
+    {
+        "id": "/page/3/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "2 References",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2 References"
+    },
+    {
+        "id": "/page/3/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "2.1 Normative references",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/Text/6",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies. In the case of a reference to a 3GPP document, a non-specific reference implicitly refers to the latest version of that document in Release 18, or the latest 3GPP release prior to Release 18 that includes that document.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/Text/7",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/Text/8",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "The following referenced documents are necessary for the application of the present document.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/Text/12",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "\\[1\\] O-RAN.WG2.TS.A1GAP: \"A1 interface: General Aspects and Principles\" \\(\"A1GAP\"\\).",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/Table/9",
+        "block_type": "Table",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "|  \n---|---  \n[2]| O-RAN.WG2.TS.A1AP: \"A1 interface: Application Protocol\" (\"A1AP\").  \n[3]| O-RAN.WG2.TS.A1TD: \"A1 interface: Type Definitions\" (\"A1TD\").  \n[4]| IETF RFC 793: \"Transmission Control Protocol\".  \n[5]| Void.  \n[6]| IETF RFC 8446: \"The Transport Layer Security (TLS) Protocol Version 1.3\".  \n[7]| Void.  \n[8]| Void.  \n[9]| Void.  \n[10]| Void.  \n[11]| IETF RFC 8259: \"The JavaScript Object Notation (JSON) Data Interchange\nFormat\".  \n[12]| IETF RFC 8200: \"Internet Protocol, Version 6 (IPv6) Specification\".  \n[13]| IETF RFC 791: \"Internet Protocol\".  \n[14]| Void.  \n[15]| Void.  \n[16]| O-RAN.WG11.TS.SRCS.0: \"O-RAN Security Requirements and Controls\nSpecifications\" (\"SRCS\").  \n[17]| O-RAN.WG11.TS.SecProtSpec.0: \"O-RAN Security Protocols Specifications\"\n(\"SPS\").  \n[18]| IETF RFC 9110: \"HTTP Semantics\".  \n[19]| IETF RFC 9112: \"HTTP/1.1\".  \n[20]| IETF RFC 9113: \"HTTP/2\".  \n|\n\n",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/PageFooter/10",
+        "block_type": "PageFooter",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/3/PageFooter/11",
+        "block_type": "PageFooter",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/Picture/1",
+        "block_type": "Picture",
+        "page": 5,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2 References --> 2.1 Normative references"
+    },
+    {
+        "id": "/page/4/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "2.2 Informative references",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/3",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies. In the case of a reference to a 3GPP document, a non-specific reference implicitly refers to the latest version of that document in Release 18, or the latest 3GPP release prior to Release 18 that includes that document.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/4",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/5",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "The following referenced documents are not necessary for the application of the present document, but they assist the user with regard to a particular subject area.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/Text/6",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "Not applicable.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Contents --> 2.2 Informative references"
+    },
+    {
+        "id": "/page/4/SectionHeader/7",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "3 Definition of terms, symbols and abbreviations",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations"
+    },
+    {
+        "id": "/page/4/SectionHeader/8",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "3.1 Terms",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/Text/9",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "For the purposes of the present document, the terms given in A1GAP \\[1\\], clause 3.1, apply.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/4/SectionHeader/10",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "3.2 Symbols",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+    },
+    {
+        "id": "/page/4/Text/11",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "Void.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+    },
+    {
+        "id": "/page/4/SectionHeader/12",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "3.3 Abbreviations",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/Text/13",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "For the purposes of the present document, the abbreviations given in A1GAP \\[1\\], clause 3.3, and the following apply:",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/Text/14",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "IETF Internet Engineering Task Force",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/Text/15",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "JWT JSON Web Tokens RFC Request For Comments",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/4/SectionHeader/16",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "4 A1 interface protocol stack",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4 A1 interface protocol stack"
+    },
+    {
+        "id": "/page/4/SectionHeader/17",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "4.1 General",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General"
+    },
+    {
+        "id": "/page/4/Text/18",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "The architecture for the A1 interface is specified in A1GAP \\[1\\], clause 4.1. The protocol stack for the A1 interface supports application protocol and data models as specified in A1AP \\[2\\] and A1TD \\[3\\].",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General"
+    },
+    {
+        "id": "/page/4/SectionHeader/19",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "4.2 Reference model",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+    },
+    {
+        "id": "/page/4/Text/20",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "The A1 interface is defined between the Non-RT RIC and the Near-RT RIC functions. The A1 architecture and principles are described in A1GAP \\[1\\], clause 4. Figure 4.2-1 illustrates the reference model for the A1 interface.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+    },
+    {
+        "id": "/page/4/PageFooter/21",
+        "block_type": "PageFooter",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+    },
+    {
+        "id": "/page/4/PageFooter/22",
+        "block_type": "PageFooter",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+    },
+    {
+        "id": "/page/5/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+    },
+    {
+        "id": "/page/5/Picture/1",
+        "block_type": "Picture",
+        "page": 6,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+    },
+    {
+        "id": "/page/5/PictureGroup/141",
+        "block_type": "PictureGroup",
+        "page": 6,
+        "images": "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",
+        "description": "",
+        "text": "Figure 4.2-1: A1 interface reference model",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+    },
+    {
+        "id": "/page/5/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "4.3 Functions and protocol stack",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.3 Functions and protocol stack"
+    },
+    {
+        "id": "/page/5/Text/5",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "The following layers of the protocol stack for the A1 interface are described in the following clauses:",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.3 Functions and protocol stack"
+    },
+    {
+        "id": "/page/5/ListGroup/143",
+        "block_type": "ListGroup",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "* TCP as specified in IETF RFC 793 \\[4\\] provides the communication service at the transport layer;\n  * TLS as specified in IETF RFC 8446 \\[6\\] is used to provide secure HTTP connections;\n  * HTTP as specified in IETF RFC 9110 \\[18\\], IETF RFC 9112 \\[19\\] and IETF RFC 9113 \\[20\\] is used as application-level protocol;\n  * The data interchange layer constitutes the transport of documents in the JSON format as specified in IETF RFC 8259 \\[11\\].",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.3 Functions and protocol stack"
+    },
+    {
+        "id": "/page/5/TableGroup/142",
+        "block_type": "TableGroup",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "Figure 4.3-1 illustrates the protocol stack of the A1 interface.\nData InterchangeJSON  \nApplicationHTTP  \nSecurityTLS  \nTransportTCP  \nNetworkIP  \nData linkData link layer  \nPhysicalPhysical layer  \nFigure 4.3-1: A1 protocol stack",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.3 Functions and protocol stack"
+    },
+    {
+        "id": "/page/5/SectionHeader/13",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "5 Network layer",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer"
+    },
+    {
+        "id": "/page/5/Text/14",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "A1 may be transported over IPv6 as specified in IETF RFC 8200 \\[12\\] and/or IPv4 as specified in IETF RFC 791 \\[13\\].",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer"
+    },
+    {
+        "id": "/page/5/PageFooter/15",
+        "block_type": "PageFooter",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer"
+    },
+    {
+        "id": "/page/5/PageFooter/16",
+        "block_type": "PageFooter",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer"
+    },
+    {
+        "id": "/page/6/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer"
+    },
+    {
+        "id": "/page/6/Picture/1",
+        "block_type": "Picture",
+        "page": 7,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer"
+    },
+    {
+        "id": "/page/6/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "6 Transport layer",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 6 Transport layer"
+    },
+    {
+        "id": "/page/6/Text/3",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "TCP as specified in IETF RFC 793 \\[4\\] shall be used as transport protocol. An HTTP connection is mapped to a TCP connection.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 6 Transport layer"
+    },
+    {
+        "id": "/page/6/Text/4",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "Both Non-RT RIC and Near-RT RIC can act as HTTP client and HTTP server. As a result, Non-RT RIC and Near-RT RIC can establish a TCP connection for each direction.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 6 Transport layer"
+    },
+    {
+        "id": "/page/6/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "7 Security",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 7 Security"
+    },
+    {
+        "id": "/page/6/Text/6",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "TLS, mTLS, and OAuth2.0 shall be supported as specified in SRCS \\[16\\], clause 5.2.1.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 7 Security"
+    },
+    {
+        "id": "/page/6/Text/7",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "mTLS and OAuth 2.0 with JWT shall be supported as specified in SPS \\[17\\], clause 4.7.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 7 Security"
+    },
+    {
+        "id": "/page/6/SectionHeader/8",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "8 Application",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application"
+    },
+    {
+        "id": "/page/6/Text/9",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "As application layer, HTTP/1.1 as specified in IETF RFC 9112 \\[19\\] shall be supported, and HTTP/2 as specified in IETF RFC 9113 \\[20\\] should be supported.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application"
+    },
+    {
+        "id": "/page/6/Text/10",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "HTTP over TLS as specified in IETF RFC 9110 \\[18\\] and IETF RFC 9112 \\[19\\] shall be supported. If HTTP/2 is supported, HTTP/2 over TLS as specified in IETF RFC 9113 \\[20\\] shall be supported.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application"
+    },
+    {
+        "id": "/page/6/Text/11",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "HTTP details such as standard headers, custom headers, error codes, methods, URIs etc are specified in A1AP \\[2\\].",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application"
+    },
+    {
+        "id": "/page/6/Text/12",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "The default TCP port numbers should be used for HTTP operation.",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application"
+    },
+    {
+        "id": "/page/6/SectionHeader/13",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "9 Data interchange",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange"
+    },
+    {
+        "id": "/page/6/Text/14",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "As a data interchange format, JSON as specified in IETF RFC 8259 \\[11\\] shall be supported. The objects transported in HTTP messages, and the data types in JSON format, are specified in A1TD \\[3\\].",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange"
+    },
+    {
+        "id": "/page/6/PageFooter/15",
+        "block_type": "PageFooter",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange"
+    },
+    {
+        "id": "/page/6/PageFooter/16",
+        "block_type": "PageFooter",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange"
+    },
+    {
+        "id": "/page/7/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange"
+    },
+    {
+        "id": "/page/7/Picture/1",
+        "block_type": "Picture",
+        "page": 8,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange"
+    },
+    {
+        "id": "/page/7/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Annex \\(informative\\): Change History",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Annex \\(informative\\): Change History"
+    },
+    {
+        "id": "/page/7/Table/3",
+        "block_type": "Table",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Date| Revision| Description  \n---|---|---  \n2019.09.30| 01.00| First version  \n2021.03.13| 01.01| Editorial corrections to apply latest template and update\nreferences. Clarification of HTTP  \nport number.  \n2022.07.30| 02.00| Adapting to ODR template and referring to O-RAN security\nspecifications for mTLS and  \nOAuth2.0  \n2022.11.17| 02.01| Aligning to O-RAN drafting rules  \n2023.07.31| 03.00| Updating obsolete references and applying latest template  \n2023.11.30| 03.01| ETSI PAS related editorial enhancements of references in\nclause 7  \n2024.03.31| 03.02| Editorial enhancement of references  \n2024.07.31| 03.03| Updated specification designator to R004  \n2024.11.30| 03.04| Editorial enhancement of references  \n2025.07.31| 03.05| Applying latest template\n\n",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Annex \\(informative\\): Change History"
+    },
+    {
+        "id": "/page/7/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Annex \\(informative\\): Change History"
+    },
+    {
+        "id": "/page/7/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "trace": "Annex \\(informative\\): Change History"
+    }
+]

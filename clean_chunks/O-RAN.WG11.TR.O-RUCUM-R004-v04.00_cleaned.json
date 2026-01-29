@@ -1,0 +1,2212 @@
+[
+    {
+        "id": "/page/0/PageHeader/0",
+        "block_type": "PageHeader",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/Picture/1",
+        "block_type": "Picture",
+        "page": 1,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/Text/8",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "1",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/Text/2",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Technical Report",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/Text/3",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "O-RAN Working Group 11 \\(WG11\\)",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/Text/4",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Study on O-RU Centralized User Management",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/Text/5",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/Text/6",
+        "block_type": "Text",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "The copying or incorporation into any other work of part or all of the material available in this document in any form without the prior written permission of O-RAN ALLIANCE e.V. is prohibited, save that you may print or download extracts of the material of this document for your personal use, or copy the material of this document for the purpose of sending to individual third parties for their information provided that you acknowledge O-RAN ALLIANCE as the source of the material and that you inform the third party that these conditions apply to them and that they must comply with them.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": ""
+    },
+    {
+        "id": "/page/0/PageFooter/7",
+        "block_type": "PageFooter",
+        "page": 1,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": ""
+    },
+    {
+        "id": "/page/1/SectionHeader/0",
+        "block_type": "SectionHeader",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "Contents",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/1/TableOfContents/1",
+        "block_type": "TableOfContents",
+        "page": 2,
+        "images": "",
+        "description": "",
+        "text": "Forevvord 4  \nModaal verbs terminology 4  \nIntrodduction 4  \n1Scope 5  \n2D.C.\\_  \n2References  \n2.1Informative references6  \n3Definitions and Abbreviations 7  \n3.1Terms  \n3.2Definitions  \n3.3Abbreviations  \n1  \n4Background  \n4.1  \n4.2Netconf Access Control  \n4.2Software and Configuration Server \\(SCS\\) 0  \n5Key Issues 9  \n5.1Key Issue \\#1: Default account in O-RU9  \n5.1.1Key issue detail9  \n5.1.2Security threats9  \n5.1.3Potential security requirements9  \n5.2Key Issue \\#2: Default account get sudo role9  \n5.2.1Key issue detail  \n5.2.2Security threats  \n5.2.3Potential security requirements  \n5.3Key Issue \\#3: The O-RU controller must keep track of locally defined users in each managed O-RU 10  \n5.3.1Key issue detail  \n5.3.2Security threats  \n5.3.3Potential security requirements  \n5.4Key Issue \\#4: How to get initial configuration to Central Server?  \n5.4.1Key issue detail  \n5.4.2Security threats  \n5.4.3Potential security requirements  \n5.5Key Issue \\#5: How does the O-RU connect securely to the Central Server?  \n5.5.1Key issue detail  \n5.5.2Security threats  \n5.5.3Potential security requirements  \n5.6  \n5.6.1Key Issue \\#6: Availability of the centralized user management server for the O-RUs  \n5.6.2Security threats  \n5.6.3Potential security requirements  \n5.7Key Issue \\#7: Categorisation of users that need to centrally and locally managed  \n5.7.1Key issue detail  \n5.7.2Security threats  \n5.7.3Potential security requirements  \n5.8Key Issue \\#8: Fetching initial security configuration data from a Software and Configuration Server  \n5.8.1Key issue detail  \n5.8.2Security threats  \n5.8.3Potential security requirements 13  \n5.9Key Issue \\#9: Secure transport to the centralized authentication server 13  \n5.9.1Key issue detail  \n5.9.2Security threats  \n5.9.3Potential security requirements  \n5.10Key Issue \\#10: Secure storage of O-RU credentials  \n5.10.1\u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7 \u00b7  \n5.10.2Security threats 14",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/Picture/0",
+        "block_type": "Picture",
+        "page": 3,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/TableOfContents/1",
+        "block_type": "TableOfContents",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "5.10.3Potential security requirements14  \n6Mitigations and Solutions  \n6.1Key Issue Analysis15  \n6.2Solution \\#1: Centralized User Management15  \n6.3Solution 2\\#: Initial Provisioning  \n6.4Solution \\#3 High Availability15  \n7Conclusions17  \n7.1Key Issue Solution Mapping17  \nAnnex: Change history/Change request \\(history\\)",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/PageFooter/2",
+        "block_type": "PageFooter",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/2/PageFooter/3",
+        "block_type": "PageFooter",
+        "page": 3,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/3/Picture/0",
+        "block_type": "Picture",
+        "page": 4,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents"
+    },
+    {
+        "id": "/page/3/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Foreword",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/3/Text/2",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "This Technical Report \\(TR\\) has been produced by O-RAN Alliance.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> Foreword"
+    },
+    {
+        "id": "/page/3/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Modal verbs terminology",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/Text/4",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\).",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/Text/5",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> Modal verbs terminology"
+    },
+    {
+        "id": "/page/3/SectionHeader/6",
+        "block_type": "SectionHeader",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Introduction",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> Introduction"
+    },
+    {
+        "id": "/page/3/Text/7",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "Current M-Plane specification mandates role-based access control with local user management. This implies that the Netconf Controller must keep track of locally defined users in each managed O-RU. It also means that some default behavior must be applied during installation of an O-RU, e.g. default users pre-defined by vendor for SSH and first trusted user connecting over TLS is given \"sudo\" role.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> Introduction"
+    },
+    {
+        "id": "/page/3/Text/8",
+        "block_type": "Text",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "In this technical report key security issues due to locally defined users in each managed O-RU are analyzed. The option of using a centralized user management is also evaluated, and solutions proposed along with the necessary security requirements.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> Introduction"
+    },
+    {
+        "id": "/page/3/PageFooter/9",
+        "block_type": "PageFooter",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> Introduction"
+    },
+    {
+        "id": "/page/3/PageFooter/10",
+        "block_type": "PageFooter",
+        "page": 4,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> Introduction"
+    },
+    {
+        "id": "/page/4/Picture/0",
+        "block_type": "Picture",
+        "page": 5,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> Introduction"
+    },
+    {
+        "id": "/page/4/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "1 Scope",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> 1 Scope"
+    },
+    {
+        "id": "/page/4/Text/2",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "The contents of the present document are subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> 1 Scope"
+    },
+    {
+        "id": "/page/4/Text/3",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "version xx.yy.zz",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> 1 Scope"
+    },
+    {
+        "id": "/page/4/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "where:",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> 1 Scope --> where:"
+    },
+    {
+        "id": "/page/4/ListGroup/86",
+        "block_type": "ListGroup",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "* xx: the first digit-group is incremented for all changes of substance, i.e. technical enhancements, corrections, updates, etc. \\(the initial approved document will have xx=01\\). Always 2 digits with leading zero if needed.  \n  * yy: the second digit-group is incremented when editorial only changes have been incorporated in the document. Always 2 digits with leading zero if needed.\n  * zz: the third digit-group included only in working versions of the document indicating incremental changes during the editing process. External versions never include the third digit-group. Always 2 digits with leading zero if needed.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> 1 Scope --> where:"
+    },
+    {
+        "id": "/page/4/Text/8",
+        "block_type": "Text",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "The present document specifies the outcome of the study on O-RU Centralized User Management performed by the O-RAN Security Work Group \\(WG11\\).",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> 1 Scope --> where:"
+    },
+    {
+        "id": "/page/4/PageFooter/9",
+        "block_type": "PageFooter",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> 1 Scope --> where:"
+    },
+    {
+        "id": "/page/4/PageFooter/10",
+        "block_type": "PageFooter",
+        "page": 5,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> 1 Scope --> where:"
+    },
+    {
+        "id": "/page/5/Picture/0",
+        "block_type": "Picture",
+        "page": 6,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Contents --> 1 Scope --> where:"
+    },
+    {
+        "id": "/page/5/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "2 References",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References"
+    },
+    {
+        "id": "/page/5/Text/2",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "The following documents contain provisions which, through reference in this text, constitute provisions of the present document.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References"
+    },
+    {
+        "id": "/page/5/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "2.1 Informative references",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 2.1 Informative references"
+    },
+    {
+        "id": "/page/5/Text/4",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies. In the case of a reference to a 3GPP document, a nonspecific reference implicitly refers to the latest version of that document in Release 18, or the latest 3GPP release prior to Release 18 that includes that document.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 2.1 Informative references"
+    },
+    {
+        "id": "/page/5/Text/5",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long term validity.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 2.1 Informative references"
+    },
+    {
+        "id": "/page/5/Text/6",
+        "block_type": "Text",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "The following referenced documents are not necessary for the application of the present document but they assist the user with regard to a particular subject area.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 2.1 Informative references"
+    },
+    {
+        "id": "/page/5/ListGroup/107",
+        "block_type": "ListGroup",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "* \\[i.1\\] O-RAN ALLIANCE TS, \"O-RAN Security Requirements and Controls Specifications\"\n  * \\[i.2\\] O-RAN ALLIANCE TS, \"O-RAN Management Plane Specification\"\n  * \\[i.3\\] 3GPP TS 28.314: \"Management and orchestration; Plug and Connect; Concepts and requirements\".\n  * \\[i.4\\] 3GPP TS 28.315: \"Management and orchestration; Plug and Connect; Procedure flows\".\n  * \\[i.5\\] 3GPP TS 28.316: \"Management and orchestration; Plug and Connect; Data formats\".\n  * \\[i.6\\] O-RAN ALLIANCE TR, \"O-RAN Security Threat Modeling and Risk Assessment\n  * \\[i.7\\] 3GPP TR 21.905: \"Vocabulary for 3GPP Specifications\".\n  * \\[i.8\\] 3GPP TS 33.117: \"Catalogue of general security assurance requirements\"\n  * \\[i.9\\] 3GPP TS 28.314: \"Management and orchestration; Plug and connect; Concepts and requirements\"\n  * \\[i.10\\] 3GPP TS 28.315: \"Management and orchestration; Plug and connect; Procedure flows\"",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 2.1 Informative references"
+    },
+    {
+        "id": "/page/5/PageFooter/17",
+        "block_type": "PageFooter",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 2.1 Informative references"
+    },
+    {
+        "id": "/page/5/PageFooter/18",
+        "block_type": "PageFooter",
+        "page": 6,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 2.1 Informative references"
+    },
+    {
+        "id": "/page/6/Picture/0",
+        "block_type": "Picture",
+        "page": 7,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 2.1 Informative references"
+    },
+    {
+        "id": "/page/6/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "3 Definitions and Abbreviations",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 3 Definitions and Abbreviations"
+    },
+    {
+        "id": "/page/6/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "3.1 Terms",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 3 Definitions and Abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/6/Text/3",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "For the purposes of the present document, no new terms are used.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 3 Definitions and Abbreviations --> 3.1 Terms"
+    },
+    {
+        "id": "/page/6/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "3.2 Definitions",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 3.2 Definitions"
+    },
+    {
+        "id": "/page/6/Text/5",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "For the purposes of the present document, no new definitions are defined.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 3.2 Definitions"
+    },
+    {
+        "id": "/page/6/SectionHeader/6",
+        "block_type": "SectionHeader",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "3.3 Abbreviations",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 3.2 Definitions --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/6/Text/7",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "For the purposes of the present document, the abbreviations given in 3GPP TR 21.905 \\[i.1\\] and the following apply. An abbreviation defined in the present document takes precedence over the definition of the same abbreviation, if any, in 3GPP TR 21.905 \\[i.7\\].",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 3.2 Definitions --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/6/Table/8",
+        "block_type": "Table",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "AAS| Active Antenna System  \n---|---  \neNB| e NodeB (applies to LTE)  \ngNB| g NodeB (applies to NR)  \nO-DU| O-RAN Distributed Unit  \nO-RU| O-RAN Radio Unit\n\n",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 3.2 Definitions --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/6/Text/9",
+        "block_type": "Text",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "SCS Software and Configuration Server",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 3.2 Definitions --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/6/PageFooter/10",
+        "block_type": "PageFooter",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 3.2 Definitions --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/6/PageFooter/11",
+        "block_type": "PageFooter",
+        "page": 7,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 3.2 Definitions --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/7/Picture/0",
+        "block_type": "Picture",
+        "page": 8,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 3.2 Definitions --> 3.3 Abbreviations"
+    },
+    {
+        "id": "/page/7/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "4 Background",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 4 Background"
+    },
+    {
+        "id": "/page/7/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "4.1 Netconf Access Control",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 4 Background --> 4.1 Netconf Access Control"
+    },
+    {
+        "id": "/page/7/Text/3",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Netconf access control is defined in the WG4 M-Plane Specification \\[i.2\\] to be used in the O-RU, but only with local user management configuration in each O-RU.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 4 Background --> 4.1 Netconf Access Control"
+    },
+    {
+        "id": "/page/7/Text/4",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "Netconf access control is also used on the O1 interface. The WG11 Security Requirements and Controls Specification \\[i.1\\] defines, for O1 entities, that \\(REQ-NAC-FUN-9\\): Netconf endpoints SHALL support external user to group mapping via at least one of the following protocols: LDAP with StartTLS, OAuth 2.0, RADIUS with EAP, and TACACS/TACACS+.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 4 Background --> 4.1 Netconf Access Control"
+    },
+    {
+        "id": "/page/7/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "4.2 Software and Configuration Server \\(SCS\\)",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 4.2 Software and Configuration Server \\(SCS\\)"
+    },
+    {
+        "id": "/page/7/Text/6",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The 3GPP TS 28.314 \\[i.3\\] and TS 28.315 \\[i.4\\] describes the SCS as an entity and how it can be used in a Plug and Connect use case to provide initial configuration to a Network Element. The O-RU can be seen as a Network Element that during the provisioning needs to get configuration and find an O-RU controller.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 4.2 Software and Configuration Server \\(SCS\\)"
+    },
+    {
+        "id": "/page/7/Text/7",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The 3GPP TS 28.316 \\[i.5\\] describes how a Network Element can get the address to an SCS from a DHCP server.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 4.2 Software and Configuration Server \\(SCS\\)"
+    },
+    {
+        "id": "/page/7/Text/8",
+        "block_type": "Text",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "The WG4 M-Plane Specification \\[i.2\\] clause on \"Start-up installation\" currently does not include the use of an SCS.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 4.2 Software and Configuration Server \\(SCS\\)"
+    },
+    {
+        "id": "/page/7/PageFooter/9",
+        "block_type": "PageFooter",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 4.2 Software and Configuration Server \\(SCS\\)"
+    },
+    {
+        "id": "/page/7/PageFooter/10",
+        "block_type": "PageFooter",
+        "page": 8,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 4.2 Software and Configuration Server \\(SCS\\)"
+    },
+    {
+        "id": "/page/8/Picture/0",
+        "block_type": "Picture",
+        "page": 9,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 4.2 Software and Configuration Server \\(SCS\\)"
+    },
+    {
+        "id": "/page/8/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "5 Key Issues",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues"
+    },
+    {
+        "id": "/page/8/Text/2",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "This clause details the key issues identified for security aspects related to user management in the O-RU.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues"
+    },
+    {
+        "id": "/page/8/SectionHeader/3",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "5.1 Key Issue \\#1: Default account in O-RU",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.1 Key Issue \\#1: Default account in O-RU"
+    },
+    {
+        "id": "/page/8/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "5.1.1 Key issue detail",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.1 Key Issue \\#1: Default account in O-RU --> 5.1.1 Key issue detail"
+    },
+    {
+        "id": "/page/8/Text/5",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "Current M-plane specification \\[i.2\\] requires a vendor specific default account. Default accounts should be avoided if possible.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.1 Key Issue \\#1: Default account in O-RU --> 5.1.1 Key issue detail"
+    },
+    {
+        "id": "/page/8/Text/6",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "The 3GPP TS 33.117 \\[i.8\\] section 4.2.3.4.2.2 states that predefined accounts shall be deleted or disabled. \"Should this  measure not be possible the accounts shall be locked for remote login\".",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.1 Key Issue \\#1: Default account in O-RU --> 5.1.1 Key issue detail"
+    },
+    {
+        "id": "/page/8/SectionHeader/7",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "5.1.2 Security threats",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.1 Key Issue \\#1: Default account in O-RU --> 5.1.2 Security threats"
+    },
+    {
+        "id": "/page/8/ListGroup/160",
+        "block_type": "ListGroup",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "* An attacker can log on to the O-RU in these cases: The vendor defined default account \\(username/password\\) is leaked.\n  * Any entity that is connecting using an accepted certificate using \n    * o any operator-signed certificate verified by an installed trust anchor or\n    * o any certificate if the enrollment failed and the O-RU supports the optional feature of using its preinstalled vendor-signed certificate for setting up mTLS connections to its O-RU Controller\\(s\\) \\(see \\[i.2\\], clause 6.2.6.3\\), as in this case the O-RU does not have an installed trust anchor.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.1 Key Issue \\#1: Default account in O-RU --> 5.1.2 Security threats"
+    },
+    {
+        "id": "/page/8/Text/12",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "An attacker can use a successful log-on to connect to the O-RU before the connection to the O-RU controller is established. New accounts can be created.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.1 Key Issue \\#1: Default account in O-RU --> 5.1.2 Security threats"
+    },
+    {
+        "id": "/page/8/Text/13",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "If the default account is not being disabled, it can be used to connect and modify existing configuration.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.1 Key Issue \\#1: Default account in O-RU --> 5.1.2 Security threats"
+    },
+    {
+        "id": "/page/8/SectionHeader/14",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "5.1.3 Potential security requirements",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.1 Key Issue \\#1: Default account in O-RU --> 5.1.3 Potential security requirements"
+    },
+    {
+        "id": "/page/8/Text/15",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "To mitigate the threat of an attacker using a default account to create additional accounts, the O-RU controller can verify that no unwanted accounts exist. This can be done every time when the O-RU Controller connects to an O-RU by comparing the O-RU user account configuration with the planned settings. An alternative is to avoid using a default account and rely on centralized user management during provisioning.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.1 Key Issue \\#1: Default account in O-RU --> 5.1.3 Potential security requirements"
+    },
+    {
+        "id": "/page/8/SectionHeader/16",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "5.2 Key Issue \\#2: Default account get sudo role",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.2 Key Issue \\#2: Default account get sudo role"
+    },
+    {
+        "id": "/page/8/SectionHeader/17",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "5.2.1 Key issue detail",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.2.1 Key issue detail"
+    },
+    {
+        "id": "/page/8/Text/18",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "Current M-plane specification requires that when first connection is made, the first \\(i.e. default\\) user get sudo role by default. Default accounts should be avoided if possible.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5 Key Issues --> 5.2.1 Key issue detail"
+    },
+    {
+        "id": "/page/8/SectionHeader/19",
+        "block_type": "SectionHeader",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "5.2.2 Security threats",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.2.2 Security threats"
+    },
+    {
+        "id": "/page/8/Text/20",
+        "block_type": "Text",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "The security threats identified with first connected user getting sudo role:",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.2.2 Security threats"
+    },
+    {
+        "id": "/page/8/PageFooter/21",
+        "block_type": "PageFooter",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.2.2 Security threats"
+    },
+    {
+        "id": "/page/8/PageFooter/22",
+        "block_type": "PageFooter",
+        "page": 9,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.2.2 Security threats"
+    },
+    {
+        "id": "/page/9/Picture/0",
+        "block_type": "Picture",
+        "page": 10,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.2.2 Security threats"
+    },
+    {
+        "id": "/page/9/Text/1",
+        "block_type": "Text",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "An Attacker can connect using",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.2.2 Security threats"
+    },
+    {
+        "id": "/page/9/ListGroup/139",
+        "block_type": "ListGroup",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "* any operator-signed certificate verified by an installed trust anchor or\n  * any certificate if the enrollment failed and the O-RU supports the optional feature of using its pre-installed vendor-signed certificate for setting up mTLS connections to its O-RU Controller\\(s\\) \\(see \\[i.2\\], clause 6.2.6.3\\), as in this case the O-RU does not have an installed trust anchor or\n  * a leaked default username/password",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.2.2 Security threats"
+    },
+    {
+        "id": "/page/9/Text/5",
+        "block_type": "Text",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "will get \"sudo\" role. This can be used to connect to the O-RU before the connection to the O-RU controller is established. New accounts can be created.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.2.2 Security threats"
+    },
+    {
+        "id": "/page/9/Text/6",
+        "block_type": "Text",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "If the default account is not disabled, it can also be used after the connection to the O-RU controller is established to connect and modify existing configuration.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.2.2 Security threats"
+    },
+    {
+        "id": "/page/9/SectionHeader/7",
+        "block_type": "SectionHeader",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "5.2.3 Potential security requirements",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.2.2 Security threats --> 5.2.3 Potential security requirements"
+    },
+    {
+        "id": "/page/9/Text/8",
+        "block_type": "Text",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "To mitigate the threat of an attacker using a default account, get \"sudo\" role and creates additional accounts, the O-RU controller can verify that no unwanted accounts exist. An alternative is to avoid using a default account and rely on centralized user management during provisioning.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.2.2 Security threats --> 5.2.3 Potential security requirements"
+    },
+    {
+        "id": "/page/9/SectionHeader/9",
+        "block_type": "SectionHeader",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "5.3 Key Issue \\#3: The O-RU controller must keep track of locally defined users in each managed O-RU",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.3 Key Issue \\#3: The O-RU controller must keep track of locally defined users in each managed O-RU"
+    },
+    {
+        "id": "/page/9/SectionHeader/10",
+        "block_type": "SectionHeader",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "5.3.1 Key issue detail",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.3 Key Issue \\#3: The O-RU controller must keep track of locally defined users in each managed O-RU --> 5.3.1 Key issue detail"
+    },
+    {
+        "id": "/page/9/Text/11",
+        "block_type": "Text",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "Current M-plane specification defines role-based access control configured in each O-RU. Allowing for centralized user management would simplify management.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.3 Key Issue \\#3: The O-RU controller must keep track of locally defined users in each managed O-RU --> 5.3.1 Key issue detail"
+    },
+    {
+        "id": "/page/9/SectionHeader/12",
+        "block_type": "SectionHeader",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "5.3.2 Security threats",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.3.2 Security threats"
+    },
+    {
+        "id": "/page/9/Text/13",
+        "block_type": "Text",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "The security threats identified with only local user management in O-RU, configured by the O-RU controller:",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.3.2 Security threats"
+    },
+    {
+        "id": "/page/9/Text/14",
+        "block_type": "Text",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "\u2022 If the same user configuration is used in all O-RUs, any O-RU controller can connect to any O-RU. Changes will have to be performed on every O-RU.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.3.2 Security threats"
+    },
+    {
+        "id": "/page/9/SectionHeader/15",
+        "block_type": "SectionHeader",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "5.3.3 Potential security requirements",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.3.2 Security threats --> 5.3.3 Potential security requirements"
+    },
+    {
+        "id": "/page/9/Text/16",
+        "block_type": "Text",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "To simplify management a centralized user management system can be used.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.3.2 Security threats --> 5.3.3 Potential security requirements"
+    },
+    {
+        "id": "/page/9/SectionHeader/17",
+        "block_type": "SectionHeader",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "5.4 Key Issue \\#4: How to get initial configuration to Central Server?",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.4 Key Issue \\#4: How to get initial configuration to Central Server?"
+    },
+    {
+        "id": "/page/9/SectionHeader/18",
+        "block_type": "SectionHeader",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "5.4.1 Key issue detail",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.4 Key Issue \\#4: How to get initial configuration to Central Server? --> 5.4.1 Key issue detail"
+    },
+    {
+        "id": "/page/9/Text/19",
+        "block_type": "Text",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "When the O-RU is started for the first time, it will not have any operator specific configuration on how to connect to the central server. To use centralized user management this configuration is required.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.4 Key Issue \\#4: How to get initial configuration to Central Server? --> 5.4.1 Key issue detail"
+    },
+    {
+        "id": "/page/9/PageFooter/20",
+        "block_type": "PageFooter",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.4 Key Issue \\#4: How to get initial configuration to Central Server? --> 5.4.1 Key issue detail"
+    },
+    {
+        "id": "/page/9/PageFooter/21",
+        "block_type": "PageFooter",
+        "page": 10,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.4 Key Issue \\#4: How to get initial configuration to Central Server? --> 5.4.1 Key issue detail"
+    },
+    {
+        "id": "/page/10/Picture/0",
+        "block_type": "Picture",
+        "page": 11,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.4 Key Issue \\#4: How to get initial configuration to Central Server? --> 5.4.1 Key issue detail"
+    },
+    {
+        "id": "/page/10/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "5.4.2 Security threats",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.4 Key Issue \\#4: How to get initial configuration to Central Server? --> 5.4.1 Key issue detail --> 5.4.2 Security threats"
+    },
+    {
+        "id": "/page/10/Text/2",
+        "block_type": "Text",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "The security threats identified with the O-RU not having any operator specific configuration to use centralized user management:",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.4 Key Issue \\#4: How to get initial configuration to Central Server? --> 5.4.1 Key issue detail --> 5.4.2 Security threats"
+    },
+    {
+        "id": "/page/10/Text/3",
+        "block_type": "Text",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "\u2022 If the O-RU does not know the address to the Central AA server \\(e.g. LDAP\\) it will revert to the use of locally defined users, i.e. issue 1-3",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.4 Key Issue \\#4: How to get initial configuration to Central Server? --> 5.4.1 Key issue detail --> 5.4.2 Security threats"
+    },
+    {
+        "id": "/page/10/SectionHeader/4",
+        "block_type": "SectionHeader",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "5.4.3 Potential security requirements",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.4 Key Issue \\#4: How to get initial configuration to Central Server? --> 5.4.1 Key issue detail --> 5.4.3 Potential security requirements"
+    },
+    {
+        "id": "/page/10/Text/5",
+        "block_type": "Text",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "The O-RU can get this data from one of the entities that it connects to during provisioning, i.e. DHCP, DNS and RA/CA, or from a new entity, e.g. SCS.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.4 Key Issue \\#4: How to get initial configuration to Central Server? --> 5.4.1 Key issue detail --> 5.4.3 Potential security requirements"
+    },
+    {
+        "id": "/page/10/SectionHeader/6",
+        "block_type": "SectionHeader",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "5.5 Key Issue \\#5: How does the O-RU connect securely to the Central Server?",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.5 Key Issue \\#5: How does the O-RU connect securely to the Central Server?"
+    },
+    {
+        "id": "/page/10/SectionHeader/7",
+        "block_type": "SectionHeader",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "5.5.1 Key issue detail",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.5 Key Issue \\#5: How does the O-RU connect securely to the Central Server? --> 5.5.1 Key issue detail"
+    },
+    {
+        "id": "/page/10/Text/8",
+        "block_type": "Text",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "The O-RU must have options to connect securely to the central server.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.5 Key Issue \\#5: How does the O-RU connect securely to the Central Server? --> 5.5.1 Key issue detail"
+    },
+    {
+        "id": "/page/10/SectionHeader/9",
+        "block_type": "SectionHeader",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "5.5.2 Security threats",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.5 Key Issue \\#5: How does the O-RU connect securely to the Central Server? --> 5.5.2 Security threats"
+    },
+    {
+        "id": "/page/10/Text/10",
+        "block_type": "Text",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "The security threats identified with O-RU not having a secure connection to the centralized user management server:",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.5 Key Issue \\#5: How does the O-RU connect securely to the Central Server? --> 5.5.2 Security threats"
+    },
+    {
+        "id": "/page/10/ListGroup/166",
+        "block_type": "ListGroup",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "* Without a secure connection, the Central AA server \\(e.g. LDAP\\) can be fake\n  * Without a secure connection, the transferred response from the central AA server can be tampered",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.5 Key Issue \\#5: How does the O-RU connect securely to the Central Server? --> 5.5.2 Security threats"
+    },
+    {
+        "id": "/page/10/SectionHeader/13",
+        "block_type": "SectionHeader",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "5.5.3 Potential security requirements",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.5 Key Issue \\#5: How does the O-RU connect securely to the Central Server? --> 5.5.3 Potential security requirements"
+    },
+    {
+        "id": "/page/10/Text/14",
+        "block_type": "Text",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "The connection to the centralized server should be authenticated and should be confidentiality and integrity protected.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.5 Key Issue \\#5: How does the O-RU connect securely to the Central Server? --> 5.5.3 Potential security requirements"
+    },
+    {
+        "id": "/page/10/SectionHeader/15",
+        "block_type": "SectionHeader",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs"
+    },
+    {
+        "id": "/page/10/SectionHeader/16",
+        "block_type": "SectionHeader",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "5.6.1 Key issue detail",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs --> 5.6.1 Key issue detail"
+    },
+    {
+        "id": "/page/10/Text/17",
+        "block_type": "Text",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "The centralized user management server should be available at all times. Hence the need to cover the below aspects",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs --> 5.6.1 Key issue detail"
+    },
+    {
+        "id": "/page/10/ListGroup/167",
+        "block_type": "ListGroup",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "* Overloading of centralized server \n    * o Number of RUs connected to the server\n    * o Frequency of making Authentication and Authorization calls\n    * o Number of users that are managed centrally for the O-RU\n  * Network connectivity \n    * o Connectivity loss between the O-RU and centralized server\n  * SW/HW failure of centralized server",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs --> 5.6.1 Key issue detail"
+    },
+    {
+        "id": "/page/10/PageFooter/25",
+        "block_type": "PageFooter",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs --> 5.6.1 Key issue detail"
+    },
+    {
+        "id": "/page/10/PageFooter/26",
+        "block_type": "PageFooter",
+        "page": 11,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs --> 5.6.1 Key issue detail"
+    },
+    {
+        "id": "/page/11/Picture/0",
+        "block_type": "Picture",
+        "page": 12,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs --> 5.6.1 Key issue detail"
+    },
+    {
+        "id": "/page/11/Text/1",
+        "block_type": "Text",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "o The centralized server might be unavailable due to a software or HW failure and hence needs to be highly available",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs --> 5.6.1 Key issue detail"
+    },
+    {
+        "id": "/page/11/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "5.6.2 Security threats",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs --> 5.6.2 Security threats"
+    },
+    {
+        "id": "/page/11/ListGroup/153",
+        "block_type": "ListGroup",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "* Slow response of the centralized server due to overloading\n  * Unavailability of the centralized server due to overloading\n  * No response due to network disconnection\n  * No response due to SW/HW failure of the centralized server",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs --> 5.6.2 Security threats"
+    },
+    {
+        "id": "/page/11/SectionHeader/7",
+        "block_type": "SectionHeader",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "5.6.3 Potential security requirements",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs --> 5.6.3 Potential security requirements"
+    },
+    {
+        "id": "/page/11/ListGroup/154",
+        "block_type": "ListGroup",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "* Load model to be defined to ensure no overloading of the centralized server\n  * Reliable connectivity between the O-RU and the centralized server\n  * High availability of the centralized server\n  * In case the connectivity to the central server is not available, local users to be activated and used until the connectivity is resolved",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.6 Key Issue \\#6: Availability of the centralized user management server for the O-RUs --> 5.6.3 Potential security requirements"
+    },
+    {
+        "id": "/page/11/SectionHeader/12",
+        "block_type": "SectionHeader",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "5.7 Key Issue \\#7: Categorisation of users that need to centrally and locally managed",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.7 Key Issue \\#7: Categorisation of users that need to centrally and locally managed"
+    },
+    {
+        "id": "/page/11/SectionHeader/13",
+        "block_type": "SectionHeader",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "5.7.1 Key issue detail",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.7 Key Issue \\#7: Categorisation of users that need to centrally and locally managed --> 5.7.1 Key issue detail"
+    },
+    {
+        "id": "/page/11/Text/14",
+        "block_type": "Text",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "The purpose of centralized user management is to have effective administration and accountability of O-RU users. It is recommended that the users of the O-RU are being categorized into central and local users to ensure that centrally administered users are kept at a maximum and local users are at a minimum with a well defined need.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.7 Key Issue \\#7: Categorisation of users that need to centrally and locally managed --> 5.7.1 Key issue detail"
+    },
+    {
+        "id": "/page/11/SectionHeader/15",
+        "block_type": "SectionHeader",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "5.7.2 Security threats",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.7.2 Security threats"
+    },
+    {
+        "id": "/page/11/Text/16",
+        "block_type": "Text",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "\u2022 O-RU user information could be mismanaged, classifying users managed centralized as local users, defeating the purpose of central authentication, authorization and administration.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.7.2 Security threats"
+    },
+    {
+        "id": "/page/11/SectionHeader/17",
+        "block_type": "SectionHeader",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "5.7.3 Potential security requirements",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.7.3 Potential security requirements"
+    },
+    {
+        "id": "/page/11/ListGroup/155",
+        "block_type": "ListGroup",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "* Categorisation of central and local users for the O-RU\n  * Minimise the usage of local users and maximise the usage of central users",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.7.3 Potential security requirements"
+    },
+    {
+        "id": "/page/11/Text/20",
+        "block_type": "Text",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "When a user connects to a O-RU, first check if the user exists in central server, if no user found then check locally",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.7.3 Potential security requirements"
+    },
+    {
+        "id": "/page/11/PageFooter/21",
+        "block_type": "PageFooter",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.7.3 Potential security requirements"
+    },
+    {
+        "id": "/page/11/PageFooter/22",
+        "block_type": "PageFooter",
+        "page": 12,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.7.3 Potential security requirements"
+    },
+    {
+        "id": "/page/12/Picture/0",
+        "block_type": "Picture",
+        "page": 13,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.7.3 Potential security requirements"
+    },
+    {
+        "id": "/page/12/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "5.8 Key Issue \\#8: Fetching initial security configuration data from a Software and Configuration Server",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.8 Key Issue \\#8: Fetching initial security configuration data from a Software and Configuration Server"
+    },
+    {
+        "id": "/page/12/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "5.8.1 Key issue detail",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.8 Key Issue \\#8: Fetching initial security configuration data from a Software and Configuration Server --> 5.8.1 Key issue detail"
+    },
+    {
+        "id": "/page/12/Text/3",
+        "block_type": "Text",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "The SCS is a server that can provide initial configuration data to an O-RU before first connection to an O-RU Controller similar to what is described in 3GPP TS 28.314 \\[9\\] and TS 28.315 \\[10\\]. The O-RU can get the address to the SCS from the DHCP server.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.8 Key Issue \\#8: Fetching initial security configuration data from a Software and Configuration Server --> 5.8.1 Key issue detail"
+    },
+    {
+        "id": "/page/12/Text/4",
+        "block_type": "Text",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "The initial configuration data can be security related data such as the address to a central AA server, trusted certificates etc.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.8 Key Issue \\#8: Fetching initial security configuration data from a Software and Configuration Server --> 5.8.1 Key issue detail"
+    },
+    {
+        "id": "/page/12/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "5.8.2 Security threats",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.8 Key Issue \\#8: Fetching initial security configuration data from a Software and Configuration Server --> 5.8.2 Security threats"
+    },
+    {
+        "id": "/page/12/Text/6",
+        "block_type": "Text",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "The security threats identified with O-RU fetching initial configuration from SCS:",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.8 Key Issue \\#8: Fetching initial security configuration data from a Software and Configuration Server --> 5.8.2 Security threats"
+    },
+    {
+        "id": "/page/12/ListGroup/168",
+        "block_type": "ListGroup",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "* Without a secure connection, the SCS can be fake.\n  * Without a secure connection, the configuration data can be tampered with in transit.\n  * Without trust information, e.g. a trusted certificate, the O-RU cannot verify that the SCS is ok. This is however the same risk as the O-RU has with the O-RU Controller in current specification.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.8 Key Issue \\#8: Fetching initial security configuration data from a Software and Configuration Server --> 5.8.2 Security threats"
+    },
+    {
+        "id": "/page/12/SectionHeader/10",
+        "block_type": "SectionHeader",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "5.8.3 Potential security requirements",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.8 Key Issue \\#8: Fetching initial security configuration data from a Software and Configuration Server --> 5.8.3 Potential security requirements"
+    },
+    {
+        "id": "/page/12/Text/11",
+        "block_type": "Text",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "The connection to the SCS server that can provide initial configuration data to an O-RU should be authenticated and should be confidentiality and integrity protected.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.8 Key Issue \\#8: Fetching initial security configuration data from a Software and Configuration Server --> 5.8.3 Potential security requirements"
+    },
+    {
+        "id": "/page/12/SectionHeader/12",
+        "block_type": "SectionHeader",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "5.9 Key Issue \\#9: Secure transport to the centralized authentication server",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server"
+    },
+    {
+        "id": "/page/12/SectionHeader/13",
+        "block_type": "SectionHeader",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "5.9.1 Key issue detail",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.1 Key issue detail"
+    },
+    {
+        "id": "/page/12/Text/14",
+        "block_type": "Text",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "Data in transit can be intercepted between the O-RU and the central server. From this perspective, there should be options of secure transport for the reason that credentials will be shared for authentication and authorization purposes which should not be compromised. There is a possibility to also have a compromised central server.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.1 Key issue detail"
+    },
+    {
+        "id": "/page/12/SectionHeader/15",
+        "block_type": "SectionHeader",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "5.9.2 Security threats",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.2 Security threats"
+    },
+    {
+        "id": "/page/12/ListGroup/169",
+        "block_type": "ListGroup",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "* Security related credentials required for authentication and authorization purpose between the O-RU and the central server could be compromised. \\(\\[i.1\\] T-O-RAN-08\\)\n  * Threats to compromised central server",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.2 Security threats"
+    },
+    {
+        "id": "/page/12/SectionHeader/18",
+        "block_type": "SectionHeader",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "5.9.3 Potential security requirements",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.3 Potential security requirements"
+    },
+    {
+        "id": "/page/12/Text/19",
+        "block_type": "Text",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "To protect against malicious activity on the transport between the O-RU and central server, the service interface should provide for",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.3 Potential security requirements"
+    },
+    {
+        "id": "/page/12/ListGroup/170",
+        "block_type": "ListGroup",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "* Confidentiality: protect the data transferred against eavesdropping\n  * Integrity: protect the data transferred against malicious change",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.3 Potential security requirements"
+    },
+    {
+        "id": "/page/12/PageFooter/22",
+        "block_type": "PageFooter",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.3 Potential security requirements"
+    },
+    {
+        "id": "/page/12/PageFooter/23",
+        "block_type": "PageFooter",
+        "page": 13,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.3 Potential security requirements"
+    },
+    {
+        "id": "/page/13/Picture/0",
+        "block_type": "Picture",
+        "page": 14,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.3 Potential security requirements"
+    },
+    {
+        "id": "/page/13/Text/1",
+        "block_type": "Text",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "\u2022 Authenticity: mutually authenticate both endpoints \\(O-RU and central server\\)",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.3 Potential security requirements"
+    },
+    {
+        "id": "/page/13/Text/2",
+        "block_type": "Text",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "As an option, secure and efficient standard protocols could be considered from the below to guard against the above threats",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.3 Potential security requirements"
+    },
+    {
+        "id": "/page/13/ListGroup/141",
+        "block_type": "ListGroup",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "* LDAPS\n  * OpenID and OAuth\n  * RADIUS due to the presence of Netconf/Yang on the O-RUs",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.9.3 Potential security requirements"
+    },
+    {
+        "id": "/page/13/SectionHeader/6",
+        "block_type": "SectionHeader",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "5.10 Key Issue \\#10: Secure storage of O-RU credentials",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.10 Key Issue \\#10: Secure storage of O-RU credentials"
+    },
+    {
+        "id": "/page/13/SectionHeader/7",
+        "block_type": "SectionHeader",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "5.10.1 Key issue detail",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.10 Key Issue \\#10: Secure storage of O-RU credentials --> 5.10.1 Key issue detail"
+    },
+    {
+        "id": "/page/13/Text/8",
+        "block_type": "Text",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "Improper or missing controls for protection of security credentials at rest, generated by O-RAN components, may not allow a correct and rapid audit in case of a security incident occurrence. Security restoration is delayed. Missing availability and integrity of security credentials could lead to delays, wrong results, delays in security restoration and threat persistence \\(\\[i.1\\] \u00a75.4.1.1\\). A secure mechanism for storing the credentials of the O-RU in the central server should be required. The credentials of the O-RU could be",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.10 Key Issue \\#10: Secure storage of O-RU credentials --> 5.10.1 Key issue detail"
+    },
+    {
+        "id": "/page/13/ListGroup/142",
+        "block_type": "ListGroup",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "* Username and password\n  * Certificates\n  * Tokens",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.10 Key Issue \\#10: Secure storage of O-RU credentials --> 5.10.1 Key issue detail"
+    },
+    {
+        "id": "/page/13/SectionHeader/12",
+        "block_type": "SectionHeader",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "5.10.2 Security threats",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.10.2 Security threats"
+    },
+    {
+        "id": "/page/13/Text/13",
+        "block_type": "Text",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "\u2022 O-RU related credentials could be compromised by an attacker if the storage is not secure. The important aspect is that as all the data is stored centrally and the entire network could be potentially sabotaged if not secured. \\(\\[i.1\\] T-O-RAN-06\\).",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.9 Key Issue \\#9: Secure transport to the centralized authentication server --> 5.10.2 Security threats"
+    },
+    {
+        "id": "/page/13/SectionHeader/14",
+        "block_type": "SectionHeader",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "5.10.3 Potential security requirements",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.10.3 Potential security requirements"
+    },
+    {
+        "id": "/page/13/Text/15",
+        "block_type": "Text",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "Secure mechanism of storing various types of credentials of the O-RU",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.10.3 Potential security requirements"
+    },
+    {
+        "id": "/page/13/ListGroup/143",
+        "block_type": "ListGroup",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "* Management of username and password centrally with salting mechanisms and a one-way hash\n  * Certificates centrally managed with respect to users encompassing the life cycle management of enrollment, renewal and revocation.\n  * Tokens created centrally in OAuth server and encrypted during motion and refreshing actions",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.10.3 Potential security requirements"
+    },
+    {
+        "id": "/page/13/PageFooter/19",
+        "block_type": "PageFooter",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.10.3 Potential security requirements"
+    },
+    {
+        "id": "/page/13/PageFooter/20",
+        "block_type": "PageFooter",
+        "page": 14,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.10.3 Potential security requirements"
+    },
+    {
+        "id": "/page/14/Picture/0",
+        "block_type": "Picture",
+        "page": 15,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "2 References --> 5.10.3 Potential security requirements"
+    },
+    {
+        "id": "/page/14/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "6 Mitigations and Solutions",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions"
+    },
+    {
+        "id": "/page/14/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "6.1 Key Issue Analysis",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis"
+    },
+    {
+        "id": "/page/14/Text/3",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "The 10 identified Key Issues can be grouped into these groups, Local User Management issues, Initial Provisioning, and Central Server Issues.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis"
+    },
+    {
+        "id": "/page/14/Text/4",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "The Local User Management Issues can be mitigated by using a Centralized User Management Service, however that means that the other two groups of issues come into play.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis"
+    },
+    {
+        "id": "/page/14/Text/5",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "The Key Issues with Initial Provisioning of data needed to securely connect to the central AA server can be mitigated by the services proposed for distributing Trust Anchors, i.e. Voucher based protocols, BRSKI based or SCS based solutions. It is concluded that DHCP, DNS and RA/CA methods would either not be secure or have the same Initial Provisioning issues.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis"
+    },
+    {
+        "id": "/page/14/Text/6",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "The Key Issues related to the Central AA server can be mitigated by placing security requirements on the Central AA server itself. This is however not a component designed by the O-RAN Alliance specifications so only recommendations can be made to the operators.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis"
+    },
+    {
+        "id": "/page/14/SectionHeader/7",
+        "block_type": "SectionHeader",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "6.2 Solution \\#1: Centralized User Management",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis --> 6.2 Solution \\#1: Centralized User Management"
+    },
+    {
+        "id": "/page/14/Text/8",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "To mitigate the listed Key Issues related to Local User Management it is proposed to allow the use of centralized user management services. There are many protocols to choose from and the investigation done on this topic before setting requirements on O1, showed that it was not possible to agree on one single protocol. It is proposed to allow the same protocols on the O-RU as on the O1 entities.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis --> 6.2 Solution \\#1: Centralized User Management"
+    },
+    {
+        "id": "/page/14/Text/9",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "NOTE: An enquiry to companies participating in WG11 meetings resulted in a change proposal towards the O1 requirement where LDAP with StartTLS was selected as the primary choice of protocol. Proposed requirement:",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis --> 6.2 Solution \\#1: Centralized User Management"
+    },
+    {
+        "id": "/page/14/Text/10",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "REQ-x The O-RU MAY support external user-to-groupmapping with the role based access control concept.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis --> 6.2 Solution \\#1: Centralized User Management"
+    },
+    {
+        "id": "/page/14/Text/11",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "Proposed security controls:",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis --> 6.2 Solution \\#1: Centralized User Management"
+    },
+    {
+        "id": "/page/14/Text/12",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "CTL-y An O-RU that supports external user to group mapping should support LDAP with StartTLS, and may also support OAuth 2.0, RADIUS with EAP, and TACACS/TACACS+.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis --> 6.2 Solution \\#1: Centralized User Management"
+    },
+    {
+        "id": "/page/14/Text/13",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "CTL-z The centralized server may be an external 3rd party system or within the ORAN reside within a SMO or O-DU \\(depending on hierarchical or hybrid mode\\).",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis --> 6.2 Solution \\#1: Centralized User Management"
+    },
+    {
+        "id": "/page/14/Text/14",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "CTL-zz The centralized server stores the necessary credentials for the O-RU in a secure manner with access control \\(mapping to KI10\\)",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis --> 6.2 Solution \\#1: Centralized User Management"
+    },
+    {
+        "id": "/page/14/Text/15",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "CTL-zx An O-RU that supports external user to group mapping may support SAML and OIDC.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.1 Key Issue Analysis --> 6.2 Solution \\#1: Centralized User Management"
+    },
+    {
+        "id": "/page/14/SectionHeader/16",
+        "block_type": "SectionHeader",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "6.3 Solution 2\\#: Initial Provisioning",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning"
+    },
+    {
+        "id": "/page/14/Text/17",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "To mitigate the listed Key Issues related to Initial Provisioning of data needed to securely connect to the central AA server it is possible to use the already defined security control \\[i.1\\]:",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning"
+    },
+    {
+        "id": "/page/14/Text/18",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "SEC-CTL-TAP-5: An O-RAN PNF may support 3GPP SCS \\[66\\], \\[67\\], \\[68\\] for download of initial security configuration.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning"
+    },
+    {
+        "id": "/page/14/SectionHeader/19",
+        "block_type": "SectionHeader",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "6.4 Solution \\#3 High Availability",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning --> 6.4 Solution \\#3 High Availability"
+    },
+    {
+        "id": "/page/14/Text/20",
+        "block_type": "Text",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "To mitigate the listed Key Issues related to the use of a Centralized Authentication and Authorization Server it is proposed to recommend operators to plan the deployment with high availability.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning --> 6.4 Solution \\#3 High Availability"
+    },
+    {
+        "id": "/page/14/PageFooter/21",
+        "block_type": "PageFooter",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning --> 6.4 Solution \\#3 High Availability"
+    },
+    {
+        "id": "/page/14/PageFooter/22",
+        "block_type": "PageFooter",
+        "page": 15,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning --> 6.4 Solution \\#3 High Availability"
+    },
+    {
+        "id": "/page/15/Picture/0",
+        "block_type": "Picture",
+        "page": 16,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning --> 6.4 Solution \\#3 High Availability"
+    },
+    {
+        "id": "/page/15/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 16,
+        "images": "",
+        "description": "",
+        "text": "Proposed requirement:",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning --> 6.4 Solution \\#3 High Availability --> Proposed requirement:"
+    },
+    {
+        "id": "/page/15/Text/2",
+        "block_type": "Text",
+        "page": 16,
+        "images": "",
+        "description": "",
+        "text": "REQ-x A Centralized Authentication and Authorization Server should support high availability",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning --> 6.4 Solution \\#3 High Availability --> Proposed requirement:"
+    },
+    {
+        "id": "/page/15/Text/3",
+        "block_type": "Text",
+        "page": 16,
+        "images": "",
+        "description": "",
+        "text": "REQ-y An O-RU supports minimal local users so that they can be activated during possible disconnection due to unavailability of the centralized user management server.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning --> 6.4 Solution \\#3 High Availability --> Proposed requirement:"
+    },
+    {
+        "id": "/page/15/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 16,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning --> 6.4 Solution \\#3 High Availability --> Proposed requirement:"
+    },
+    {
+        "id": "/page/15/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 16,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning --> 6.4 Solution \\#3 High Availability --> Proposed requirement:"
+    },
+    {
+        "id": "/page/16/Picture/0",
+        "block_type": "Picture",
+        "page": 17,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "6 Mitigations and Solutions --> 6.3 Solution 2\\#: Initial Provisioning --> 6.4 Solution \\#3 High Availability --> Proposed requirement:"
+    },
+    {
+        "id": "/page/16/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 17,
+        "images": "",
+        "description": "",
+        "text": "7 Conclusions",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "7 Conclusions"
+    },
+    {
+        "id": "/page/16/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 17,
+        "images": "",
+        "description": "",
+        "text": "7.1 Key Issue Solution Mapping",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "7 Conclusions --> 7.1 Key Issue Solution Mapping"
+    },
+    {
+        "id": "/page/16/Text/3",
+        "block_type": "Text",
+        "page": 17,
+        "images": "",
+        "description": "",
+        "text": "This document currently contains 10 key issues and 3 solutions proposals to address or reduce the risk associated with the key issues. A mapping of the solutions to the key issues is shown here.",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "7 Conclusions --> 7.1 Key Issue Solution Mapping"
+    },
+    {
+        "id": "/page/16/TableGroup/108",
+        "block_type": "TableGroup",
+        "page": 17,
+        "images": "",
+        "description": "",
+        "text": "Table 7.1-1 Key Issue Solution mapping for O-RU Centralized User Management\nKey  \nissueSol  \n\\# 1Soln  \n\\#2Sol  \n\\#3  \nKI 1X  \nKI 2X  \nKI 3X  \nKI 4X  \nKI 5X  \nKI 6X  \nKI 7  \nKI 8X  \nKI 9X  \nKI 10X",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "7 Conclusions --> 7.1 Key Issue Solution Mapping"
+    },
+    {
+        "id": "/page/16/PageFooter/6",
+        "block_type": "PageFooter",
+        "page": 17,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "7 Conclusions --> 7.1 Key Issue Solution Mapping"
+    },
+    {
+        "id": "/page/16/PageFooter/7",
+        "block_type": "PageFooter",
+        "page": 17,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "7 Conclusions --> 7.1 Key Issue Solution Mapping"
+    },
+    {
+        "id": "/page/17/Picture/0",
+        "block_type": "Picture",
+        "page": 18,
+        "images": "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",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "7 Conclusions --> 7.1 Key Issue Solution Mapping"
+    },
+    {
+        "id": "/page/17/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "page": 18,
+        "images": "",
+        "description": "",
+        "text": "Annex:",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Annex:"
+    },
+    {
+        "id": "/page/17/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "page": 18,
+        "images": "",
+        "description": "",
+        "text": "Change history/Change request \\(history\\)",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Annex: --> Change history/Change request \\(history\\)"
+    },
+    {
+        "id": "/page/17/Table/3",
+        "block_type": "Table",
+        "page": 18,
+        "images": "",
+        "description": "",
+        "text": "Date| Revision| Description  \n---|---|---  \n2022.07.06| 00.10| First draft version  \n2022.09.28| 01.00| First approved version. Key issues identified  \n2022.11.23| 01.01| Included Ericsson CR0033  \n2023.02.13| 01.02| Included Nokia CR0010, CR0014, CR0015 and Ericsson CR0043  \n2023.02.14| 01.03| Updated table of contents and history  \n2023.02.22| 01.04| Included Nokia CR0040 and CR0041  \n2023.03.01| 01.05| Minor editorial corrections  \n2023.03.01| 01.06| Corrected clause numbering  \n2023.03.02| 02.00.00| Moved to new template and removed template text  \n2023.03.09| 02.01| Removed O-RAN Release information as agreed in the plenary.\nRemoved the duplicated  \n| | Key Issue  \n2023.07.06| 03.00| Added approved CRs to v02.01  \n2023.10.02| 03.01| Included Nokia CR0108, Nokia CR0109 and NEC CR0003  \n2023.11.08| 01.00.00| First external version. Renamed to follow naming\nconvention for external documents.  \n2024.03.06| R003-| Included NEC CR0010, NEC CR0014  \n| v01.00|  \n2024.06.19| R004-| Preliminary version for R004 release  \n| v00.01|  \n2024.06.19| R004-| Included Ericsson CR0143  \n| v00.02|  \n2024.07.24| R004-| Final version for July release 2024  \n| v03.00|  \n2024.11.05| R005-| Included NEC CR0028, ERI CR0169  \n| v04.00.01|  \n2024.11.06| R005-| Editorial changes  \n| v04.00.02|  \n2024.11.27| R005-| Editorial changes  \n| v04.00.03|  \n2024.12.03| R004-| Final version for November release 2024  \n| v04.00|\n\n",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Annex: --> Change history/Change request \\(history\\)"
+    },
+    {
+        "id": "/page/17/PageFooter/4",
+        "block_type": "PageFooter",
+        "page": 18,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Annex: --> Change history/Change request \\(history\\)"
+    },
+    {
+        "id": "/page/17/PageFooter/5",
+        "block_type": "PageFooter",
+        "page": 18,
+        "images": "",
+        "description": "",
+        "text": "",
+        "filename": "O-RAN.WG11.TR.O-RUCUM-R004-v04.00",
+        "trace": "Annex: --> Change history/Change request \\(history\\)"
+    }
+]
