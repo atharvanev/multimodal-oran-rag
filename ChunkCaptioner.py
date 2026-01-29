@@ -17,7 +17,10 @@ class ImageCaptioner:
         self.model = AutoModel.from_pretrained(
             model_path,
             torch_dtype=torch.bfloat16,
-            trust_remote_code=True).eval().cuda()
+            trust_remote_code=True,
+            attn_implementation="eager",
+            ).eval().cuda()
+        
         
         self.tokenizer = AutoTokenizer.from_pretrained(
             model_path, 
