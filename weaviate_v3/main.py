@@ -26,7 +26,7 @@ with st.sidebar:
     
     # Connection settings
     st.subheader("Weaviate Connection")
-    weaviate_host = st.text_input("Host", "172.17.0.5")
+    weaviate_host = st.text_input("Host", "172.17.0.2")
     
     st.divider()
     

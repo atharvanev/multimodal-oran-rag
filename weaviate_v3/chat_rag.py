@@ -18,8 +18,8 @@ import phoenix as px
 
 class ChatRAG:
     def __init__(
-            self,collection_name: str, 
-            weaviate_host:str, 
+            self, collection_name: str, 
+            weaviate_host: str, 
             ollama_model: str, 
             multimodal: bool = False,
             enable_phoenix: bool = True,
@@ -32,7 +32,6 @@ class ChatRAG:
         
         self.tracer = trace.get_tracer(__name__)
 
-
         with self.tracer.start_as_current_span("chat_rag_initialization") as span:
             span.set_attribute("weaviate_host", weaviate_host)
             span.set_attribute("collection_name", collection_name)
@@ -40,68 +39,60 @@ class ChatRAG:
             span.set_attribute("multimodal", multimodal)
 
             try:
-
-                self.client = weaviate.connect_to_local( #weaviate docker container
-                                host=weaviate_host,  
-                                port=8080,
-                                grpc_port=50051,
-                            )
+                self.weaviate_host = weaviate_host
+                self.client = weaviate.connect_to_local(
+                    host=weaviate_host,  
+                    port=8080,
+                    grpc_port=50051,
+                )
                 
-                self.collection_name = collection_name #weaviate vector collection name 
-                self.ollama_model = ollama_model #ollama model name
-                self.messages: List[Dict[str, str]] = [] #chat history handed by ollama 
+                self.collection_name = collection_name
+                self.ollama_model = ollama_model
+                self.messages: List[Dict[str, str]] = []
                 self.multimodal = multimodal
 
                 if self.collection_name not in self.client.collections.list_all():
-                    span.add_event("Creating new Weaviate collection")
-                    self.chunks = self.client.collections.create(
-                        name=self.collection_name,
-                        vector_config=Configure.Vectors.text2vec_ollama(  # Configure the Ollama embedding integration
-                            api_endpoint="http://172.17.0.5:11434",  # If using Docker you might need: http://host.docker.internal:11434
-                            model="nomic-embed-text:latest",  # The model to use
-                        ),
-                        properties=[
-                            Property(
-                                name="type",
-                                data_type=DataType.TEXT,
-                                skip_vectorization=False
-                            ),
-                            Property(
-                                name="page",
-                                data_type=DataType.INT,
-                                skip_vectorization=False
-                            ),
-                            Property(
-                                name="description",
-                                data_type=DataType.TEXT,
-                                skip_vectorization=False
-                            ),
-                            Property(
-                                name="text",
-                                data_type=DataType.TEXT,
-                                skip_vectorization=False
-                            ),
-                            Property(
-                                name="trace",
-                                data_type=DataType.TEXT,
-                                skip_vectorization=False
-                            ),
-                            Property(
-                                name="image",
-                                data_type=DataType.BLOB,
-                                skip_vectorization=True,  # Image won't be embedded
-                                index_null_state=True
-                            ),
+                    span.add_event("Creating new Weaviate collection via REST API")
+                    
+                    # Create collection via REST API with proper skip settings
+                    schema = {
+                        "class": self.collection_name,
+                        "vectorizer": "text2vec-ollama",
+                        "moduleConfig": {
+                            "text2vec-ollama": {
+                                "apiEndpoint": "http://172.17.0.4:11434",
+                                "model": "nomic-embed-text"
+                            },
+                            "generative-ollama": {
+                                "apiEndpoint": "http://172.17.0.4:11434",
+                                "model": self.ollama_model
+                            }
+                        },
+                        "properties": [
+                            {"name": "type", "dataType": ["text"], "moduleConfig": {"text2vec-ollama": {"skip": True}}},
+                            {"name": "page", "dataType": ["int"], "moduleConfig": {"text2vec-ollama": {"skip": True}}},
+                            {"name": "description", "dataType": ["text"], "moduleConfig": {"text2vec-ollama": {"skip": False}}},
+                            {"name": "text", "dataType": ["text"], "moduleConfig": {"text2vec-ollama": {"skip": False}}},
+                            {"name": "trace", "dataType": ["text"], "moduleConfig": {"text2vec-ollama": {"skip": False}}},
+                            {"name": "filename", "dataType": ["text"], "moduleConfig": {"text2vec-ollama": {"skip": False}}},
+                            {"name": "image", "dataType": ["blob"], "moduleConfig": {"text2vec-ollama": {"skip": True}}}
                         ]
-                    )
+                    }
+                    
+                    import requests
+                    r = requests.post(f"http://{self.weaviate_host}:8080/v1/schema", json=schema)
+                    
+                    if r.status_code != 200:
+                        raise Exception(f"Failed to create collection: {r.status_code} - {r.text}")
+                    
+                    print(f"✓ Collection '{self.collection_name}' created successfully")
                 else:
                     span.add_event("Using existing Weaviate collection")
-                    self.chunks = self.client.collections.use(self.collection_name)
-
+                
+                self.chunks = self.client.collections.get(self.collection_name)
                 span.add_event("ChatRAG initialization complete")
             
             except Exception as e:
-
                 span.record_exception(e)
                 span.set_status(trace.Status(trace.StatusCode.ERROR, str(e)))
                 raise
