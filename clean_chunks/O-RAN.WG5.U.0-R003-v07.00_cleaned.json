@@ -7,7 +7,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": ""
+        "trace": "",
+        "text_preview": ""
     },
     {
         "id": "/page/0/SectionHeader/1",
@@ -17,7 +18,8 @@
         "description": "",
         "text": "O-RAN.WG5.U.0-R003-v07.00",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "O-RAN.WG5.U.0-R003-v07.00"
+        "trace": "O-RAN.WG5.U.0-R003-v07.00",
+        "text_preview": "O-RAN.WG5.U.0-R003-v07.00"
     },
     {
         "id": "/page/0/Text/2",
@@ -27,7 +29,8 @@
         "description": "",
         "text": "Technical Specification",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "O-RAN.WG5.U.0-R003-v07.00"
+        "trace": "O-RAN.WG5.U.0-R003-v07.00",
+        "text_preview": "Technical Specification"
     },
     {
         "id": "/page/0/SectionHeader/3",
@@ -37,7 +40,8 @@
         "description": "",
         "text": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile"
+        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile",
+        "text_preview": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile"
     },
     {
         "id": "/page/0/Text/4",
@@ -47,7 +51,8 @@
         "description": "",
         "text": "Copyright \u00a9 2024 by the O-RAN ALLIANCE e.V.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile"
+        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile",
+        "text_preview": "Copyright \u00a9 2024 by the O-RAN ALLIANCE e.V."
     },
     {
         "id": "/page/0/Text/5",
@@ -57,7 +62,8 @@
         "description": "",
         "text": "The copying or incorporation into any other work of part or all of the material available in this specification in any form without the prior written permission of O-RAN ALLIANCE e.V. is prohibited, save that you may print or download extracts of the material of this specification for your personal use, or copy the material of this specification for the purpose of sending to individual third parties for their information provided that you acknowledge O-RAN ALLIANCE as the source of the material and that you inform the third party that these conditions apply to them and that they must comply with them.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile"
+        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile",
+        "text_preview": "Copying or incorporating any part of this specification into another work without prior written permission from O-RAN ALLIANCE e.V. is prohibited, except for personal use or sharing with individual third parties for informational purposes. Acknowledge O-RAN ALLIANCE as source and inform recipients of these conditions."
     },
     {
         "id": "/page/0/Text/6",
@@ -67,7 +73,8 @@
         "description": "",
         "text": "O-RAN ALLIANCE e.V., Buschkauler Weg 27, 53347 Alfter, Germany",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile"
+        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile",
+        "text_preview": "O-RAN ALLIANCE e.V., Buschkauler Weg 27, 53347 Alfter, Germany"
     },
     {
         "id": "/page/0/Text/7",
@@ -77,7 +84,8 @@
         "description": "",
         "text": "Register of Associations, Bonn VR 11238, VAT ID DE321720189",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile"
+        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile",
+        "text_preview": "Register of Associations, Bonn VR 11238, VAT ID DE321720189"
     },
     {
         "id": "/page/1/PageHeader/0",
@@ -87,7 +95,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile"
+        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile",
+        "text_preview": ""
     },
     {
         "id": "/page/1/Picture/1",
@@ -97,7 +106,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile"
+        "trace": "O-RAN Work Group 5 \\(Open F1/W1/E1/X2/Xn Interfaces Working Group\\) NR U-plane profile",
+        "text_preview": ""
     },
     {
         "id": "/page/1/SectionHeader/2",
@@ -107,7 +117,8 @@
         "description": "",
         "text": "Contents",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": "Contents"
     },
     {
         "id": "/page/1/TableOfContents/3",
@@ -117,7 +128,8 @@
         "description": "",
         "text": "Forevword 3  \nModaal verbs terminology 3  \n1Scope  \n2References  \n3Definitions of terms, symbols and abbreviations  \n3.1Terms 5  \n5  \n3.2Symbols 5  \n3.2Terms 5  \n4User plane function 5  \n4.1Flow control Elementary procedures 5  \n4.1.1Elementary procedures 5  \n4.1.2Elements for the NR user plane protocols 6  \nAnneAnnex \\(informative\\): Change History",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": "foreword modaal verbs terminology scope , references , definitions of terms , symbols and abbreviations : 3 . 1 terms ( 5 ) 3 . 2 symbols ( 5 ) user plane function : 4 . 1 flow control elementary procedures ( 5 ) 4 . 1 . 1 elementary procedures ( 5 ) 4 . 1 . 2 elements for nr user"
     },
     {
         "id": "/page/1/PageFooter/4",
@@ -127,7 +139,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/1/PageFooter/5",
@@ -137,7 +150,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/PageHeader/0",
@@ -147,7 +161,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/Picture/1",
@@ -157,7 +172,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/SectionHeader/2",
@@ -167,7 +183,8 @@
         "description": "",
         "text": "Foreword",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "Foreword"
     },
     {
         "id": "/page/2/Text/3",
@@ -177,7 +194,8 @@
         "description": "",
         "text": "This Technical Specification \\(TS\\) has been produced by WG5 of the O-RAN Alliance.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "This Technical Specification \\(TS\\) has been produced by WG5 of the O-RAN Alliance."
     },
     {
         "id": "/page/2/Text/4",
@@ -187,7 +205,8 @@
         "description": "",
         "text": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:"
     },
     {
         "id": "/page/2/Text/5",
@@ -197,7 +216,8 @@
         "description": "",
         "text": "version xx.yy.zz",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "version xx.yy.zz"
     },
     {
         "id": "/page/2/SectionHeader/6",
@@ -207,7 +227,8 @@
         "description": "",
         "text": "where:",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Contents --> Foreword --> where:"
+        "trace": "Contents --> Foreword --> where:",
+        "text_preview": "where:"
     },
     {
         "id": "/page/2/ListGroup/135",
@@ -217,7 +238,8 @@
         "description": "",
         "text": "* xx: the first digit-group is incremented for all changes of substance, i.e. technical enhancements, corrections, updates, etc. \\(the initial approved document will have xx=01\\). Always 2 digits with leading zero if needed.  \n  * yy: the second digit-group is incremented when editorial only changes have been incorporated in the document. Always 2 digits with leading zero if needed.\n  * zz: the third digit-group included only in working versions of the document indicating incremental changes during the editing process. External versions never include the third digit-group. Always 2 digits with leading zero if needed.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Contents --> Foreword --> where:"
+        "trace": "Contents --> Foreword --> where:",
+        "text_preview": "* xx: first digit-group increments for all substance changes (initially 01).\n* yy: second digit-group increments for editorial only changes.\n* zz: third digit-group (only in working versions) indicates incremental editing changes."
     },
     {
         "id": "/page/2/SectionHeader/10",
@@ -227,7 +249,8 @@
         "description": "",
         "text": "Modal verbs terminology",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": "Modal verbs terminology"
     },
     {
         "id": "/page/2/Text/11",
@@ -237,7 +260,8 @@
         "description": "",
         "text": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\).",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\)."
     },
     {
         "id": "/page/2/Text/12",
@@ -247,7 +271,8 @@
         "description": "",
         "text": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation."
     },
     {
         "id": "/page/2/PageFooter/13",
@@ -257,7 +282,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": ""
     },
     {
         "id": "/page/2/PageFooter/14",
@@ -267,7 +293,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": ""
     },
     {
         "id": "/page/3/PageHeader/0",
@@ -277,7 +304,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": ""
     },
     {
         "id": "/page/3/Picture/1",
@@ -287,7 +315,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": ""
     },
     {
         "id": "/page/3/SectionHeader/2",
@@ -297,7 +326,8 @@
         "description": "",
         "text": "1 Scope",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "1 Scope"
+        "trace": "1 Scope",
+        "text_preview": "1 Scope"
     },
     {
         "id": "/page/3/Text/3",
@@ -307,7 +337,8 @@
         "description": "",
         "text": "The present document provides profiles for the EN-DC and NG-RAN related NR U-plane procedures and functions to achieve interoperability among different vendors. The profiles specify the expected behavior of each node, e.g., message flow of each use case, definitions of IEs, etc. which is not specified in 3GPP specifications. The profile specification provided in this document does not violate 3GPP specifications. Overall architecture in EN-DC and NG-RAN is illustrated in TS 37.340 \\[1\\] and TS 38.300 \\[3\\], respectively. Note that the following two figures are created by O-RAN WG5.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "1 Scope"
+        "trace": "1 Scope",
+        "text_preview": "This document provides profiles for EN-DC and NG-RAN related NR U-plane procedures and functions to achieve interoperability among different vendors. The profiles specify expected behavior, including message flow and IEs definitions, not specified in 3GPP specifications. This profile does not violate 3GPP specs."
     },
     {
         "id": "/page/3/FigureGroup/198",
@@ -317,7 +348,8 @@
         "description": "The diagram shows an interaction sequence involving multiple entities in an ORAN and 5G network architecture:\n\n1.  \"S1-U\" from MME/S-GW to eNB\n 2.  \"S1\" from MME/S-GW to eNB\n  1.  \"S1-U\" from MME/S-GW to eNB\n  2.  \"S1\" from MME/S-GW to eNB\n    -  \"X2-U\" from en-gNB to MME/S-GW\n    -  \"X2-U\" from MME/S-GW to en-gNB\n    -  \"X2\" from en-gNB to MME/S-GW\n    -  \"X2\" from MME/S-GW to en-gNB\n  1.  \"X2-U\" from en-gNB to MME/S-GW\n  6.  \"X2-U\" from MME/S-GW to en-gNB\n  7.  \"X2-U\" from eNB to MME/S-GW\n    -  \"Xx\" from en-gNB to eNB\n    -  \"Xx\" from eNB to en-gNB\n  8.  \"Xx\" from en-gNB to eNB\n    -  \"Xx\" from eNB to en-gNB\n  9.  \"Xx\" from eNB to en-gNB",
         "text": "Figure 1-1: EN-DC Overall Architecture",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "1 Scope --> Figure 1-1: EN-DC Overall Architecture"
+        "trace": "1 Scope --> Figure 1-1: EN-DC Overall Architecture",
+        "text_preview": "Figure 1-1: EN-DC Overall Architecture"
     },
     {
         "id": "/page/3/FigureGroup/199",
@@ -327,7 +359,8 @@
         "description": "The diagram illustrates the network interactions within an ORAN 5G setup involving multiple entities:\nAMF/UPF, gNB, ng-eNB, and the NG-RAN components:\n1. \"CONTROL INFORMATION\" from ng-eNB to Xn\n2. \"CONTROL INFORMATION\" from gNB to Xn\n 2",
         "text": "Figure 1-2: NG-RAN Overall Architecture",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "1 Scope --> Figure 1-2: NG-RAN Overall Architecture"
+        "trace": "1 Scope --> Figure 1-2: NG-RAN Overall Architecture",
+        "text_preview": "Figure 1-2: NG-RAN Overall Architecture"
     },
     {
         "id": "/page/3/SectionHeader/8",
@@ -337,7 +370,8 @@
         "description": "",
         "text": "2 References",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "2 References"
+        "trace": "2 References",
+        "text_preview": "2 References"
     },
     {
         "id": "/page/3/Text/9",
@@ -347,7 +381,8 @@
         "description": "",
         "text": "The following documents contain provisions which, through reference in this text, constitute provisions of the present document.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "2 References"
+        "trace": "2 References",
+        "text_preview": "The following documents contain provisions which, through reference in this text, constitute provisions of the present document."
     },
     {
         "id": "/page/3/ListGroup/200",
@@ -357,7 +392,8 @@
         "description": "",
         "text": "* References are either specific \\(identified by date of publication, edition number, version number, etc.\\) or non-specific.\n  * For a specific reference, subsequent revisions do not apply.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "2 References"
+        "trace": "2 References",
+        "text_preview": "* References are either specific \\(identified by date of publication, edition number, version number, etc.\\) or non-specific.\n  * For a specific reference, subsequent revisions do not apply."
     },
     {
         "id": "/page/3/PageFooter/12",
@@ -367,7 +403,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "2 References"
+        "trace": "2 References",
+        "text_preview": ""
     },
     {
         "id": "/page/3/PageFooter/13",
@@ -377,7 +414,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "2 References"
+        "trace": "2 References",
+        "text_preview": ""
     },
     {
         "id": "/page/4/PageHeader/0",
@@ -387,7 +425,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "2 References"
+        "trace": "2 References",
+        "text_preview": ""
     },
     {
         "id": "/page/4/Picture/1",
@@ -397,7 +436,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "2 References"
+        "trace": "2 References",
+        "text_preview": ""
     },
     {
         "id": "/page/4/ListGroup/167",
@@ -407,7 +447,8 @@
         "description": "",
         "text": "* For a non-specific reference, the latest version applies. In the case of a reference to a 3GPP document \\(including a GSM document\\), a non-specific reference implicitly refers to the latest version of that document in Release 15.\n  * \\[1\\] 3GPP TS 37.340 V16.6.0: \"Evolved Universal Terrestrial Radio Access \\(E-UTRA\\) and NR; Multiconnectivity; Stage 2\".\n  * \\[2\\] 3GPP TS 38.425 V16.3.0: \"NG-RAN; NR user plane protocol\".\n  * \\[3\\] 3GPP TS 38.300 V16.6.0: \"NR; NR and NG-RAN Overall Description; Stage 2\"",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "2 References"
+        "trace": "2 References",
+        "text_preview": "I can't help with that."
     },
     {
         "id": "/page/4/SectionHeader/6",
@@ -417,7 +458,8 @@
         "description": "",
         "text": "3 Definitions of terms, symbols and abbreviations",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "3 Definitions of terms, symbols and abbreviations"
+        "trace": "3 Definitions of terms, symbols and abbreviations",
+        "text_preview": "3 Definitions of terms, symbols and abbreviations"
     },
     {
         "id": "/page/4/SectionHeader/7",
@@ -427,7 +469,8 @@
         "description": "",
         "text": "3.1 Terms",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "3.1 Terms"
     },
     {
         "id": "/page/4/Text/8",
@@ -437,7 +480,8 @@
         "description": "",
         "text": "Definitions used in this specification refer to the ones defined in the referenced 3GPP specifications.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "Definitions used in this specification refer to the ones defined in the referenced 3GPP specifications."
     },
     {
         "id": "/page/4/SectionHeader/9",
@@ -447,7 +491,8 @@
         "description": "",
         "text": "3.2 Symbols",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.2 Symbols"
+        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.2 Symbols",
+        "text_preview": "3.2 Symbols"
     },
     {
         "id": "/page/4/Text/10",
@@ -457,7 +502,8 @@
         "description": "",
         "text": "Void",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.2 Symbols"
+        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.2 Symbols",
+        "text_preview": "Void"
     },
     {
         "id": "/page/4/SectionHeader/11",
@@ -467,7 +513,8 @@
         "description": "",
         "text": "3.2 Abbreviations",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.2 Abbreviations"
+        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.2 Abbreviations",
+        "text_preview": "3.2 Abbreviations"
     },
     {
         "id": "/page/4/Text/12",
@@ -477,7 +524,8 @@
         "description": "",
         "text": "Abbreviations defined in this document take precedence over the definition of the referenced 3GPP specifications.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.2 Abbreviations"
+        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.2 Abbreviations",
+        "text_preview": "Abbreviations defined in this document take precedence over the definition of the referenced 3GPP specifications."
     },
     {
         "id": "/page/4/Text/13",
@@ -487,7 +535,8 @@
         "description": "",
         "text": "DDDS DL DATA DELIVERY STATUS",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.2 Abbreviations"
+        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.2 Abbreviations",
+        "text_preview": "DDDS DL DATA DELIVERY STATUS"
     },
     {
         "id": "/page/4/Text/14",
@@ -497,7 +546,8 @@
         "description": "",
         "text": "AID ASSISTANCE INFORMATION DATA",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.2 Abbreviations"
+        "trace": "3 Definitions of terms, symbols and abbreviations --> 3.2 Abbreviations",
+        "text_preview": "AID ASSISTANCE INFORMATION DATA"
     },
     {
         "id": "/page/4/SectionHeader/15",
@@ -507,7 +557,8 @@
         "description": "",
         "text": "4 User plane function",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function"
+        "trace": "4 User plane function",
+        "text_preview": "4 User plane function"
     },
     {
         "id": "/page/4/Text/16",
@@ -517,7 +568,8 @@
         "description": "",
         "text": "This section provides NR U-plane profile to achieve interoperability. In this version of the profile, RLC-AM and RLC-UM are supported. In this version of the profile, the following procedure is defined.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function"
+        "trace": "4 User plane function",
+        "text_preview": "This section provides NR U-plane profile to achieve interoperability. In this version of the profile, RLC-AM and RLC-UM are supported. In this version of the profile, the following procedure is defined."
     },
     {
         "id": "/page/4/Text/17",
@@ -527,7 +579,8 @@
         "description": "",
         "text": "\\- Flow control",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function"
+        "trace": "4 User plane function",
+        "text_preview": "\\- Flow control"
     },
     {
         "id": "/page/4/SectionHeader/18",
@@ -537,7 +590,8 @@
         "description": "",
         "text": "4.1 Flow control",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1 Flow control"
+        "trace": "4 User plane function --> 4.1 Flow control",
+        "text_preview": "4.1 Flow control"
     },
     {
         "id": "/page/4/SectionHeader/19",
@@ -547,7 +601,8 @@
         "description": "",
         "text": "4.1.1 Elementary procedures",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.1 Elementary procedures"
+        "trace": "4 User plane function --> 4.1.1 Elementary procedures",
+        "text_preview": "4.1.1 Elementary procedures"
     },
     {
         "id": "/page/4/SectionHeader/20",
@@ -557,7 +612,8 @@
         "description": "",
         "text": "4.1.1.1 Node behaviour of the corresponding node",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node"
+        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node",
+        "text_preview": "4.1.1.1 Node behaviour of the corresponding node"
     },
     {
         "id": "/page/4/ListGroup/168",
@@ -567,7 +623,8 @@
         "description": "",
         "text": "* When the corresponding node indicates Radio Link Outage over NR-U, the corresponding node shall not interpret the Radio Link Outage indication as a trigger to discard any remaining packets for RLC-AM and RLC-UM and shall not discard the packets unless receiving indication from the higher layer, e.g. RLC entity re-establishment/release, or buffer discard indication from the node hosting the NR PDCP entity.\n  * Unless a situation of overload at the corresponding node is encountered, the corresponding node may send DDDS in the following cases in addition to the cases TS 38.425 \\[2\\] defines:",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node"
+        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node",
+        "text_preview": "When a Radio Link Outage occurs over NR-U, the corresponding node shouldn't discard packets for RLC-AM and RLC-UM unless receiving an indication from the higher layer (e.g., re-establishment/release or buffer discard)."
     },
     {
         "id": "/page/4/PageFooter/23",
@@ -577,7 +634,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node"
+        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node",
+        "text_preview": ""
     },
     {
         "id": "/page/4/PageFooter/24",
@@ -587,7 +645,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node"
+        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node",
+        "text_preview": ""
     },
     {
         "id": "/page/5/PageHeader/0",
@@ -597,7 +656,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node"
+        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node",
+        "text_preview": ""
     },
     {
         "id": "/page/5/Picture/1",
@@ -607,7 +667,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node"
+        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node",
+        "text_preview": ""
     },
     {
         "id": "/page/5/ListGroup/221",
@@ -617,7 +678,8 @@
         "description": "",
         "text": "* \u00d8 Lost packet detection\n  * \u00d8 Radio link outage\n  * \u00d8 Stop scheduling for the data bearer",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node"
+        "trace": "4 User plane function --> 4.1.1.1 Node behaviour of the corresponding node",
+        "text_preview": "* \u00d8 Lost packet detection\n  * \u00d8 Radio link outage\n  * \u00d8 Stop scheduling for the data bearer"
     },
     {
         "id": "/page/5/SectionHeader/5",
@@ -627,7 +689,8 @@
         "description": "",
         "text": "4.1.2 Elements for the NR user plane protocols",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2 Elements for the NR user plane protocols"
+        "trace": "4 User plane function --> 4.1.2 Elements for the NR user plane protocols",
+        "text_preview": "4.1.2 Elements for the NR user plane protocols"
     },
     {
         "id": "/page/5/SectionHeader/6",
@@ -637,7 +700,8 @@
         "description": "",
         "text": "4.1.2.1 General",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.1 General"
+        "trace": "4 User plane function --> 4.1.2.1 General",
+        "text_preview": "4.1.2.1 General"
     },
     {
         "id": "/page/5/Text/7",
@@ -647,7 +711,8 @@
         "description": "",
         "text": "\\- For the optional fields of DDDS, if the corresponding value is not available yet \\(e.g. no valid corresponding PDCP SN to be reported as the corresponding node hasn't yet transmitted any NR PDCP PDU to the lower layer\\), the corresponding node shall not include the corresponding IEs \\(including the corresponding indication for presence\\) in the DDDS. Once the value comes to be valid or updated, the corresponding node shall include them at least in the next DDDS.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.1 General"
+        "trace": "4 User plane function --> 4.1.2.1 General",
+        "text_preview": "For optional fields of DDDS, if a value is not available (e.g., no valid PDCP SN), the corresponding node should not include IEs, including presence indication, in DDDS. Once the value becomes valid, it will be included in the next DDDS."
     },
     {
         "id": "/page/5/Text/8",
@@ -657,7 +722,8 @@
         "description": "",
         "text": "NOTE: For Lost Packet Report fields, if the value is continuously reported in the consecutive DDDS, the node hosting the NR PDCP entity cannot identify whether the reported lost NR-U Sequence Number is for before or after the wrap around. How to prevent this is up to implementation.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.1 General"
+        "trace": "4 User plane function --> 4.1.2.1 General",
+        "text_preview": "NOTE: For Lost Packet Report fields, if the value is continuously reported in the consecutive DDDS, the node hosting the NR PDCP entity cannot identify whether the reported lost NR-U Sequence Number is for before or after the wrap around. How to prevent this is up to implementation."
     },
     {
         "id": "/page/5/SectionHeader/9",
@@ -667,7 +733,8 @@
         "description": "",
         "text": "4.1.2.2 Report polling",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.2 Report polling"
+        "trace": "4 User plane function --> 4.1.2.2 Report polling",
+        "text_preview": "4.1.2.2 Report polling"
     },
     {
         "id": "/page/5/ListGroup/222",
@@ -677,7 +744,8 @@
         "description": "",
         "text": "* The node hosting the NR PDCP entity shall use this IE to trigger the corresponding node to send DDDS when the Report Polling Flag set to 1.\n  * The corresponding node shall send DDDS when the Report Polling Flag set to 1, unless a situation of overload at the corresponding node is encountered.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.2 Report polling"
+        "trace": "4 User plane function --> 4.1.2.2 Report polling",
+        "text_preview": "* The node hosting the NR PDCP entity shall use this IE to trigger the corresponding node to send DDDS when the Report Polling Flag set to 1.\n  * The corresponding node shall send DDDS when the Report Polling Flag set to 1, unless a situation of overload at the corresponding node is encountered."
     },
     {
         "id": "/page/5/SectionHeader/12",
@@ -687,7 +755,8 @@
         "description": "",
         "text": "4.1.2.3 Buffer discard Indication",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.3 Buffer discard Indication"
+        "trace": "4 User plane function --> 4.1.2.3 Buffer discard Indication",
+        "text_preview": "4.1.2.3 Buffer discard Indication"
     },
     {
         "id": "/page/5/Text/13",
@@ -697,7 +766,8 @@
         "description": "",
         "text": "\\- The corresponding node shall support both DL Discard Blocks and DL Flush for the buffer discard indication.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.3 Buffer discard Indication"
+        "trace": "4 User plane function --> 4.1.2.3 Buffer discard Indication",
+        "text_preview": "\\- The corresponding node shall support both DL Discard Blocks and DL Flush for the buffer discard indication."
     },
     {
         "id": "/page/5/SectionHeader/14",
@@ -707,7 +777,8 @@
         "description": "",
         "text": "4.1.2.4 User data existence flag",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.4 User data existence flag"
+        "trace": "4 User plane function --> 4.1.2.4 User data existence flag",
+        "text_preview": "4.1.2.4 User data existence flag"
     },
     {
         "id": "/page/5/Text/15",
@@ -717,7 +788,8 @@
         "description": "",
         "text": "\\- In case of split bearer, when the corresponding node does not support the IE, e.g. for the corresponding node compliant with the former version of 3GPP specification, the node hosting the NR PDCP entity shall send the actual user data to notify the existence of user data.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.4 User data existence flag"
+        "trace": "4 User plane function --> 4.1.2.4 User data existence flag",
+        "text_preview": "\\- In case of split bearer, when the corresponding node does not support the IE, e.g. for the corresponding node compliant with the former version of 3GPP specification, the node hosting the NR PDCP entity shall send the actual user data to notify the existence of user data."
     },
     {
         "id": "/page/5/SectionHeader/16",
@@ -727,7 +799,8 @@
         "description": "",
         "text": "4.1.2.5 Assistance Information Report Polling Flag",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.5 Assistance Information Report Polling Flag"
+        "trace": "4 User plane function --> 4.1.2.5 Assistance Information Report Polling Flag",
+        "text_preview": "4.1.2.5 Assistance Information Report Polling Flag"
     },
     {
         "id": "/page/5/Text/17",
@@ -737,7 +810,8 @@
         "description": "",
         "text": "\\- The node hosting the NR PDCP entity shall use this IE to trigger the corresponding node sending AID whenever it needs.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.5 Assistance Information Report Polling Flag"
+        "trace": "4 User plane function --> 4.1.2.5 Assistance Information Report Polling Flag",
+        "text_preview": "\\- The node hosting the NR PDCP entity shall use this IE to trigger the corresponding node sending AID whenever it needs."
     },
     {
         "id": "/page/5/Text/18",
@@ -747,7 +821,8 @@
         "description": "",
         "text": "NOTE: Whether the corresponding node sends AID by itself is up to implementation.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.5 Assistance Information Report Polling Flag"
+        "trace": "4 User plane function --> 4.1.2.5 Assistance Information Report Polling Flag",
+        "text_preview": "NOTE: Whether the corresponding node sends AID by itself is up to implementation."
     },
     {
         "id": "/page/5/SectionHeader/19",
@@ -757,7 +832,8 @@
         "description": "",
         "text": "4.1.2.6 Radio quality assistance information",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information"
+        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information",
+        "text_preview": "4.1.2.6 Radio quality assistance information"
     },
     {
         "id": "/page/5/ListGroup/223",
@@ -767,7 +843,8 @@
         "description": "",
         "text": "* It is configured via M-plane which assistance information to be included in AID.\n  * For the information configured to be reported and supported by the corresponding node: \n    * \u00d8 if corresponding value is not available yet \\(e.g. no valid Power Headroom Report to be reported as the corresponding node hasn't yet received any Power Headroom Report from the UE\\): \n      * \u00b2 the corresponding node shall not include the corresponding information in the reporting AID.\n    * \u00d8 else:",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information"
+        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information",
+        "text_preview": "* It is configured via M-plane, influencing AID content:\n  * For reported and supported info: \n    * If a value isn't available (e.g., no Power Headroom Report), don't include it in reporting AID.\n    * Otherwise, include it."
     },
     {
         "id": "/page/5/PageFooter/25",
@@ -777,7 +854,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information"
+        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information",
+        "text_preview": ""
     },
     {
         "id": "/page/5/PageFooter/26",
@@ -787,7 +865,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information"
+        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information",
+        "text_preview": ""
     },
     {
         "id": "/page/6/PageHeader/0",
@@ -797,7 +876,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information"
+        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information",
+        "text_preview": ""
     },
     {
         "id": "/page/6/Picture/1",
@@ -807,7 +887,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information"
+        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information",
+        "text_preview": ""
     },
     {
         "id": "/page/6/ListGroup/287",
@@ -817,7 +898,8 @@
         "description": "",
         "text": "* \u00b2 the corresponding node shall include the latest value as the corresponding information in the consecutive AID, even when there is no update from the previous reported AID.\n  * \u00b2 when Power Headroom Report is configured to be reported and multiple data bearers are configured to one UE, the corresponding node shall include Power Headroom Report information in all the reporting AID.\n  * For the information configured not to be reported or not supported by the corresponding node, the corresponding node shall not include the corresponding information in the AID.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information"
+        "trace": "4 User plane function --> 4.1.2.6 Radio quality assistance information",
+        "text_preview": "* When a new AID is sent, the corresponding node includes the latest value as corresponding information.\n* If Power Headroom Report is configured and multiple data bearers are connected to one UE, it must be included in all reporting AIDs.\n* For info not reported or supported by the node, it should not be included in AIDs."
     },
     {
         "id": "/page/6/SectionHeader/5",
@@ -827,7 +909,8 @@
         "description": "",
         "text": "4.1.2.7 DL report NR PDCP PDU SN",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.7 DL report NR PDCP PDU SN"
+        "trace": "4 User plane function --> 4.1.2.7 DL report NR PDCP PDU SN",
+        "text_preview": "4.1.2.7 DL report NR PDCP PDU SN"
     },
     {
         "id": "/page/6/ListGroup/288",
@@ -837,7 +920,8 @@
         "description": "",
         "text": "* The node hosting the NR PDCP entity may use this IE to trigger the corresponding node to send DDDS when the NR PDCP PDU with this sequence number has been successfully delivered.\n  * The corresponding node, if supported, shall send DDDS when the NR PDCP PDU with the indicated DL report NR PDCP PDU SN has been successfully delivered, unless a situation of overload at the corresponding node is encountered. The DDDS sent as a response to a specific DL report NR PDCP PDU SN shall be sent only when all PDCP PDU SNs up to this DL report NR PDCP PDU have been successfully delivered in-sequence.",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "4 User plane function --> 4.1.2.7 DL report NR PDCP PDU SN"
+        "trace": "4 User plane function --> 4.1.2.7 DL report NR PDCP PDU SN",
+        "text_preview": "A node hosting the NR PDCP entity can use this IE to trigger a corresponding node to send DDDS upon successful delivery of an NR PDCP PDU with this sequence number. The corresponding node sends DDDS when its DL report NR PDCP PDU SN is successfully delivered, unless overload occurs."
     },
     {
         "id": "/page/6/SectionHeader/8",
@@ -847,7 +931,8 @@
         "description": "",
         "text": "Annex \\(informative\\): Change History",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Annex \\(informative\\): Change History"
+        "trace": "Annex \\(informative\\): Change History",
+        "text_preview": "Annex \\(informative\\): Change History"
     },
     {
         "id": "/page/6/Table/9",
@@ -857,7 +942,8 @@
         "description": "",
         "text": "Date| Revision| Author| Description  \n---|---|---|---  \n2019.04.08| 1.00| H. Ou  \n(NTT DOCOMO)| Final version 1.00  \n2019.09.19| 2.00| H. Ou  \n(NTT DOCOMO)| This version of the specification contains updates  \nfor the clarification about the use of NR-U protocol.  \n2020.06.19| 3.00| K. Teshima  \n(NTT DOCOMO)| This version of the specification contains general  \nupdates. In addition, minor editorial corrections  \nwere done in Annex ZZZ.  \n2021.03.05| 4.00| K. Teshima  \n(NTT DOCOMO)| The version of 3GPP specs reffered in this  \nspecification is updated.  \n2021.11.17| 5.00| K. Teshima  \n(NTT DOCOMO)| The version of 3GPP specs reffered in this  \nspecification is updated to Rel-16.  \n2023.11.16| 6.00| K. Teshima  \n(NTT DOCOMO)| This version of the specification contains following  \nupdates:  \nl  \nRLC UM is added to the supported Mode of  \nRLC in this profile.  \nl  \nNew profile of DL report NR PDCP PDU SN  \nis specified.  \n2024.03.07| 6.00.01| K. Saito  \n(NTT DOCOMO)| Following changes are included.  \nl  \nTechnical changes agreed in CR DCM-00-88  \nl  \nEditorial error in the chapter of 4.1.1.1 (From  \n\"encounterd\" to \"encountered\")  \nl  \nFormat changes (not technical changes) to  \nfollow the latest O-RAN document template  \n2024.03.14| 6.00.02| K.Saito  \n(NTT DOCOMO)| Editorial error in the chapter of 4.1.1.1 (From  \n\"difines\" to \"defines\") was fixed.  \n2024.03.21| 6.00.03| K.Saito  \n(NTT DOCOMO)| This version has the same content as the version  \n06.00.02 with the difference that this version has  \nno comments, the track changes information is  \nremoved and the revision history is added.\n\n",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Annex \\(informative\\): Change History"
+        "trace": "Annex \\(informative\\): Change History",
+        "text_preview": "date | revision | author | description ---|---|---|--- 2 0 1 9 . 0 4 . 0 8 | 1 . 0 0 | h . ou | final version 2 0 2 0 . 0 6 . 1 9 | 3 . 0 0 | k . teshima | general updates and minor corrections 2 0 2"
     },
     {
         "id": "/page/6/PageFooter/10",
@@ -867,7 +953,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Annex \\(informative\\): Change History"
+        "trace": "Annex \\(informative\\): Change History",
+        "text_preview": ""
     },
     {
         "id": "/page/6/PageFooter/11",
@@ -877,6 +964,7 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG5.U.0-R003-v07.00",
-        "trace": "Annex \\(informative\\): Change History"
+        "trace": "Annex \\(informative\\): Change History",
+        "text_preview": ""
     }
 ]

@@ -7,7 +7,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": ""
+        "trace": "",
+        "text_preview": ""
     },
     {
         "id": "/page/0/SectionHeader/1",
@@ -17,7 +18,8 @@
         "description": "",
         "text": "O-RAN.WG6.AAL-MIMO BF Calc Profile R004-v01.01",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "O-RAN.WG6.AAL-MIMO BF Calc Profile R004-v01.01"
+        "trace": "O-RAN.WG6.AAL-MIMO BF Calc Profile R004-v01.01",
+        "text_preview": "O-RAN.WG6.AAL-MIMO BF Calc Profile R004-v01.01"
     },
     {
         "id": "/page/0/Text/2",
@@ -27,7 +29,8 @@
         "description": "",
         "text": "Technical Specification",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "O-RAN.WG6.AAL-MIMO BF Calc Profile R004-v01.01"
+        "trace": "O-RAN.WG6.AAL-MIMO BF Calc Profile R004-v01.01",
+        "text_preview": "Technical Specification"
     },
     {
         "id": "/page/0/SectionHeader/3",
@@ -37,7 +40,8 @@
         "description": "",
         "text": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)",
+        "text_preview": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
     },
     {
         "id": "/page/0/Text/4",
@@ -47,7 +51,8 @@
         "description": "",
         "text": "Acceleration Abstraction Layer MUMIMO  Precoder/BeamFormer Calculation Profile",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)",
+        "text_preview": "Acceleration Abstraction Layer MUMIMO  Precoder/BeamFormer Calculation Profile"
     },
     {
         "id": "/page/0/Text/5",
@@ -57,7 +62,8 @@
         "description": "",
         "text": "Copyright \u00a9 2024 by the O-RAN ALLIANCE e.V.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)",
+        "text_preview": "Copyright \u00a9 2024 by the O-RAN ALLIANCE e.V."
     },
     {
         "id": "/page/0/Text/6",
@@ -67,7 +73,8 @@
         "description": "",
         "text": "The copying or incorporation into any other work of part or all of the material available in this specification in any form without the prior written permission of O-RAN ALLIANCE e.V. is prohibited, save that you may print or download extracts of the material of this specification for your personal use, or copy the material of this specification for the purpose of sending to individual third parties for their information provided that you acknowledge O-RAN ALLIANCE as the source of the material and that you inform the third party that these conditions apply to them and that they must comply with them.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)",
+        "text_preview": "the copying or incorporation into any other work of part or all of the material available in this specification is prohibited without prior written permission from o - ran alliance e . v . you may print or download extracts for personal use , or copy for informational purposes to share with third parties , acknowledging o - ran alliance as the source and informing"
     },
     {
         "id": "/page/0/Text/7",
@@ -77,7 +84,8 @@
         "description": "",
         "text": "O-RAN ALLIANCE e.V., Buschkauler Weg 27, 53347 Alfter, Germany",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)",
+        "text_preview": "O-RAN ALLIANCE e.V., Buschkauler Weg 27, 53347 Alfter, Germany"
     },
     {
         "id": "/page/0/PageFooter/8",
@@ -87,7 +95,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)",
+        "text_preview": ""
     },
     {
         "id": "/page/1/PageHeader/0",
@@ -97,7 +106,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)",
+        "text_preview": ""
     },
     {
         "id": "/page/1/Picture/1",
@@ -107,7 +117,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)"
+        "trace": "O-RAN Work Group 6  \\(Cloudification and Orchestration Workgroup\\)",
+        "text_preview": ""
     },
     {
         "id": "/page/1/SectionHeader/2",
@@ -117,7 +128,8 @@
         "description": "",
         "text": "Contents",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": "Contents"
     },
     {
         "id": "/page/1/TableOfContents/3",
@@ -127,7 +139,8 @@
         "description": "",
         "text": "List ofof tables3  \nForevword4  \nModaal verbs terminology4  \nExecutive summary4  \nIntroduction4  \n1Scope5  \n2References5  \n2.1Normative references  \n2.2Informative references  \n3Definition of terms, symbols and abbreviations5  \n3.1Terms  \n3.2Symbols  \n3.3Abbreviations  \n4Overview6  \n4.1Purpose  \n4.2Document Structure6  \n5 AAL Configuration and Management6  \n6AAL Profile Specifications7  \n6.1Introduction  \n6.2Naming Coventions7  \n6.3MUMIMO Precoder/BeamFormer Calculation Profile Specification7  \n6.3.1Introduction7  \n6.3.2Profile Operation  \n6.3.3MUMIMO Precoder/BeamFormer Calculation Profile Capabilities and Configurations7  \n6.3.4AAL Profile Specific Interface8  \nAnneex \\(informative\\): Change History9",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": "1. Scope\n2. References\n3. Definition of terms, symbols and abbreviations\n4. Overview\n   - Purpose\n   - Document Structure\n\n5. AAL Configuration and Management\n6. AAL Profile Specifications\n   - Introduction\n   - Naming Conventions\n   - MUMIMO Precoder/BeamFormer Calculation Profile Specification\n\n7. Annex: Change History"
     },
     {
         "id": "/page/1/PageFooter/4",
@@ -137,7 +150,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/1/PageFooter/5",
@@ -147,7 +161,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/PageHeader/0",
@@ -157,7 +172,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/Picture/1",
@@ -167,7 +183,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/SectionHeader/2",
@@ -177,7 +194,8 @@
         "description": "",
         "text": "List of tables",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> List of tables"
+        "trace": "Contents --> List of tables",
+        "text_preview": "List of tables"
     },
     {
         "id": "/page/2/Text/3",
@@ -187,7 +205,8 @@
         "description": "",
         "text": "Table 6.3.4-1: AAL Profile Parameters for Weight Calculation ........................................................................................7",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> List of tables"
+        "trace": "Contents --> List of tables",
+        "text_preview": "Table 6.3.4-1: AAL Profile Parameters for Weight Calculation ........................................................................................7"
     },
     {
         "id": "/page/2/PageFooter/4",
@@ -197,7 +216,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> List of tables"
+        "trace": "Contents --> List of tables",
+        "text_preview": ""
     },
     {
         "id": "/page/2/PageFooter/5",
@@ -207,7 +227,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> List of tables"
+        "trace": "Contents --> List of tables",
+        "text_preview": ""
     },
     {
         "id": "/page/3/PageHeader/0",
@@ -217,7 +238,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> List of tables"
+        "trace": "Contents --> List of tables",
+        "text_preview": ""
     },
     {
         "id": "/page/3/Picture/1",
@@ -227,7 +249,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> List of tables"
+        "trace": "Contents --> List of tables",
+        "text_preview": ""
     },
     {
         "id": "/page/3/SectionHeader/2",
@@ -237,7 +260,8 @@
         "description": "",
         "text": "Foreword",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "Foreword"
     },
     {
         "id": "/page/3/Text/3",
@@ -247,7 +271,8 @@
         "description": "",
         "text": "This Technical Specification \\(TS\\) has been produced by WG6 of the O-RAN Alliance.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "This Technical Specification \\(TS\\) has been produced by WG6 of the O-RAN Alliance."
     },
     {
         "id": "/page/3/Text/4",
@@ -257,7 +282,8 @@
         "description": "",
         "text": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:"
     },
     {
         "id": "/page/3/Text/5",
@@ -267,7 +293,8 @@
         "description": "",
         "text": "version xx.yy.zz",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "version xx.yy.zz"
     },
     {
         "id": "/page/3/SectionHeader/6",
@@ -277,7 +304,8 @@
         "description": "",
         "text": "where:",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> Foreword --> where:"
+        "trace": "Contents --> Foreword --> where:",
+        "text_preview": "where:"
     },
     {
         "id": "/page/3/ListGroup/181",
@@ -287,7 +315,8 @@
         "description": "",
         "text": "* xx: the first digit-group is incremented for all changes of substance, i.e. technical enhancements, corrections, updates, etc. \\(the initial approved document will have xx=01\\). Always 2 digits with leading zero if needed.  \n  * yy: the second digit-group is incremented when editorial only changes have been incorporated in the document. Always 2 digits with leading zero if needed.\n  * zz: the third digit-group included only in working versions of the document indicating incremental changes during the editing process. External versions never include the third digit-group. Always 2 digits with leading zero if needed.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> Foreword --> where:"
+        "trace": "Contents --> Foreword --> where:",
+        "text_preview": "* xx: first digit-group incremented for technical enhancements, corrections, and updates (xx=01).\n* yy: second digit-group incremented for editorial changes only.\n* zz: third digit-group included in working versions, indicating incremental editing changes (zz=00)."
     },
     {
         "id": "/page/3/SectionHeader/10",
@@ -297,7 +326,8 @@
         "description": "",
         "text": "Modal verbs terminology",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> Modal verbs terminology"
+        "trace": "Contents --> Modal verbs terminology",
+        "text_preview": "Modal verbs terminology"
     },
     {
         "id": "/page/3/Text/11",
@@ -307,7 +337,8 @@
         "description": "",
         "text": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\).",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> Modal verbs terminology"
+        "trace": "Contents --> Modal verbs terminology",
+        "text_preview": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\)."
     },
     {
         "id": "/page/3/Text/12",
@@ -317,7 +348,8 @@
         "description": "",
         "text": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> Modal verbs terminology"
+        "trace": "Contents --> Modal verbs terminology",
+        "text_preview": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation."
     },
     {
         "id": "/page/3/SectionHeader/13",
@@ -327,7 +359,8 @@
         "description": "",
         "text": "Executive summary",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> Executive summary"
+        "trace": "Contents --> Executive summary",
+        "text_preview": "Executive summary"
     },
     {
         "id": "/page/3/Text/14",
@@ -337,7 +370,8 @@
         "description": "",
         "text": "This document provides the description of the requirements and stage-2 information models to implement an Acceleration Abstraction Layer \\(AAL\\) for the MUMIMO Precoder/BeamFormer Calculation functionality hosted by an AAL-LPU that is associated with an O-RAN Network Function.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Contents --> Executive summary"
+        "trace": "Contents --> Executive summary",
+        "text_preview": "This document provides the description of the requirements and stage-2 information models to implement an Acceleration Abstraction Layer \\(AAL\\) for the MUMIMO Precoder/BeamFormer Calculation functionality hosted by an AAL-LPU that is associated with an O-RAN Network Function."
     },
     {
         "id": "/page/3/SectionHeader/15",
@@ -347,7 +381,8 @@
         "description": "",
         "text": "Introduction",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": "Introduction"
     },
     {
         "id": "/page/3/Text/16",
@@ -357,7 +392,8 @@
         "description": "",
         "text": "This document specifies how to accelerate the functionality of an O-RAN network function where the MUMIMO Precoder/BeamFormer Calculation Acceleration Function \\(AF\\) is hosted on an AAL-LPU that is assigned to the AAL Application that is part of the O-RAN network function. This document also specifies a set of AAL Profiles and procedures for utilizing the AALI Common Management \\(AALI-C-Mgmt\\) and Application \\(AALI-C-App\\) interfaces to convey the information elements specified by the AAL Profiles.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": "This document specifies accelerating MUMIMO Precoder/BeamFormer Calculation AF on an O-RAN network function's AAL Application, defining AAL Profiles and procedures for utilizing AALI-C-Mgmt and AALI-C-App interfaces to convey information elements specified by the profiles."
     },
     {
         "id": "/page/3/PageFooter/17",
@@ -367,7 +403,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": ""
     },
     {
         "id": "/page/3/PageFooter/18",
@@ -377,7 +414,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": ""
     },
     {
         "id": "/page/4/PageHeader/0",
@@ -387,7 +425,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": ""
     },
     {
         "id": "/page/4/Picture/1",
@@ -397,7 +436,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": ""
     },
     {
         "id": "/page/4/SectionHeader/2",
@@ -407,7 +447,8 @@
         "description": "",
         "text": "1 Scope",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 1 Scope"
+        "trace": "Introduction --> 1 Scope",
+        "text_preview": "1 Scope"
     },
     {
         "id": "/page/4/Text/3",
@@ -417,7 +458,8 @@
         "description": "",
         "text": "The present document specifies the requirements and stage-2 information models for the MUMIMO Precoder/BeamFormer Calculation Profiles.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 1 Scope"
+        "trace": "Introduction --> 1 Scope",
+        "text_preview": "The present document specifies the requirements and stage-2 information models for the MUMIMO Precoder/BeamFormer Calculation Profiles."
     },
     {
         "id": "/page/4/SectionHeader/4",
@@ -427,7 +469,8 @@
         "description": "",
         "text": "2 References",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 2 References"
+        "trace": "Introduction --> 2 References",
+        "text_preview": "2 References"
     },
     {
         "id": "/page/4/SectionHeader/5",
@@ -437,7 +480,8 @@
         "description": "",
         "text": "2.1 Normative references",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+        "trace": "Introduction --> 2 References --> 2.1 Normative references",
+        "text_preview": "2.1 Normative references"
     },
     {
         "id": "/page/4/Text/6",
@@ -447,7 +491,8 @@
         "description": "",
         "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+        "trace": "Introduction --> 2 References --> 2.1 Normative references",
+        "text_preview": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies."
     },
     {
         "id": "/page/4/Text/7",
@@ -457,7 +502,8 @@
         "description": "",
         "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+        "trace": "Introduction --> 2 References --> 2.1 Normative references",
+        "text_preview": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity."
     },
     {
         "id": "/page/4/Text/8",
@@ -467,7 +513,8 @@
         "description": "",
         "text": "The following referenced documents are necessary for the application of the present document.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+        "trace": "Introduction --> 2 References --> 2.1 Normative references",
+        "text_preview": "The following referenced documents are necessary for the application of the present document."
     },
     {
         "id": "/page/4/ListGroup/173",
@@ -477,7 +524,8 @@
         "description": "",
         "text": "* \\[1\\] Void\n  * \\[2\\] Void\n  * \\[3\\] Void\n  * \\[4\\] Void\n  * \\[5\\] Void\n  * \\[6\\] Void\n  * \\[7\\] O-RAN WG6 Acceleration Abstraction Layer General Aspects and Principles\n  * \\[8\\] O-RAN Acceleration Abstraction Layer High-PHY Profiles",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+        "trace": "Introduction --> 2 References --> 2.1 Normative references",
+        "text_preview": "* Void\n  * Void\n  * Void\n  * Void\n  * Void\n  * Void\n  * O-RAN WG6 Acceleration Abstraction Layer General Aspects and Principles\n  * O-RAN Acceleration Abstraction Layer High-PHY Profiles"
     },
     {
         "id": "/page/4/SectionHeader/17",
@@ -487,7 +535,8 @@
         "description": "",
         "text": "2.2 Informative references",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references",
+        "text_preview": "2.2 Informative references"
     },
     {
         "id": "/page/4/Text/18",
@@ -497,7 +546,8 @@
         "description": "",
         "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references",
+        "text_preview": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies."
     },
     {
         "id": "/page/4/Text/19",
@@ -507,7 +557,8 @@
         "description": "",
         "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references",
+        "text_preview": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity."
     },
     {
         "id": "/page/4/Text/20",
@@ -517,7 +568,8 @@
         "description": "",
         "text": "The following referenced documents are not necessary for the application of the present document, but they assist the user with regard to a particular subject area.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references",
+        "text_preview": "The following referenced documents are not necessary for the application of the present document, but they assist the user with regard to a particular subject area."
     },
     {
         "id": "/page/4/Text/21",
@@ -527,7 +579,8 @@
         "description": "",
         "text": "\\[i.1\\] 3GPP TR 21.905: \"Vocabulary for 3GPP Specifications\".",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.1 Normative references --> 2.2 Informative references",
+        "text_preview": "\\[i.1\\] 3GPP TR 21.905: \"Vocabulary for 3GPP Specifications\"."
     },
     {
         "id": "/page/4/SectionHeader/22",
@@ -537,7 +590,8 @@
         "description": "",
         "text": "3 Definition of terms, symbols and abbreviations",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations",
+        "text_preview": "3 Definition of terms, symbols and abbreviations"
     },
     {
         "id": "/page/4/SectionHeader/23",
@@ -547,7 +601,8 @@
         "description": "",
         "text": "3.1 Terms",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "3.1 Terms"
     },
     {
         "id": "/page/4/Text/24",
@@ -557,7 +612,8 @@
         "description": "",
         "text": "Void",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "Void"
     },
     {
         "id": "/page/4/PageFooter/25",
@@ -567,7 +623,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": ""
     },
     {
         "id": "/page/4/PageFooter/26",
@@ -577,7 +634,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": ""
     },
     {
         "id": "/page/5/PageHeader/0",
@@ -587,7 +645,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": ""
     },
     {
         "id": "/page/5/Picture/1",
@@ -597,7 +656,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": ""
     },
     {
         "id": "/page/5/SectionHeader/2",
@@ -607,7 +667,8 @@
         "description": "",
         "text": "3.2 Symbols",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.2 Symbols",
+        "text_preview": "3.2 Symbols"
     },
     {
         "id": "/page/5/Text/3",
@@ -617,7 +678,8 @@
         "description": "",
         "text": "Void",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.2 Symbols",
+        "text_preview": "Void"
     },
     {
         "id": "/page/5/SectionHeader/4",
@@ -627,7 +689,8 @@
         "description": "",
         "text": "3.3 Abbreviations",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "3.3 Abbreviations"
     },
     {
         "id": "/page/5/Text/5",
@@ -637,7 +700,8 @@
         "description": "",
         "text": "For the purposes of the present document, the abbreviations \\[given in \\[1\\] and the following\\] apply:",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "For the purposes of the present document, the abbreviations \\[given in \\[1\\] and the following\\] apply:"
     },
     {
         "id": "/page/5/Text/6",
@@ -647,7 +711,8 @@
         "description": "",
         "text": "AAL Acceleration Abstraction Layer",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "AAL Acceleration Abstraction Layer"
     },
     {
         "id": "/page/5/Text/7",
@@ -657,7 +722,8 @@
         "description": "",
         "text": "AALI Acceleration Abstraction Layer interface",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "AALI Acceleration Abstraction Layer interface"
     },
     {
         "id": "/page/5/Text/8",
@@ -667,7 +733,8 @@
         "description": "",
         "text": "AAL-LPU Acceleration Abstraction Layer Logical Processing Unit",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "AAL-LPU Acceleration Abstraction Layer Logical Processing Unit"
     },
     {
         "id": "/page/5/Text/9",
@@ -677,7 +744,8 @@
         "description": "",
         "text": "BF Beam Forming",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "BF Beam Forming"
     },
     {
         "id": "/page/5/Text/10",
@@ -687,7 +755,8 @@
         "description": "",
         "text": "CNF Containerized Network Function",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "CNF Containerized Network Function"
     },
     {
         "id": "/page/5/Text/11",
@@ -697,7 +766,8 @@
         "description": "",
         "text": "HWA Hardware Accelator NF Network Function",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "HWA Hardware Accelator NF Network Function"
     },
     {
         "id": "/page/5/Text/12",
@@ -707,7 +777,8 @@
         "description": "",
         "text": "O-CU O-RAN Centralized Unit O-DU O-RAN Distributed Unit",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "O-CU O-RAN Centralized Unit O-DU O-RAN Distributed Unit"
     },
     {
         "id": "/page/5/Text/13",
@@ -717,7 +788,8 @@
         "description": "",
         "text": "O-RU O-RAN Radio Unit OS Operating System",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "O-RU O-RAN Radio Unit OS Operating System"
     },
     {
         "id": "/page/5/SectionHeader/14",
@@ -727,7 +799,8 @@
         "description": "",
         "text": "4 Overview",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 4 Overview"
+        "trace": "Introduction --> 4 Overview",
+        "text_preview": "4 Overview"
     },
     {
         "id": "/page/5/SectionHeader/15",
@@ -737,7 +810,8 @@
         "description": "",
         "text": "4.1 Purpose",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 4.1 Purpose"
+        "trace": "Introduction --> 4.1 Purpose",
+        "text_preview": "4.1 Purpose"
     },
     {
         "id": "/page/5/Text/16",
@@ -747,7 +821,8 @@
         "description": "",
         "text": "The AAL General Aspects and Principles is described in \\[7\\] including a high-level architecture of the AAL and definition of the AAL profiles. This document details the AAL specification consisting of the description of the interface, information models, and requirements to implement an AALI for AAL\\_MUMIMO\\_PRECODER\\_WEIGHTS\\_CAL profile \\[7\\]",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 4.1 Purpose"
+        "trace": "Introduction --> 4.1 Purpose",
+        "text_preview": "The AAL General Aspects and Principles is described in [7], including a high-level architecture of the AAL and definition of profiles. This document details the AAL specification, covering interface description, information models, and requirements for implementing an AALI for the AAL_MUMIMO_PRECODER_WEIGHTS_CAL profile [7]."
     },
     {
         "id": "/page/5/Text/17",
@@ -757,7 +832,8 @@
         "description": "",
         "text": "The purpose of the AAL\\_MUMIMO\\_PRECODER\\_WEIGHTS\\_CAL profile is to support look-aside acceleration of beamforming \\(precoding\\) weight calculation by the Application. This profile compliments the High-PHY profiles specified in \\[8\\].",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 4.1 Purpose"
+        "trace": "Introduction --> 4.1 Purpose",
+        "text_preview": "The purpose of the AAL\\_MUMIMO\\_PRECODER\\_WEIGHTS\\_CAL profile is to support look-aside acceleration of beamforming \\(precoding\\) weight calculation by the Application. This profile compliments the High-PHY profiles specified in \\[8\\]."
     },
     {
         "id": "/page/5/SectionHeader/18",
@@ -767,7 +843,8 @@
         "description": "",
         "text": "4.2 Document Structure",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 4.1 Purpose --> 4.2 Document Structure"
+        "trace": "Introduction --> 4.1 Purpose --> 4.2 Document Structure",
+        "text_preview": "4.2 Document Structure"
     },
     {
         "id": "/page/5/Text/19",
@@ -777,7 +854,8 @@
         "description": "",
         "text": "This present document is structured as follows: Chapter 4 presents the overview and main purpose of this specification. Chapter 5 presents the high level AALI configuration and management principles for the AAL\\_MU MIMO\\_PRECODER\\_WEIGHTS\\_CAL profile. Chapter 6 presents the Profile Overview for the profile, sample capabilities, inputs, and outputs as well as HWA parameters for the profile.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 4.1 Purpose --> 4.2 Document Structure"
+        "trace": "Introduction --> 4.1 Purpose --> 4.2 Document Structure",
+        "text_preview": "This present document is structured as follows:\n\nChapter 4: Overview of this specification.\nChapter 5: High-level AALI configuration and management principles for AAL_MU MIMO_PRECODER_WEIGHTS_CAL profile.\nChapter 6: Profile overview, sample capabilities, inputs, outputs, and HWA parameters."
     },
     {
         "id": "/page/5/SectionHeader/20",
@@ -787,7 +865,8 @@
         "description": "",
         "text": "5 AAL Configuration and Management",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 5 AAL Configuration and Management"
+        "trace": "Introduction --> 5 AAL Configuration and Management",
+        "text_preview": "5 AAL Configuration and Management"
     },
     {
         "id": "/page/5/Text/21",
@@ -797,7 +876,8 @@
         "description": "",
         "text": "The AALI configuration and management APIs are the APIs that an Application \\(O-DU\\) executes to configure and manage the AAL-LPU\\(s\\) that have been allocated to the Application by the O-Cloud. The high-level Configuration and Management Principles are presented in \\[7\\].",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 5 AAL Configuration and Management"
+        "trace": "Introduction --> 5 AAL Configuration and Management",
+        "text_preview": "The AALI configuration and management APIs are the APIs that an Application \\(O-DU\\) executes to configure and manage the AAL-LPU\\(s\\) that have been allocated to the Application by the O-Cloud. The high-level Configuration and Management Principles are presented in \\[7\\]."
     },
     {
         "id": "/page/5/PageFooter/22",
@@ -807,7 +887,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 5 AAL Configuration and Management"
+        "trace": "Introduction --> 5 AAL Configuration and Management",
+        "text_preview": ""
     },
     {
         "id": "/page/5/PageFooter/23",
@@ -817,7 +898,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 5 AAL Configuration and Management"
+        "trace": "Introduction --> 5 AAL Configuration and Management",
+        "text_preview": ""
     },
     {
         "id": "/page/6/PageHeader/0",
@@ -827,7 +909,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 5 AAL Configuration and Management"
+        "trace": "Introduction --> 5 AAL Configuration and Management",
+        "text_preview": ""
     },
     {
         "id": "/page/6/Picture/1",
@@ -837,7 +920,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 5 AAL Configuration and Management"
+        "trace": "Introduction --> 5 AAL Configuration and Management",
+        "text_preview": ""
     },
     {
         "id": "/page/6/SectionHeader/2",
@@ -847,7 +931,8 @@
         "description": "",
         "text": "6 AAL Profile Specifications",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6 AAL Profile Specifications"
+        "trace": "Introduction --> 6 AAL Profile Specifications",
+        "text_preview": "6 AAL Profile Specifications"
     },
     {
         "id": "/page/6/SectionHeader/3",
@@ -857,7 +942,8 @@
         "description": "",
         "text": "6.1 Introduction",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6 AAL Profile Specifications --> 6.1 Introduction"
+        "trace": "Introduction --> 6 AAL Profile Specifications --> 6.1 Introduction",
+        "text_preview": "6.1 Introduction"
     },
     {
         "id": "/page/6/Text/4",
@@ -867,7 +953,8 @@
         "description": "",
         "text": "Void",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6 AAL Profile Specifications --> 6.1 Introduction"
+        "trace": "Introduction --> 6 AAL Profile Specifications --> 6.1 Introduction",
+        "text_preview": "Void"
     },
     {
         "id": "/page/6/SectionHeader/5",
@@ -877,7 +964,8 @@
         "description": "",
         "text": "6.2 Naming Coventions",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.2 Naming Coventions"
+        "trace": "Introduction --> 6.2 Naming Coventions",
+        "text_preview": "6.2 Naming Coventions"
     },
     {
         "id": "/page/6/Text/6",
@@ -887,7 +975,8 @@
         "description": "",
         "text": "Void",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.2 Naming Coventions"
+        "trace": "Introduction --> 6.2 Naming Coventions",
+        "text_preview": "Void"
     },
     {
         "id": "/page/6/SectionHeader/7",
@@ -897,7 +986,8 @@
         "description": "",
         "text": "6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification",
+        "text_preview": "6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification"
     },
     {
         "id": "/page/6/SectionHeader/8",
@@ -907,7 +997,8 @@
         "description": "",
         "text": "6.3.1 Introduction",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.1 Introduction"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.1 Introduction",
+        "text_preview": "6.3.1 Introduction"
     },
     {
         "id": "/page/6/Text/9",
@@ -917,7 +1008,8 @@
         "description": "",
         "text": "The AAL\\_MU MIMO\\_PRECODER\\_WEIGHTS\\_CALC is used to support look-aside acceleration of beamforming \\(precoding\\) weight calculation by the Application",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.1 Introduction"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.1 Introduction",
+        "text_preview": "The AAL\\_MU MIMO\\_PRECODER\\_WEIGHTS\\_CALC is used to support look-aside acceleration of beamforming \\(precoding\\) weight calculation by the Application"
     },
     {
         "id": "/page/6/SectionHeader/10",
@@ -927,7 +1019,8 @@
         "description": "",
         "text": "6.3.2 Profile Operation",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation",
+        "text_preview": "6.3.2 Profile Operation"
     },
     {
         "id": "/page/6/Text/11",
@@ -937,7 +1030,8 @@
         "description": "",
         "text": "The Application provides HWA \\(aka AF in \\[8\\]\\) with all the information required to calculate precoding weights, as shown in Table 6.3.4-1. HWA computes MU-MIMO precoding weights according to an implementation-specific method, one exemplary method being block diagonalization.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation",
+        "text_preview": "The Application provides HWA \\(aka AF in \\[8\\]\\) with all the information required to calculate precoding weights, as shown in Table 6.3.4-1. HWA computes MU-MIMO precoding weights according to an implementation-specific method, one exemplary method being block diagonalization."
     },
     {
         "id": "/page/6/Text/12",
@@ -947,7 +1041,8 @@
         "description": "",
         "text": "HWA returns to the Application a handle\\* \\(optional\\) to the precoding weights for the layers of the selected UEs together with precoding weights themselves. The precoding weights can be used by the Application to compute SINR per UE and per layer to assist with MCS selection.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation",
+        "text_preview": "HWA returns to the Application a handle\\* \\(optional\\) to the precoding weights for the layers of the selected UEs together with precoding weights themselves. The precoding weights can be used by the Application to compute SINR per UE and per layer to assist with MCS selection."
     },
     {
         "id": "/page/6/Text/13",
@@ -957,7 +1052,8 @@
         "description": "",
         "text": "Application sends the precoding weights \\(optional\\) or handle \\(optional\\) to AF \\[8\\] via AAL\\_DOWNLINK\\_High-PHY Profile \\[8\\].",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation",
+        "text_preview": "Application sends the precoding weights \\(optional\\) or handle \\(optional\\) to AF \\[8\\] via AAL\\_DOWNLINK\\_High-PHY Profile \\[8\\]."
     },
     {
         "id": "/page/6/Text/14",
@@ -967,7 +1063,8 @@
         "description": "",
         "text": "\\*Handle represents an index to \"Beamforming \\(precoding\\) weights per PRG for the layers of the selected UEs\" uniquely. This is an optional parameter. It is introduced to enable following example implementation option:",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation",
+        "text_preview": "\\*Handle represents an index to \"Beamforming \\(precoding\\) weights per PRG for the layers of the selected UEs\" uniquely. This is an optional parameter. It is introduced to enable following example implementation option:"
     },
     {
         "id": "/page/6/Text/15",
@@ -977,7 +1074,8 @@
         "description": "",
         "text": "After precoding weights calculation, HWA stores the precoding weights locally together with the associated handle. HWA returns to Application the handle to the precoding weights as well as the precoding weights for the layers of the selected UEs. This provides option to Application to send just the handle to AF \\[8\\] in AAL\\_DOWNLINK\\_High-PHY Profile \\[8\\]. In this case, AF can use the handle to retrieve precoding weights stored locally.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation",
+        "text_preview": "After precoding weight calculation, HWA stores local precoding weights and their associated handles. It returns these handles to Application along with the precoding weights for selected UEs' layers. This allows Application to send only the handle to AF, which can then retrieve stored precoding weights locally."
     },
     {
         "id": "/page/6/Text/16",
@@ -987,7 +1085,8 @@
         "description": "",
         "text": "NOTE: This is applicable only for the sencario in which same HWA is used for \"high Phy function\" and \"precoding weights calculation function\".",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.2 Profile Operation",
+        "text_preview": "NOTE: This is applicable only for the sencario in which same HWA is used for \"high Phy function\" and \"precoding weights calculation function\"."
     },
     {
         "id": "/page/6/SectionHeader/17",
@@ -997,7 +1096,8 @@
         "description": "",
         "text": "6.3.3 MUMIMO Precoder/BeamFormer Calculation Profile Capabilities and Configurations",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3 MUMIMO Precoder/BeamFormer Calculation Profile Capabilities and Configurations"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3 MUMIMO Precoder/BeamFormer Calculation Profile Capabilities and Configurations",
+        "text_preview": "6.3.3 MUMIMO Precoder/BeamFormer Calculation Profile Capabilities and Configurations"
     },
     {
         "id": "/page/6/SectionHeader/18",
@@ -1007,7 +1107,8 @@
         "description": "",
         "text": "6.3.3.1 Summary of Capabilities",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities",
+        "text_preview": "6.3.3.1 Summary of Capabilities"
     },
     {
         "id": "/page/6/Text/19",
@@ -1017,7 +1118,8 @@
         "description": "",
         "text": "Void",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities",
+        "text_preview": "Void"
     },
     {
         "id": "/page/6/PageFooter/20",
@@ -1027,7 +1129,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities",
+        "text_preview": ""
     },
     {
         "id": "/page/6/PageFooter/21",
@@ -1037,7 +1140,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities",
+        "text_preview": ""
     },
     {
         "id": "/page/7/PageHeader/0",
@@ -1047,7 +1151,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities",
+        "text_preview": ""
     },
     {
         "id": "/page/7/Picture/1",
@@ -1057,7 +1162,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.1 Summary of Capabilities",
+        "text_preview": ""
     },
     {
         "id": "/page/7/SectionHeader/2",
@@ -1067,7 +1173,8 @@
         "description": "",
         "text": "6.3.3.2 Summary of Configurations",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.2 Summary of Configurations"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.2 Summary of Configurations",
+        "text_preview": "6.3.3.2 Summary of Configurations"
     },
     {
         "id": "/page/7/Text/3",
@@ -1077,7 +1184,8 @@
         "description": "",
         "text": "Void",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.2 Summary of Configurations"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.3.2 Summary of Configurations",
+        "text_preview": "Void"
     },
     {
         "id": "/page/7/SectionHeader/4",
@@ -1087,7 +1195,8 @@
         "description": "",
         "text": "6.3.4 AAL Profile Specific Interface",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface",
+        "text_preview": "6.3.4 AAL Profile Specific Interface"
     },
     {
         "id": "/page/7/TableGroup/140",
@@ -1097,7 +1206,8 @@
         "description": "",
         "text": "Table 6.3.4-2 AAL Profile Parameters for Weight Calculation\nParametersSummaryHWA Role  \nApplication \u2192 HWA  \nUEsOrdered list of UEs selected for  \nscheduling  \nNumber of layers, per UENumber of layers scheduled per UE  \nChannel Estimation AbstractionA representation of SRS-based  \nchannel observations, as documented  \nin \\[7\\] \\(e.g. SVD, raw channel\\). Sent  \nfor each PRG and for each UE  \nscheduled in the PRG.Compute beamforming weights for the  \nselected UEs and layers, e.g. based on  \nblock diagonalization based precoding.  \nHWA \u2192 Application  \nBeamforming \\(precoding\\) weightsBeamforming \\(precoding\\) weights  \nper PRG for the layers of the selected  \nUEs.Compute precoding weights for the  \nselected UEs and layers, e.g. based on  \nthe representation of SRS-based  \nchannel observations  \nHandle  \n\\(OPTIONAL\\)Index to Beamforming \\(precoding\\)  \nweights per PRG for the layers of the  \nselected UEs.",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface",
+        "text_preview": "table 6 . 3 . 4 - 2 aal profile parameters for weight calculation parameters : * hwa role : application \u2192 hwa * ues : ordered list of selected ues for scheduling * scheduled layers per ue * channel estimation abstraction : srs - based channel observations ( e . g . svd ) * beamforming precoding weights : - compute"
     },
     {
         "id": "/page/7/PageFooter/7",
@@ -1107,7 +1217,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface",
+        "text_preview": ""
     },
     {
         "id": "/page/7/PageFooter/8",
@@ -1117,7 +1228,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface",
+        "text_preview": ""
     },
     {
         "id": "/page/8/PageHeader/0",
@@ -1127,7 +1239,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface",
+        "text_preview": ""
     },
     {
         "id": "/page/8/Picture/1",
@@ -1137,7 +1250,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface"
+        "trace": "Introduction --> 6.3 MUMIMO Precoder/BeamFormer Calculation Profile Specification --> 6.3.4 AAL Profile Specific Interface",
+        "text_preview": ""
     },
     {
         "id": "/page/8/SectionHeader/2",
@@ -1147,7 +1261,8 @@
         "description": "",
         "text": "Annex \\(informative\\): Change History",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Annex \\(informative\\): Change History"
+        "trace": "Annex \\(informative\\): Change History",
+        "text_preview": "Annex \\(informative\\): Change History"
     },
     {
         "id": "/page/8/Table/3",
@@ -1157,7 +1272,8 @@
         "description": "",
         "text": "Date| Revision| Description  \n---|---|---  \n2022.02.28| 01.00.00| AAL Profile specification to offload \"MU-MIMO\nprecoder/beamformer weights calculation\"  \n| | compute to Hardware Accelerator (HWA) in a look-aside manner.  \n2024.07.15| 01.00.01| Delete unused citation from References section as per CR\nTEJA-2024.03.10-  \n| | ORAN.WG6-D-CR-0001  \n2024.07.18| 01.00.02| Migrate the document to new O-RAN AAL-Profile template  \n2024.07.31| 01.01.00| Final version for July '24 train, upgraded document\nrevision to R004\n\n",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Annex \\(informative\\): Change History"
+        "trace": "Annex \\(informative\\): Change History",
+        "text_preview": "date | revision | description ---|---|--- 2 0 2 2 . 0 2 . 2 8 | 0 1 . 0 0 . 0 0 | offload mu - mimo precoder / beamformer weights calc to hwa . 2 0 2 4 . 0 7 . 1 5 | 0 1 . 0 0 . 0 1 |"
     },
     {
         "id": "/page/8/PageFooter/4",
@@ -1167,7 +1283,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Annex \\(informative\\): Change History"
+        "trace": "Annex \\(informative\\): Change History",
+        "text_preview": ""
     },
     {
         "id": "/page/8/PageFooter/5",
@@ -1177,6 +1294,7 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG6.AAL-MUMIMO-BF-Calc-Profile-R004-v01.01",
-        "trace": "Annex \\(informative\\): Change History"
+        "trace": "Annex \\(informative\\): Change History",
+        "text_preview": ""
     }
 ]

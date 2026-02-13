@@ -7,7 +7,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": ""
+        "trace": "",
+        "text_preview": ""
     },
     {
         "id": "/page/0/SectionHeader/1",
@@ -17,7 +18,8 @@
         "description": "",
         "text": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "O-RAN.WG11.TR.SCM.0-R004-v01.00"
+        "trace": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
+        "text_preview": "O-RAN.WG11.TR.SCM.0-R004-v01.00"
     },
     {
         "id": "/page/0/Text/2",
@@ -27,7 +29,8 @@
         "description": "",
         "text": "Technical Report",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "O-RAN.WG11.TR.SCM.0-R004-v01.00"
+        "trace": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
+        "text_preview": "Technical Report"
     },
     {
         "id": "/page/0/SectionHeader/3",
@@ -37,7 +40,8 @@
         "description": "",
         "text": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management"
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management",
+        "text_preview": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management"
     },
     {
         "id": "/page/0/SectionHeader/4",
@@ -47,7 +51,8 @@
         "description": "",
         "text": "Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "text_preview": "Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
     },
     {
         "id": "/page/0/Text/5",
@@ -57,7 +62,8 @@
         "description": "",
         "text": "The copying or incorporation into any other work of part or all of the material available in this document in any form without the prior written permission of O-RAN ALLIANCE e.V. is prohibited, save that you may print or download extracts of the material of this document for your personal use, or copy the material of this document for the purpose of sending to individual third parties for their information provided that you acknowledge O-RAN ALLIANCE as the source of the material and that you inform the third party that these conditions apply to them and that they must comply with them.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "text_preview": "the copying or incorporation into any other work of part or all of the material available in this document is prohibited without prior written permission from o - ran alliance e . v . you may print or download extracts for personal use , or copy for informational purposes to send to individual third parties , acknowledging o - ran alliance as source and informing"
     },
     {
         "id": "/page/0/PageFooter/6",
@@ -67,7 +73,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "text_preview": ""
     },
     {
         "id": "/page/1/PageHeader/0",
@@ -77,7 +84,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "text_preview": ""
     },
     {
         "id": "/page/1/Picture/1",
@@ -87,7 +95,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Security Configuration Management --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "text_preview": ""
     },
     {
         "id": "/page/1/SectionHeader/2",
@@ -97,7 +106,8 @@
         "description": "",
         "text": "Contents",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": "Contents"
     },
     {
         "id": "/page/1/TableOfContents/3",
@@ -107,7 +117,8 @@
         "description": "",
         "text": "List of figures 3  \nList of tables 3  \nForevvord 4  \nModa\u0131l verbs terminology 4  \n1Scope 5  \n2References 5  \n2.1Normative references 5  \n2.2Informative references 5  \n3Definition of terms, symbols and abbreviations 6  \n3.1Terms  \n3.2Symbols  \n3.3Abbreviations  \n4SCM Background 6  \n4.1Introduction 6  \n4.2Considerations 7  \n5Study and identify the security gaps related to SCM 7  \n5.1Assets  \n5.1.1O-RAN Architecture Elements 7  \n5.1.2O-RAN interfaces 7  \n5.2Security Controls 8  \n5.3Input recommendations 8  \n5.4Threat template 8  \n5.5SCM Threats analysis  \n5.5.1Certificate related threats  \n5.5.2NACM related threats  \n5.5.3LDAP related threats 9  \n6Study and recommendation related to SCM 9  \n7Conclusion. 9  \nAnnex: Change history/Change request \\(history\\) 10",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": "list of figures : 3 list of tables : 3 foreword : 4 moda\u0131l verbs terminology : 4 1 . scope : 5 2 . references : - normative : 5 - informative : 5 3 . definition of terms , symbols and abbreviations : - terms : 6 - symbols : 6 - abbreviations : 6 scm background :"
     },
     {
         "id": "/page/1/PageFooter/4",
@@ -117,7 +128,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/1/Text/6",
@@ -127,7 +139,8 @@
         "description": "",
         "text": "2",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": "2"
     },
     {
         "id": "/page/1/PageFooter/5",
@@ -137,7 +150,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/PageHeader/0",
@@ -147,7 +161,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/Picture/1",
@@ -157,7 +172,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/SectionHeader/2",
@@ -167,7 +183,8 @@
         "description": "",
         "text": "List of figures",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "List of figures"
+        "trace": "List of figures",
+        "text_preview": "List of figures"
     },
     {
         "id": "/page/2/Text/3",
@@ -177,7 +194,8 @@
         "description": "",
         "text": "No table of figures entries found.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "List of figures"
+        "trace": "List of figures",
+        "text_preview": "No table of figures entries found."
     },
     {
         "id": "/page/2/SectionHeader/4",
@@ -187,7 +205,8 @@
         "description": "",
         "text": "List of tables",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "List of tables"
+        "trace": "List of tables",
+        "text_preview": "List of tables"
     },
     {
         "id": "/page/2/Text/5",
@@ -197,7 +216,8 @@
         "description": "",
         "text": "No table of figures entries found.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "List of tables"
+        "trace": "List of tables",
+        "text_preview": "No table of figures entries found."
     },
     {
         "id": "/page/2/PageFooter/6",
@@ -207,7 +227,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "List of tables"
+        "trace": "List of tables",
+        "text_preview": ""
     },
     {
         "id": "/page/2/PageFooter/7",
@@ -217,7 +238,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "List of tables"
+        "trace": "List of tables",
+        "text_preview": ""
     },
     {
         "id": "/page/3/PageHeader/0",
@@ -227,7 +249,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "List of tables"
+        "trace": "List of tables",
+        "text_preview": ""
     },
     {
         "id": "/page/3/Picture/1",
@@ -237,7 +260,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "List of tables"
+        "trace": "List of tables",
+        "text_preview": ""
     },
     {
         "id": "/page/3/SectionHeader/2",
@@ -247,7 +271,8 @@
         "description": "",
         "text": "Foreword",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Foreword"
+        "trace": "Foreword",
+        "text_preview": "Foreword"
     },
     {
         "id": "/page/3/Text/3",
@@ -257,7 +282,8 @@
         "description": "",
         "text": "This Technical Report \\(TR\\) has been produced by WG11 of the O-RAN ALLIANCE.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Foreword"
+        "trace": "Foreword",
+        "text_preview": "This Technical Report \\(TR\\) has been produced by WG11 of the O-RAN ALLIANCE."
     },
     {
         "id": "/page/3/Text/4",
@@ -267,7 +293,8 @@
         "description": "",
         "text": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Foreword"
+        "trace": "Foreword",
+        "text_preview": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:"
     },
     {
         "id": "/page/3/Text/5",
@@ -277,7 +304,8 @@
         "description": "",
         "text": "version xx.yy.zz",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Foreword"
+        "trace": "Foreword",
+        "text_preview": "version xx.yy.zz"
     },
     {
         "id": "/page/3/SectionHeader/6",
@@ -287,7 +315,8 @@
         "description": "",
         "text": "where:",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Foreword --> where:"
+        "trace": "Foreword --> where:",
+        "text_preview": "where:"
     },
     {
         "id": "/page/3/ListGroup/139",
@@ -297,7 +326,8 @@
         "description": "",
         "text": "* xx: the first digit-group is incremented for all changes of substance, i.e. technical enhancements, corrections, updates, etc. \\(the initial approved document will have xx=01\\). Always 2 digits with leading zero if needed.  \n  * yy: the second digit-group is incremented when editorial only changes have been incorporated in the document. Always 2 digits with leading zero if needed.\n  * zz: the third digit-group included only in working versions of the document indicating incremental changes during the editing process. External versions never include the third digit-group. Always 2 digits with leading zero if needed.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Foreword --> where:"
+        "trace": "Foreword --> where:",
+        "text_preview": "* xx: First digit-group for substance changes (tech enhancements, corrections).\nInitial approved doc: xx = 01.\nAlways 2 digits with leading zero if needed.\n\n* yy: Second digit-group for editorial only changes.\nAlways 2 digits with leading zero if needed.\n\n* zz: Third digit-group included in working versions."
     },
     {
         "id": "/page/3/SectionHeader/10",
@@ -307,7 +337,8 @@
         "description": "",
         "text": "Modal verbs terminology",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": "Modal verbs terminology"
     },
     {
         "id": "/page/3/Text/11",
@@ -317,7 +348,8 @@
         "description": "",
         "text": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\).",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\)."
     },
     {
         "id": "/page/3/Text/12",
@@ -327,7 +359,8 @@
         "description": "",
         "text": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation."
     },
     {
         "id": "/page/3/PageFooter/13",
@@ -337,7 +370,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": ""
     },
     {
         "id": "/page/3/PageFooter/14",
@@ -347,7 +381,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": ""
     },
     {
         "id": "/page/4/PageHeader/0",
@@ -357,7 +392,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": ""
     },
     {
         "id": "/page/4/Picture/1",
@@ -367,7 +403,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": ""
     },
     {
         "id": "/page/4/SectionHeader/2",
@@ -377,7 +414,8 @@
         "description": "",
         "text": "1 Scope",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "1 Scope"
+        "trace": "1 Scope",
+        "text_preview": "1 Scope"
     },
     {
         "id": "/page/4/Text/3",
@@ -387,7 +425,8 @@
         "description": "",
         "text": "The main objective for this work item is to identify and develop the security management YANG models for O-RAN framework fulfilling the security requirements specified in \\[i.2\\]. The specification will be based on the YANG data modeling language \\(see RFC 7950\\). Security YANG models in O-RAN will apply to relevant O-RAN interfaces \\(O1, Open Fronthaul M-plane\\). This work item will perform the following steps,",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "1 Scope"
+        "trace": "1 Scope",
+        "text_preview": "The main objective of this work item is to identify and develop security management YANG models for O-RAN, fulfilling requirements specified in [i.2]. Based on RFC 7950, these models will apply to relevant O-RAN interfaces (O1, Open Fronthaul M-plane)."
     },
     {
         "id": "/page/4/ListGroup/229",
@@ -397,7 +436,8 @@
         "description": "",
         "text": "* Identify if there is any existing security management YANG model available in O-RAN specifications\n  * Study and recommend the security requirement for YANG model aligning with \\[i.2\\]\n  * Study and identify the gaps related to security configuration\n  * Study the YANG models for certificate configuration\n  * Study the YANG models for NETCONF access control such as NACM configuration\n  * Study the YANG models for LDAP configuration",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "1 Scope"
+        "trace": "1 Scope",
+        "text_preview": "* Identify existing O-RAN YANG model for security management.\n* Study and recommend security requirements aligning with [i.2].\n* Study gaps in security configuration.\n* Examine YANG models for:\n + Certificate configuration\n + NETCONF access control (NACM)\n + LDAP configuration"
     },
     {
         "id": "/page/4/SectionHeader/10",
@@ -407,7 +447,8 @@
         "description": "",
         "text": "2 References",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "2 References"
+        "trace": "2 References",
+        "text_preview": "2 References"
     },
     {
         "id": "/page/4/SectionHeader/11",
@@ -417,7 +458,8 @@
         "description": "",
         "text": "2.1 Normative references",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "2 References --> 2.1 Normative references"
+        "trace": "2 References --> 2.1 Normative references",
+        "text_preview": "2.1 Normative references"
     },
     {
         "id": "/page/4/Text/12",
@@ -427,7 +469,8 @@
         "description": "",
         "text": "Not applicable.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "2 References --> 2.1 Normative references"
+        "trace": "2 References --> 2.1 Normative references",
+        "text_preview": "Not applicable."
     },
     {
         "id": "/page/4/SectionHeader/13",
@@ -437,7 +480,8 @@
         "description": "",
         "text": "2.2 Informative references",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "2 References --> 2.2 Informative references"
+        "trace": "2 References --> 2.2 Informative references",
+        "text_preview": "2.2 Informative references"
     },
     {
         "id": "/page/4/Text/14",
@@ -447,7 +491,8 @@
         "description": "",
         "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies. In the case of a reference to a 3GPP document, a non-specific reference implicitly refers to the latest version of that document in Release 18, or the latest 3GPP release prior to Release 18 that includes that document.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "2 References --> 2.2 Informative references"
+        "trace": "2 References --> 2.2 Informative references",
+        "text_preview": "References are either specific (date and edition) or non-specific. For specific references, only the cited version applies. Non-specific references apply to the latest version of the referenced document, including any amendments. For 3GPP documents, non-specific references refer to Release 18 or the prior release that includes it."
     },
     {
         "id": "/page/4/Text/15",
@@ -457,7 +502,8 @@
         "description": "",
         "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "2 References --> 2.2 Informative references"
+        "trace": "2 References --> 2.2 Informative references",
+        "text_preview": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity."
     },
     {
         "id": "/page/4/Text/16",
@@ -467,7 +513,8 @@
         "description": "",
         "text": "The following referenced documents are not necessary for the application of the present document, but they assist the user with regard to a particular subject area.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "2 References --> 2.2 Informative references"
+        "trace": "2 References --> 2.2 Informative references",
+        "text_preview": "The following referenced documents are not necessary for the application of the present document, but they assist the user with regard to a particular subject area."
     },
     {
         "id": "/page/4/Table/17",
@@ -477,7 +524,8 @@
         "description": "",
         "text": "[i.1]| O-RAN WG11: \"O-RAN Security Protocols Specification\".  \n---|---  \n[i.2]| O-RAN WG11: \"O-RAN Security Requirements and Controls Specification\".  \n[i.3]| O-RAN WG11: \"O-RAN Threat Modelling and Risk Assessment\".  \n[i.4]| O-RAN WG11: \"O-RAN Security Test Specifications\".  \n[i.5]| O-RAN WG4: \"O-RAN Management Plane Specification\".  \n[i.6]| IETF RFC 7950: \"The YANG 1.1 Data Modeling Language\".  \n[i.7]| O-RAN WG10: \" O-RAN Information Model and Data Models Specification\".  \n[i.8]| O-RAN WG10: \" O1 Network Resource Model Specification\".  \n[i.9]| O-RAN WG4: \" Cooperative Transport Interface Transport Management\nProcedures Specification\".  \n[i.10]| O-RAN WG5: \"O1 Interface specification for O-DU\".  \n[i.11]| O-RAN WG5: \"O1 Interface specification for O-CU-UP and O-CU-CP\".  \n[i.12]| An extensible YANG validator and converter in python,\nhttps://github.com/mbj4668/pyang.  \n[i.13]| O-RAN WG1: \"O-RAN Architecture Description\".  \n[i.14]| O-RAN WG10: \"O-RAN Operations and Maintenance Interface\nSpecification\".\n\n",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "2 References --> 2.2 Informative references"
+        "trace": "2 References --> 2.2 Informative references",
+        "text_preview": "[ i . 1 ] o - ran wg 1 1 : security protocols & controls . [ i . 2 ] o - ran wg 1 1 : threat modelling & risk assessment . [ i . 3 ] o - ran wg 1 1 : security test specs . [ i . 4 ] o - ran wg 4 : management plane spec . [ i"
     },
     {
         "id": "/page/4/PageFooter/18",
@@ -487,7 +535,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "2 References --> 2.2 Informative references"
+        "trace": "2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/4/PageFooter/19",
@@ -497,7 +546,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "2 References --> 2.2 Informative references"
+        "trace": "2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/5/PageHeader/0",
@@ -507,7 +557,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "2 References --> 2.2 Informative references"
+        "trace": "2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/5/Picture/1",
@@ -517,7 +568,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "2 References --> 2.2 Informative references"
+        "trace": "2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/5/SectionHeader/2",
@@ -527,7 +579,8 @@
         "description": "",
         "text": "3 Definition of terms, symbols and abbreviations",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations",
+        "text_preview": "3 Definition of terms, symbols and abbreviations"
     },
     {
         "id": "/page/5/SectionHeader/3",
@@ -537,7 +590,8 @@
         "description": "",
         "text": "3.1 Terms",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "3.1 Terms"
     },
     {
         "id": "/page/5/Text/4",
@@ -547,7 +601,8 @@
         "description": "",
         "text": "For the purposes of the present document, the terms \\[given in \\[i.1\\] and the following\\] apply:",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "For the purposes of the present document, the terms \\[given in \\[i.1\\] and the following\\] apply:"
     },
     {
         "id": "/page/5/Text/5",
@@ -557,7 +612,8 @@
         "description": "",
         "text": "Open Fronthaul M-Plane: Management interface controlling the O-RU, generally driven from the O-DU but in the case of the hybrid topology also driven from the SMO as specified in \\[i.13\\].",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "Open Fronthaul M-Plane: Management interface controlling the O-RU, generally driven from the O-DU but in the case of the hybrid topology also driven from the SMO as specified in \\[i.13\\]."
     },
     {
         "id": "/page/5/Text/6",
@@ -567,7 +623,8 @@
         "description": "",
         "text": "NOTE 1: Please refer to Error\\! Reference source not found. for more details.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "NOTE 1: Please refer to Error\\! Reference source not found. for more details."
     },
     {
         "id": "/page/5/Text/7",
@@ -577,7 +634,8 @@
         "description": "",
         "text": "O1: Interface used by the SMO framework, as specified in Clause 5.3.1, for operation and management of O-RAN NFs as specified in \\[i.13\\] \\[i.14\\].",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "O1: Interface used by the SMO framework, as specified in Clause 5.3.1, for operation and management of O-RAN NFs as specified in \\[i.13\\] \\[i.14\\]."
     },
     {
         "id": "/page/5/Text/8",
@@ -587,7 +645,8 @@
         "description": "",
         "text": "O-Cloud: Cloud platform that provides O-RAN standardized interfaces, hosting O-RAN defined software components.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "O-Cloud: Cloud platform that provides O-RAN standardized interfaces, hosting O-RAN defined software components."
     },
     {
         "id": "/page/5/Text/9",
@@ -597,7 +656,8 @@
         "description": "",
         "text": "SMO: A Service Management and Orchestration framework.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "SMO: A Service Management and Orchestration framework."
     },
     {
         "id": "/page/5/Text/10",
@@ -607,7 +667,8 @@
         "description": "",
         "text": "NOTE 2: Please refer to Clause Error\\! Reference source not found. for more details as specified in \\[i.13\\].",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "NOTE 2: Please refer to Clause Error\\! Reference source not found. for more details as specified in \\[i.13\\]."
     },
     {
         "id": "/page/5/SectionHeader/11",
@@ -617,7 +678,8 @@
         "description": "",
         "text": "3.2 Symbols",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.2 Symbols",
+        "text_preview": "3.2 Symbols"
     },
     {
         "id": "/page/5/Text/12",
@@ -627,7 +689,8 @@
         "description": "",
         "text": "Void",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.2 Symbols",
+        "text_preview": "Void"
     },
     {
         "id": "/page/5/SectionHeader/13",
@@ -637,7 +700,8 @@
         "description": "",
         "text": "3.3 Abbreviations",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "3.3 Abbreviations"
     },
     {
         "id": "/page/5/Text/14",
@@ -647,7 +711,8 @@
         "description": "",
         "text": "For the purposes of the present document, the abbreviations \\[given in \\[i.1\\]and the following\\] apply:",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "For the purposes of the present document, the abbreviations \\[given in \\[i.1\\]and the following\\] apply:"
     },
     {
         "id": "/page/5/Text/15",
@@ -657,7 +722,8 @@
         "description": "",
         "text": "LDAP Lightweight directory access protocol NACM NETCONF Access Control Model NETCONF Network Configuration Protocol",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "LDAP Lightweight directory access protocol NACM NETCONF Access Control Model NETCONF Network Configuration Protocol"
     },
     {
         "id": "/page/5/Text/16",
@@ -667,7 +733,8 @@
         "description": "",
         "text": "NF Network Function",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "NF Network Function"
     },
     {
         "id": "/page/5/Text/17",
@@ -677,7 +744,8 @@
         "description": "",
         "text": "O-RAN Open Radio Access Network",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "O-RAN Open Radio Access Network"
     },
     {
         "id": "/page/5/Text/18",
@@ -687,7 +755,8 @@
         "description": "",
         "text": "O-Cloud O-RAN Cloud",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "O-Cloud O-RAN Cloud"
     },
     {
         "id": "/page/5/Text/19",
@@ -697,7 +766,8 @@
         "description": "",
         "text": "PNF Physical Network Function",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "PNF Physical Network Function"
     },
     {
         "id": "/page/5/Text/20",
@@ -707,7 +777,8 @@
         "description": "",
         "text": "SMO Service Management and Orchestration",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "SMO Service Management and Orchestration"
     },
     {
         "id": "/page/5/Text/21",
@@ -717,7 +788,8 @@
         "description": "",
         "text": "VNF Virtualised Network Function YANG Yet Another Next Generation",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "VNF Virtualised Network Function YANG Yet Another Next Generation"
     },
     {
         "id": "/page/5/SectionHeader/22",
@@ -727,7 +799,8 @@
         "description": "",
         "text": "4 SCM Background",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "4 SCM Background"
+        "trace": "4 SCM Background",
+        "text_preview": "4 SCM Background"
     },
     {
         "id": "/page/5/SectionHeader/23",
@@ -737,7 +810,8 @@
         "description": "",
         "text": "4.1 Introduction",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "4 SCM Background --> 4.1 Introduction"
+        "trace": "4 SCM Background --> 4.1 Introduction",
+        "text_preview": "4.1 Introduction"
     },
     {
         "id": "/page/5/Text/24",
@@ -747,7 +821,8 @@
         "description": "",
         "text": "Management of security configuration is currently not handled in a consistent way in O-RAN. Different work groups see the topic in different ways. In some cases, this is expected to be a topic only for the security work group while in other cases it is defined within a work group.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "4 SCM Background --> 4.1 Introduction"
+        "trace": "4 SCM Background --> 4.1 Introduction",
+        "text_preview": "Management of security configuration is currently not handled in a consistent way in O-RAN. Different work groups see the topic in different ways. In some cases, this is expected to be a topic only for the security work group while in other cases it is defined within a work group."
     },
     {
         "id": "/page/5/PageFooter/25",
@@ -757,7 +832,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "4 SCM Background --> 4.1 Introduction"
+        "trace": "4 SCM Background --> 4.1 Introduction",
+        "text_preview": ""
     },
     {
         "id": "/page/5/PageFooter/26",
@@ -767,7 +843,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "4 SCM Background --> 4.1 Introduction"
+        "trace": "4 SCM Background --> 4.1 Introduction",
+        "text_preview": ""
     },
     {
         "id": "/page/6/PageHeader/0",
@@ -777,7 +854,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "4 SCM Background --> 4.1 Introduction"
+        "trace": "4 SCM Background --> 4.1 Introduction",
+        "text_preview": ""
     },
     {
         "id": "/page/6/Picture/1",
@@ -787,7 +865,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "4 SCM Background --> 4.1 Introduction"
+        "trace": "4 SCM Background --> 4.1 Introduction",
+        "text_preview": ""
     },
     {
         "id": "/page/6/Text/2",
@@ -797,7 +876,8 @@
         "description": "",
         "text": "For example, there are YANG models related to NACM included in WG4 definitions for Open Fronthaul M-plane. For O1, there are security requirements on NACM stated in \\[i.2\\]. There may be other areas where security configuration such as LDAP configuration, NACM configuration, Certificate Management configuration is required. Some of the security requirements related to NACM, LDAP are defined in \\[i.2\\].",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "4 SCM Background --> 4.1 Introduction"
+        "trace": "4 SCM Background --> 4.1 Introduction",
+        "text_preview": "There are YANG models for Open Fronthaul M-plane in WG4 definitions. Security requirements on NACM are stated in [i.2]. Other areas, such as LDAP and Certificate Management, may also require security configuration. Some security requirements related to NACM and LDAP are defined in [i.2]."
     },
     {
         "id": "/page/6/Text/3",
@@ -807,7 +887,8 @@
         "description": "",
         "text": "There are several discussions on O1 security configuration aspects such as NACM, etc happening across O-RAN WGs \\(WG11, W10, etc\\) showing a need to have Security Configuration Management specifications in O-RAN.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "4 SCM Background --> 4.1 Introduction"
+        "trace": "4 SCM Background --> 4.1 Introduction",
+        "text_preview": "There are several discussions on O1 security configuration aspects such as NACM, etc happening across O-RAN WGs \\(WG11, W10, etc\\) showing a need to have Security Configuration Management specifications in O-RAN."
     },
     {
         "id": "/page/6/SectionHeader/4",
@@ -817,7 +898,8 @@
         "description": "",
         "text": "4.2 Considerations",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "4 SCM Background --> 4.2 Considerations"
+        "trace": "4 SCM Background --> 4.2 Considerations",
+        "text_preview": "4.2 Considerations"
     },
     {
         "id": "/page/6/Text/5",
@@ -827,7 +909,8 @@
         "description": "",
         "text": "This document makes the following considerations:",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "4 SCM Background --> 4.2 Considerations"
+        "trace": "4 SCM Background --> 4.2 Considerations",
+        "text_preview": "This document makes the following considerations:"
     },
     {
         "id": "/page/6/ListGroup/209",
@@ -837,7 +920,8 @@
         "description": "",
         "text": "* This TR performs a detailed study of the Security Configuration Management for O1 interface and Open Fronthaul Mplane.\n  * The existing O-RAN specifications such as O-RAN.WG10.Information Model and Data Models \\[i.7\\], O-RAN.WG10.O1NRM.1 \\[i.8\\], O-RAN.WG4.MP-YANGs \\[i5\\], O-RAN.WG4.CTI-TMP-YANG \\[i.9\\], O-RAN.WG5.O-DU-O1.1 \\[i.10\\], O-RAN.WG5.O-CU-O1.0 \\[i.11\\] discuss the YANG models which are considered as the baseline specifications for the Security Configuration Management TR to identify and develop the security YANG models for O-RAN framework fulfilling the security requirements specified in \\[i.2\\].\n  * The Security YANG model considers the rules and guideline as specified in O-RAN specifications \\[i.5\\] \\[i.7\\] \\[i.8\\] \\[i.9\\] \\[i.10\\] \\[i.11\\].\n  * The pyang YANG validator tool is considered for evaluating the security YANG model as recommended in \\[i.12\\].\n  * The recommended security YANG models for O1 interface provided in this report to be shared with the impacted O-RAN Alliance working group, such as WG4 and WG10.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "4 SCM Background --> 4.2 Considerations"
+        "trace": "4 SCM Background --> 4.2 Considerations",
+        "text_preview": "this tr studies security configuration management for o 1 interface and open fronthaul mplane . existing o - ran specs discuss baseline security yang models , following guidelines [ i . 5 ] to [ i . 1 1 ]. pyang is used to evaluate these models , as recommended in [ i . 1 2 ]. recommended security yang models for o 1"
     },
     {
         "id": "/page/6/SectionHeader/11",
@@ -847,7 +931,8 @@
         "description": "",
         "text": "5 Study and identify the security gaps related to SCM",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM"
+        "trace": "5 Study and identify the security gaps related to SCM",
+        "text_preview": "5 Study and identify the security gaps related to SCM"
     },
     {
         "id": "/page/6/Text/12",
@@ -857,7 +942,8 @@
         "description": "",
         "text": "Editor's note: This clause will study and identify the security gaps related to security configuration management like NACM, certificate and LDAP aligning with SRCS and SPS.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM"
+        "trace": "5 Study and identify the security gaps related to SCM",
+        "text_preview": "Editor's note: This clause will study and identify the security gaps related to security configuration management like NACM, certificate and LDAP aligning with SRCS and SPS."
     },
     {
         "id": "/page/6/SectionHeader/13",
@@ -867,7 +953,8 @@
         "description": "",
         "text": "5.1 Assets",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets",
+        "text_preview": "5.1 Assets"
     },
     {
         "id": "/page/6/Text/14",
@@ -877,7 +964,8 @@
         "description": "",
         "text": "This document makes the following considerations:",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets",
+        "text_preview": "This document makes the following considerations:"
     },
     {
         "id": "/page/6/SectionHeader/15",
@@ -887,7 +975,8 @@
         "description": "",
         "text": "5.1.1 O-RAN Architecture Elements",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.1 O-RAN Architecture Elements"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.1 O-RAN Architecture Elements",
+        "text_preview": "5.1.1 O-RAN Architecture Elements"
     },
     {
         "id": "/page/6/ListGroup/210",
@@ -897,7 +986,8 @@
         "description": "",
         "text": "* ASSET-C-01: Logical module: Service Management and Orchestration \\(SMO\\)\n  * ASSET-C-02: Near-RT RIC software\n  * ASSET-C-03: O-CU-CP software\n  * ASSET-C-04: O-CU-UP software\n  * ASSET-C-05: O-DU software\n  * ASSET-C-06: O-RU software\n  * ASSET-C-07: O-eNB\n  * ASSET-C-31: Shared O-RU",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.1 O-RAN Architecture Elements"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.1 O-RAN Architecture Elements",
+        "text_preview": "* asset - c - 0 1 : logical module for service management and orchestration ( smo ) * asset - c - 0 2 : near - rt ric software * asset - c - 0 3 : o - cu - cp software * asset - c - 0 4 : o - cu - up software * asset - c - 0 5 :"
     },
     {
         "id": "/page/6/SectionHeader/24",
@@ -907,7 +997,8 @@
         "description": "",
         "text": "5.1.2 O-RAN interfaces",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.2 O-RAN interfaces"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.2 O-RAN interfaces",
+        "text_preview": "5.1.2 O-RAN interfaces"
     },
     {
         "id": "/page/6/ListGroup/211",
@@ -917,7 +1008,8 @@
         "description": "",
         "text": "* ASSET-C-22: O1 interface, including protocol stack\n  * ASSET-C-24: Open FH M-plane, including protocol stack",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.2 O-RAN interfaces"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.2 O-RAN interfaces",
+        "text_preview": "* ASSET-C-22: O1 interface, including protocol stack\n  * ASSET-C-24: Open FH M-plane, including protocol stack"
     },
     {
         "id": "/page/6/PageFooter/27",
@@ -927,7 +1019,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.2 O-RAN interfaces"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.2 O-RAN interfaces",
+        "text_preview": ""
     },
     {
         "id": "/page/6/PageFooter/28",
@@ -937,7 +1030,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.2 O-RAN interfaces"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.2 O-RAN interfaces",
+        "text_preview": ""
     },
     {
         "id": "/page/7/PageHeader/0",
@@ -947,7 +1041,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.2 O-RAN interfaces"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.2 O-RAN interfaces",
+        "text_preview": ""
     },
     {
         "id": "/page/7/Picture/1",
@@ -957,7 +1052,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.2 O-RAN interfaces"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.1 Assets --> 5.1.2 O-RAN interfaces",
+        "text_preview": ""
     },
     {
         "id": "/page/7/SectionHeader/2",
@@ -967,7 +1063,8 @@
         "description": "",
         "text": "5.2 Security Controls",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.2 Security Controls"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.2 Security Controls",
+        "text_preview": "5.2 Security Controls"
     },
     {
         "id": "/page/7/Text/3",
@@ -977,7 +1074,8 @@
         "description": "",
         "text": "The following security controls should be considered for the security gap analysis:",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.2 Security Controls"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.2 Security Controls",
+        "text_preview": "The following security controls should be considered for the security gap analysis:"
     },
     {
         "id": "/page/7/ListGroup/226",
@@ -987,7 +1085,8 @@
         "description": "",
         "text": "* Control-1: Certificate Management\n  * Control-2: TLS\n  * Control-3: mTLS\n  * Control-4: SSH\n  * Control-5: NACM with NETCONF\n  * Control-6: MACsec\n  * Control-7: IPsec\n  * Control-8: 802.1X",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.2 Security Controls"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.2 Security Controls",
+        "text_preview": "* Control-1: Certificate Management\n  * Control-2: TLS\n  * Control-3: mTLS\n  * Control-4: SSH\n  * Control-5: NACM with NETCONF\n  * Control-6: MACsec\n  * Control-7: IPsec\n  * Control-8: 802.1X"
     },
     {
         "id": "/page/7/SectionHeader/12",
@@ -997,7 +1096,8 @@
         "description": "",
         "text": "5.3 Input recommendations",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.3 Input recommendations"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.3 Input recommendations",
+        "text_preview": "5.3 Input recommendations"
     },
     {
         "id": "/page/7/Text/13",
@@ -1007,7 +1107,8 @@
         "description": "",
         "text": "The following are considered for security configuration management gap analysis:",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.3 Input recommendations"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.3 Input recommendations",
+        "text_preview": "The following are considered for security configuration management gap analysis:"
     },
     {
         "id": "/page/7/ListGroup/227",
@@ -1017,7 +1118,8 @@
         "description": "",
         "text": "* Certificate configuration\n  * NETCONF access control, NACM configuration\n  * LDAP configuration",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.3 Input recommendations"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.3 Input recommendations",
+        "text_preview": "* Certificate configuration\n  * NETCONF access control, NACM configuration\n  * LDAP configuration"
     },
     {
         "id": "/page/7/SectionHeader/17",
@@ -1027,7 +1129,8 @@
         "description": "",
         "text": "5.4 Threat template",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.4 Threat template"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.4 Threat template",
+        "text_preview": "5.4 Threat template"
     },
     {
         "id": "/page/7/Table/18",
@@ -1037,7 +1140,8 @@
         "description": "",
         "text": "Threat ID| O-RAN threat ID  \n---|---  \nThreat title| [Threat Title will include suitable reference of 3GPP/IETF/ETSI]  \nThreat description| Introduction about the threat  \nThreat type| Spoofing  \n| Tampering  \n| Repudiation  \n| Information disclosure  \n| Denial of Service  \n| Elevation of Privilege  \nVulnerability| TBD  \nImpact type| Authenticity  \n| Integrity  \n| Non-repudiation  \n| Confidentiality  \n| Availability  \n| Authorization  \nAffected Assets| Asset identification\n\n",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.4 Threat template"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.4 Threat template",
+        "text_preview": "threat id | o - ran threat id ---|--- threat title | [ 3 gpp / ietf / etsi reference ] threat description | introduction about the threat threat type | spoofing , tampering , repudiation , info disclosure , dos , eop vulnerability | tbd impact type | authenticity , integrity , non - re"
     },
     {
         "id": "/page/7/SectionHeader/19",
@@ -1047,7 +1151,8 @@
         "description": "",
         "text": "5.5 SCM Threats analysis",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis",
+        "text_preview": "5.5 SCM Threats analysis"
     },
     {
         "id": "/page/7/SectionHeader/20",
@@ -1057,7 +1162,8 @@
         "description": "",
         "text": "5.5.1 Certificate related threats",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats",
+        "text_preview": "5.5.1 Certificate related threats"
     },
     {
         "id": "/page/7/Table/21",
@@ -1067,7 +1173,8 @@
         "description": "",
         "text": "Threat ID| T-SCM-Cert-01  \n---|---  \nThreat title| Configuration of incorrect Certificate parameter  \nThreat  \ndescription| Certificate parameters may be misconfigured intentionally or\nunintentionally which may lead to  \nthe CA issuing a rogue certificate or the wrong certificate  \nThreat type| Denial of Service, Tampering  \nVulnerability| It may lead to incorrect certificate issued by the CA issuer\n\n",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats",
+        "text_preview": "Threat ID| T-SCM-Cert-01\n---|---\nThreat title| Incorrect Certificate Parameter Configuration\nThreat description| Misconfigured certificate parameters may result in a rogue or incorrect certificate being issued.\nThreat type| Denial of Service, Tampering\nVulnerability| Incorrect certificate issuance by CA issuer"
     },
     {
         "id": "/page/7/PageFooter/22",
@@ -1077,7 +1184,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats",
+        "text_preview": ""
     },
     {
         "id": "/page/7/PageFooter/23",
@@ -1087,7 +1195,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats",
+        "text_preview": ""
     },
     {
         "id": "/page/8/PageHeader/0",
@@ -1097,7 +1206,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats",
+        "text_preview": ""
     },
     {
         "id": "/page/8/Picture/1",
@@ -1107,7 +1217,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats",
+        "text_preview": ""
     },
     {
         "id": "/page/8/Table/2",
@@ -1117,7 +1228,8 @@
         "description": "",
         "text": "Impact type| Availability  \n---|---  \nAffected Asset| ASSET-C-01, ASSET-C-02, ASSET-C-03, ASSET-C-04,\nASSET-C-05,ASSET-C-06, ASSET-C  \n07, ASSET-C-31\n\n",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats",
+        "text_preview": "Impact type| Availability  \n---|---  \nAffected Asset| ASSET-C-01, ASSET-C-02, ASSET-C-03, ASSET-C-04,\nASSET-C-05,ASSET-C-06, ASSET-C  \n07, ASSET-C-31\n\n"
     },
     {
         "id": "/page/8/Table/3",
@@ -1127,7 +1239,8 @@
         "description": "",
         "text": "Threat ID| T-SCM-Cert-02  \n---|---  \nThreat title| Tampering of Certificate parameter  \nThreat  \ndescription| If the certificate parameters are tampered or comprised by the\nmalicious actor, which may lead  \nto initiation of valid certificate request to CA by the attacker  \n|  \nThreat type| Denial of Service, Tampering  \nVulnerability| Attacker may claim as trusted entity  \n| Confidentiality  \nImpact type| Authenticity  \n| Availability  \nAffected Asset| ASSET-C-01, ASSET-C-02, ASSET-C-03, ASSET-C-04,\nASSET-C-05,ASSET-C-06, ASSET-C  \n07, ASSET-C-31\n\n",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.1 Certificate related threats",
+        "text_preview": "threat id | t - scm - cert - 0 2 ---|--- threat title | tampering of certificate parameter threat description | malicious actor initiates valid certificate request . vulnerability | compromises confidentiality and authenticity as trusted entity . impact type | denial of service , availability affected asset | asset - c - 0 1 to asset"
     },
     {
         "id": "/page/8/SectionHeader/4",
@@ -1137,7 +1250,8 @@
         "description": "",
         "text": "5.5.2 NACM related threats",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.2 NACM related threats"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.2 NACM related threats",
+        "text_preview": "5.5.2 NACM related threats"
     },
     {
         "id": "/page/8/Text/5",
@@ -1147,7 +1261,8 @@
         "description": "",
         "text": "Void",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.2 NACM related threats"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.2 NACM related threats",
+        "text_preview": "Void"
     },
     {
         "id": "/page/8/SectionHeader/6",
@@ -1157,7 +1272,8 @@
         "description": "",
         "text": "5.5.3 LDAP related threats",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.3 LDAP related threats"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.3 LDAP related threats",
+        "text_preview": "5.5.3 LDAP related threats"
     },
     {
         "id": "/page/8/Text/7",
@@ -1167,7 +1283,8 @@
         "description": "",
         "text": "Void",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.3 LDAP related threats"
+        "trace": "5 Study and identify the security gaps related to SCM --> 5.5 SCM Threats analysis --> 5.5.3 LDAP related threats",
+        "text_preview": "Void"
     },
     {
         "id": "/page/8/SectionHeader/8",
@@ -1177,7 +1294,8 @@
         "description": "",
         "text": "6 Study and recommendation related to SCM",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "6 Study and recommendation related to SCM"
+        "trace": "6 Study and recommendation related to SCM",
+        "text_preview": "6 Study and recommendation related to SCM"
     },
     {
         "id": "/page/8/Text/9",
@@ -1187,7 +1305,8 @@
         "description": "",
         "text": "Editor's note: This clause will study and recommend the security requirements and security usecases related to security configuration management like NACM, Certificate and LDAP aligning with SRCS and SPS.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "6 Study and recommendation related to SCM"
+        "trace": "6 Study and recommendation related to SCM",
+        "text_preview": "Editor's note: This clause will study and recommend the security requirements and security usecases related to security configuration management like NACM, Certificate and LDAP aligning with SRCS and SPS."
     },
     {
         "id": "/page/8/Text/10",
@@ -1197,7 +1316,8 @@
         "description": "",
         "text": "Void",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "6 Study and recommendation related to SCM"
+        "trace": "6 Study and recommendation related to SCM",
+        "text_preview": "Void"
     },
     {
         "id": "/page/8/SectionHeader/11",
@@ -1207,7 +1327,8 @@
         "description": "",
         "text": "7 Conclusion",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "7 Conclusion"
+        "trace": "7 Conclusion",
+        "text_preview": "7 Conclusion"
     },
     {
         "id": "/page/8/Text/12",
@@ -1217,7 +1338,8 @@
         "description": "",
         "text": "Editor's note : This clause will provide the summary for the SCM TR.",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "7 Conclusion"
+        "trace": "7 Conclusion",
+        "text_preview": "Editor's note : This clause will provide the summary for the SCM TR."
     },
     {
         "id": "/page/8/Text/13",
@@ -1227,7 +1349,8 @@
         "description": "",
         "text": "Void",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "7 Conclusion"
+        "trace": "7 Conclusion",
+        "text_preview": "Void"
     },
     {
         "id": "/page/8/PageFooter/14",
@@ -1237,7 +1360,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "7 Conclusion"
+        "trace": "7 Conclusion",
+        "text_preview": ""
     },
     {
         "id": "/page/8/PageFooter/15",
@@ -1247,7 +1371,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "7 Conclusion"
+        "trace": "7 Conclusion",
+        "text_preview": ""
     },
     {
         "id": "/page/9/PageHeader/0",
@@ -1257,7 +1382,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "7 Conclusion"
+        "trace": "7 Conclusion",
+        "text_preview": ""
     },
     {
         "id": "/page/9/Picture/1",
@@ -1267,7 +1393,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "7 Conclusion"
+        "trace": "7 Conclusion",
+        "text_preview": ""
     },
     {
         "id": "/page/9/SectionHeader/2",
@@ -1277,7 +1404,8 @@
         "description": "",
         "text": "Annex:",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Annex:"
+        "trace": "Annex:",
+        "text_preview": "Annex:"
     },
     {
         "id": "/page/9/SectionHeader/3",
@@ -1287,7 +1415,8 @@
         "description": "",
         "text": "Change history/Change request \\(history\\)",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Change history/Change request \\(history\\)"
+        "trace": "Change history/Change request \\(history\\)",
+        "text_preview": "Change history/Change request \\(history\\)"
     },
     {
         "id": "/page/9/Table/4",
@@ -1297,7 +1426,8 @@
         "description": "",
         "text": "Date| Revision| Description  \n---|---|---  \n2025.01.28| 00.00.01| Skeleton proposal  \n2025.03.11| 00.02| Approved CR in the month of feb and March 2025- Internal\nO-RAN release  \n2025.03.12| 00.03| Feedback received during the SCM WI TR meeting [4] on\n11/03/2025  \n2025.04.16| 00.04| Approved CR in the month of April 2025 during the SCM WI TR\nmeeting  \n2025.06.03| 00.05| Approved CR in the month of June 2025 during the SCM WI TR\nmeeting  \n2025.06.18| 00.06| Updated the TR based on comments received and CR approved\ntill June 2025  \n| | ERI-2025.02.11-WG11-CR0207-SCM-Clause1_Scope-v02.docx  \n| | ERI-2025.02.11-WG11-CR0208-SCM-Clause2_Reference-v02.docx  \n| | ERI-2025.02.24-WG11-CR0213-SCM-Clause3.1_Terms-v03.docx  \n| | ERI-2025.02.24-WG11-CR0214-SCM-Clause3.3_Abbreviations-v01.docx  \n| | ERI-2025.02.25-WG11-CR0211-SCM-Clause4_Background-v03.docx  \n| | ERI-2025.02.25-WG11-CR0212-SCM-Clause4.1_Consideration-v03.docx  \n| | ERI-2025.04.09-WG11-CR0226-SCM-Clause5.1_assets-v03.docx  \n| | ERI-2025.04.09-WG11-CR0227-SCM-Clause5.2_SecurityControls-v04.docx  \n| | ERI-2025.04.09-WG11-CR0228-SCM-Clause5.3_ Recommendation for Security  \n| | Configuration Management-v03.docx  \n| | ERI-2025.05.07-WG11-CR0238-SCM-Clause5.4_ Threats Template-v01.docx  \n| | ERI-2025.05.07-WG11-CR0239-SCM-Clause5.5_ SCMThreatAnalysis-v01.docx  \n| | ERI-2025.05.21-WG11-CR0244-SCM-Clause5.5.1-CertificateRelatedThreats-v02.docx\n\n",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Change history/Change request \\(history\\)"
+        "trace": "Change history/Change request \\(history\\)",
+        "text_preview": "date | revision | description ---|---|--- 2 0 2 5 . 0 1 . 2 8 | | skeleton proposal 2 0 2 5 . 0 3 . 1 1 | 0 0 . 0 2 | approved cr feb / march 2 0 2 5 - o - ran release 2 0 2 5 . 0 4 . 1 6 |"
     },
     {
         "id": "/page/9/PageFooter/5",
@@ -1307,7 +1437,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Change history/Change request \\(history\\)"
+        "trace": "Change history/Change request \\(history\\)",
+        "text_preview": ""
     },
     {
         "id": "/page/9/PageFooter/6",
@@ -1317,6 +1448,7 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.SCM.0-R004-v01.00",
-        "trace": "Change history/Change request \\(history\\)"
+        "trace": "Change history/Change request \\(history\\)",
+        "text_preview": ""
     }
 ]

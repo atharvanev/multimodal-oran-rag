@@ -7,7 +7,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": ""
+        "trace": "",
+        "text_preview": ""
     },
     {
         "id": "/page/0/SectionHeader/1",
@@ -17,7 +18,8 @@
         "description": "",
         "text": "O-RAN.WG2.TS.A1TP-R004-v03.05",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "text_preview": "O-RAN.WG2.TS.A1TP-R004-v03.05"
     },
     {
         "id": "/page/0/Text/2",
@@ -27,7 +29,8 @@
         "description": "",
         "text": "Technical Specification",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "text_preview": "Technical Specification"
     },
     {
         "id": "/page/0/Text/3",
@@ -37,7 +40,8 @@
         "description": "",
         "text": "A1 interface: Transport Protocol",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "text_preview": "A1 interface: Transport Protocol"
     },
     {
         "id": "/page/0/Text/4",
@@ -47,7 +51,8 @@
         "description": "",
         "text": "Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "text_preview": "Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
     },
     {
         "id": "/page/0/Text/5",
@@ -57,7 +62,8 @@
         "description": "",
         "text": "The copying or incorporation into any other work of part or all of the material available in this specification in any form without the prior written permission of O-RAN ALLIANCE e.V. is prohibited, save that you may print or download extracts of the material of this specification for your personal use, or copy the material of this specification for the purpose of sending to individual third parties for their information provided that you acknowledge O-RAN ALLIANCE as the source of the material and that you inform the third party that these conditions apply to them and that they must comply with them.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "text_preview": "The copying or incorporation into any other work of part or all of the material available in this specification is prohibited without prior written permission from O-RAN ALLIANCE e.V. You may print or download extracts for personal use or informational purposes, acknowledging O-RAN ALLIANCE as source and informing them of these conditions."
     },
     {
         "id": "/page/0/Text/6",
@@ -67,7 +73,8 @@
         "description": "",
         "text": "O-RAN ALLIANCE e.V., Buschkauler Weg 27, 53347 Alfter, Germany",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "text_preview": "O-RAN ALLIANCE e.V., Buschkauler Weg 27, 53347 Alfter, Germany"
     },
     {
         "id": "/page/0/Text/7",
@@ -77,7 +84,8 @@
         "description": "",
         "text": "Register of Associations, Bonn VR 11238, VAT ID DE321720189",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "text_preview": "Register of Associations, Bonn VR 11238, VAT ID DE321720189"
     },
     {
         "id": "/page/1/PageHeader/0",
@@ -87,7 +95,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "text_preview": ""
     },
     {
         "id": "/page/1/Picture/1",
@@ -97,7 +106,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05"
+        "trace": "O-RAN.WG2.TS.A1TP-R004-v03.05",
+        "text_preview": ""
     },
     {
         "id": "/page/1/SectionHeader/2",
@@ -107,7 +117,8 @@
         "description": "",
         "text": "Contents",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": "Contents"
     },
     {
         "id": "/page/1/TableOfContents/3",
@@ -117,7 +128,8 @@
         "description": "",
         "text": "9Data interchange7  \n8Application  \n7Security7  \n6Transport layer  \n5Network layer6  \n4.1  \n4.2  \n4.3General5  \n5  \n4A1 interface protocol stack  \n3  \n3.1  \n3.2  \n3.3Definition of terms, symbols and abbreviations5  \n5  \n2  \n2.1  \n2.2References4  \n1Scope4  \nModlal verbs terminology3  \nForeeword3",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": "9Data interchange7  \n8Application  \n7Security7  \n6Transport layer  \n5Network layer  \n4General5  \n4.1  \n4.2  \n4.3Definition of terms, symbols and abbreviations5  \n2.1  \n2.2References4  \n1Scope4  \nModlal verbs terminology3  \nForeeword3"
     },
     {
         "id": "/page/1/PageFooter/4",
@@ -127,7 +139,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/1/PageFooter/5",
@@ -137,7 +150,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/PageHeader/0",
@@ -147,7 +161,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/Picture/1",
@@ -157,7 +172,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/SectionHeader/2",
@@ -167,7 +183,8 @@
         "description": "",
         "text": "Foreword",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "Foreword"
     },
     {
         "id": "/page/2/Text/3",
@@ -177,7 +194,8 @@
         "description": "",
         "text": "This Technical Specification \\(TS\\) has been produced by O-RAN Alliance Working Group 2. It is part of a TS-family covering the A1 interface as identified below:",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "This Technical Specification \\(TS\\) has been produced by O-RAN Alliance Working Group 2. It is part of a TS-family covering the A1 interface as identified below:"
     },
     {
         "id": "/page/2/ListGroup/160",
@@ -187,7 +205,8 @@
         "description": "",
         "text": "* \"A1 interface: General Aspects and Principles\";  \n  * \"A1 interface: Use Cases and Requirements\";\n  * \"A1 interface: Transport Protocol\";\n  * \"A1 interface: Application Protocol\";\n  * \"A1 interface: Type Definitions\"; and\n  * \"A1 interface: Test Specification\".",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "* \"A1 interface: General Aspects and Principles\";  \n  * \"A1 interface: Use Cases and Requirements\";\n  * \"A1 interface: Transport Protocol\";\n  * \"A1 interface: Application Protocol\";\n  * \"A1 interface: Type Definitions\"; and\n  * \"A1 interface: Test Specification\"."
     },
     {
         "id": "/page/2/Text/10",
@@ -197,7 +216,8 @@
         "description": "",
         "text": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN Alliance modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:"
     },
     {
         "id": "/page/2/Text/11",
@@ -207,7 +227,8 @@
         "description": "",
         "text": "version xx.yy.zz",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "version xx.yy.zz"
     },
     {
         "id": "/page/2/SectionHeader/12",
@@ -217,7 +238,8 @@
         "description": "",
         "text": "where:",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Foreword --> where:"
+        "trace": "Contents --> Foreword --> where:",
+        "text_preview": "where:"
     },
     {
         "id": "/page/2/ListGroup/161",
@@ -227,7 +249,8 @@
         "description": "",
         "text": "* xx: the first digit-group is incremented for all changes of substance, i.e. technical enhancements, corrections, updates, etc. \\(the initial approved document will have xx=01\\). Always 2 digits with leading zero if needed.\n  * yy: the second digit-group is incremented when editorial only changes have been incorporated in the document. Always 2 digits with leading zero if needed.\n  * zz: the third digit-group included only in working versions of the document indicating incremental changes during the editing process. External versions never include the third digit-group. Always 2 digits with leading zero if needed.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Foreword --> where:"
+        "trace": "Contents --> Foreword --> where:",
+        "text_preview": "* xx: first digit-group increments for substance changes (technical enhancements, corrections).\nInitial approved doc: xx=01, always 2 digits.\n* yy: second digit-group increments for editorial only changes.\n* zz: third digit-group (incremental changes during editing), never external."
     },
     {
         "id": "/page/2/SectionHeader/16",
@@ -237,7 +260,8 @@
         "description": "",
         "text": "Modal verbs terminology",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Modal verbs terminology"
+        "trace": "Contents --> Modal verbs terminology",
+        "text_preview": "Modal verbs terminology"
     },
     {
         "id": "/page/2/Text/17",
@@ -247,7 +271,8 @@
         "description": "",
         "text": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\).",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Modal verbs terminology"
+        "trace": "Contents --> Modal verbs terminology",
+        "text_preview": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\)."
     },
     {
         "id": "/page/2/Text/18",
@@ -257,7 +282,8 @@
         "description": "",
         "text": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Modal verbs terminology"
+        "trace": "Contents --> Modal verbs terminology",
+        "text_preview": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation."
     },
     {
         "id": "/page/2/PageFooter/19",
@@ -267,7 +293,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Modal verbs terminology"
+        "trace": "Contents --> Modal verbs terminology",
+        "text_preview": ""
     },
     {
         "id": "/page/2/PageFooter/20",
@@ -277,7 +304,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Modal verbs terminology"
+        "trace": "Contents --> Modal verbs terminology",
+        "text_preview": ""
     },
     {
         "id": "/page/3/PageHeader/0",
@@ -287,7 +315,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Modal verbs terminology"
+        "trace": "Contents --> Modal verbs terminology",
+        "text_preview": ""
     },
     {
         "id": "/page/3/Picture/1",
@@ -297,7 +326,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> Modal verbs terminology"
+        "trace": "Contents --> Modal verbs terminology",
+        "text_preview": ""
     },
     {
         "id": "/page/3/SectionHeader/2",
@@ -307,7 +337,8 @@
         "description": "",
         "text": "1 Scope",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 1 Scope"
+        "trace": "Contents --> 1 Scope",
+        "text_preview": "1 Scope"
     },
     {
         "id": "/page/3/Text/3",
@@ -317,7 +348,8 @@
         "description": "",
         "text": "The present document specifies the transport protocol stack for the A1 interface.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 1 Scope"
+        "trace": "Contents --> 1 Scope",
+        "text_preview": "The present document specifies the transport protocol stack for the A1 interface."
     },
     {
         "id": "/page/3/SectionHeader/4",
@@ -327,7 +359,8 @@
         "description": "",
         "text": "2 References",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2 References"
+        "trace": "Contents --> 2 References",
+        "text_preview": "2 References"
     },
     {
         "id": "/page/3/SectionHeader/5",
@@ -337,7 +370,8 @@
         "description": "",
         "text": "2.1 Normative references",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2 References --> 2.1 Normative references"
+        "trace": "Contents --> 2 References --> 2.1 Normative references",
+        "text_preview": "2.1 Normative references"
     },
     {
         "id": "/page/3/Text/6",
@@ -347,7 +381,8 @@
         "description": "",
         "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies. In the case of a reference to a 3GPP document, a non-specific reference implicitly refers to the latest version of that document in Release 18, or the latest 3GPP release prior to Release 18 that includes that document.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2 References --> 2.1 Normative references"
+        "trace": "Contents --> 2 References --> 2.1 Normative references",
+        "text_preview": "references are either specific ( date and / or edition number ) or non - specific . for specific references , only the cited version applies . non - specific references apply to the latest version of the referenced document , including any amendments . for 3 gpp documents , non - specific references refer to release 1 8 or the previous release that includes it"
     },
     {
         "id": "/page/3/Text/7",
@@ -357,7 +392,8 @@
         "description": "",
         "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2 References --> 2.1 Normative references"
+        "trace": "Contents --> 2 References --> 2.1 Normative references",
+        "text_preview": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity."
     },
     {
         "id": "/page/3/Text/8",
@@ -367,7 +403,8 @@
         "description": "",
         "text": "The following referenced documents are necessary for the application of the present document.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2 References --> 2.1 Normative references"
+        "trace": "Contents --> 2 References --> 2.1 Normative references",
+        "text_preview": "The following referenced documents are necessary for the application of the present document."
     },
     {
         "id": "/page/3/Text/12",
@@ -377,7 +414,8 @@
         "description": "",
         "text": "\\[1\\] O-RAN.WG2.TS.A1GAP: \"A1 interface: General Aspects and Principles\" \\(\"A1GAP\"\\).",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2 References --> 2.1 Normative references"
+        "trace": "Contents --> 2 References --> 2.1 Normative references",
+        "text_preview": "\\[1\\] O-RAN.WG2.TS.A1GAP: \"A1 interface: General Aspects and Principles\" \\(\"A1GAP\"\\)."
     },
     {
         "id": "/page/3/Table/9",
@@ -387,7 +425,8 @@
         "description": "",
         "text": "|  \n---|---  \n[2]| O-RAN.WG2.TS.A1AP: \"A1 interface: Application Protocol\" (\"A1AP\").  \n[3]| O-RAN.WG2.TS.A1TD: \"A1 interface: Type Definitions\" (\"A1TD\").  \n[4]| IETF RFC 793: \"Transmission Control Protocol\".  \n[5]| Void.  \n[6]| IETF RFC 8446: \"The Transport Layer Security (TLS) Protocol Version 1.3\".  \n[7]| Void.  \n[8]| Void.  \n[9]| Void.  \n[10]| Void.  \n[11]| IETF RFC 8259: \"The JavaScript Object Notation (JSON) Data Interchange\nFormat\".  \n[12]| IETF RFC 8200: \"Internet Protocol, Version 6 (IPv6) Specification\".  \n[13]| IETF RFC 791: \"Internet Protocol\".  \n[14]| Void.  \n[15]| Void.  \n[16]| O-RAN.WG11.TS.SRCS.0: \"O-RAN Security Requirements and Controls\nSpecifications\" (\"SRCS\").  \n[17]| O-RAN.WG11.TS.SecProtSpec.0: \"O-RAN Security Protocols Specifications\"\n(\"SPS\").  \n[18]| IETF RFC 9110: \"HTTP Semantics\".  \n[19]| IETF RFC 9112: \"HTTP/1.1\".  \n[20]| IETF RFC 9113: \"HTTP/2\".  \n|\n\n",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2 References --> 2.1 Normative references"
+        "trace": "Contents --> 2 References --> 2.1 Normative references",
+        "text_preview": "|---| |[ 2 ]| a 1 interface , a 1 ap [ 3 ]| a 1 interface , a 1 td [ 4 ]| tcp ( rfc 7 9 3 ) [ 6 ]| tls 1 . 3 ( rfc 8 4 4 6 ) [ 1 1 ]| json ( rfc 8 2 5 9 )"
     },
     {
         "id": "/page/3/PageFooter/10",
@@ -397,7 +436,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2 References --> 2.1 Normative references"
+        "trace": "Contents --> 2 References --> 2.1 Normative references",
+        "text_preview": ""
     },
     {
         "id": "/page/3/PageFooter/11",
@@ -407,7 +447,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2 References --> 2.1 Normative references"
+        "trace": "Contents --> 2 References --> 2.1 Normative references",
+        "text_preview": ""
     },
     {
         "id": "/page/4/PageHeader/0",
@@ -417,7 +458,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2 References --> 2.1 Normative references"
+        "trace": "Contents --> 2 References --> 2.1 Normative references",
+        "text_preview": ""
     },
     {
         "id": "/page/4/Picture/1",
@@ -427,7 +469,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2 References --> 2.1 Normative references"
+        "trace": "Contents --> 2 References --> 2.1 Normative references",
+        "text_preview": ""
     },
     {
         "id": "/page/4/SectionHeader/2",
@@ -437,7 +480,8 @@
         "description": "",
         "text": "2.2 Informative references",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2.2 Informative references"
+        "trace": "Contents --> 2.2 Informative references",
+        "text_preview": "2.2 Informative references"
     },
     {
         "id": "/page/4/Text/3",
@@ -447,7 +491,8 @@
         "description": "",
         "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies. In the case of a reference to a 3GPP document, a non-specific reference implicitly refers to the latest version of that document in Release 18, or the latest 3GPP release prior to Release 18 that includes that document.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2.2 Informative references"
+        "trace": "Contents --> 2.2 Informative references",
+        "text_preview": "References are either specific (date and/or edition number) or non-specific. Specific references apply only to the cited version, while non-specific references apply to the latest version of the referenced document, including any amendments. For 3GPP documents, non-specific references refer to Release 18 or prior releases."
     },
     {
         "id": "/page/4/Text/4",
@@ -457,7 +502,8 @@
         "description": "",
         "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2.2 Informative references"
+        "trace": "Contents --> 2.2 Informative references",
+        "text_preview": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity."
     },
     {
         "id": "/page/4/Text/5",
@@ -467,7 +513,8 @@
         "description": "",
         "text": "The following referenced documents are not necessary for the application of the present document, but they assist the user with regard to a particular subject area.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2.2 Informative references"
+        "trace": "Contents --> 2.2 Informative references",
+        "text_preview": "The following referenced documents are not necessary for the application of the present document, but they assist the user with regard to a particular subject area."
     },
     {
         "id": "/page/4/Text/6",
@@ -477,7 +524,8 @@
         "description": "",
         "text": "Not applicable.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Contents --> 2.2 Informative references"
+        "trace": "Contents --> 2.2 Informative references",
+        "text_preview": "Not applicable."
     },
     {
         "id": "/page/4/SectionHeader/7",
@@ -487,7 +535,8 @@
         "description": "",
         "text": "3 Definition of terms, symbols and abbreviations",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations",
+        "text_preview": "3 Definition of terms, symbols and abbreviations"
     },
     {
         "id": "/page/4/SectionHeader/8",
@@ -497,7 +546,8 @@
         "description": "",
         "text": "3.1 Terms",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "3.1 Terms"
     },
     {
         "id": "/page/4/Text/9",
@@ -507,7 +557,8 @@
         "description": "",
         "text": "For the purposes of the present document, the terms given in A1GAP \\[1\\], clause 3.1, apply.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "For the purposes of the present document, the terms given in A1GAP \\[1\\], clause 3.1, apply."
     },
     {
         "id": "/page/4/SectionHeader/10",
@@ -517,7 +568,8 @@
         "description": "",
         "text": "3.2 Symbols",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.2 Symbols",
+        "text_preview": "3.2 Symbols"
     },
     {
         "id": "/page/4/Text/11",
@@ -527,7 +579,8 @@
         "description": "",
         "text": "Void.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.2 Symbols",
+        "text_preview": "Void."
     },
     {
         "id": "/page/4/SectionHeader/12",
@@ -537,7 +590,8 @@
         "description": "",
         "text": "3.3 Abbreviations",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "3.3 Abbreviations"
     },
     {
         "id": "/page/4/Text/13",
@@ -547,7 +601,8 @@
         "description": "",
         "text": "For the purposes of the present document, the abbreviations given in A1GAP \\[1\\], clause 3.3, and the following apply:",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "For the purposes of the present document, the abbreviations given in A1GAP \\[1\\], clause 3.3, and the following apply:"
     },
     {
         "id": "/page/4/Text/14",
@@ -557,7 +612,8 @@
         "description": "",
         "text": "IETF Internet Engineering Task Force",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "IETF Internet Engineering Task Force"
     },
     {
         "id": "/page/4/Text/15",
@@ -567,7 +623,8 @@
         "description": "",
         "text": "JWT JSON Web Tokens RFC Request For Comments",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "JWT JSON Web Tokens RFC Request For Comments"
     },
     {
         "id": "/page/4/SectionHeader/16",
@@ -577,7 +634,8 @@
         "description": "",
         "text": "4 A1 interface protocol stack",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4 A1 interface protocol stack"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4 A1 interface protocol stack",
+        "text_preview": "4 A1 interface protocol stack"
     },
     {
         "id": "/page/4/SectionHeader/17",
@@ -587,7 +645,8 @@
         "description": "",
         "text": "4.1 General",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General",
+        "text_preview": "4.1 General"
     },
     {
         "id": "/page/4/Text/18",
@@ -597,7 +656,8 @@
         "description": "",
         "text": "The architecture for the A1 interface is specified in A1GAP \\[1\\], clause 4.1. The protocol stack for the A1 interface supports application protocol and data models as specified in A1AP \\[2\\] and A1TD \\[3\\].",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General",
+        "text_preview": "The architecture for the A1 interface is specified in A1GAP \\[1\\], clause 4.1. The protocol stack for the A1 interface supports application protocol and data models as specified in A1AP \\[2\\] and A1TD \\[3\\]."
     },
     {
         "id": "/page/4/SectionHeader/19",
@@ -607,7 +667,8 @@
         "description": "",
         "text": "4.2 Reference model",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model",
+        "text_preview": "4.2 Reference model"
     },
     {
         "id": "/page/4/Text/20",
@@ -617,7 +678,8 @@
         "description": "",
         "text": "The A1 interface is defined between the Non-RT RIC and the Near-RT RIC functions. The A1 architecture and principles are described in A1GAP \\[1\\], clause 4. Figure 4.2-1 illustrates the reference model for the A1 interface.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model",
+        "text_preview": "The A1 interface is defined between the Non-RT RIC and the Near-RT RIC functions. The A1 architecture and principles are described in A1GAP \\[1\\], clause 4. Figure 4.2-1 illustrates the reference model for the A1 interface."
     },
     {
         "id": "/page/4/PageFooter/21",
@@ -627,7 +689,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model",
+        "text_preview": ""
     },
     {
         "id": "/page/4/PageFooter/22",
@@ -637,7 +700,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model",
+        "text_preview": ""
     },
     {
         "id": "/page/5/PageHeader/0",
@@ -647,7 +711,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model",
+        "text_preview": ""
     },
     {
         "id": "/page/5/Picture/1",
@@ -657,7 +722,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model",
+        "text_preview": ""
     },
     {
         "id": "/page/5/PictureGroup/141",
@@ -667,7 +733,8 @@
         "description": "",
         "text": "Figure 4.2-1: A1 interface reference model",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.2 Reference model",
+        "text_preview": "Figure 4.2-1: A1 interface reference model"
     },
     {
         "id": "/page/5/SectionHeader/4",
@@ -677,7 +744,8 @@
         "description": "",
         "text": "4.3 Functions and protocol stack",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.3 Functions and protocol stack"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.3 Functions and protocol stack",
+        "text_preview": "4.3 Functions and protocol stack"
     },
     {
         "id": "/page/5/Text/5",
@@ -687,7 +755,8 @@
         "description": "",
         "text": "The following layers of the protocol stack for the A1 interface are described in the following clauses:",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.3 Functions and protocol stack"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.3 Functions and protocol stack",
+        "text_preview": "The following layers of the protocol stack for the A1 interface are described in the following clauses:"
     },
     {
         "id": "/page/5/ListGroup/143",
@@ -697,7 +766,8 @@
         "description": "",
         "text": "* TCP as specified in IETF RFC 793 \\[4\\] provides the communication service at the transport layer;\n  * TLS as specified in IETF RFC 8446 \\[6\\] is used to provide secure HTTP connections;\n  * HTTP as specified in IETF RFC 9110 \\[18\\], IETF RFC 9112 \\[19\\] and IETF RFC 9113 \\[20\\] is used as application-level protocol;\n  * The data interchange layer constitutes the transport of documents in the JSON format as specified in IETF RFC 8259 \\[11\\].",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.3 Functions and protocol stack"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.3 Functions and protocol stack",
+        "text_preview": "TCP (RFC 793) provides transport-layer communication service; \nTLS (RFC 8446) secures HTTP connections; \nHTTP (RFCs 9110, 9112, and 9113) is an application-level protocol;\nJSON (RFC 8259) transports documents."
     },
     {
         "id": "/page/5/TableGroup/142",
@@ -707,7 +777,8 @@
         "description": "",
         "text": "Figure 4.3-1 illustrates the protocol stack of the A1 interface.\nData InterchangeJSON  \nApplicationHTTP  \nSecurityTLS  \nTransportTCP  \nNetworkIP  \nData linkData link layer  \nPhysicalPhysical layer  \nFigure 4.3-1: A1 protocol stack",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.3 Functions and protocol stack"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 4.1 General --> 4.3 Functions and protocol stack",
+        "text_preview": "Figure 4.3-1 illustrates the protocol stack of the A1 interface.\nData InterchangeJSON  \nApplicationHTTP  \nSecurityTLS  \nTransportTCP  \nNetworkIP  \nData linkData link layer  \nPhysicalPhysical layer  \nFigure 4.3-1: A1 protocol stack"
     },
     {
         "id": "/page/5/SectionHeader/13",
@@ -717,7 +788,8 @@
         "description": "",
         "text": "5 Network layer",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer",
+        "text_preview": "5 Network layer"
     },
     {
         "id": "/page/5/Text/14",
@@ -727,7 +799,8 @@
         "description": "",
         "text": "A1 may be transported over IPv6 as specified in IETF RFC 8200 \\[12\\] and/or IPv4 as specified in IETF RFC 791 \\[13\\].",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer",
+        "text_preview": "A1 may be transported over IPv6 as specified in IETF RFC 8200 \\[12\\] and/or IPv4 as specified in IETF RFC 791 \\[13\\]."
     },
     {
         "id": "/page/5/PageFooter/15",
@@ -737,7 +810,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer",
+        "text_preview": ""
     },
     {
         "id": "/page/5/PageFooter/16",
@@ -747,7 +821,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer",
+        "text_preview": ""
     },
     {
         "id": "/page/6/PageHeader/0",
@@ -757,7 +832,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer",
+        "text_preview": ""
     },
     {
         "id": "/page/6/Picture/1",
@@ -767,7 +843,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer",
+        "text_preview": ""
     },
     {
         "id": "/page/6/SectionHeader/2",
@@ -777,7 +854,8 @@
         "description": "",
         "text": "6 Transport layer",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 6 Transport layer"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 6 Transport layer",
+        "text_preview": "6 Transport layer"
     },
     {
         "id": "/page/6/Text/3",
@@ -787,7 +865,8 @@
         "description": "",
         "text": "TCP as specified in IETF RFC 793 \\[4\\] shall be used as transport protocol. An HTTP connection is mapped to a TCP connection.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 6 Transport layer"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 6 Transport layer",
+        "text_preview": "TCP as specified in IETF RFC 793 \\[4\\] shall be used as transport protocol. An HTTP connection is mapped to a TCP connection."
     },
     {
         "id": "/page/6/Text/4",
@@ -797,7 +876,8 @@
         "description": "",
         "text": "Both Non-RT RIC and Near-RT RIC can act as HTTP client and HTTP server. As a result, Non-RT RIC and Near-RT RIC can establish a TCP connection for each direction.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 6 Transport layer"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 6 Transport layer",
+        "text_preview": "Both Non-RT RIC and Near-RT RIC can act as HTTP client and HTTP server. As a result, Non-RT RIC and Near-RT RIC can establish a TCP connection for each direction."
     },
     {
         "id": "/page/6/SectionHeader/5",
@@ -807,7 +887,8 @@
         "description": "",
         "text": "7 Security",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 7 Security"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 7 Security",
+        "text_preview": "7 Security"
     },
     {
         "id": "/page/6/Text/6",
@@ -817,7 +898,8 @@
         "description": "",
         "text": "TLS, mTLS, and OAuth2.0 shall be supported as specified in SRCS \\[16\\], clause 5.2.1.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 7 Security"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 7 Security",
+        "text_preview": "TLS, mTLS, and OAuth2.0 shall be supported as specified in SRCS \\[16\\], clause 5.2.1."
     },
     {
         "id": "/page/6/Text/7",
@@ -827,7 +909,8 @@
         "description": "",
         "text": "mTLS and OAuth 2.0 with JWT shall be supported as specified in SPS \\[17\\], clause 4.7.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 7 Security"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 7 Security",
+        "text_preview": "mTLS and OAuth 2.0 with JWT shall be supported as specified in SPS \\[17\\], clause 4.7."
     },
     {
         "id": "/page/6/SectionHeader/8",
@@ -837,7 +920,8 @@
         "description": "",
         "text": "8 Application",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application",
+        "text_preview": "8 Application"
     },
     {
         "id": "/page/6/Text/9",
@@ -847,7 +931,8 @@
         "description": "",
         "text": "As application layer, HTTP/1.1 as specified in IETF RFC 9112 \\[19\\] shall be supported, and HTTP/2 as specified in IETF RFC 9113 \\[20\\] should be supported.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application",
+        "text_preview": "As application layer, HTTP/1.1 as specified in IETF RFC 9112 \\[19\\] shall be supported, and HTTP/2 as specified in IETF RFC 9113 \\[20\\] should be supported."
     },
     {
         "id": "/page/6/Text/10",
@@ -857,7 +942,8 @@
         "description": "",
         "text": "HTTP over TLS as specified in IETF RFC 9110 \\[18\\] and IETF RFC 9112 \\[19\\] shall be supported. If HTTP/2 is supported, HTTP/2 over TLS as specified in IETF RFC 9113 \\[20\\] shall be supported.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application",
+        "text_preview": "HTTP over TLS (RFC 9110 and RFC 9112) shall be supported. If HTTP/2 is supported, HTTP/2 over TLS (RFC 9113) shall also be supported."
     },
     {
         "id": "/page/6/Text/11",
@@ -867,7 +953,8 @@
         "description": "",
         "text": "HTTP details such as standard headers, custom headers, error codes, methods, URIs etc are specified in A1AP \\[2\\].",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application",
+        "text_preview": "HTTP details such as standard headers, custom headers, error codes, methods, URIs etc are specified in A1AP \\[2\\]."
     },
     {
         "id": "/page/6/Text/12",
@@ -877,7 +964,8 @@
         "description": "",
         "text": "The default TCP port numbers should be used for HTTP operation.",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 8 Application",
+        "text_preview": "The default TCP port numbers should be used for HTTP operation."
     },
     {
         "id": "/page/6/SectionHeader/13",
@@ -887,7 +975,8 @@
         "description": "",
         "text": "9 Data interchange",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange",
+        "text_preview": "9 Data interchange"
     },
     {
         "id": "/page/6/Text/14",
@@ -897,7 +986,8 @@
         "description": "",
         "text": "As a data interchange format, JSON as specified in IETF RFC 8259 \\[11\\] shall be supported. The objects transported in HTTP messages, and the data types in JSON format, are specified in A1TD \\[3\\].",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange",
+        "text_preview": "As a data interchange format, JSON as specified in IETF RFC 8259 \\[11\\] shall be supported. The objects transported in HTTP messages, and the data types in JSON format, are specified in A1TD \\[3\\]."
     },
     {
         "id": "/page/6/PageFooter/15",
@@ -907,7 +997,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange",
+        "text_preview": ""
     },
     {
         "id": "/page/6/PageFooter/16",
@@ -917,7 +1008,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange",
+        "text_preview": ""
     },
     {
         "id": "/page/7/PageHeader/0",
@@ -927,7 +1019,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange",
+        "text_preview": ""
     },
     {
         "id": "/page/7/Picture/1",
@@ -937,7 +1030,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange"
+        "trace": "3 Definition of terms, symbols and abbreviations --> 5 Network layer --> 9 Data interchange",
+        "text_preview": ""
     },
     {
         "id": "/page/7/SectionHeader/2",
@@ -947,7 +1041,8 @@
         "description": "",
         "text": "Annex \\(informative\\): Change History",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Annex \\(informative\\): Change History"
+        "trace": "Annex \\(informative\\): Change History",
+        "text_preview": "Annex \\(informative\\): Change History"
     },
     {
         "id": "/page/7/Table/3",
@@ -957,7 +1052,8 @@
         "description": "",
         "text": "Date| Revision| Description  \n---|---|---  \n2019.09.30| 01.00| First version  \n2021.03.13| 01.01| Editorial corrections to apply latest template and update\nreferences. Clarification of HTTP  \nport number.  \n2022.07.30| 02.00| Adapting to ODR template and referring to O-RAN security\nspecifications for mTLS and  \nOAuth2.0  \n2022.11.17| 02.01| Aligning to O-RAN drafting rules  \n2023.07.31| 03.00| Updating obsolete references and applying latest template  \n2023.11.30| 03.01| ETSI PAS related editorial enhancements of references in\nclause 7  \n2024.03.31| 03.02| Editorial enhancement of references  \n2024.07.31| 03.03| Updated specification designator to R004  \n2024.11.30| 03.04| Editorial enhancement of references  \n2025.07.31| 03.05| Applying latest template\n\n",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Annex \\(informative\\): Change History"
+        "trace": "Annex \\(informative\\): Change History",
+        "text_preview": "date | revision | description ---|---|--- 2 0 1 9 . 0 9 . 3 0 | 0 1 . 0 0 | first version 2 0 2 1 . 0 3 . 1 3 | 0 1 . 0 1 | editorial corrections and http port number clarification 2 0 2 2 . 0 7 . 3 0 | 0"
     },
     {
         "id": "/page/7/PageFooter/4",
@@ -967,7 +1063,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Annex \\(informative\\): Change History"
+        "trace": "Annex \\(informative\\): Change History",
+        "text_preview": ""
     },
     {
         "id": "/page/7/PageFooter/5",
@@ -977,6 +1074,7 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG2.TS.A1TP-R004-v03.05",
-        "trace": "Annex \\(informative\\): Change History"
+        "trace": "Annex \\(informative\\): Change History",
+        "text_preview": ""
     }
 ]

@@ -7,7 +7,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": ""
+        "trace": "",
+        "text_preview": ""
     },
     {
         "id": "/page/0/SectionHeader/1",
@@ -17,7 +18,8 @@
         "description": "",
         "text": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00"
+        "trace": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "text_preview": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00"
     },
     {
         "id": "/page/0/Text/2",
@@ -27,7 +29,8 @@
         "description": "",
         "text": "Technical Report",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00"
+        "trace": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
+        "text_preview": "Technical Report"
     },
     {
         "id": "/page/0/SectionHeader/3",
@@ -37,7 +40,8 @@
         "description": "",
         "text": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography"
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography",
+        "text_preview": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography"
     },
     {
         "id": "/page/0/SectionHeader/4",
@@ -47,7 +51,8 @@
         "description": "",
         "text": "Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "text_preview": "Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
     },
     {
         "id": "/page/0/Text/5",
@@ -57,7 +62,8 @@
         "description": "",
         "text": "The copying or incorporation into any other work of part or all of the material available in this document in any form without the prior written permission of O-RAN ALLIANCE e.V. is prohibited, save that you may print or download extracts of the material of this document for your personal use, or copy the material of this document for the purpose of sending to individual third parties for their information provided that you acknowledge O-RAN ALLIANCE as the source of the material and that you inform the third party that these conditions apply to them and that they must comply with them.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "text_preview": "the copying or incorporation into any other work of part or all of the material available in this document is prohibited without prior written permission from o - ran alliance e . v . you may print or download extracts for personal use , or copy for informational purposes to send to individual third parties , acknowledging o - ran alliance as source and informing"
     },
     {
         "id": "/page/0/PageFooter/6",
@@ -67,7 +73,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "text_preview": ""
     },
     {
         "id": "/page/1/PageHeader/0",
@@ -77,7 +84,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "text_preview": ""
     },
     {
         "id": "/page/1/Picture/1",
@@ -87,7 +95,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V."
+        "trace": "O-RAN Work Group 11 \\(Security work group\\) Study on Post-Quantum Cryptography --> Copyright \u00a9 2025 by the O-RAN ALLIANCE e.V.",
+        "text_preview": ""
     },
     {
         "id": "/page/1/SectionHeader/2",
@@ -97,7 +106,8 @@
         "description": "",
         "text": "Contents",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": "Contents"
     },
     {
         "id": "/page/1/TableOfContents/3",
@@ -107,7 +117,8 @@
         "description": "",
         "text": "Listof tables 3  \nForeeword4  \ndal verbs terminology  \noduction  \n1Scope  \n2\u2022  \n2.1Normative references5  \n2.2Informative references 5  \n3Definition of terms, symbols and abbreviations8  \n3.1Terms8  \n3.2Symbols8  \n3.3Abbreviations8  \n4Post-Quantum Cryptography background8  \n5Cryptographic inventory9  \n\u0394nnney: Change history/Change request \\(history\\)13",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": "1. List of tables\n2. Foreword\n3. Dal verbs terminology\n4. Conclusion\n5. Definition of terms, symbols and abbreviations\n6. Post-Quantum Cryptography background\n7. Cryptographic inventory\n8. Change history/Change request"
     },
     {
         "id": "/page/1/PageFooter/4",
@@ -117,7 +128,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/1/PageFooter/5",
@@ -127,7 +139,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/PageHeader/0",
@@ -137,7 +150,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/Picture/1",
@@ -147,7 +161,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/TableOfContents/2",
@@ -157,7 +172,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/Text/3",
@@ -167,7 +183,8 @@
         "description": "",
         "text": "Table 5-1: Cryptographic inventory................................................................................................................................................ 9",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": "Table 5-1: Cryptographic inventory................................................................................................................................................ 9"
     },
     {
         "id": "/page/2/PageFooter/4",
@@ -177,7 +194,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/2/PageFooter/5",
@@ -187,7 +205,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/3/PageHeader/0",
@@ -197,7 +216,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/3/Picture/1",
@@ -207,7 +227,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents"
+        "trace": "Contents",
+        "text_preview": ""
     },
     {
         "id": "/page/3/SectionHeader/2",
@@ -217,7 +238,8 @@
         "description": "",
         "text": "Foreword",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "Foreword"
     },
     {
         "id": "/page/3/Text/3",
@@ -227,7 +249,8 @@
         "description": "",
         "text": "This Technical Report \\(TR\\) has been produced by WG11 of the O-RAN ALLIANCE.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "This Technical Report \\(TR\\) has been produced by WG11 of the O-RAN ALLIANCE."
     },
     {
         "id": "/page/3/Text/4",
@@ -237,7 +260,8 @@
         "description": "",
         "text": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN ALLIANCE modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "The content of the present document is subject to continuing work within O-RAN and may change following formal O-RAN approval. Should the O-RAN ALLIANCE modify the contents of the present document, it will be re-released by O-RAN with an identifying change of version date and an increase in version number as follows:"
     },
     {
         "id": "/page/3/Text/5",
@@ -247,7 +271,8 @@
         "description": "",
         "text": "version xx.yy.zz",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents --> Foreword"
+        "trace": "Contents --> Foreword",
+        "text_preview": "version xx.yy.zz"
     },
     {
         "id": "/page/3/SectionHeader/6",
@@ -257,7 +282,8 @@
         "description": "",
         "text": "where:",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents --> Foreword --> where:"
+        "trace": "Contents --> Foreword --> where:",
+        "text_preview": "where:"
     },
     {
         "id": "/page/3/ListGroup/182",
@@ -267,7 +293,8 @@
         "description": "",
         "text": "* xx: the first digit-group is incremented for all changes of substance, i.e. technical enhancements, corrections, updates, etc. \\(the initial approved document will have xx=01\\). Always 2 digits with leading zero if needed.  \n  * yy: the second digit-group is incremented when editorial only changes have been incorporated in the document. Always 2 digits with leading zero if needed.\n  * zz: the third digit-group included only in working versions of the document indicating incremental changes during the editing process. External versions never include the third digit-group. Always 2 digits with leading zero if needed.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Contents --> Foreword --> where:"
+        "trace": "Contents --> Foreword --> where:",
+        "text_preview": "* xx: First digit-group incremented for all substance changes (technical enhancements, corrections, updates).\n  * yy: Second digit-group incremented for editorial only changes.\n  * zz: Third digit-group included in working versions, indicating incremental editing changes."
     },
     {
         "id": "/page/3/SectionHeader/10",
@@ -277,7 +304,8 @@
         "description": "",
         "text": "Modal verbs terminology",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": "Modal verbs terminology"
     },
     {
         "id": "/page/3/Text/11",
@@ -287,7 +315,8 @@
         "description": "",
         "text": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\).",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": "In the present document \"shall\", \"shall not\", \"should\", \"should not\", \"may\", \"need not\", \"will\", \"will not\", \"can\" and \"cannot\" are to be interpreted as described in clause 3.2 of the O-RAN Drafting Rules \\(Verbal forms for the expression of provisions\\)."
     },
     {
         "id": "/page/3/Text/12",
@@ -297,7 +326,8 @@
         "description": "",
         "text": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Modal verbs terminology"
+        "trace": "Modal verbs terminology",
+        "text_preview": "\"must\" and \"must not\" are NOT allowed in O-RAN deliverables except when used in direct citation."
     },
     {
         "id": "/page/3/SectionHeader/13",
@@ -307,7 +337,8 @@
         "description": "",
         "text": "Introduction",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": "Introduction"
     },
     {
         "id": "/page/3/Text/14",
@@ -317,7 +348,8 @@
         "description": "",
         "text": "The increasing sophistication of quantum computing poses a significant threat to the security of classical asymmetric cryptographic algorithms currently used in O-RAN networks. As quantum computers become more powerful, they will be capable of breaking asymmetric classical encryption algorithms, potentially compromising the confidentiality, integrity, and authenticity of sensitive information exchanged between network entities. This vulnerability has far-reaching implications for the security and trustworthiness of O-RAN networks, which are designed to provide secure and reliable communication services for critical infrastructure and applications.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": "The increasing sophistication of quantum computing poses a significant threat to classical asymmetric cryptographic algorithms used in O-RAN networks. As quantum computers become more powerful, they can break these algorithms, compromising confidentiality and authenticity of sensitive information, with far-reaching implications for network security and trustworthiness."
     },
     {
         "id": "/page/3/Text/15",
@@ -327,7 +359,8 @@
         "description": "",
         "text": "The migration to Quantum Safe Cryptography \\(QSC\\) is essential to ensure the long-term security and resilience of O-RAN networks against potential quantum computer-based attacks. QSC refers to cryptographic techniques and algorithms that are resistant to attacks by both classical and quantum computers. By migrating to QSC, O-RAN networks can maintain their security posture and prevent potential disruptions to services and operations.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": "The migration to Quantum Safe Cryptography (QSC) is essential for long-term security and resilience in O-RAN networks against quantum computer-based attacks. QSC refers to cryptographic techniques resistant to both classical and quantum computer attacks, maintaining network security and preventing disruptions."
     },
     {
         "id": "/page/3/Text/16",
@@ -337,7 +370,8 @@
         "description": "",
         "text": "This technical report contains a cryptographic inventory, covering all cryptographic algorithms employed in O-RAN specification at this time.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": "This technical report contains a cryptographic inventory, covering all cryptographic algorithms employed in O-RAN specification at this time."
     },
     {
         "id": "/page/3/PageFooter/17",
@@ -347,7 +381,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": ""
     },
     {
         "id": "/page/3/PageFooter/18",
@@ -357,7 +392,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": ""
     },
     {
         "id": "/page/4/PageHeader/0",
@@ -367,7 +403,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": ""
     },
     {
         "id": "/page/4/Picture/1",
@@ -377,7 +414,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction"
+        "trace": "Introduction",
+        "text_preview": ""
     },
     {
         "id": "/page/4/SectionHeader/2",
@@ -387,7 +425,8 @@
         "description": "",
         "text": "1 Scope",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 1 Scope"
+        "trace": "Introduction --> 1 Scope",
+        "text_preview": "1 Scope"
     },
     {
         "id": "/page/4/Text/3",
@@ -397,7 +436,8 @@
         "description": "",
         "text": "The present document presents the Post-Quantum Cryptography study as it applies to O-RAN architectural elements.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 1 Scope"
+        "trace": "Introduction --> 1 Scope",
+        "text_preview": "The present document presents the Post-Quantum Cryptography study as it applies to O-RAN architectural elements."
     },
     {
         "id": "/page/4/SectionHeader/4",
@@ -407,7 +447,8 @@
         "description": "",
         "text": "2 References",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References"
+        "trace": "Introduction --> 2 References",
+        "text_preview": "2 References"
     },
     {
         "id": "/page/4/SectionHeader/5",
@@ -417,7 +458,8 @@
         "description": "",
         "text": "2.1 Normative references",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+        "trace": "Introduction --> 2 References --> 2.1 Normative references",
+        "text_preview": "2.1 Normative references"
     },
     {
         "id": "/page/4/Text/6",
@@ -427,7 +469,8 @@
         "description": "",
         "text": "Not applicable.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.1 Normative references"
+        "trace": "Introduction --> 2 References --> 2.1 Normative references",
+        "text_preview": "Not applicable."
     },
     {
         "id": "/page/4/SectionHeader/7",
@@ -437,7 +480,8 @@
         "description": "",
         "text": "2.2 Informative references",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": "2.2 Informative references"
     },
     {
         "id": "/page/4/Text/8",
@@ -447,7 +491,8 @@
         "description": "",
         "text": "References are either specific \\(identified by date of publication and/or edition number or version number\\) or non-specific. For specific references, only the cited version applies. For non-specific references, the latest version of the referenced document \\(including any amendments\\) applies. In the case of a reference to a 3GPP document, a non-specific reference implicitly refers to the latest version of that document in Release 18, or the latest 3GPP release prior to Release 18 that includes that document.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": "references are either specific ( date and / or edition number ) or non - specific . for specific references , only the cited version applies . non - specific references apply to the latest version of the referenced document , including any amendments . for 3 gpp documents , non - specific references refer to release 1 8 or the previous release that includes it"
     },
     {
         "id": "/page/4/Text/9",
@@ -457,7 +502,8 @@
         "description": "",
         "text": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": "NOTE: While any hyperlinks included in this clause were valid at the time of publication, O-RAN cannot guarantee their long-term validity."
     },
     {
         "id": "/page/4/Text/10",
@@ -467,7 +513,8 @@
         "description": "",
         "text": "The following referenced documents are not necessary for the application of the present document, but they assist the user with regard to a particular subject area.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": "The following referenced documents are not necessary for the application of the present document, but they assist the user with regard to a particular subject area."
     },
     {
         "id": "/page/4/Table/11",
@@ -477,7 +524,8 @@
         "description": "",
         "text": "|  \n---|---  \n[i.1]| 3GPP TR 21.905: \"Vocabulary for 3GPP Specifications\".  \n[i.2]| NIST Post-Quantum Cryptography, call for papers;\nhttps://csrc.nist.gov/Projects/post-quantum  \ncryptography/post-quantum-cryptography-standardization/Call-for-Proposals  \n[i.3]| FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard;  \nhttps://csrc.nist.gov/pubs/fips/203/final  \n[i.4]| FIPS 204: Module-Lattice-Based Digital Signature Standard;\nhttps://csrc.nist.gov/pubs/fips/204/final  \n[i.5]| FIPS 205: Stateless Hash-Based Digital Signature Standard;\nhttps://csrc.nist.gov/pubs/fips/205/final  \n[i.6]| NCSC whitepaper: Next steps in preparing for post-quantum cryptography;  \nhttps://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-\ncryptography  \n[i.7]| ETSI TR 103 619 V1.1.1 (2020-07), \"Migration strategies and\nrecommendations to Quantum Safe  \nschemes\"  \n[i.8]| ETSI TC CYBER, ETSI QSC, \"Quantum Safe Cryptographic Protocol\nInventory\",  \nCYBERQSC(23)032007r2_QSC_Protocol_Inventory_LSOut.pdf  \n[i.9]| GSMA, \"LS regarding the publication of the Post Quantum Cryptography \u2013\nGuidelines for Telecom Use  \nCases document in Feb 24\"  \n[i.10]| GSMA, \"Post Quantum Cryptography \u2013 Guidelines for Telecom Use Cases\";  \nhttps://www.gsma.com/newsroom/wp-content/uploads/PQ.03-Post-Quantum-\nCryptography-Guidelines  \nfor-Telecom-Use-v1.0.pdf  \n[i.11]| NIST, Post-Quantum Cryptography; https://www.nist.gov/programs-\nprojects/post-quantum-cryptography  \n[i.12]| O-RAN ALLIANCE TS \"O-RAN WG4 Management Plane Specification\"  \n[i.13]| O-RAN ALLIANCE TS \"O-RAN WG10 O-RAN O1 Interface Specification\"  \n|\n\n",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": "| i . 1 | 3 gpp tr 2 1 . 9 0 5 : vocabulary for 3 gpp specifications | | i . 2 | nist post - quantum cryptography call for papers : https :// csrc . nist . gov / projects / post - quantum - cryptography | | i . 3 | fips 2 0 3 : module"
     },
     {
         "id": "/page/4/PageFooter/12",
@@ -487,7 +535,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/4/PageFooter/13",
@@ -497,7 +546,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/5/PageHeader/0",
@@ -507,7 +557,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/5/Picture/1",
@@ -517,7 +568,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/5/TableOfContents/2",
@@ -527,7 +579,8 @@
         "description": "",
         "text": "\\[i.14\\]O-RAN ALLIANCE TS \"O-RAN WG11 Security Protocols Specifications\"  \n\\[i.15\\]IETF RFC 5656: \"Elliptic Curve Algorithm Integration in the Secure Shell Transport Layer\"  \n\\[i.16\\]IETF RFC 8709: \"Ed25519 and Ed448 Public Key Algorithms for the Secure Shell \\(SSH\\) Protocol\"  \n\\[i.17\\]IETF RFC 5647: \"AES Galois Counter Mode for the Secure Shell Transport Layer Protocol\"  \n\\[i.18\\]IETF RFC 4344: \"The Secure Shell \\(SSH\\) Transport Layer Encryption Modes\"  \n\\[i.19\\]IETF RFC 4419: \"Diffie-Hellman Group Exchange for the Secure Shell \\(SSH\\) Transport Layer Protocol\"  \n\\[i.20\\]IETF RFC 8270. \"Increase the Secure Shell Minimum Recommended Diffie-Hellman Modulus Size to  \n2048 Bits\"  \n\\[i.21\\]IETF RFC 8731: \"Secure Shell \\(SSH\\) Key Exchange Method Using Curve25519 and Curve448\"  \n\\[i.22\\]IETF RFC 6668: \"SHA-2 Data Integrity Verification for the Secure Shell \\(SSH\\) Transport Layer  \nProtocol\"  \n\\[i.23\\]IETF RFC 4418: \"UMAC: Message Authentication Code using Universal Hashing\"  \n\\[i.24\\]O-RAN ALLIANCE TS \"A1 interface: Transport Protocol\"  \n\\[i.25\\]O-RAN ALLIANCE TS \"Transport Protocols for R1 Services\"  \n\\[i.26\\]O-RAN ALLIANCE TS \"Y1 interface: General Aspects and Principles\"  \n\\[i.27\\]IETF RFC 5116: \"An Interface and Algorithms for Authenticated Encryption\"  \n\\[i.28\\]IETF RFC 8422: \"Elliptic Curve Cryptography \\(ECC\\) Cipher Suites for Transport Layer Security \\(TLS\\)  \nVersions 1.2 and Earlier\"  \n\\[i.29\\]IETF RFC 7919: \"Negotiated Finite Field Diffie-Hellman Ephemeral Parameters for Transport Layer  \nSecurity \\(TLS\\) \"  \n\\[i.30\\]IETF RFC 6234: \"US Secure Hash Algorithms \\(SHA and SHA-based HMAC and HKDF\\) \"  \n\\[i.31\\]IETF RFC 8446: \"The Transport Layer Security \\(TLS\\) Protocol Version 1.3\"  \n\\[i.32\\]IETF RFC 8439: \"ChaCha20 and Poly1305 for IETF Protocols\"  \n\\[i.33\\]BSI TR-02102-2: \"Cryptographic Mechanisms: Recommendations and Key Lengths: Use of Transport  \nLayer Security \\(TLS\\) \"  \n\\[i.34\\]NIST SP 800-38D: \"Recommendation for Block Cipher Modes of Operation: Galois/Counter Mode  \n\\(GCM\\) and GMAC\"  \n\\[i.35\\]IETF RFC 8032: \"Edwards-Curve Digital Signature Algorithm \\(EdDSA\\)\"  \n\\[i.36\\]IETF RFC 7518: \"JSON Web Algorithms \\(JWA\\)\"  \n\\[i.37\\]O-RAN ALLIANCE TS \"O-RAN Near-RT RIC Architecture\"  \n\\[i.38\\]O-RAN ALLIANCE TS \"O-RAN Acceleration Abstraction Layer General Aspects and Principles\"  \n\\[i.39\\]O-RAN ALLIANCE TS \"O-RAN WG6 O2 Interface General Aspects and Principles\"  \n\\[i.40\\]IETF RFC 7516: \"JSON Web Encryption \\(JWE\\)\"  \n\\[i.41\\]IEEE Std 802.1AE-2018, IEEE Standard for Local and metropolitan area networks \u2014 Media Access  \nControl \\(MAC\\) Security, IEEE, 2018  \n\\[i.42\\]IEEE 802.1X-2020, \"IEEE Standard for Local and Metropolitan Area NetworksPort-Based Network  \nAccess Control\", IEEE, 2020-02-28",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": "\\[ i . 1 4 \\] o - ran alliance ts \" o - ran wg 1 1 security protocols specifications \" references : - ietf rfc 5 6 5 6 , 8 7 0 9 , 5 6 4 7 , 4 3 4 4 , 4 4 1 9 , 8 2 7 0 , and 8 7 3 1 . these references"
     },
     {
         "id": "/page/5/PageFooter/3",
@@ -537,7 +590,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/5/PageFooter/4",
@@ -547,7 +601,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/6/PageHeader/0",
@@ -557,7 +612,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/6/Picture/1",
@@ -567,7 +623,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/6/Table/2",
@@ -577,7 +634,8 @@
         "description": "",
         "text": "|  \n---|---  \n[i.43]| O-RAN ALLIANCE TS \"O-RAN WG11 Study on Security for Fronthaul CUS-\nPlane\"  \n[i.44]| IETF RFC 4493: \"The AES-CMAC Algorithm\"  \n[i.45]| IETF RFC 5216: \"The EAP-TLS Authentication Protocol\"  \n[i.46]| IETF RFC 9190: \"EAP-TLS 1.3: Using the Extensible Authentication\nProtocol with TLS 1.3\"  \n[i.47]| IEEE Std 1588 \u2013 2019, IEEE Standard for a Precision Clock\nSynchronization Protocol for Networked  \nMeasurement and Control Systems, IEEE, 2019  \n[i.48]| IETF RFC 2410: The NULL Encryption Algorithm and Its Use with IPsec\"  \n[i.49]| IETF RFC 2404: The Use of HMAC-SHA-1-96 within ESP and AH\"  \n[i.50]| IETF RFC 3526: More Modular Exponential (MODP) Diffie-Hellman groups\nfor Internet Key Exchange  \n(IKE)\"  \n[i.51]| IETF RFC 3566: The AES-XCBC-MAC-96 Algorithm and Its Use with IPsec\"  \n[i.52]| IETF RFC 3602: The AES-CBC Cipher Algorithm and Its Use with IPsec\"  \n[i.53]| IETF RFC 4106: The Use of Galois/Counter Mode (GCM) in IPsec\nEncapsulating Security Payload  \n(ESP)\"  \n[i.54]| IETF RFC 4309: Using Advanced Encryption Standard (AES) CCM Mode with\nIPsec Encapsulating  \nSecurity Payload (ESP)\"  \n[i.55]| IETF RFC 4543: The Use of Galois Message Authentication Code (GMAC) in\nIPsec ESP and AH\"  \n[i.56]| IETF RFC 4868: Using HMAC-SHA-256, HMAC-SHA-384, and HMAC-SHA-512 with\nIPsec\"  \n[i.57]| IETF RFC 5114: Additional Diffie-Hellman Groups for Use with IETF\nStandards\"  \n[i.58]| IETF RFC 5282: Using Authenticated Encryption Algorithms with the\nEncrypted Payload of the Internet  \nKey Exchange version 2 (IKEv2) Protocol\"  \n[i.59]| IETF RFC 7296: Internet Key Exchange Protocol Version 2 (IKEv2)\"  \n[i.60]| IETF RFC 7634: ChaCha20, Poly1305, and Their Use in the Internet Key\nExchange Protocol (IKE) and  \nIPsec\"  \n[i.61]| IETF RFC 8221: Cryptographic Algorithm Implementation Requirements and\nUsage Guidance for  \nEncapsulating Security Payload (ESP) and Authentication Header (AH)\"  \n[i.62]| IETF RFC 8247: Algorithm Implementation Requirements and Usage\nGuidance for the Internet Key  \nExchange Protocol Version 2 (IKEv2)  \n[i.63]| O-RAN ALLIANCE TS \"O-RAN WG3 E2 General Aspects and Principles\n(E2GAP)\"  \n[i.64]| O-RAN ALLIANCE TS: \"O-RAN Architecture Description\"  \n[i.65]| IETF RFC 7519: \"JSON Web Token (JWT)\"  \n[i.66]| IETF RFC 6749: \"The OAuth 2.0 Authorization Framework\"  \n|\n\n",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": "| ---|--- [ i . 4 3 ] o - ran wg 1 1 study on security for fronthaul cus - plane [ i . 4 4 ] ietf rfc 4 4 9 3 : aes - cmac [ i . 4 5 ] ietf rfc 5 2 1 6 : eap - tls authentication [ i . 4"
     },
     {
         "id": "/page/6/PageFooter/3",
@@ -587,7 +645,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/6/PageFooter/4",
@@ -597,7 +656,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/7/PageHeader/0",
@@ -607,7 +667,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/7/Picture/1",
@@ -617,7 +678,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 2.2 Informative references"
+        "trace": "Introduction --> 2 References --> 2.2 Informative references",
+        "text_preview": ""
     },
     {
         "id": "/page/7/SectionHeader/2",
@@ -627,7 +689,8 @@
         "description": "",
         "text": "3 Definition of terms, symbols and abbreviations",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations",
+        "text_preview": "3 Definition of terms, symbols and abbreviations"
     },
     {
         "id": "/page/7/SectionHeader/3",
@@ -637,7 +700,8 @@
         "description": "",
         "text": "3.1 Terms",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "3.1 Terms"
     },
     {
         "id": "/page/7/Text/4",
@@ -647,7 +711,8 @@
         "description": "",
         "text": "For the purposes of the present document, the terms given in \\[i.1\\] and the following apply:",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "For the purposes of the present document, the terms given in \\[i.1\\] and the following apply:"
     },
     {
         "id": "/page/7/Text/5",
@@ -657,7 +722,8 @@
         "description": "",
         "text": "Post-Quantum Cryptography: An area of cryptography that researches and advances the use of quantum-resistant primitives, with the goal of keeping existing public key infrastructure intact in a future era of quantum computing. Intended to be secure against both quantum and classical computers and deployable without drastic changes to existing communication protocols and networks. \\[i.11\\]",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "Post-Quantum Cryptography: Researches quantum-resistant primitives to maintain public key infrastructure in a future era of quantum computing, targeting security against both quantum and classical computers with minimal protocol changes."
     },
     {
         "id": "/page/7/Text/6",
@@ -667,7 +733,8 @@
         "description": "",
         "text": "Quantum Safe Cryptography: see Post-Quantum Cryptography",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.1 Terms",
+        "text_preview": "Quantum Safe Cryptography: see Post-Quantum Cryptography"
     },
     {
         "id": "/page/7/SectionHeader/7",
@@ -677,7 +744,8 @@
         "description": "",
         "text": "3.2 Symbols",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.2 Symbols",
+        "text_preview": "3.2 Symbols"
     },
     {
         "id": "/page/7/Text/8",
@@ -687,7 +755,8 @@
         "description": "",
         "text": "Void.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.2 Symbols"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.2 Symbols",
+        "text_preview": "Void."
     },
     {
         "id": "/page/7/SectionHeader/9",
@@ -697,7 +766,8 @@
         "description": "",
         "text": "3.3 Abbreviations",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "3.3 Abbreviations"
     },
     {
         "id": "/page/7/Text/10",
@@ -707,7 +777,8 @@
         "description": "",
         "text": "For the purposes of the present document, the abbreviations \\[given in \\[i.1\\] and the following\\] apply:",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "For the purposes of the present document, the abbreviations \\[given in \\[i.1\\] and the following\\] apply:"
     },
     {
         "id": "/page/7/Text/11",
@@ -717,7 +788,8 @@
         "description": "",
         "text": "CUS-Plane Control, User and Synchronization Plane DTLS Datagram Transport Layer Security",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "CUS-Plane Control, User and Synchronization Plane DTLS Datagram Transport Layer Security"
     },
     {
         "id": "/page/7/Text/12",
@@ -727,7 +799,8 @@
         "description": "",
         "text": "ETM Encrypt-then-MAC",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "ETM Encrypt-then-MAC"
     },
     {
         "id": "/page/7/Text/13",
@@ -737,7 +810,8 @@
         "description": "",
         "text": "FH Fronthaul",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "FH Fronthaul"
     },
     {
         "id": "/page/7/Text/14",
@@ -747,7 +821,8 @@
         "description": "",
         "text": "HMAC Hash-based message authentication code",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "HMAC Hash-based message authentication code"
     },
     {
         "id": "/page/7/Text/15",
@@ -757,7 +832,8 @@
         "description": "",
         "text": "JSON JavaScript Object Notation JWA JSON Web Algorithms JWE JSON Web Encryption JWS JSON Web Signature JWT JSON Web Token",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "JSON JavaScript Object Notation JWA JSON Web Algorithms JWE JSON Web Encryption JWS JSON Web Signature JWT JSON Web Token"
     },
     {
         "id": "/page/7/Text/16",
@@ -767,7 +843,8 @@
         "description": "",
         "text": "MACsec Media Access Control security MGF Mask generation function MKA MACsec Key Agreement PQC Post-Quantum Cryptography PTP Precision Time Protocol QSC Quantum Safe Cryptography",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "MACsec Media Access Control security MGF Mask generation function MKA MACsec Key Agreement PQC Post-Quantum Cryptography PTP Precision Time Protocol QSC Quantum Safe Cryptography"
     },
     {
         "id": "/page/7/Text/17",
@@ -777,7 +854,8 @@
         "description": "",
         "text": "SSH Secure Shell",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "SSH Secure Shell"
     },
     {
         "id": "/page/7/Text/18",
@@ -787,7 +865,8 @@
         "description": "",
         "text": "TLS Transport Layer Security",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations"
+        "trace": "Introduction --> 2 References --> 3 Definition of terms, symbols and abbreviations --> 3.3 Abbreviations",
+        "text_preview": "TLS Transport Layer Security"
     },
     {
         "id": "/page/7/SectionHeader/19",
@@ -797,7 +876,8 @@
         "description": "",
         "text": "4 Post-Quantum Cryptography background",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background"
+        "trace": "4 Post-Quantum Cryptography background",
+        "text_preview": "4 Post-Quantum Cryptography background"
     },
     {
         "id": "/page/7/Text/20",
@@ -807,7 +887,8 @@
         "description": "",
         "text": "NIST has initiated the process of the Post Quantum Cryptography \\(PQC\\) standardization in 2017 \\[i.2\\]. On 5th Jul 2022, they announced the standard candidates for public-key encryption:",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background"
+        "trace": "4 Post-Quantum Cryptography background",
+        "text_preview": "NIST has initiated the process of the Post Quantum Cryptography \\(PQC\\) standardization in 2017 \\[i.2\\]. On 5th Jul 2022, they announced the standard candidates for public-key encryption:"
     },
     {
         "id": "/page/7/ListGroup/203",
@@ -817,7 +898,8 @@
         "description": "",
         "text": "* CRYSTALS-Kyber,  \n  * for digital signature: CRYSTALS-Dilithium, FALCON and SPHINCS+.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background"
+        "trace": "4 Post-Quantum Cryptography background",
+        "text_preview": "* CRYSTALS-Kyber,  \n  * for digital signature: CRYSTALS-Dilithium, FALCON and SPHINCS+."
     },
     {
         "id": "/page/7/PageFooter/23",
@@ -827,7 +909,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background"
+        "trace": "4 Post-Quantum Cryptography background",
+        "text_preview": ""
     },
     {
         "id": "/page/7/PageFooter/24",
@@ -837,7 +920,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background"
+        "trace": "4 Post-Quantum Cryptography background",
+        "text_preview": ""
     },
     {
         "id": "/page/8/PageHeader/0",
@@ -847,7 +931,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background"
+        "trace": "4 Post-Quantum Cryptography background",
+        "text_preview": ""
     },
     {
         "id": "/page/8/Picture/1",
@@ -857,7 +942,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background"
+        "trace": "4 Post-Quantum Cryptography background",
+        "text_preview": ""
     },
     {
         "id": "/page/8/Text/2",
@@ -867,7 +953,8 @@
         "description": "",
         "text": "On 13th Aug 2024, NIST published FIPS 203 \\[i.3\\], FIPS 204 \\[i.4\\] and FIPS 205 \\[i.5\\], specifying algorithms derived from CRYSTALS-Dilithium, CRYSTALS-KYBER and SPHINCS+: ML-KEM, ML-DSA and SLH-DSA. A future FIPS 206 is planned to specify FN-DSA, based on FALCON.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background"
+        "trace": "4 Post-Quantum Cryptography background",
+        "text_preview": "nist published fips 2 0 3 , 2 0 4 , and 2 0 5 in august 2 0 2 4 , specifying algorithms from crystals - dilithium , kyber , and sphincs +: ml - kem , ml - dsa , and slh - dsa . a future fips 2 0 6 will specify fn - dsa"
     },
     {
         "id": "/page/8/SectionHeader/3",
@@ -877,7 +964,8 @@
         "description": "",
         "text": "Further input from NIST:",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> Further input from NIST:"
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NIST:",
+        "text_preview": "Further input from NIST:"
     },
     {
         "id": "/page/8/Text/4",
@@ -887,7 +975,8 @@
         "description": "",
         "text": "\"Quantum computers would completely break many public-key cryptosystems, including RSA, DSA, and elliptic curve cryptosystems. These cryptosystems are used to implement digital signatures and key establishment and play a crucial role in ensuring the confidentiality and authenticity of communications on the Internet and other networks.\" \\[i.2\\]",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> Further input from NIST:"
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NIST:",
+        "text_preview": "\"Quantum computers would completely break many public-key cryptosystems, including RSA, DSA, and elliptic curve cryptosystems. These cryptosystems are used to implement digital signatures and key establishment and play a crucial role in ensuring the confidentiality and authenticity of communications on the Internet and other networks.\" \\[i.2\\]"
     },
     {
         "id": "/page/8/SectionHeader/5",
@@ -897,7 +986,8 @@
         "description": "",
         "text": "Further input from NCSC:",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:"
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:",
+        "text_preview": "Further input from NCSC:"
     },
     {
         "id": "/page/8/Text/6",
@@ -907,7 +997,8 @@
         "description": "",
         "text": "\"In contrast with PKC, the security of symmetric cryptography is not significantly impacted by quantum computers, and existing symmetric algorithms with at least 128-bit keys \\(such as AES\\) can continue to be used. The security of hash functions such as SHA-256 is also not significantly affected, and secure hash functions can also continue to be used.\" \\[i.6\\]",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:"
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:",
+        "text_preview": "In contrast with PKC, symmetric cryptography's security isn't significantly impacted by quantum computers. Existing algorithms like AES (128-bit keys) and secure hash functions like SHA-256 remain unaffected."
     },
     {
         "id": "/page/8/Text/7",
@@ -917,7 +1008,8 @@
         "description": "",
         "text": "The ETSI QSC group has developed a document outlining a Quantum Safe Cryptography migration strategy and recommendations for transitioning to quantum-safe schemes \\[i.7\\]. A key component of this strategy is the creation of a cryptographic inventory or cryptographic bill of material \\(CBOM\\) to support the development of a preparation and PQC migration plan, as well as the execution of the migration.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:"
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:",
+        "text_preview": "The ETSI QSC group has developed a document outlining a Quantum Safe Cryptography migration strategy and recommendations for transitioning to quantum-safe schemes. A key component is creating a cryptographic inventory (CBOM) to support development of a preparation and PQC migration plan, as well as executing the migration."
     },
     {
         "id": "/page/8/Text/8",
@@ -927,7 +1019,8 @@
         "description": "",
         "text": "According to the LS \\[i.8\\], the ETSI QSC is seeking additional information, such as a \"detailed list of cryptographic  algorithms and/or protocol implementations.\" This list may include \"guidance on algorithm exposure, effective key  lengths, potential for hybrid deployment, and potential for crypto agility.\"",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:"
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:",
+        "text_preview": "According to the LS \\[i.8\\], the ETSI QSC is seeking additional information, such as a \"detailed list of cryptographic  algorithms and/or protocol implementations.\" This list may include \"guidance on algorithm exposure, effective key  lengths, potential for hybrid deployment, and potential for crypto agility.\""
     },
     {
         "id": "/page/8/Text/9",
@@ -937,7 +1030,8 @@
         "description": "",
         "text": "In a related development, as noted in another LS \\[i.9\\], the GSMA has produced a Guidelines for Telecom Use Cases document \\[i.10\\], which includes the development of a \"\"comprehensive cryptographic inventory\"\" to some extent.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:"
+        "trace": "4 Post-Quantum Cryptography background --> Further input from NCSC:",
+        "text_preview": "In a related development, as noted in another LS \\[i.9\\], the GSMA has produced a Guidelines for Telecom Use Cases document \\[i.10\\], which includes the development of a \"\"comprehensive cryptographic inventory\"\" to some extent."
     },
     {
         "id": "/page/8/SectionHeader/10",
@@ -947,7 +1041,8 @@
         "description": "",
         "text": "5 Cryptographic inventory",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": "5 Cryptographic inventory"
     },
     {
         "id": "/page/8/TableGroup/330",
@@ -957,7 +1052,8 @@
         "description": "",
         "text": "Table 5-1: Cryptographic inventory\nSecurity  \nProtocolTraditional AlgorithmAlgorithm  \nDevelopment  \nOrganisation  \nand  \ndocument\\(s\\)Algorithm  \nused forO-RAN  \nAdoption  \n\\(Interfaces,  \nAPIs\\)O-RAN  \nspecification\\(s\\)  \nTLS 1.2,  \nDTLS 1.2AES-128-GCMRFC 5116 \\[i.27\\]  \n\\(NOTE 3\\)Cipher  \nsuitesOFH m  \nplane \\[i.12\\]SPS \\[i.14\\]  \nAES-256-GCM  \nsecp256r1RFC 8422 \\[i.28\\]KeyO1 \\[i.13\\]  \nA1 \\[i.24\\]  \nsecp384r1  \nffdhe2048RFC 7919 \\[i.29\\]exchangeR1 \\[i.25\\]  \nY1 \\[i.26\\]  \nffdhe3072  \nffdhe4096O2 \\[i.39\\]  \nSMO  \nffdhe6144External  \nInterface  \nffdhe8192  \nSHA-256RFC 6234 \\[i.30\\]Hash\\[i.64\\]  \nSHA-384  \necdsaRFC 8422 \\[i.28\\]functions  \nSignature  \nrsa\\_pss\\_rsae\\_\\*RFC 8446 \\[i.31\\]algorithms  \nrsa\\_pkcs1RFC 8032 \\[i.35\\]  \n\\(NOTE 2\\)  \nTLS 1.3,AES-128-GCMRFC 5116 \\[i.27\\]Cipher  \nDTLS 1.3AES-256-GCM  \nChaCha20-Poly1305\\(NOTE 3\\)  \nRFC 8439 \\[i.32\\]suites  \nsecp256r1RFC 8422 \\[i.28\\]",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": "table 5 - 1 : cryptographic inventory security protocol algorithm development organisation and documents adoption interfaces , apis o - ran specification tls 1 . 2 / dtls 1 . 3 aes - 1 2 8 - gcm / aes - 2 5 6 - gcm chacha 2 0 - poly 1 3 0 5 ( rfc 8 4 3 9 )"
     },
     {
         "id": "/page/8/PageFooter/13",
@@ -967,7 +1063,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/8/PageFooter/14",
@@ -977,7 +1074,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/9/PageHeader/0",
@@ -987,7 +1085,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/9/Picture/1",
@@ -997,7 +1096,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/9/Table/2",
@@ -1007,7 +1107,8 @@
         "description": "",
         "text": "| secp384r1  \nsecp521r1  \nSHA-256  \nSHA-384  \nSHA-512  \necdsa_secp256r1_sha256  \necdsa_secp384r1_sha384  \necdsa_secp521r1_sha512  \nrsa_pss_rsae_sha256  \nrsa_pss_rsae_sha384  \nrsa_pss_rsae_sha512| RFC 6234 [i.30]  \nRFC 8446 [i.31]| Key  \nexchange  \nHash  \nfunctions  \nSignature| |   \n---|---|---|---|---|---  \n| | | | |   \n| | | | |   \n| | | | |   \n| | | | |   \n| | | | |   \n| | | | |   \n| | | algorithms| |   \n| | | | |   \n| | | | |   \n| | | | |   \n| | | | |   \n| rsa_pss_pss_sha256| | | |   \n| rsa_pss_pss_sha384| | | |   \n| rsa_pss_pss_sha512| | | |   \n| ed25519| RFC 8032 [i.35]| | |   \nSSH| ecdsa-sha2-nistp256| RFC 5656| Key| OFH m| SPS [i.14]  \n| ecdsa-sha2-nistp384| [i.15][i.15]| agreement| plane [i.12]  \nO1 [i.13]|  \n| ecdsa-sha2-nistp521| | | SMO|   \n| ssh-ed25519  \nssh-ed448| RFC 8709 [i.16]| | External|   \n| aes256-gcm| RFC 5647 [i.17]| Symmetric| Interface|  \n| aes128-gcm| | encryption| [i.64]|   \n| aes256-ctr| RFC 4344 [i.18]| and| |   \n| aes192-ctr| | decryption| |   \n| aes128-ctr| | | |   \n| ecdh-sha2-nistp521| RFC 5656 [i.15]| Key| |   \n| ecdh-sha2-nistp384| | exchange| |   \n| ecdh-sha2-nistp256| | | |   \n| diffie-hellman-group-exchange  \nsha256| RFC 4419 [i.19],  \nupdated by RFC| | |   \n| curve25519-sha256| 8270 [i.20]  \nRFC 8731 [i.21]| | |   \n| hmac-sha2-512-etm| RFC 6668 [i.22]| Message| |   \n| hmac-sha2-512| (NOTE 1)| authenticati| |   \n| hmac-sha2-256-etm| | on codes| |   \n| hmac-sha2-256| | | |   \n| umac-128| RFC 4418 [i.23]| | |   \nIPsec| ENCR_NULL| RFC 2410 [i.48]| ESP| E2 [i.63]| SPS [i.14]  \n| ENCR_AES_CBC| RFC 3602 [i.52]| encryption| |   \n| ENCR_AES_CCM_8| RFC 4309 [i.54]| algorithms| |   \n| ENCR_AES_GCM_16| RFC 4106 [i.53]| (RFC 8221| |   \n| ENCR_CHACHA20_POLY1305| RFC 7634 [i.60]| \u2013 [i.61])| |   \n| AUTH_NONE (NOTE 7)| RFC 7296 [i.59],| ESP and| |   \n| | RFC 5282 [i.58]| AH| |   \n| AUTH_HMAC_SHA1_96| RFC 2404 [i.49],  \nRFC 7296 [i.59]| Authenticati  \non| |   \n| AUTH_AES_XCBC_96 (NOTE 8)| RFC 3566 [i.51],  \nRFC 7296 [i.59]| Algorithms  \n(RFC 8221| |   \n| AUTH_AES_128_GMAC| RFC 4543 [i.55]| \u2013 [i.61])| |   \n| AUTH_AES_256_GMAC| RFC 4543 [i.55]| | |   \n| AUTH_HMAC_SHA2_256_128| RFC 4868 [i.56]| | |   \n| AUTH_HMAC_SHA2_512_256| RFC 4868 [i.56]| | |   \n| ENCR_AES_CBC| RFC 3602 [i.52]| IKEv2| |   \n| | | | |   \n| ENCR_CHACHA20_POLY1305| RFC 7634 [i.60]| Encryption| |   \n| ENCR_ASES_GCM_16| RFC 4106 [i.53]| Algorithm| |   \n| ENCR_AES_CCM_8| RFC 4309 [i.54]| Transforms  \n(RFC 8247| | \n\n",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": "| secp 3 8 4 r 1 | secp 5 2 1 r 1 | sha - 2 5 6 | sha - 3 8 4 | sha - 5 1 2 | | --- | --- | --- | --- | --- | | ecdsa _ secp 3 8 4 r 1 _ sha 3 8 4 | ecdsa _ secp"
     },
     {
         "id": "/page/9/PageFooter/3",
@@ -1017,7 +1118,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/9/PageFooter/4",
@@ -1027,7 +1129,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/10/PageHeader/0",
@@ -1037,7 +1140,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/10/Picture/1",
@@ -1047,7 +1151,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/10/Table/2",
@@ -1057,7 +1162,8 @@
         "description": "",
         "text": "Security  \nProtocol| Traditional Algorithm| Algorithm  \nDevelopment  \nOrganisation  \nand  \ndocument(s)| Algorithm  \nused for| O-RAN  \nAdoption  \n(Interfaces,  \nAPIs)| O-RAN  \nspecification(s)  \n---|---|---|---|---|---  \n| AUTH_HMAC_SHA2_256_128| RFC 4868 [i.56]| IKEv2| |   \n| AUTH_HMAC_SHA2_512_256| RFC 4868 [i.56]| Integrity| |   \n| AUTH_HMAC_SHA1_96| RFC 2404 [i.49],| Algorithm| |   \n| | RFC 7296 [i.59]| Transforms| |   \n| AUTH_AES_XCBC_96| RFC 3566 [i.51],| (RFC 8247| |   \n| | RFC 7296 [i.59]| \u2013 [i.62])| |   \n| PRF_HMAC_SHA2_256| RFC 4868 [i.56]| IKEv2| |   \n| PRF_HMAC_SHA2_512| RFC 4868 [i.56]| Pseudorand| |   \n| PRF_HMAC_SHA1| RFC 2404 [i.49]| om Function| |   \n| PRF_AES128_XCBC| RFC 4344 [i.18]| Transforms  \n(RFC 8247| |   \n| | | \u2013 [i.62])| |   \n| DH 14 \u2013 2048-bit MODP Group| RFC 3526 [i.50]| IKEv2 Diffie| |   \n| DH 19 \u2013 256-bit random ECP group| RFC 5114 [i.57]| Hellman| |   \n| | | Group| |   \n| | | Transforms| |   \n| | | (RFC 8247| |   \n| | | \u2013 [i.62])| |   \nJWS| HS256 (HMAC using SHA-256)| RFC 7518 [i.36]| Message| A1 [i.24]| SPS\n[i.14]  \n(NOTE 5)| HS384 (HMAC using SHA-384)| | authenticati| R1 [i.25]|   \n| HS512 (HMAC using SHA-512)| | on codes| Y1 [i.26]  \nNear-RT|  \n| RS256 (RSASSA-PKCS1-v1_5| RFC 7518 [i.36]| Signature| RIC APIs|  \n| using SHA-256)| | algorithms| [i.37]|   \n| RS384 (RSASSA-PKCS1-v1_5| | | AALI-C|   \n| using SHA-384)| | | Mgmt|   \n| RS512 (RSASSA-PKCS1-v1_5  \nusing SHA-512)| | | interface|   \n| ES256 (ECDSA using P-256 curve| | | [i.38]|   \n| and SHA-256)| | | O2 [i.39]|   \n| ES384 (ECDSA using P-384 curve| | | |   \n| and SHA-384)| | | |   \n| ES512 (ECDSA using P-512 curve| | | |   \n| and SHA-512)| | | |   \n| PS256 (RSASSA-PSS using SHA| | | |   \n| 256 and MGF1 with SHA-256)| | | |   \n| PS384 (RSASSA-PSS using SHA| | | |   \n| 384 and MGF1 with SHA-384)| | | |   \n| PS512 (RSASSA-PSS using SHA| | | |   \n| 512 and MGF1 with SHA-512)| | | |   \nJWE| A128CBC-HS256| RFC 7518 [i.36]| Encryption| N/A| Not yet  \n| (AES_128_CBC_HMAC_SHA_256)| RFC 7516 [i.40],  \nclause 4.1.2.| algorithms| | specified  \n| A192CBC-HS384  \n(AES_192_CBC_HMAC_SHA_384)| | | |   \n| A256CBC-HS512| | | |   \n| (AES_256_CBC_HMAC_SHA_512)| | | |   \n| A128GCM (AES GCM using 128-bit| | | |   \n| key)| | | |   \n| A192GCM (AES GCM using 192-bit| | | |   \n| key)| | | |   \n| A256GCM (AES GCM using 256-bit| | | |   \n| key)| | | |   \nOAuth 2.0| (NOTE 6)| RFC 6749 [i.66]| Authorizatio| A1 [i.24],| SPS [i.14]  \n| | | n framework| O2 [i.39],|   \n| | | | R1 [i.25],|   \n| | | | Y1 [i.26],|   \n| | | | Near RT|   \n| | | | RIC APIs  \n[i.37]|  \n| | | | | \n\n",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": "| used for | specification ( s ) ---|---|--- auth _ hmac _ sha 2 _ 2 5 6 _ 1 2 8 | o - ran , ikev 2 | auth _ hmac _ sha 1 _ 9 6 | integrity | auth _ aes _ xcbc _ 9 6 | transforms | prf _ h"
     },
     {
         "id": "/page/10/PageFooter/3",
@@ -1067,7 +1173,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/10/PageFooter/4",
@@ -1077,7 +1184,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/11/PageHeader/0",
@@ -1087,7 +1195,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/11/Picture/1",
@@ -1097,7 +1206,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/11/Table/2",
@@ -1107,7 +1217,8 @@
         "description": "",
         "text": "Security  \nProtocol| Traditional Algorithm| Algorithm Development Organisation and\ndocument(s)| Algorithm  \nused for| O-RAN  \nAdoption  \n(Interfaces,  \nAPIs)| O-RAN  \nspecification(s)  \n---|---|---|---|---|---  \nMACsec| GCM-AES-256| IEEE 802.1AE-| Symmetric| Open FH| Open FH MPS  \n(NOTE 4)| GCM-AES-XPN-128| 2018 [i.41]| encryption| CUS Plane| [i.12]  \n| GCM-AES-XPN-256| IEEE 802.1X-| and| Security|  \n| | 2020 [i.42]| decryption,| [i.43]|   \n| | | Message| Open FH|   \n| | | authenticati| MPS [i.12]|   \n| | | on codes| |   \n| AES-CMAC| RFC 4493 [i.44]| Key| |   \n| | | derivation| |   \nPTP| HS256 (HMAC using SHA-256)| IEEE 1588 [i.47],| Message| Open FH| SPS\n[i.14]  \n| HS384 (HMAC using SHA-384)| clause 16.14| authenticati| CUS Plane|  \n| HS512 (HMAC using SHA-512)| | on codes| Security|   \n| | | | [i.43]|   \n| | | | Open FH|   \n| | | | MPS [i.12]| \n\n",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": "| m protocol | algorithm | org / doc | used for | o - ran adoption | | --- | --- | --- | --- | --- | | macsec | gcm - aes - 2 5 6 | ieee 8 0 2 . 1 ae | symmetric | open fh | | aes - cmac | rfc 4 4 9 3 |"
     },
     {
         "id": "/page/11/ListGroup/46",
@@ -1117,7 +1228,8 @@
         "description": "",
         "text": "* NOTE 1: ETM \\(Encrypt-then-MAC\\) is not specified for SSH yet is a widely used and recommended practice within the SSHv2 protocol, and broadly supported in available implementations, due to its security- related advantages.  \n  * NOTE 2: BSI recommends phasing out by 2025 \\[i.33\\].\n  * NOTE 3: The related authenticated encryption algorithm is defined in \\[i.34\\]\n  * NOTE 4: EAP-TLS is based on TLS 1.2 \\(see IETF RFC 5216 \\[i.45\\]\\) or TLS 1.3 \\(see IETF RFC 9190 \\[i.46\\]\\)\n  * NOTE 5: JWT is based on JWS and JWE \\(see IETF RFC 7519 \\[i.65\\]\\)\n  * NOTE 6: OAuth 2.0 is based on TLS, JWT, and JWE.\n  * NOTE 7: AUTH\\_NONE MUST be supported as per RFCs 7296 and RFC 5282 and MUST NOT be supported when ESP uses Authenticated Encryption with Associated Data \\(AEAD\\) cipher.\n  * NOTE 8: AUTH\\_AES\\_XCBC\\_96 SHOULD be supported as per RFC 3566 and RFC 7296, and MAY be support in case of Interoperability with IoT.",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": "etm ( encrypt - then - mac ) is a widely used sshv 2 practice due to its security advantages . bsi recommends phasing out by 2 0 2 5 . related algorithms are defined in [ i . 3 4 ]. eap - tls uses tls 1 . 2 / 1 . 3 , jwt / jws /"
     },
     {
         "id": "/page/11/PageFooter/11",
@@ -1127,7 +1239,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/11/PageFooter/12",
@@ -1137,7 +1250,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/12/PageHeader/0",
@@ -1147,7 +1261,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/12/Picture/1",
@@ -1157,7 +1272,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory"
+        "trace": "4 Post-Quantum Cryptography background --> 5 Cryptographic inventory",
+        "text_preview": ""
     },
     {
         "id": "/page/12/SectionHeader/2",
@@ -1167,7 +1283,8 @@
         "description": "",
         "text": "Annex:",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> Annex:"
+        "trace": "4 Post-Quantum Cryptography background --> Annex:",
+        "text_preview": "Annex:"
     },
     {
         "id": "/page/12/SectionHeader/3",
@@ -1177,7 +1294,8 @@
         "description": "",
         "text": "Change history/Change request \\(history\\)",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> Change history/Change request \\(history\\)"
+        "trace": "4 Post-Quantum Cryptography background --> Change history/Change request \\(history\\)",
+        "text_preview": "Change history/Change request \\(history\\)"
     },
     {
         "id": "/page/12/Table/4",
@@ -1187,7 +1305,8 @@
         "description": "",
         "text": "Date| Revision| Description  \n---|---|---  \n2025.02.04| 00.01| First draft  \n2025.02.25| 00.02| Merged NOK-0244, NOK-0245  \n2025.03.04| 00.03| Merged NOK-0256  \n2025.04.01| 00.04| Merged NOK-0268  \n2025.04.14| 00.05| Merged SYM-0084, NIST.AO-0012, NIST-0013  \n2025.05.27| 00.06| Merged NEC-0056  \n2025.06.10| 00.07| Merged NIST-0018, NIST-0019  \n2025.06.23| 00.08| Adopted changes on NIST-0018 and NIST-0019 due to the\nongoing review  \n2025.07.9| 01.00| Published as Final version 01.00\n\n",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> Change history/Change request \\(history\\)"
+        "trace": "4 Post-Quantum Cryptography background --> Change history/Change request \\(history\\)",
+        "text_preview": "date | revision | description ---|---|--- 2 0 2 5 . 0 2 . 0 4 | 0 0 . 0 1 | first draft 2 0 2 5 . 0 2 . 2 5 | 0 0 . 0 2 | merged nok - 0 2 4 4 / 0 2 4 5 2 0 2 5 . 0 3"
     },
     {
         "id": "/page/12/PageFooter/5",
@@ -1197,7 +1316,8 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> Change history/Change request \\(history\\)"
+        "trace": "4 Post-Quantum Cryptography background --> Change history/Change request \\(history\\)",
+        "text_preview": ""
     },
     {
         "id": "/page/12/PageFooter/6",
@@ -1207,6 +1327,7 @@
         "description": "",
         "text": "",
         "filename": "O-RAN.WG11.TR.PQC-Security.0-R004-v01.00",
-        "trace": "4 Post-Quantum Cryptography background --> Change history/Change request \\(history\\)"
+        "trace": "4 Post-Quantum Cryptography background --> Change history/Change request \\(history\\)",
+        "text_preview": ""
     }
 ]

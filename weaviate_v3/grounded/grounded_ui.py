@@ -1,5 +1,5 @@
 import streamlit as st
-from chat_rag import ChatRAG
+from grounded_rag import ChatRAG
 import base64
 from PIL import Image
 import io
@@ -115,7 +115,7 @@ if not st.session_state.initialized:
             {
                 "text": "Your document text...",
                 "page": 1,
-                "type": "text",
+                "block_type": "text",
                 "description": "Description",
                 "trace": "doc_001",
                 "images": None  # or base64 encoded image
@@ -143,7 +143,7 @@ for message in st.session_state.messages:
                     
                     # Show metadata
                     col1, col2, col3, col4,col5 = st.columns(5)
-                    col1.text(f"Type: {source.get('type', 'Unknown')}")
+                    col1.text(f"Type: {source.get('block_type', source.get('type', 'Unknown'))}")
                     col2.text(f"Page: {source.get('page', 'Unknown')}")
                     col3.text(f"Trace: {source.get('trace', 'Unknown')}")
                     col4.text(f"Distance: {source.get('weaviate_distance', 'N/A'):.4f}" if source.get('weaviate_distance') else "Distance: N/A")
@@ -157,7 +157,7 @@ for message in st.session_state.messages:
                         st.caption(f"Description: {source['description']}")
                     
                     # Show image if available
-                    image_b64 = source.get("image")
+                    image_b64 = source.get("images") or source.get("image")
                     if image_b64:
                         try:
                             st.write("**Image:**")
@@ -206,7 +206,7 @@ if prompt := st.chat_input("Ask about O-RAN specifications..."):
                         
                         # Show metadata
                         col1, col2, col3, col4,col5 = st.columns(5)
-                        col1.text(f"Type: {source.get('type', 'Unknown')}")
+                        col1.text(f"Type: {source.get('block_type', source.get('type', 'Unknown'))}")
                         col2.text(f"Page: {source.get('page', 'Unknown')}")
                         col3.text(f"Trace: {source.get('trace', 'Unknown')}")
                         col4.text(f"Distance: {source.get('weaviate_distance', 'N/A'):.4f}" if source.get('weaviate_distance') else "Distance: N/A")
@@ -220,7 +220,7 @@ if prompt := st.chat_input("Ask about O-RAN specifications..."):
                             st.caption(f"Description: {source['description']}")
                          
                         # Show image if available
-                        image_b64 = source.get("image")
+                        image_b64 = source.get("images") or source.get("image")
                         if image_b64:
                             try:
                                 st.write("**Image:**")

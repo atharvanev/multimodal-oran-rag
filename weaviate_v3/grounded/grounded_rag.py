@@ -69,13 +69,13 @@ class ChatRAG:
                             }
                         },
                         "properties": [
-                            {"name": "type", "dataType": ["text"], "moduleConfig": {"text2vec-ollama": {"skip": True}}},
+                            {"name": "block_type", "dataType": ["text"], "moduleConfig": {"text2vec-ollama": {"skip": True}}},
                             {"name": "page", "dataType": ["int"], "moduleConfig": {"text2vec-ollama": {"skip": True}}},
                             {"name": "description", "dataType": ["text"], "moduleConfig": {"text2vec-ollama": {"skip": False}}},
                             {"name": "text", "dataType": ["text"], "moduleConfig": {"text2vec-ollama": {"skip": False}}},
                             {"name": "trace", "dataType": ["text"], "moduleConfig": {"text2vec-ollama": {"skip": False}}},
                             {"name": "filename", "dataType": ["text"], "moduleConfig": {"text2vec-ollama": {"skip": False}}},
-                            {"name": "image", "dataType": ["blob"], "moduleConfig": {"text2vec-ollama": {"skip": True}}}
+                            {"name": "images", "dataType": ["blob"], "moduleConfig": {"text2vec-ollama": {"skip": True}}}
                         ]
                     }
                     
@@ -136,16 +136,17 @@ class ChatRAG:
             with self.chunks.batch.fixed_size(batch_size) as batch:
                 for idx,doc in enumerate(documents):
                     properties = {
-                        "type": doc.get("type") or doc.get("block_type", "Unknown"),
+                        "block_type": doc.get("block_type") or doc.get("type", "Unknown"),
                         "page": doc.get("page", "Unknown"),
                         "description": doc.get("description") or doc.get("Description", ""),
                         "text": doc.get("text") or doc.get("Text", ""),
                         "trace": doc.get("trace") or doc.get("Trace", ""),
+                        "filename": doc.get("filename", ""),
                     }
 
                     # Handle image properly
-                    if doc["images"]:
-                        properties["image"] = doc["images"]
+                    if doc.get("images") or doc.get("image"):
+                        properties["images"] = doc.get("images") or doc.get("image")
                 
                     batch.add_object(properties)
                     
@@ -175,7 +176,7 @@ class ChatRAG:
             span.set_attribute("retrieval_method", "hybrid")
             span.set_attribute("alpha", 0.7)
 
-            return_properties = ["text", "page", "type", "description", "trace", "image","filename"]
+            return_properties = ["text", "page", "block_type", "description", "trace", "images", "filename"]
 
             response = self.chunks.query.hybrid(
                 query=query,
@@ -197,7 +198,7 @@ class ChatRAG:
             chunks_summary = [
                     {
                        "page": r.get("page"),
-                       "type": r.get("type"),
+                       "block_type": r.get("block_type"),
                        "snippet": (r.get("text","")[:300] + "...") if len(r.get("text","") or "") > 300 else r.get("text",""),
                        "distance": r.get("weaviate_distance")
                    }
@@ -220,8 +221,8 @@ class ChatRAG:
                     context_parts.append(f"\n[Document {i}]")
                     
                     # Add metadata
-                    if doc.get('type'):
-                        context_parts.append(f"Type: {doc['type']}")
+                    if doc.get('block_type'):
+                        context_parts.append(f"Type: {doc['block_type']}")
                     if doc.get('page'):
                         context_parts.append(f"Page: {doc['page']}")
                     if doc.get('trace'):
@@ -230,7 +231,7 @@ class ChatRAG:
                         context_parts.append(f"Filename: {doc['filename']}")
                     
                     # Note if image is available (for multimodal context)
-                    if include_image_info and doc.get('image'):
+                    if include_image_info and doc.get('images'):
                         context_parts.append(f"[Image {i} is attached - refer to it when answering]")
                     
                     # Add main text
@@ -279,8 +280,8 @@ class ChatRAG:
             
                 if self.multimodal:
                     for doc in sources:
-                        if doc.get("image"):
-                            images.append(doc["image"])
+                        if doc.get("images"):
+                            images.append(doc["images"])
                     span.set_attribute("image_count", len(images))
                     span.add_event("multimodal_images_extracted", {"count": len(images)})
 
@@ -359,7 +360,7 @@ if __name__ == "__main__":
         {
             "text": "Python is a high-level programming language known for its simplicity and readability.",
             "page": 1,
-            "type": "text",
+            "block_type": "text",
             "description": "Introduction to Python",
             "trace": "doc_001",
             "images": None
@@ -367,7 +368,7 @@ if __name__ == "__main__":
         {
             "text": "Machine learning is a subset of AI that enables systems to learn from data.",
             "page": 5,
-            "type": "text",
+            "block_type": "text",
             "description": "ML Basics",
             "trace": "doc_002",
             "images": None
@@ -375,7 +376,7 @@ if __name__ == "__main__":
         {
             "text": "Weaviate is a vector database that enables semantic search capabilities.",
             "page": 12,
-            "type": "text",
+            "block_type": "text",
             "description": "Vector Databases",
             "trace": "doc_003",
             "images": None
