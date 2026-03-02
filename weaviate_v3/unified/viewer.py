@@ -34,12 +34,12 @@ def render_chunk(idx: int, obj, show_original_text: bool, show_image: bool):
     chunk_type = props.get("block_type", "Unknown")
     page = props.get("page", "N/A")
     filename = props.get("filename", "Unknown")
-    chunk_id = props.get("id", "")
+    chunk_id = props.get("chunk_id") or props.get("id") or ""
 
     with st.expander(f"{idx}. {filename} | page {page} | {chunk_type}"):
         st.write(f"**UUID:** `{obj.uuid}`")
         if chunk_id:
-            st.write(f"**ID:** `{chunk_id}`")
+            st.write(f"**Chunk ID:** `{chunk_id}`")
         st.write(f"**Type:** `{chunk_type}`")
         st.write(f"**Page:** `{page}`")
         st.write(f"**Filename:** `{filename}`")
@@ -109,7 +109,16 @@ def main():
         response = collection.query.fetch_objects(
             limit=page_size,
             offset=int(offset),
-            return_properties=["block_type", "page", "filename", "text_preview", "text", "trace", "images"],
+            return_properties=[
+                "chunk_id",
+                "block_type",
+                "page",
+                "filename",
+                "text_preview",
+                "text",
+                "trace",
+                "images",
+            ],
         )
     except Exception as exc:
         st.error(f"Query failed: {exc}")
