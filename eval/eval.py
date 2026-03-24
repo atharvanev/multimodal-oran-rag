@@ -252,7 +252,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--grounded-weaviate-port", type=int, default=8080)
     parser.add_argument("--grounded-weaviate-grpc-port", type=int, default=50051)
 
-    parser.add_argument("--unified-collection", default="unified_embedding")
+    parser.add_argument("--unified-collection", default="Unified_embedding")
     parser.add_argument("--unified-weaviate-host", default="172.17.0.5")
     parser.add_argument("--unified-weaviate-port", type=int, default=8080)
     parser.add_argument("--unified-weaviate-grpc-port", type=int, default=50051)
