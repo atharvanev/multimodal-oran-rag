@@ -213,23 +213,32 @@ class ChatRAG:
             else:
                 span.add_event("All documents imported successfully")
 
-    def retrieve_context(self, query: str, top_k: int = 5, block_filter: Optional[str] = None) -> List[Dict]:
+    def retrieve_context(
+        self,
+        query: str,
+        top_k: int = 5,
+        query_alpha: float = 0.7,
+        block_filter: Optional[str] = None,
+    ) -> List[Dict]:
         with self.tracer.start_as_current_span("retrieve_context") as span:
             block_filter = block_filter if block_filter is not None else self.default_block_filter
             span.set_attribute("query", query)
             span.set_attribute("top_k", top_k)
+            span.set_attribute("query_alpha", query_alpha)
             if block_filter:
                 span.set_attribute("block_filter", block_filter)
 
             return_properties = ["text", "type", "page", "description", "trace", "image", "filename"]
             filters = build_block_filter("type", block_filter)
 
-            retrieval_method = "near_vector_runtime_embedding"
+            retrieval_method = "hybrid_runtime_embedding"
             try:
                 query_vector = self._embed_query(query)
-                response = self.chunks.query.near_vector(
-                    near_vector=query_vector,
+                response = self.chunks.query.hybrid(
+                    query=query,
+                    vector=query_vector,
                     limit=top_k,
+                    alpha=query_alpha,
                     filters=filters,
                     return_properties=return_properties,
                     return_metadata=MetadataQuery(distance=True),
@@ -293,6 +302,7 @@ class ChatRAG:
             user_message: str,
             use_rag: bool = True,
             top_k: int = 3,
+            query_alpha: float = 0.7,
             system_prompt: Optional[str] = None,
             return_sources: bool = True,
             block_filter: Optional[str] = None) -> Dict:
@@ -302,6 +312,7 @@ class ChatRAG:
             span.set_attribute("user_message", user_message)
             span.set_attribute("use_rag", use_rag)
             span.set_attribute("top_k", top_k)
+            span.set_attribute("query_alpha", query_alpha)
             span.set_attribute("ollama_model", self.ollama_model)
             if block_filter:
                 span.set_attribute("block_filter", block_filter)
@@ -318,7 +329,12 @@ class ChatRAG:
             context = ""
 
             if use_rag:
-                sources = self.retrieve_context(user_message, top_k=top_k, block_filter=block_filter)
+                sources = self.retrieve_context(
+                    user_message,
+                    top_k=top_k,
+                    query_alpha=query_alpha,
+                    block_filter=block_filter,
+                )
                 context = self.format_context(sources)
                 span.set_attribute("context_length", len(context))
 

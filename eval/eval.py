@@ -112,6 +112,7 @@ class GroundedRunner:
             enable_phoenix=not args.disable_phoenix,
         )
         self.top_k = args.top_k
+        self.query_alpha = args.grounded_query_alpha
         self.block_filter = args.block_filter
 
     def answer_question(self, question: str, options: List[str]) -> Dict[str, Any]:
@@ -121,6 +122,7 @@ class GroundedRunner:
             user_message=prompt,
             use_rag=True,
             top_k=self.top_k,
+            query_alpha=self.query_alpha,
             return_sources=True,
             block_filter=self.block_filter,
         )
@@ -251,6 +253,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--grounded-weaviate-host", default="172.17.0.5")
     parser.add_argument("--grounded-weaviate-port", type=int, default=8080)
     parser.add_argument("--grounded-weaviate-grpc-port", type=int, default=50051)
+    parser.add_argument("--grounded-query-alpha", type=float, default=0.7)
 
     parser.add_argument("--unified-collection", default="Unified_embedding")
     parser.add_argument("--unified-weaviate-host", default="172.17.0.5")
