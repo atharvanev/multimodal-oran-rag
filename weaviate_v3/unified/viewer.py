@@ -7,6 +7,8 @@ import streamlit as st
 import weaviate
 from PIL import Image
 
+from weaviate_v3.block_filters import build_block_filter
+
 
 DEFAULT_HOST = os.getenv("WEAVIATE_HOST", "172.17.0.2")
 DEFAULT_PORT = int(os.getenv("WEAVIATE_PORT", "8080"))
@@ -90,9 +92,15 @@ def main():
         show_original_text = st.checkbox("Show original text", value=True)
         show_image = st.checkbox("Show images", value=True)
 
+        st.header("Weaviate filters")
+        block_filter = st.selectbox(
+            "Block filter preset",
+            options=["all", "chunks"],
+            index=0,
+        )
+
         st.header("Client-side filters")
         filename_filter = st.text_input("Filename contains", value="").strip().lower()
-        type_filter = st.text_input("Type equals", value="").strip().lower()
         text_filter = st.text_input("Text contains", value="").strip().lower()
 
     try:
@@ -103,12 +111,14 @@ def main():
         st.stop()
 
     try:
-        total = collection.aggregate.over_all(total_count=True)
+        weaviate_filter = build_block_filter("block_type", block_filter)
+        total = collection.aggregate.over_all(total_count=True, filters=weaviate_filter)
         st.metric("Total chunks", total.total_count)
 
         response = collection.query.fetch_objects(
             limit=page_size,
             offset=int(offset),
+            filters=weaviate_filter,
             return_properties=[
                 "chunk_id",
                 "block_type",
@@ -128,13 +138,10 @@ def main():
     for obj in response.objects:
         props = obj.properties or {}
         filename = str(props.get("filename", "")).lower()
-        chunk_type = str(props.get("block_type", "")).lower()
         text = str(props.get("text", "")).lower()
         preview = str(props.get("text_preview", "")).lower()
 
         if filename_filter and filename_filter not in filename:
-            continue
-        if type_filter and type_filter != chunk_type:
             continue
         if text_filter and text_filter not in text and text_filter not in preview:
             continue

@@ -7,8 +7,10 @@ import streamlit as st
 import weaviate
 from PIL import Image
 
+from weaviate_v3.block_filters import build_block_filter
 
-DEFAULT_HOST = os.getenv("WEAVIATE_HOST", "172.17.0.2")
+
+DEFAULT_HOST = os.getenv("WEAVIATE_HOST", "172.17.0.5")
 DEFAULT_PORT = int(os.getenv("WEAVIATE_PORT", "8080"))
 DEFAULT_GRPC_PORT = int(os.getenv("WEAVIATE_GRPC_PORT", "50051"))
 DEFAULT_COLLECTION = os.getenv("WEAVIATE_COLLECTION", "Grounded_nomic_full")
@@ -88,9 +90,15 @@ def main():
         show_text = st.checkbox("Show text", value=True)
         show_image = st.checkbox("Show images", value=True)
 
+        st.header("Weaviate filters")
+        block_filter = st.selectbox(
+            "Block filter preset",
+            options=["all", "chunks"],
+            index=0,
+        )
+
         st.header("Client-side filters")
         filename_filter = st.text_input("Filename contains", value="").strip().lower()
-        type_filter = st.text_input("Type equals", value="").strip().lower()
         trace_filter = st.text_input("Trace contains", value="").strip().lower()
         text_filter = st.text_input("Text contains", value="").strip().lower()
 
@@ -102,12 +110,14 @@ def main():
         st.stop()
 
     try:
-        total = collection.aggregate.over_all(total_count=True)
+        weaviate_filter = build_block_filter("type", block_filter)
+        total = collection.aggregate.over_all(total_count=True, filters=weaviate_filter)
         st.metric("Total chunks", total.total_count)
 
         response = collection.query.fetch_objects(
             limit=page_size,
             offset=int(offset),
+            filters=weaviate_filter,
             return_properties=["type", "page", "description", "text", "trace", "filename", "image"],
         )
     except Exception as exc:
@@ -118,14 +128,11 @@ def main():
     for obj in response.objects:
         props = obj.properties or {}
         filename = str(props.get("filename", "")).lower()
-        chunk_type = str(props.get("type", "")).lower()
         trace = str(props.get("trace", "")).lower()
         text = str(props.get("text", "")).lower()
         description = str(props.get("description", "")).lower()
 
         if filename_filter and filename_filter not in filename:
-            continue
-        if type_filter and type_filter != chunk_type:
             continue
         if trace_filter and trace_filter not in trace:
             continue

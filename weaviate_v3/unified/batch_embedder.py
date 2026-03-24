@@ -28,7 +28,7 @@ COLLECTION_NAME = "unified_embedding"
 DEFAULT_DATA_DIR = "clean_chunks"
 MULTI2VEC_CLIP_INFERENCE_URL = os.getenv(
     "MULTI2VEC_CLIP_INFERENCE_URL",
-    "http://multi2vec-clip:8080",
+    "http://172.17.0.7:8080",
 )
 
 

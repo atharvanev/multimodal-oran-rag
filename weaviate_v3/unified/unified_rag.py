@@ -1,8 +1,11 @@
 from typing import Dict, List, Optional
 
 import ollama
+import requests
 import weaviate
 from weaviate.classes.query import MetadataQuery
+
+from weaviate_v3.block_filters import build_block_filter
 
 
 class UnifiedChatRAG:
@@ -15,6 +18,11 @@ class UnifiedChatRAG:
         weaviate_port: int = 8080,
         weaviate_grpc_port: int = 50051,
         summarize_threshold_tokens: int = 70,
+        ollama_host: str = "172.17.0.6",
+        ollama_port: int = 11434,
+        multi2vec_host: str = "172.17.0.7",
+        multi2vec_port: int = 8080,
+        default_block_filter: Optional[str] = None,
     ):
         self.client = weaviate.connect_to_local(
             host=weaviate_host,
@@ -25,7 +33,15 @@ class UnifiedChatRAG:
         self.ollama_model = ollama_model
         self.multimodal = multimodal
         self.summarize_threshold_tokens = summarize_threshold_tokens
+        self.ollama_host = ollama_host
+        self.ollama_port = ollama_port
+        self.ollama_base_url = f"http://{self.ollama_host}:{self.ollama_port}"
+        self.ollama_client = ollama.Client(host=self.ollama_base_url)
+        self.multi2vec_host = multi2vec_host
+        self.multi2vec_port = multi2vec_port
+        self.multi2vec_base_url = f"http://{self.multi2vec_host}:{self.multi2vec_port}"
         self.messages: List[Dict[str, str]] = []
+        self.default_block_filter = default_block_filter
 
         available_collections = self.client.collections.list_all()
         if self.collection_name not in available_collections:
@@ -39,6 +55,21 @@ class UnifiedChatRAG:
     @staticmethod
     def _estimate_tokens(text: str) -> int:
         return len((text or "").split())
+
+    def _embed_query(self, query: str) -> List[float]:
+        response = requests.post(
+            f"{self.multi2vec_base_url}/vectorize",
+            json={"texts": [query], "images": []},
+            headers={"Content-Type": "application/json"},
+            timeout=60,
+        )
+        response.raise_for_status()
+
+        data = response.json()
+        text_vectors = data.get("textVectors") or []
+        if not text_vectors or not isinstance(text_vectors[0], list):
+            raise RuntimeError("multi2vec-clip returned no textVectors for the query")
+        return text_vectors[0]
 
     def _summarize_if_needed(self, user_message: str) -> Dict[str, Optional[str]]:
         token_count = self._estimate_tokens(user_message)
@@ -59,7 +90,7 @@ class UnifiedChatRAG:
             f"User query:\n{user_message}\n"
         )
         try:
-            response = ollama.generate(model=self.ollama_model, prompt=summarize_prompt)
+            response = self.ollama_client.generate(model=self.ollama_model, prompt=summarize_prompt)
             summarized = (response.get("response") or "").strip()
         except Exception:
             summarized = ""
@@ -86,10 +117,8 @@ class UnifiedChatRAG:
         for idx, src in enumerate(sources):
             distance = src.get("weaviate_distance")
             if isinstance(distance, (int, float)):
-                # Lower distance is better in Weaviate.
                 base_score = -float(distance)
             else:
-                # Preserve original order when no distance is available (e.g., bm25 fallback).
                 base_score = float(total - idx)
 
             has_image = 1.0 if src.get("images") else 0.0
@@ -109,6 +138,7 @@ class UnifiedChatRAG:
         top_k: int = 5,
         query_alpha: float = 0.7,
         modality_balance: float = 0.5,
+        block_filter: Optional[str] = None,
     ) -> Dict[str, Optional[List[Dict]]]:
         return_properties = [
             "chunk_id",
@@ -121,28 +151,32 @@ class UnifiedChatRAG:
             "images",
         ]
 
-        retrieval_mode = "hybrid"
+        block_filter = block_filter if block_filter is not None else self.default_block_filter
+        filters = build_block_filter("block_type", block_filter)
+        retrieval_mode = "near_vector_runtime_embedding"
         retrieval_warning = None
 
         try:
-            response = self.chunks.query.hybrid(
-                query=query,
+            query_vector = self._embed_query(query)
+            response = self.chunks.query.near_vector(
+                near_vector=query_vector,
                 limit=top_k,
+                filters=filters,
                 return_properties=return_properties,
                 return_metadata=MetadataQuery(distance=True),
-                alpha=query_alpha,
             )
         except Exception as exc:
-            # Common case: remote vectorizer endpoint unavailable.
             retrieval_mode = "bm25_fallback"
             retrieval_warning = (
-                "Hybrid/vector search failed, so lexical BM25 fallback was used. "
+                "Runtime multi2vec vector search failed, so lexical BM25 fallback was used. "
                 f"Original error: {exc}"
             )
             response = self.chunks.query.bm25(
                 query=query,
                 limit=top_k,
+                filters=filters,
                 return_properties=return_properties,
+                return_metadata=MetadataQuery(distance=True),
             )
 
         results = []
@@ -194,7 +228,9 @@ class UnifiedChatRAG:
         modality_balance: float = 0.5,
         system_prompt: Optional[str] = None,
         return_sources: bool = True,
+        block_filter: Optional[str] = None,
     ) -> Dict:
+        block_filter = block_filter if block_filter is not None else self.default_block_filter
         summary_info = self._summarize_if_needed(user_message)
         effective_message = summary_info["effective_prompt"] or user_message
 
@@ -217,6 +253,7 @@ class UnifiedChatRAG:
                 top_k=top_k,
                 query_alpha=query_alpha,
                 modality_balance=modality_balance,
+                block_filter=block_filter,
             )
             sources = retrieval.get("sources") or []
             retrieval_mode = retrieval.get("retrieval_mode")
@@ -227,20 +264,19 @@ class UnifiedChatRAG:
 
         if system_prompt is None:
             system_prompt = (
-                "You are a helpful Open RAN assistant. Answer using the provided context "
-                "when available, and clearly state when context is insufficient."
+                "You are a helpful Open RAN assistant."
             )
 
         full_prompt = (
-            f"{system_prompt}\n\n"
-            f"{history_context}\n\n"
-            f"{context}\n\n"
             f"User Question: {effective_message}\n\n"
+            f"{context}\n\n"
+            f"{system_prompt}\n\n"
+#            f"{history_context}\n\n"
             "Answer:"
         )
 
         if self.multimodal and images:
-            response = ollama.chat(
+            response = self.ollama_client.chat(
                 model=self.ollama_model,
                 messages=[
                     {
@@ -252,7 +288,7 @@ class UnifiedChatRAG:
             )
             answer = response["message"]["content"]
         else:
-            response = ollama.generate(model=self.ollama_model, prompt=full_prompt)
+            response = self.ollama_client.generate(model=self.ollama_model, prompt=full_prompt)
             answer = response["response"]
 
         self.messages.append(

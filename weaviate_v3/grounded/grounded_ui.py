@@ -1,5 +1,10 @@
 import streamlit as st
-from grounded_rag import ChatRAG
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+
+from weaviate_v3.grounded.grounded_rag import ChatRAG
 import base64
 from PIL import Image
 import io
@@ -26,13 +31,15 @@ with st.sidebar:
     
     # Connection settings
     st.subheader("Weaviate Connection")
-    weaviate_host = st.text_input("Host", "172.17.0.2")
+    weaviate_host = st.text_input("Host", "172.17.0.5")
+    weaviate_port = st.number_input("Weaviate Port", min_value=1, max_value=65535, value=8080, step=1)
     
     st.divider()
     
     # Model settings
     st.subheader("Model Configuration")
     ollama_model = st.text_input("Ollama Model", "llama3.2")
+    ollama_port = st.number_input("Ollama Port", min_value=1, max_value=65535, value=11434, step=1)
     collection_name = st.text_input("Collection Name", "Grounded_nomic_full")
     multimodal = st.checkbox("Multimodal Mode (for vision models)", value=False)
     
@@ -45,6 +52,8 @@ with st.sidebar:
     st.subheader("RAG Settings")
     use_rag = st.checkbox("Enable RAG", value=True)
     num_results = st.slider("Number of chunks to retrieve", 1, 10, 3)
+    block_filter_label = st.selectbox("Block Filter", ["all", "chunks"], index=0)
+    block_filter = None if block_filter_label == "all" else block_filter_label
     
     st.divider()
     
@@ -55,8 +64,10 @@ with st.sidebar:
                 st.session_state.chat_rag = ChatRAG(
                     collection_name=collection_name,
                     weaviate_host=weaviate_host,
+                    weaviate_port=int(weaviate_port),
                     ollama_model=ollama_model,
-                    multimodal=multimodal
+                    ollama_port=int(ollama_port),
+                    default_block_filter=block_filter
                 )
                 st.session_state.initialized = True
                 st.success("✅ System initialized!")
@@ -107,8 +118,10 @@ if not st.session_state.initialized:
         
         rag = ChatRAG(
             collection_name="Grounded_nomic",
-            weaviate_host="172.17.0.4",
-            ollama_model="llama3.2"
+            weaviate_host="172.17.0.6",
+            weaviate_port=8080,
+            ollama_model="llama3.2",
+            ollama_port=11434
         )
         
         rag.add_documents([
@@ -190,7 +203,8 @@ if prompt := st.chat_input("Ask about O-RAN specifications..."):
                     user_message=prompt,
                     use_rag=use_rag,
                     top_k=num_results,
-                    return_sources=True
+                    return_sources=True,
+                    block_filter=block_filter
                 )
                 
                 answer = result['answer']
