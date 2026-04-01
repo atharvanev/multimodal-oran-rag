@@ -76,12 +76,13 @@ with st.sidebar:
     use_rag = st.checkbox("Enable RAG", value=True)
     num_results = st.slider("Chunks to retrieve", 1, 10, 3)
     query_alpha = st.slider(
-        "Lexical fallback balance",
+        "Hybrid alpha (BM25 ↔ vector)",
         min_value=0.0,
         max_value=1.0,
         value=0.7,
         step=0.05,
-        help="Kept for compatibility; primary retrieval now uses runtime multi2vec embeddings, with BM25 fallback if vector retrieval fails.",
+        help="Weaviate hybrid search: 0 favors BM25 (lexical), 1 favors the runtime multi2vec query embedding. "
+        "If hybrid retrieval fails, the app falls back to BM25 only.",
     )
     modality_balance_pct = st.slider(
         "Unified modality preference (text <-> image)",

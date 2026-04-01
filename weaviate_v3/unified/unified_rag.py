@@ -153,14 +153,17 @@ class UnifiedChatRAG:
 
         block_filter = block_filter if block_filter is not None else self.default_block_filter
         filters = build_block_filter("block_type", block_filter)
-        retrieval_mode = "near_vector_runtime_embedding"
+        retrieval_mode = "hybrid_runtime_embedding"
         retrieval_warning = None
+        alpha = max(0.0, min(1.0, float(query_alpha)))
 
         try:
             query_vector = self._embed_query(query)
-            response = self.chunks.query.near_vector(
-                near_vector=query_vector,
+            response = self.chunks.query.hybrid(
+                query=query,
+                vector=query_vector,
                 limit=top_k,
+                alpha=alpha,
                 filters=filters,
                 return_properties=return_properties,
                 return_metadata=MetadataQuery(distance=True),
@@ -168,7 +171,8 @@ class UnifiedChatRAG:
         except Exception as exc:
             retrieval_mode = "bm25_fallback"
             retrieval_warning = (
-                "Runtime multi2vec vector search failed, so lexical BM25 fallback was used. "
+                "Hybrid retrieval (BM25 + runtime multi2vec vector) failed, "
+                "so lexical BM25 fallback was used. "
                 f"Original error: {exc}"
             )
             response = self.chunks.query.bm25(
