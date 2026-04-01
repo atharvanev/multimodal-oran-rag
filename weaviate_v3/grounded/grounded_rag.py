@@ -17,6 +17,12 @@ import phoenix as px
 
 from weaviate_v3.block_filters import build_block_filter
 
+DEFAULT_SYSTEM_PROMPT = (
+    "You are a chatbot assistant helping engineers who work on Open Radio Access Network (O-RAN). "
+    "You are a practical helper for O-RAN specifications, architecture, and documentation questions. "
+    "Ground answers in the retrieved context when it is provided."
+)
+
 
 class ChatRAG:
     def __init__(
@@ -29,7 +35,7 @@ class ChatRAG:
             enable_phoenix: bool = True,
             phoenix_endpoint: str = "http://localhost:6006/v1/traces",
             weaviate_grpc_port: int = 50051,
-            ollama_host: str = "172.17.0.6",
+            ollama_host: str = "172.17.0.4",
             default_block_filter: Optional[str] = None):
 
         self.enable_phoenix = enable_phoenix
@@ -339,7 +345,7 @@ class ChatRAG:
                 span.set_attribute("context_length", len(context))
 
             if system_prompt is None:
-                system_prompt = "You are a helpful Open Radio Access Network assistant and expert helping users with their questions grounded in provided context."
+                system_prompt = DEFAULT_SYSTEM_PROMPT
 
             full_prompt = f"{system_prompt}\n\n{history_context}\n\n{context}\n\nUser Question: {user_message}\n\nAnswer:"
             span.set_attribute("prompt_length", len(full_prompt))

@@ -1,0 +1,18 @@
+{
+  "dataset": "dataset/fin_E.json",
+  "phases_run": [
+    1
+  ],
+  "models_tested": [
+    "llama3.2:latest",
+    "qwen2.5:3b",
+    "phi4-mini:3.8b",
+    "gemma3:4b"
+  ],
+  "top_models_phase2": [
+    "qwen2.5:3b",
+    "gemma3:4b"
+  ],
+  "pipeline_bests": [],
+  "phase2_full_grid": {}
+}

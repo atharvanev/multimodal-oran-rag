@@ -1,0 +1,12 @@
+{
+  "dataset": "dataset/fin_E.json",
+  "phases_run": [
+    1
+  ],
+  "models_tested": [
+    "llama3.1:latest"
+  ],
+  "top_models_phase2": [],
+  "pipeline_bests": [],
+  "phase2_full_grid": {}
+}

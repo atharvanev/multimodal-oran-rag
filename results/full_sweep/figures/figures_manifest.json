@@ -1,0 +1,15 @@
+{
+  "dataset": "dataset/fin_E.json",
+  "phases_run": [
+    1,
+    2,
+    3
+  ],
+  "figures": [
+    "01_phase1_model_knockout.png",
+    "02_phase2_k_alpha_heatmaps.png",
+    "03_phase2_accuracy_vs_alpha_lines.png",
+    "04_phase2_strip_by_pipeline.png",
+    "05_phase3_pipeline_bests.png"
+  ]
+}

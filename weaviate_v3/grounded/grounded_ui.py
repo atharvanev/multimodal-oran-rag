@@ -38,6 +38,11 @@ with st.sidebar:
     
     # Model settings
     st.subheader("Model Configuration")
+    ollama_host = st.text_input(
+        "Ollama Host",
+        value="127.0.0.1",
+        help="Where Ollama listens (e.g. 127.0.0.1 if `ollama serve` runs on this machine, or a Docker bridge IP like 172.17.0.4).",
+    )
     ollama_model = st.text_input("Ollama Model", "llama3.2")
     ollama_port = st.number_input("Ollama Port", min_value=1, max_value=65535, value=11434, step=1)
     collection_name = st.text_input("Collection Name", "Grounded_nomic_full")
@@ -65,6 +70,7 @@ with st.sidebar:
                     collection_name=collection_name,
                     weaviate_host=weaviate_host,
                     weaviate_port=int(weaviate_port),
+                    ollama_host=ollama_host,
                     ollama_model=ollama_model,
                     ollama_port=int(ollama_port),
                     default_block_filter=block_filter
