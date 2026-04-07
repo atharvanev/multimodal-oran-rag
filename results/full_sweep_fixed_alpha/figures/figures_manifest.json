@@ -1,0 +1,23 @@
+{
+  "dataset": "dataset/fin_E.json",
+  "phases_run": [
+    1,
+    2,
+    3
+  ],
+  "sweep_dir": "results/full_sweep_fixed_alpha",
+  "figures": [
+    "01_phase1_model_knockout.png",
+    "02_phase2_heatmap_grounded_gemma3-4b.png",
+    "02_phase2_heatmap_grounded_qwen2-5-3b.png",
+    "02_phase2_heatmap_unified_gemma3-4b.png",
+    "02_phase2_heatmap_unified_qwen2-5-3b.png",
+    "03_phase2_lines_grounded_gemma3-4b.png",
+    "03_phase2_lines_grounded_qwen2-5-3b.png",
+    "03_phase2_lines_unified_gemma3-4b.png",
+    "03_phase2_lines_unified_qwen2-5-3b.png",
+    "04_phase2_strip_by_pipeline.png",
+    "05_phase2_grounded_vs_unified_scatter.png",
+    "06_phase3_pipeline_bests.png"
+  ]
+}

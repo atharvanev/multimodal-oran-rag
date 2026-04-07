@@ -1,49 +1,70 @@
 # Multimodal-Oran-RAG
 
-## Project Status
+Research codebase for multimodal Retrieval-Augmented Generation (RAG) on O-RAN technical documents.
 
-🚧 **Work in Progress** — This project is under active development. Many features are planned and not yet fully implemented. Current focus areas include preprocessing O-RAN documents and prototyping multimodal retrieval pipelines.
+## Current Status
 
-## Project Description
+This project is active and has moved beyond prototyping into measurable retrieval evaluation.
 
-**multimodal-oran-rag** is a research **Retrieval-Augmented Generation (RAG) pipeline** designed for **O-RAN (Open Radio Access Network) technical documents**. The pipeline enables extraction, indexing, and retrieval of both **textual and visual content** from complex O-RAN specifications, making these highly technical materials more accessible for researchers, students, and telecom engineers.
+Recent milestone completed:
+- Full 3-phase sweep (model knockout, hyperparameter grid, final pipeline comparison)
+- Reproducible outputs for fixed-alpha experiments in `results/full_sweep_fixed_alpha`
+- Figure generation pipeline and report artifacts for analysis
 
-### Features (Planned & In Progress)
+## What This Project Does
 
-- **Document Preprocessing**: Parses O-RAN technical PDFs into structured text segments and image-based content.  
-- **Multimodal Embeddings**: Supports retrieval across text, diagrams, and visual elements using unified or modality-specific embeddings.  
-- **Retrieval Pipelines**: Implements and compares multiple approaches, including:  
-  - Unified Embedding Retrieval  
-  - Cross-Modality Grounding  
-  - Modality-Specific Retrieval  
-- **Integration with LLMs**: Provides context-aware generation, summarization, and Q&A on O-RAN documentation.  
-- **Evaluation Framework**: Includes methodology for testing **accuracy, latency, and relevance** across retrieval strategies.
+`multimodal-oran-rag` focuses on extracting and retrieving both text and visual information from O-RAN specifications so downstream LLM workflows can answer technical questions with better context.
 
-### Use Cases
+Core capabilities:
+- Parse and segment O-RAN documents
+- Retrieve with grounded and unified multimodal pipelines
+- Evaluate retrieval settings across model, `k`, and alpha (`α`) configurations
+- Generate sweep reports and plots for comparison
 
-- Automated **technical Q&A** for O-RAN standards and 5G documentation.  
-- **Diagram captioning** and visual interpretation for enhanced understanding.  
-- Construction of a **knowledge base** for telecom researchers and engineers.  
-- Improving **document accessibility** for education, training, and research in wireless networks.
+## Latest Sweep Progress
 
-### Roadmap
+From `results/full_sweep_fixed_alpha` on `dataset/fin_E.json`:
 
-| Feature / Component                  | Status             | Notes                                                                 |
-|-------------------------------------|------------------|----------------------------------------------------------------------|
-| PDF/Text Preprocessing               | ✅ Completed       | Document parsing and text segmentation implemented.                  |
-| Diagram/Image Extraction             | ✅ Completed     | Prototype extraction and basic indexing working.                     |
-| Multimodal Embeddings                | 🔄 In Progress    | Unified embedding pipeline prototyped; modality-specific in dev.     |
-| Retrieval Pipelines                  | 🔄 In Progress    | Testing different approaches: unified, cross-modality, modality-specific. |
-| LLM Integration (Q&A & Summarization)| ⏳ Planned        | To integrate contextual generation and summarization on retrieved data. |
-| Evaluation Framework                 | ⏳ Planned        | Accuracy, latency, and relevance testing methodology to be implemented. |
+- **Phase 1 (model knockout, grounded, k=3, α=0.75):**
+  - `qwen2.5:3b` ranked #1 (0.7278), `gemma3:4b` ranked #2 (0.6822)
+- **Phase 2 (k x α sweep):**
+  - Grounded best: `qwen2.5:3b`, `k=7`, `α=0.25`, accuracy `0.8270`
+  - Unified best: `gemma3:4b`, `k=5`, `α=1.00`, accuracy `0.6760`
+- **Phase 3 (final comparison):**
+  - Winner: **grounded** pipeline with `qwen2.5:3b`, `k=7`, `α=0.25`, accuracy `0.8191`
 
-### Installation
+Artifacts:
+- Report: `results/full_sweep_fixed_alpha/sweep_report.md`
+- Summary JSON: `results/full_sweep_fixed_alpha/sweep_summary.json`
+- Figures: `results/full_sweep_fixed_alpha/figures`
 
-This pipeline is implemented in Python. You can set it up in a virtual environment:
+## Roadmap
+
+| Feature / Component | Status | Notes |
+|---|---|---|
+| PDF/Text Preprocessing | ✅ Completed | Parsing and segmentation are in use. |
+| Diagram/Image Extraction | ✅ Completed | Extraction and indexing are in place. |
+| Multimodal Embeddings | ✅ Completed | Grounded and unified strategies are implemented and benchmarked. |
+| Retrieval Pipelines | ✅ Completed | Full sweep completed with comparable pipeline metrics. |
+| Evaluation Framework | ✅ Completed | Multi-phase accuracy benchmarking and plotting are implemented. |
+| LLM Integration (Q&A/Summarization) | ✅ Completed | Contextual Q&A and summarization workflows are integrated. |
+
+## Installation
 
 ```bash
-git clone https://github.com/yourusername/multimodal-oran-rag.git
+git clone <your-repo-url>
 cd multimodal-oran-rag
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
+```
+
+## Running the Sweep Analysis
+
+If you have sweep results in a directory containing `sweep_summary.json`, generate plots with:
+
+```bash
+python scripts/plot_full_sweep.py --sweep-dir results/full_sweep_fixed_alpha
+```
+
+This writes figures to `<sweep-dir>/figures`.

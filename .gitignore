@@ -9,6 +9,7 @@ test
 # Sweep/eval raw result payloads (large JSON); keep sweep_summary.json / sweep_report.md
 results/**/p1_*.json
 results/**/p2_*.json
+results/**/p3_*.json
 
 # Cursor debug logs should not be committed
 .cursor/debug*.log

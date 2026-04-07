@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
 """
-Generate Seaborn/Matplotlib figures from results/full_sweep/sweep_summary.json
+Generate Seaborn/Matplotlib figures from a sweep directory's sweep_summary.json
 and Phase 1 JSON metadata (line-scanned, no full parse of large files).
-Writes PNGs to results/full_sweep/figures/
+Default: results/full_sweep → results/full_sweep/figures/
+
+Example:
+  python scripts/plot_full_sweep.py --sweep-dir results/full_sweep_fixed_alpha
 """
 
 from __future__ import annotations
 
+import argparse
 import json
 import re
 from pathlib import Path
@@ -16,9 +20,7 @@ import pandas as pd
 import seaborn as sns
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-SWEEP_DIR = REPO_ROOT / "results" / "full_sweep"
-SUMMARY_PATH = SWEEP_DIR / "sweep_summary.json"
-OUT_DIR = SWEEP_DIR / "figures"
+DEFAULT_SWEEP_DIR = REPO_ROOT / "results" / "full_sweep"
 
 
 def _scan_p1_metadata(path: Path) -> tuple[str, float] | None:
@@ -38,9 +40,9 @@ def _scan_p1_metadata(path: Path) -> tuple[str, float] | None:
     return m_model.group(1), float(m_acc.group(1))
 
 
-def load_phase1() -> pd.DataFrame:
+def load_phase1(sweep_dir: Path) -> pd.DataFrame:
     rows = []
-    for p in sorted(SWEEP_DIR.glob("p1_*.json")):
+    for p in sorted(sweep_dir.glob("p1_*.json")):
         meta = _scan_p1_metadata(p)
         if meta is None:
             continue
@@ -87,61 +89,51 @@ def fig_phase1_bar(df: pd.DataFrame) -> plt.Figure:
     return fig
 
 
-def fig_phase2_heatmaps(df: pd.DataFrame) -> plt.Figure:
-    pipelines = sorted(df["pipeline"].unique())
-    models = sorted(df["model"].unique())
-    nrows, ncols = len(pipelines), len(models)
-    fig, axes = plt.subplots(nrows, ncols, figsize=(5.2 * ncols, 4.2 * nrows), squeeze=False)
-    vmin, vmax = df["accuracy"].min(), df["accuracy"].max()
-    for i, pipe in enumerate(pipelines):
-        for j, model in enumerate(models):
-            ax = axes[i][j]
-            sub = df[(df["pipeline"] == pipe) & (df["model"] == model)]
-            if sub.empty:
-                ax.axis("off")
-                continue
-            pivot = sub.pivot_table(index="k", columns="alpha", values="accuracy", aggfunc="first")
-            pivot = pivot.sort_index(axis=0, ascending=False).sort_index(axis=1)
-            sns.heatmap(
-                pivot,
-                annot=True,
-                fmt=".3f",
-                cmap="crest",
-                vmin=vmin,
-                vmax=vmax,
-                cbar=i == 0 and j == ncols - 1,
-                ax=ax,
-                linewidths=0.5,
-            )
-            ax.set_title(f"{pipe} — {model}")
-            ax.set_xlabel("α")
-            ax.set_ylabel("k")
-    fig.suptitle("Phase 2 — Hyperparameter grid (accuracy)", y=1.02, fontsize=14)
+def fig_phase2_heatmap_single(df: pd.DataFrame, pipeline: str, model: str, vmin: float, vmax: float) -> plt.Figure:
+    sub = df[(df["pipeline"] == pipeline) & (df["model"] == model)]
+    pivot = sub.pivot_table(index="k", columns="alpha", values="accuracy", aggfunc="first")
+    pivot = pivot.sort_index(axis=0, ascending=False).sort_index(axis=1)
+    fig, ax = plt.subplots(figsize=(6.0, 4.7))
+    sns.heatmap(
+        pivot,
+        annot=True,
+        fmt=".3f",
+        cmap="crest",
+        vmin=vmin,
+        vmax=vmax,
+        cbar=True,
+        ax=ax,
+        linewidths=0.5,
+    )
+    ax.set_title(f"Phase 2 — Hyperparameter grid ({pipeline}, {model})")
+    ax.set_xlabel("α")
+    ax.set_ylabel("k")
     fig.tight_layout()
     return fig
 
 
-def fig_phase2_lines(df: pd.DataFrame) -> plt.Figure:
-    g = sns.relplot(
-        data=df,
+def fig_phase2_lines_single(df: pd.DataFrame, pipeline: str, model: str) -> plt.Figure:
+    sub = df[(df["pipeline"] == pipeline) & (df["model"] == model)].sort_values(["k", "alpha"])
+    fig, ax = plt.subplots(figsize=(6.2, 4.7))
+    sns.lineplot(
+        data=sub,
         x="alpha",
         y="accuracy",
         hue="k",
         style="k",
-        col="pipeline",
-        row="model",
-        kind="line",
         marker="o",
-        height=3.2,
-        aspect=1.15,
         palette="tab10",
         linewidth=2,
-        markersize=7,
+        markersize=8,
+        ax=ax,
     )
-    g.set_axis_labels("α (query blend)", "Accuracy")
-    g.fig.subplots_adjust(top=0.92)
-    g.fig.suptitle("Phase 2 — Accuracy vs α by k (lines)", fontsize=14)
-    return g.fig
+    ax.set_xlabel("α (query blend)")
+    ax.set_ylabel("Accuracy")
+    ax.set_ylim(0, 1.0)
+    ax.set_title(f"Phase 2 — Accuracy vs α by k ({pipeline}, {model})")
+    ax.legend(title="k", bbox_to_anchor=(1.02, 1), loc="upper left")
+    fig.tight_layout()
+    return fig
 
 
 def fig_phase3_compare(summary: dict) -> plt.Figure:
@@ -215,41 +207,72 @@ def fig_pipeline_gap_strip(df2: pd.DataFrame, summary: dict) -> plt.Figure:
     return fig
 
 
-def main() -> None:
-    setup_style()
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
+def run(sweep_dir: Path) -> None:
+    sweep_dir = sweep_dir.resolve()
+    summary_path = sweep_dir / "sweep_summary.json"
+    out_dir = sweep_dir / "figures"
 
-    with SUMMARY_PATH.open(encoding="utf-8") as f:
+    setup_style()
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    with summary_path.open(encoding="utf-8") as f:
         summary = json.load(f)
 
-    df1 = load_phase1()
+    df1 = load_phase1(sweep_dir)
     df2 = load_phase2_long(summary)
 
-    fig_phase1_bar(df1).savefig(OUT_DIR / "01_phase1_model_knockout.png", bbox_inches="tight")
+    for p in out_dir.glob("*.png"):
+        p.unlink()
+
+    fig_phase1_bar(df1).savefig(out_dir / "01_phase1_model_knockout.png", bbox_inches="tight")
     plt.close("all")
 
-    fig_phase2_heatmaps(df2).savefig(OUT_DIR / "02_phase2_k_alpha_heatmaps.png", bbox_inches="tight")
+    pipelines = sorted(df2["pipeline"].unique())
+    models = sorted(df2["model"].unique())
+    vmin, vmax = df2["accuracy"].min(), df2["accuracy"].max()
+    for pipe in pipelines:
+        for model in models:
+            model_slug = model.replace(":", "-").replace(".", "-")
+            heat_name = f"02_phase2_heatmap_{pipe}_{model_slug}.png"
+            line_name = f"03_phase2_lines_{pipe}_{model_slug}.png"
+            fig_phase2_heatmap_single(df2, pipe, model, vmin, vmax).savefig(out_dir / heat_name, bbox_inches="tight")
+            plt.close("all")
+            fig_phase2_lines_single(df2, pipe, model).savefig(out_dir / line_name, bbox_inches="tight")
+            plt.close("all")
+
+    fig_pipeline_gap_strip(df2, summary).savefig(out_dir / "04_phase2_strip_by_pipeline.png", bbox_inches="tight")
     plt.close("all")
 
-    fig_phase2_lines(df2).savefig(OUT_DIR / "03_phase2_accuracy_vs_alpha_lines.png", bbox_inches="tight")
+    fig_grounded_vs_unified(df2).savefig(out_dir / "05_phase2_grounded_vs_unified_scatter.png", bbox_inches="tight")
     plt.close("all")
 
-    fig_pipeline_gap_strip(df2, summary).savefig(OUT_DIR / "04_phase2_strip_by_pipeline.png", bbox_inches="tight")
+    fig_phase3_compare(summary).savefig(out_dir / "06_phase3_pipeline_bests.png", bbox_inches="tight")
     plt.close("all")
 
-    fig_grounded_vs_unified(df2).savefig(OUT_DIR / "05_phase2_grounded_vs_unified_scatter.png", bbox_inches="tight")
-    plt.close("all")
-
-    fig_phase3_compare(summary).savefig(OUT_DIR / "06_phase3_pipeline_bests.png", bbox_inches="tight")
-    plt.close("all")
-
+    try:
+        sweep_rel = str(sweep_dir.relative_to(REPO_ROOT))
+    except ValueError:
+        sweep_rel = str(sweep_dir)
     meta = {
         "dataset": summary.get("dataset"),
         "phases_run": summary.get("phases_run"),
-        "figures": [p.name for p in sorted(OUT_DIR.glob("*.png"))],
+        "sweep_dir": sweep_rel,
+        "figures": [p.name for p in sorted(out_dir.glob("*.png"))],
     }
-    (OUT_DIR / "figures_manifest.json").write_text(json.dumps(meta, indent=2), encoding="utf-8")
-    print(f"Wrote figures to {OUT_DIR}")
+    (out_dir / "figures_manifest.json").write_text(json.dumps(meta, indent=2), encoding="utf-8")
+    print(f"Wrote figures to {out_dir}")
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser(description="Plot sweep_summary.json figures into <sweep-dir>/figures/")
+    ap.add_argument(
+        "--sweep-dir",
+        type=Path,
+        default=DEFAULT_SWEEP_DIR,
+        help=f"Sweep results directory (default: {DEFAULT_SWEEP_DIR})",
+    )
+    args = ap.parse_args()
+    run(args.sweep_dir)
 
 
 if __name__ == "__main__":

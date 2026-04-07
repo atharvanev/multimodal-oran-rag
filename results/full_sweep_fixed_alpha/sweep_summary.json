@@ -1,0 +1,328 @@
+{
+  "dataset": "dataset/fin_E.json",
+  "phases_run": [
+    1,
+    2,
+    3
+  ],
+  "models_tested": [
+    "llama3.2:latest",
+    "qwen2.5:3b",
+    "phi4-mini:3.8b",
+    "gemma3:4b"
+  ],
+  "top_models_phase2": [
+    "qwen2.5:3b",
+    "gemma3:4b"
+  ],
+  "pipeline_bests": [
+    {
+      "pipeline": "grounded",
+      "model": "qwen2.5:3b",
+      "k": 7,
+      "alpha": 0.25,
+      "accuracy": 0.8270412642669008
+    },
+    {
+      "pipeline": "unified",
+      "model": "gemma3:4b",
+      "k": 5,
+      "alpha": 1.0,
+      "accuracy": 0.6760316066725197
+    }
+  ],
+  "phase2_full_grid": {
+    "grounded": [
+      {
+        "model": "qwen2.5:3b",
+        "k": 7,
+        "alpha": 0.25,
+        "accuracy": 0.8270412642669008
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 7,
+        "alpha": 0.0,
+        "accuracy": 0.8121158911325724
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 5,
+        "alpha": 0.25,
+        "accuracy": 0.7998244073748902
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 5,
+        "alpha": 0.0,
+        "accuracy": 0.7945566286215979
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 5,
+        "alpha": 0.25,
+        "accuracy": 0.7822651448639157
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 7,
+        "alpha": 0.25,
+        "accuracy": 0.7787532923617209
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 3,
+        "alpha": 0.25,
+        "accuracy": 0.7769973661106233
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 3,
+        "alpha": 0.0,
+        "accuracy": 0.7769973661106233
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 7,
+        "alpha": 0.0,
+        "accuracy": 0.7708516242317822
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 5,
+        "alpha": 0.0,
+        "accuracy": 0.7647058823529411
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 3,
+        "alpha": 0.25,
+        "accuracy": 0.7506584723441615
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 7,
+        "alpha": 0.75,
+        "accuracy": 0.746268656716418
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 3,
+        "alpha": 0.0,
+        "accuracy": 0.746268656716418
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 5,
+        "alpha": 0.75,
+        "accuracy": 0.7357330992098332
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 3,
+        "alpha": 0.75,
+        "accuracy": 0.7269534679543459
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 5,
+        "alpha": 1.0,
+        "accuracy": 0.7269534679543459
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 3,
+        "alpha": 1.0,
+        "accuracy": 0.7260755048287972
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 7,
+        "alpha": 1.0,
+        "accuracy": 0.7260755048287972
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 7,
+        "alpha": 0.75,
+        "accuracy": 0.7023705004389815
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 3,
+        "alpha": 0.75,
+        "accuracy": 0.6812993854258121
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 7,
+        "alpha": 1.0,
+        "accuracy": 0.6804214223002634
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 5,
+        "alpha": 0.75,
+        "accuracy": 0.675153643546971
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 3,
+        "alpha": 1.0,
+        "accuracy": 0.66900790166813
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 5,
+        "alpha": 1.0,
+        "accuracy": 0.6584723441615452
+      }
+    ],
+    "unified": [
+      {
+        "model": "gemma3:4b",
+        "k": 5,
+        "alpha": 1.0,
+        "accuracy": 0.6760316066725197
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 5,
+        "alpha": 0.75,
+        "accuracy": 0.6733977172958736
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 3,
+        "alpha": 1.0,
+        "accuracy": 0.6725197541703248
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 3,
+        "alpha": 0.75,
+        "accuracy": 0.6707638279192274
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 7,
+        "alpha": 0.75,
+        "accuracy": 0.6663740122914837
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 7,
+        "alpha": 1.0,
+        "accuracy": 0.6619841966637401
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 3,
+        "alpha": 0.0,
+        "accuracy": 0.3915715539947322
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 3,
+        "alpha": 0.25,
+        "accuracy": 0.38893766461808604
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 3,
+        "alpha": 0.75,
+        "accuracy": 0.3617208077260755
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 3,
+        "alpha": 1.0,
+        "accuracy": 0.3582089552238806
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 5,
+        "alpha": 1.0,
+        "accuracy": 0.3485513608428446
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 5,
+        "alpha": 0.75,
+        "accuracy": 0.3485513608428446
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 7,
+        "alpha": 0.25,
+        "accuracy": 0.33274802458296754
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 7,
+        "alpha": 0.0,
+        "accuracy": 0.33099209833187004
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 7,
+        "alpha": 0.0,
+        "accuracy": 0.3283582089552239
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 7,
+        "alpha": 0.25,
+        "accuracy": 0.3222124670763828
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 3,
+        "alpha": 0.25,
+        "accuracy": 0.2712906057945566
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 3,
+        "alpha": 0.0,
+        "accuracy": 0.2712906057945566
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 5,
+        "alpha": 0.0,
+        "accuracy": 0.20456540825285338
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 5,
+        "alpha": 0.25,
+        "accuracy": 0.17471466198419666
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 5,
+        "alpha": 0.0,
+        "accuracy": 0.16505706760316066
+      },
+      {
+        "model": "gemma3:4b",
+        "k": 5,
+        "alpha": 0.25,
+        "accuracy": 0.16242317822651448
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 7,
+        "alpha": 1.0,
+        "accuracy": 0.15100965759438104
+      },
+      {
+        "model": "qwen2.5:3b",
+        "k": 7,
+        "alpha": 0.75,
+        "accuracy": 0.15100965759438104
+      }
+    ]
+  }
+}
