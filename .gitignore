@@ -10,6 +10,7 @@ test
 results/**/p1_*.json
 results/**/p2_*.json
 results/**/p3_*.json
+results/**/no_rag_*.json
 
 # Cursor debug logs should not be committed
 .cursor/debug*.log
