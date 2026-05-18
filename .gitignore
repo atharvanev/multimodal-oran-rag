@@ -7,10 +7,16 @@ Output
 test
 
 # Sweep/eval raw result payloads (large JSON); keep sweep_summary.json / sweep_report.md
+results/**/p0_*.json
 results/**/p1_*.json
 results/**/p2_*.json
 results/**/p3_*.json
 results/**/no_rag_*.json
-
+results/**/norag_*.json
+results/**/grounded_*.json
+results/**/eval_*.json
+*.log
+*logwhich
+*.txt
 # Cursor debug logs should not be committed
 .cursor/debug*.log

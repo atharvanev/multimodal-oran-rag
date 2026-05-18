@@ -2,6 +2,9 @@
 """
 Strategic evaluation sweep.
 
+Phase 0 — Control baseline : all models run with no RAG (LLM-only) at fixed k=0.
+                             Establishes a baseline to measure RAG uplift.
+
 Phase 1 — Model knockout   : all models at fixed k=3, α=0.75, grounded only.
                              Eliminates weak models early before the expensive grid search.
                              Top-N models carry forward (default 2).
@@ -15,7 +18,7 @@ Phase 3 — Pipeline compare : fair fight — each pipeline enters with its own
                              personal-best model + hyperparams from phase 2.
                              Winner is the best overall config across both pipelines.
 
-Total runs: ~53  (5 models × phase1 + top2 × 3k × 4α × 2pipelines + 2 phase3 finals)
+Total runs: ~57  (4 models × phase0 + 4 models × phase1 + top2 × 3k × 4α × 2pipelines + 2 phase3 finals)
 """
 
 import argparse
@@ -40,10 +43,10 @@ MULTI2VEC_HOST = "172.17.0.5"
 MULTI2VEC_PORT = 8080
 
 MODELS = [
-    "llama3.2:latest",
-    "qwen2.5:3b",
-    "phi4-mini:3.8b",
-    "gemma3:4b",
+    "gemma2:27b",
+    "qwen2.5vl:32b",
+    "mistral-nemo:latest",
+    "gemma2:latest",
 ]
 K_VALUES     = [3, 5, 7]
 ALPHA_VALUES = [1.0, 0.75, 0.25, 0.0]
@@ -121,7 +124,7 @@ def _extract_last_json_object(mixed_stdout: str) -> Optional[dict]:
 def run_eval(cfg: RunConfig, args: argparse.Namespace) -> Optional[dict]:
     """Invoke eval_runner.py as a subprocess and return the parsed JSON report."""
     cmd = [
-        sys.executable, str(args.eval_script),
+        args.eval_python, str(args.eval_script),
         "--dataset",      args.dataset,
         "--pipeline",     cfg.pipeline,
         "--model",        cfg.model,
@@ -211,11 +214,29 @@ class PipelineBest:
 @dataclass
 class SweepData:
     """Accumulates full result tables across all phases for report generation."""
+    phase0_results: list[tuple[str, float]] = field(default_factory=list)
     phase1_results: list[tuple[str, float]] = field(default_factory=list)
     top_models: list[str] = field(default_factory=list)
     # pipeline → sorted list of (model, k, alpha, accuracy)
     phase2_results: dict[str, list[tuple[str, int, float, float]]] = field(default_factory=dict)
     phase3_results: list[tuple[str, str, int, float, float]] = field(default_factory=list)
+
+
+def phase0_control_baseline(args: argparse.Namespace) -> list[tuple[str, float]]:
+    print("\n" + "═" * 60)
+    print("PHASE 0 — Control Baseline  (no RAG, LLM-only)")
+    print("═" * 60)
+    results: list[tuple[str, float]] = []
+    for model in args.models:
+        cfg = RunConfig(model=model, k=0, alpha=0.0, pipeline="none", phase="P0")
+        report = run_eval(cfg, args)
+        if report:
+            results.append((model, report["accuracy"]))
+    results.sort(key=lambda x: x[1], reverse=True)
+    print("\n── Phase 0 ranking ──")
+    for rank, (m, acc) in enumerate(results, 1):
+        print(f"  {rank}. {m:30s}  {acc:.3f}")
+    return results
 
 
 def phase2_hyperparam_sweep(
@@ -230,7 +251,7 @@ def phase2_hyperparam_sweep(
     pipeline_bests: list[PipelineBest] = []
     all_pipeline_results: dict[str, list[tuple[str, int, float, float]]] = {}
 
-    for pipeline in PIPELINES:
+    for pipeline in args.pipelines:
         print("\n" + "═" * 60)
         print(f"PHASE 2 — Hyperparam Sweep  (k × α, {pipeline})")
         print("═" * 60)
@@ -299,6 +320,18 @@ def generate_markdown_report(data: SweepData, args: argparse.Namespace) -> str:
     lines.append(f"**Phases run:** {args.phases}  ")
     lines.append("")
 
+    # ── Phase 0 ──────────────────────────────────────────────────────────────
+    lines.append("## Phase 0 — Control Baseline  `(no RAG, LLM-only)`")
+    lines.append("")
+    if data.phase0_results:
+        lines.append("| Rank | Model | Accuracy |")
+        lines.append("|------|-------|----------|")
+        for rank, (model, acc) in enumerate(data.phase0_results, 1):
+            lines.append(f"| {rank} | `{model}` | {acc:.4f} |")
+    else:
+        lines.append("_Phase 0 was not run._")
+    lines.append("")
+
     # ── Phase 1 ──────────────────────────────────────────────────────────────
     lines.append("## Phase 1 — Model Knockout  `(k=3, α=0.75, grounded)`")
     lines.append("")
@@ -357,7 +390,9 @@ def generate_markdown_report(data: SweepData, args: argparse.Namespace) -> str:
 # ── CLI ───────────────────────────────────────────────────────────────────────
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Strategic eval sweep")
-    p.add_argument("--eval-script", default=str(EVAL_SCRIPT))
+    p.add_argument("--eval-script",  default=str(EVAL_SCRIPT))
+    p.add_argument("--eval-python",  default=sys.executable,
+                   help="Python interpreter used to invoke eval.py subprocesses")
     p.add_argument("--dataset",     default=DEFAULT_DS)
     p.add_argument("--limit",       type=int, default=None,
                    help="Cap questions per run (great for quick sanity checks)")
@@ -381,12 +416,14 @@ def parse_args() -> argparse.Namespace:
 
     # override sweep grid if needed
     p.add_argument("--models",       nargs="+", default=MODELS)
+    p.add_argument("--pipelines",    nargs="+", default=PIPELINES,
+                   choices=["grounded", "unified"])
     p.add_argument("--k-values",     nargs="+", type=int,   default=K_VALUES)
     p.add_argument("--alpha-values", nargs="+", type=float, default=ALPHA_VALUES)
 
     # run only specific phases (default: all)
-    p.add_argument("--phases", nargs="+", type=int, choices=[1, 2, 3],
-                   default=[1, 2, 3])
+    p.add_argument("--phases", nargs="+", type=int, choices=[0, 1, 2, 3],
+                   default=[0, 1, 2, 3])
 
     # skip phase 1 by providing pre-chosen top models
     p.add_argument("--top-models", nargs="+", default=None,
@@ -405,6 +442,9 @@ def main() -> None:
     top_models: list[str] = args.top_models or []
     pipeline_bests: list[PipelineBest] = []
     sweep_data = SweepData()
+
+    if 0 in args.phases:
+        sweep_data.phase0_results = phase0_control_baseline(args)
 
     if 1 in args.phases and not args.top_models:
         top_models, p1_results = phase1_model_knockout(args)
@@ -431,6 +471,10 @@ def main() -> None:
             "dataset": args.dataset,
             "phases_run": args.phases,
             "models_tested": args.models,
+            "phase0_control": [
+                {"model": m, "accuracy": acc}
+                for m, acc in sweep_data.phase0_results
+            ],
             "top_models_phase2": top_models,
             "pipeline_bests": [
                 {

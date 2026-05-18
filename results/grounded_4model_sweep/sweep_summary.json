@@ -1,0 +1,122 @@
+{
+  "dataset": "dataset/fin_E.json",
+  "phases_run": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "models_tested": [
+    "gemma2:27b",
+    "qwen2.5vl:32b",
+    "mistral-nemo:latest",
+    "gemma2:latest"
+  ],
+  "phase0_control": [
+    {
+      "model": "qwen2.5vl:32b",
+      "accuracy": 0.8191395961369623
+    },
+    {
+      "model": "gemma2:27b",
+      "accuracy": 0.7980684811237928
+    },
+    {
+      "model": "gemma2:latest",
+      "accuracy": 0.7734855136084284
+    },
+    {
+      "model": "mistral-nemo:latest",
+      "accuracy": 0.7418788410886743
+    }
+  ],
+  "top_models_phase2": [
+    "gemma2:27b",
+    "gemma2:latest"
+  ],
+  "pipeline_bests": [
+    {
+      "pipeline": "grounded",
+      "model": "gemma2:27b",
+      "k": 7,
+      "alpha": 0.25,
+      "accuracy": 0.858647936786655
+    }
+  ],
+  "phase2_full_grid": {
+    "grounded": [
+      {
+        "model": "gemma2:27b",
+        "k": 7,
+        "alpha": 0.25,
+        "accuracy": 0.858647936786655
+      },
+      {
+        "model": "gemma2:27b",
+        "k": 7,
+        "alpha": 0.0,
+        "accuracy": 0.8507462686567164
+      },
+      {
+        "model": "gemma2:27b",
+        "k": 5,
+        "alpha": 0.25,
+        "accuracy": 0.8375768217734855
+      },
+      {
+        "model": "gemma2:27b",
+        "k": 5,
+        "alpha": 0.0,
+        "accuracy": 0.8305531167690957
+      },
+      {
+        "model": "gemma2:27b",
+        "k": 3,
+        "alpha": 0.25,
+        "accuracy": 0.8165057067603161
+      },
+      {
+        "model": "gemma2:27b",
+        "k": 3,
+        "alpha": 0.0,
+        "accuracy": 0.8147497805092186
+      },
+      {
+        "model": "gemma2:27b",
+        "k": 7,
+        "alpha": 0.75,
+        "accuracy": 0.7892888498683055
+      },
+      {
+        "model": "gemma2:27b",
+        "k": 5,
+        "alpha": 0.75,
+        "accuracy": 0.7805092186128183
+      },
+      {
+        "model": "gemma2:27b",
+        "k": 3,
+        "alpha": 0.75,
+        "accuracy": 0.7752414398595259
+      },
+      {
+        "model": "gemma2:27b",
+        "k": 5,
+        "alpha": 1.0,
+        "accuracy": 0.7726075504828798
+      },
+      {
+        "model": "gemma2:27b",
+        "k": 7,
+        "alpha": 1.0,
+        "accuracy": 0.7655838454784899
+      },
+      {
+        "model": "gemma2:27b",
+        "k": 3,
+        "alpha": 1.0,
+        "accuracy": 0.7611940298507462
+      }
+    ]
+  }
+}

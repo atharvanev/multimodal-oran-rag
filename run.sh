@@ -1,2 +1,0 @@
-marker ../pdfs --llm_service=marker.services.ollama.OllamaService --ollama_base_url=http://localhost:11434 --ollama_model=gemma3:4b --output_format=chunks --output_dir=chunks
-#/home/prime/Documents/pdfs/O-RAN.WG7.OMC-HRD-Opt7-2-R003-v04.00.pdf
