@@ -47,7 +47,7 @@ Two competing RAG strategies are benchmarked against [ORAN-Bench-13K](dataset/RE
 
 Four sub-4B models were evaluated on the grounded pipeline at fixed k=3, α=0.75 to select the top two for the full hyperparameter sweep.
 
-![Phase 1 Model Knockout](results/full_sweep_fixed_alpha/figures/01_phase1_model_knockout.png)
+<img src="results/full_sweep_fixed_alpha/figures/01_phase1_model_knockout.png" width="500"/>
 
 | Rank | Model | Accuracy | Carried Forward |
 |---|---|---|---|
@@ -70,55 +70,46 @@ Each pipeline was swept across k ∈ {3, 5, 7} and α ∈ {0.0, 0.25, 0.75, 1.0}
 - `α = 0.75`: mostly BM25, some vector
 - `α = 1.0`: pure BM25 keyword
 
-#### Grounded Pipeline - qwen2.5:3b Heatmap
+#### Grounded Pipeline Heatmaps (qwen2.5:3b and gemma3:4b)
 
-![Grounded qwen2.5:3b heatmap](results/full_sweep_fixed_alpha/figures/02_phase2_heatmap_grounded_qwen2-5-3b.png)
+<table><tr>
+<td><img src="results/full_sweep_fixed_alpha/figures/02_phase2_heatmap_grounded_qwen2-5-3b.png" width="380"/></td>
+<td><img src="results/full_sweep_fixed_alpha/figures/02_phase2_heatmap_grounded_gemma3-4b.png" width="380"/></td>
+</tr></table>
 
-Peak accuracy of **82.7%** at k=7, α=0.25. The sweet spot is a hybrid blend that favors vector search slightly. Pure BM25 (α=1.0) drops to ~72.6%, and more retrieved chunks (k=7) consistently outperform k=3.
+Peak accuracy of **82.7%** at k=7, α=0.25 for qwen2.5:3b. The sweet spot is a hybrid blend that favors vector search slightly. Pure BM25 (α=1.0) drops to ~72.6%, and more retrieved chunks (k=7) consistently outperform k=3.
 
-#### Grounded Pipeline - gemma3:4b Heatmap
+#### Unified Pipeline Heatmaps (gemma3:4b and qwen2.5:3b)
 
-![Grounded gemma3:4b heatmap](results/full_sweep_fixed_alpha/figures/02_phase2_heatmap_grounded_gemma3-4b.png)
+<table><tr>
+<td><img src="results/full_sweep_fixed_alpha/figures/02_phase2_heatmap_unified_gemma3-4b.png" width="380"/></td>
+<td><img src="results/full_sweep_fixed_alpha/figures/02_phase2_heatmap_unified_qwen2-5-3b.png" width="380"/></td>
+</tr></table>
 
-#### Unified Pipeline - gemma3:4b Heatmap
+The unified pipeline with gemma3 peaks at **67.6%** (k=5, α=1.0). Unlike grounded, performance here is nearly flat across α. BM25 performs as well as vector for unified, suggesting the CLIP embeddings do not add meaningful signal for this domain. qwen2.5:3b collapses to 15–39% accuracy in the unified pipeline, making `gemma3:4b` the clear choice for unified retrieval.
 
-![Unified gemma3:4b heatmap](results/full_sweep_fixed_alpha/figures/02_phase2_heatmap_unified_gemma3-4b.png)
+#### Accuracy vs α - Grounded Pipeline
 
-The unified pipeline with gemma3 peaks at **67.6%** (k=5, α=1.0). Unlike grounded, performance here is nearly flat across α. BM25 performs as well as vector for unified, suggesting the CLIP embeddings do not add meaningful signal for this domain.
+<table><tr>
+<td><img src="results/full_sweep_fixed_alpha/figures/03_phase2_lines_grounded_qwen2-5-3b.png" width="380"/></td>
+<td><img src="results/full_sweep_fixed_alpha/figures/03_phase2_lines_grounded_gemma3-4b.png" width="380"/></td>
+</tr></table>
 
-#### Unified Pipeline - qwen2.5:3b Heatmap
+#### Accuracy vs α - Unified Pipeline
 
-![Unified qwen2.5:3b heatmap](results/full_sweep_fixed_alpha/figures/02_phase2_heatmap_unified_qwen2-5-3b.png)
+<table><tr>
+<td><img src="results/full_sweep_fixed_alpha/figures/03_phase2_lines_unified_gemma3-4b.png" width="380"/></td>
+<td><img src="results/full_sweep_fixed_alpha/figures/03_phase2_lines_unified_qwen2-5-3b.png" width="380"/></td>
+</tr></table>
 
-`qwen2.5:3b` in the unified pipeline collapses to 15–39% accuracy. The model struggles to interpret the multimodal context format, making `gemma3:4b` the clear choice for unified retrieval.
+#### All Grid Points by Pipeline and Grounded vs Unified Scatter
 
-#### Accuracy vs α (Grounded - qwen2.5:3b)
+<table><tr>
+<td><img src="results/full_sweep_fixed_alpha/figures/04_phase2_strip_by_pipeline.png" width="380"/></td>
+<td><img src="results/full_sweep_fixed_alpha/figures/05_phase2_grounded_vs_unified_scatter.png" width="380"/></td>
+</tr></table>
 
-![Grounded qwen2.5 lines](results/full_sweep_fixed_alpha/figures/03_phase2_lines_grounded_qwen2-5-3b.png)
-
-#### Accuracy vs α (Grounded - gemma3:4b)
-
-![Grounded gemma3 lines](results/full_sweep_fixed_alpha/figures/03_phase2_lines_grounded_gemma3-4b.png)
-
-#### Accuracy vs α (Unified - gemma3:4b)
-
-![Unified gemma3 lines](results/full_sweep_fixed_alpha/figures/03_phase2_lines_unified_gemma3-4b.png)
-
-#### Accuracy vs α (Unified - qwen2.5:3b)
-
-![Unified qwen2.5 lines](results/full_sweep_fixed_alpha/figures/03_phase2_lines_unified_qwen2-5-3b.png)
-
-#### All Grid Points by Pipeline
-
-![Strip plot by pipeline](results/full_sweep_fixed_alpha/figures/04_phase2_strip_by_pipeline.png)
-
-The strip plot makes the separation stark: every grounded configuration (73–83%) sits well above the unified ceiling (~67% for gemma, ~40% for qwen). The dashed lines mark each pipeline's Phase 3 best.
-
-#### Grounded vs Unified - Matched (k, α) Scatter
-
-![Grounded vs unified scatter](results/full_sweep_fixed_alpha/figures/05_phase2_grounded_vs_unified_scatter.png)
-
-Every point below the y=x line means grounded outperforms unified at the same (k, α). Nearly all points fall well below the diagonal, confirming grounded wins at every comparable setting.
+The strip plot shows every grounded configuration (73–83%) sitting well above the unified ceiling (~67% for gemma, ~40% for qwen). The scatter confirms grounded wins at every comparable (k, α) setting, with nearly all points falling below the y=x diagonal.
 
 ---
 
@@ -126,7 +117,7 @@ Every point below the y=x line means grounded outperforms unified at the same (k
 
 Each pipeline entered Phase 3 with its own Phase 2 best config for a clean head-to-head:
 
-![Phase 3 best per pipeline](results/full_sweep_fixed_alpha/figures/06_phase3_pipeline_bests.png)
+<img src="results/full_sweep_fixed_alpha/figures/06_phase3_pipeline_bests.png" width="500"/>
 
 | Pipeline | Model | k | α | Accuracy |
 |---|---|---|---|---|
